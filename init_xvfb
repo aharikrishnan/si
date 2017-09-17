@@ -1,0 +1,4 @@
+#! /bin/bash
+
+nohup Xvfb :99 &
+export DISPLAY=:99
