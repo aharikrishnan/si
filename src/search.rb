@@ -81,7 +81,7 @@ def cmp url
     puts cmd
     puts `#{cmd}`
     puts "\n----------------------------------\n"
-    _sleep 1
+    _sleep 30
   end
 end
 

@@ -67,6 +67,7 @@ const mongoose = require('mongoose');
   //await page.click('input[type="submit"]');
 
   // Wait for the results to show up
+  //await page.waitForSelector('h3 a');
   var writeToFile = function (name, json) {
     var filePath = path.join(__dirname, '..', "data", name + ".json");
     fs.writeFile(filePath, JSON.stringify(json), function (err) {
@@ -94,11 +95,10 @@ const mongoose = require('mongoose');
   }
 
   //await page.addScriptTag("https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js");
-  //var jq = path.join(__dirname, '..', "src", "jquery.min.js");
-  //await page.injectFile(jq)
+  var jq = path.join(__dirname, '..', "src", "jquery.min.js");
+  await page.injectFile(jq)
     
  await page.waitFor(8000);
- await page.waitForSelector('.feature-list');
 
   const features = await page.evaluate(() => {
     //const anchors = Array.from(document.querySelectorAll('h3 a'));
@@ -115,9 +115,13 @@ const mongoose = require('mongoose');
       };
     }).get();
     var f = {};
+    var features = $('.stnd-sec.collapsible').filter(function () {
+      var n = $(this).find('.stnd-sec-title>.stnd-sec-title-txt').text();
+      console.log(n);
+      return n == 'Features'
+    })
 
-    var showSame = $('.feature-list').closest('.show-same');
-    showSame.each(function () {
+    features.find('.show-same').each(function () {
       var wrap = $(this);
       var fname = $.trim(wrap.find(" > .title > .title-text").text());
       console.log("--->", fname);
@@ -178,10 +182,6 @@ const mongoose = require('mongoose');
   writeToFile(dir+'/tbl.'+fileName, tbl1)
   writeToCSV(dir+'/cmp.'+fileName, tbl1)
 
-  var seconds = 35;
-  //var seconds = 350
-  var waitTill = new Date(new Date().getTime() + seconds * 1000);
-  while(waitTill > new Date()){}
   browser.close();
 
 })();
