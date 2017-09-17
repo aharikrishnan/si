@@ -71,8 +71,8 @@ def cmp url
     cmp_ids = g.join("-")
     cmp_url = "#{url}/compare/#{cmp_ids}/bar"
     # Handle the task to node js
-    cmd = "cd  #{data_path('..')} && CMP_URL='#{cmp_url}' CMP_PAGE='#{index}' node src/compare.js"
-    #puts cmd
+    cmd = "xvfb-run -- cd  #{data_path('..')} && CMP_URL='#{cmp_url}' CMP_PAGE='#{index}' node src/compare.js"
+    puts cmd
     puts `#{cmd}`
     puts "\n----------------------------------\n"
     sleep rand(5)+1
