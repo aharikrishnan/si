@@ -52,7 +52,7 @@ const mongoose = require('mongoose');
   const cmpPage = process.env['CMP_PAGE']
   //"http://project-management.softwareinsider.com/compare/68-82-194-205-313-624-630-633-643-659-694-740-758-766-816-851-852-853/x";
   await page.goto(startURL, {
-   //waitUntil: 'networkidle'
+   waitUntil: 'networkidle'
   });
   // Type our query into the search bar
   //await page.type('puppeteer');
