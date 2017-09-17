@@ -1,0 +1,16 @@
+feature_group	feature	IMPOWER	UniCharts	VEPRO PACS/EMR	Xcite	bestPT	ClinicMind	OfficeMate	Integrated Practice Solutions	Merge Healthcare	HealthPort
+Solutions Available	Electronic Medical Records	1	1	1	1	1	0	1	0	1	0
+Solutions Available	Medical Billing	1	1	0	1	1	0	1	1	1	1
+Solutions Available	Patient Scheduling	0	1	0	1	1	1	1	1	1	0
+Solutions Available	Practice Management	1	1	0	1	1	0	1	1	1	0
+Features	Claim Scrubber	0	0	0	0	1	1	0	0	0	0
+Features	Credit Card Processing	0	0	0	0	1	1	1	0	0	0
+Features	Document Management	1	1	1	1	1	1	0	0	1	0
+Features	E-Prescribing	0	1	0	1	0	1	0	0	0	0
+Features	Electronic Remittance Advice	1	0	0	1	0	0	0	0	0	0
+Features	Insurance Verification	1	1	0	1	1	1	0	1	0	0
+Features	Lab Orders and Results	1	0	0	1	0	0	0	0	1	1
+Features	Online Booking	0	0	0	0	1	0	0	0	0	0
+Features	Patient Portal	0	0	0	1	1	1	1	0	1	0
+Features	Reporting Dashboard	0	0	0	1	0	0	0	0	0	0
+Features	Speech Recognition	0	1	1	0	0	0	0	0	0	0

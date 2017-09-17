@@ -1,0 +1,15 @@
+feature_group	feature	Medicfusion	MyOnlinePractice	ZoomMD EMR	ModuleMD WISE	Mountainside EMR	MTBC Web EHR	EHR 24/7	Orion Health Clinical Documentation	SuperEMR	PBOmd
+Solutions Available	Electronic Medical Records	1	0	1	1	1	1	1	1	1	1
+Solutions Available	Medical Billing	1	0	1	1	1	1	0	0	1	1
+Solutions Available	Patient Scheduling	1	0	1	1	1	1	1	0	1	1
+Solutions Available	Practice Management	0	0	1	1	1	1	1	0	1	1
+Features	API Available	1	0	0	1	0	1	1	1	1	0
+Features	Claim Scrubber	1	0	1	1	0	1	0	1	0	1
+Features	Document Management	1	0	1	1	1	1	1	1	1	1
+Features	E-Prescribing	1	0	1	1	1	1	1	1	1	1
+Features	Electronic Remittance Advice	1	0	0	0	0	0	0	0	0	0
+Features	Insurance Verification	0	0	1	0	0	1	0	0	1	1
+Features	Lab Orders and Results	1	0	1	1	1	1	1	1	1	1
+Features	Online Booking	0	0	0	1	1	1	1	0	0	1
+Features	Patient Portal	1	0	0	1	0	1	0	1	0	1
+Features	Reporting Dashboard	0	0	1	1	0	1	0	0	1	1

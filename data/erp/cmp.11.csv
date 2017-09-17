@@ -1,0 +1,63 @@
+feature_group	feature	MAXFood ERP	Metasite	Axolon	Business	ongoERP	Elliott Business Software	NGC ERP	Apollo ERP	OfficeBooks	Atlantis ERP
+Main Functionality	Accounting	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0
+Main Functionality	Business Intelligence	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0
+Main Functionality	CRM	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0
+Main Functionality	eCommerce	1	1	1	0	1	1	0	1	1	0	1	1	1	0	1	1	0	1	1	0
+Main Functionality	Human Resources	1	0	1	1	1	1	0	0	0	0	1	0	1	1	1	1	0	0	0	0
+Main Functionality	Inventory	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0
+Main Functionality	Maintenance	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0	0	1	0
+Main Functionality	Manufacturing	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0
+Main Functionality	Project Management	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0
+Main Functionality	Sales & Marketing	1	1	0	1	1	1	0	1	0	0	1	1	0	1	1	1	0	1	0	0
+Main Functionality	Supply Chain	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	0
+Accounting Features	Accrual-Based Costing	1	0	0	0	0	0	0	0	0	0
+Accounting Features	Analytic Accounting	1	1	1	0	0	0	1	0	0	0
+Accounting Features	Bank Reconciliation	0	1	1	0	0	1	0	0	0	0
+Accounting Features	Billing & Invoicing	1	1	1	1	1	1	1	1	1	0
+Accounting Features	Budgeting & Forecasting	1	0	0	0	1	1	0	0	0	0
+Accounting Features	Tax Preparation	0	0	0	0	1	0	0	0	0	0
+Business Intelligence Features	Custom Dashboards	0	0	1	0	1	0	0	1	1	0
+Business Intelligence Features	Custom Reports	1	1	1	1	1	1	1	0	1	0
+Business Intelligence Features	Predictive Analytics	0	0	0	1	0	1	0	1	0	0
+Business Intelligence Features	Role-Based Dashboards	0	0	0	0	0	0	1	0	0	0
+CRM Features	Contact Management	0	1	1	1	0	1	0	1	1	0
+CRM Features	Customer Self-Service	0	1	1	1	0	0	0	0	1	0
+CRM Features	Estimating & Quoting	1	0	1	1	1	1	1	1	1	0
+CRM Features	Field Service Management	0	0	0	1	1	0	0	0	0	0
+CRM Features	Help Desk	1	1	0	1	0	0	0	0	1	0
+CRM Features	Knowledge Base	0	0	0	0	0	1	0	0	0	0
+CRM Features	Sales Force Automation	0	0	0	0	1	0	0	1	0	0
+eCommerce Features	Custom Design	1	1	0	0	1	1	0	1	1	0
+eCommerce Features	Custom Pricing	0	1	1	0	0	0	0	1	0	0
+eCommerce Features	Shopping Cart	0	0	0	0	0	1	0	0	0	0
+HR Features	Benefits	1	0	0	0	1	1	0	0	0	0
+HR Features	Employee Self-Service	1	0	1	1	1	0	0	0	0	0
+HR Features	Leave Management	0	0	1	0	0	0	0	0	0	0
+HR Features	Payroll	1	0	1	1	1	1	0	0	0	0
+HR Features	Performance Review	1	0	1	1	1	0	0	0	0	0
+HR Features	Recruiting	1	0	1	1	0	0	0	0	0	0
+HR Features	Time & Attendance	1	0	0	0	1	0	0	0	0	0
+HR Features	Training	1	0	0	0	0	0	0	0	0	0
+Inventory Features	Fleet Management	1	0	0	1	0	1	1	1	0	0
+Inventory Features	Inventory Forecasting	1	0	1	0	1	1	1	1	1	0
+Inventory Features	Multi-Location	1	1	1	0	0	1	1	1	0	0
+Inventory Features	Reorder Triggers	0	0	0	0	0	0	0	1	1	0
+Inventory Features	Tagging	0	0	1	0	1	1	0	1	0	0
+Maintenance Features	Capital Projects	0	1	0	0	0	0	0	0	0	0
+Maintenance Features	Fixed Assets	1	0	1	1	1	0	0	0	1	0
+Manufacturing Features	Change Control	0	0	1	0	0	1	0	1	0	0
+Manufacturing Features	Lean Manufacturing	1	0	0	0	0	0	0	1	0	0
+Manufacturing Features	Quality Management	1	0	0	1	1	0	1	1	1	0
+Project Management Features	Agile	1	0	0	1	1	1	0	1	0	0
+Project Management Features	Gantt Charts	1	0	0	0	0	0	0	1	0	0
+Project Management Features	Issue Tracking	0	1	0	0	0	0	0	0	0	0
+Project Management Features	Resource Management	0	0	1	1	1	0	1	1	1	0
+Sales & Marketing Features	A/B Testing	0	1	0	0	0	0	0	0	0	0
+Sales & Marketing Features	Commissions	0	0	0	0	0	0	0	1	0	0
+Sales & Marketing Features	Email/SMS Marketing	0	0	0	1	1	1	0	1	0	0
+Sales & Marketing Features	Lead Management	1	0	0	1	0	0	0	0	0	0
+Sales & Marketing Features	Marketing Automation	1	0	0	0	0	0	0	1	0	0
+Supply Chain Management Features	Demand Forecasting	1	0	1	0	1	1	1	1	0	0
+Supply Chain Management Features	Inspection of Goods	1	0	0	0	0	0	0	0	0	0
+Supply Chain Management Features	Order to Cash	1	0	1	0	0	1	0	0	1	0
+Supply Chain Management Features	Product Configurator	0	1	0	0	1	1	0	0	0	0

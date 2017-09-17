@@ -1,0 +1,23 @@
+curl 'http://document-management.softwareinsider.com/ajax_search?_len=322&page=0&app_id=872&_sortfld=total_rating_stars&_sortdir=DESC&_tpl=srp&head%5B%5D=_i_1&head%5B%5D=name&head%5B%5D=_GC_review_srp&head%5B%5D=_GC_money_srp&head%5B%5D=_GC_biz_size&head%5B%5D=_urr_avg_rating&head%5B%5D=_GC_money_SRP_content&head%5B%5D=_GC_platform&head%5B%5D=total_rating_stars&head%5B%5D=reviews_count&head%5B%5D=id&head%5B%5D=_encoded_title&head%5B%5D=_avg_rating&head%5B%5D=_num_reviews&head%5B%5D=total_rating_stars&head%5B%5D=reviews_count' \
+-H 'Cookie: D_SID=182.48.252.31:VgrutufMjCjbVY5Tz4Wu4+9PG+rhl1PKswy1IZRGtD8; __gads=ID=7d953af6d3a7428a:T=1505467062:S=ALNI_MZ4N4-s0HN2k141cMH5J4elu60oBw; ftb_ip_information=countryCode%3DIN%26countryName%3DIndia%26latitude%3D20%26longitude%3D77%26postCode%3D431743; __ats=1505562038219; _giq_lv=1505560238221; _test_cookie=1; _gqpv=21; __afct=on; _gat=1; _ga=GA1.2.1972482535.1505467058; _gid=GA1.2.1301769673.1505562039; _gat_s=1; _ftbuptc=aGx9OIdTX1Vxw5f4QjZ9qUc7E1Zfp6qG; _ftbuptcs=oVGAIhmUrXDDi9suYAhPTSJGvN61GCHV; D_IID=7A16E7DE-470A-34AC-A683-2676ABB48A14; D_UID=2A77055A-A216-30AB-925D-85768743F982; D_ZID=FB16E4A3-24E6-3715-B124-A45C19EC85A4; D_ZUID=269EAB7F-BB7A-3CD6-A735-383FF8BF2AB2; D_HID=65DE894B-63F7-3E78-9F50-9D3BC45DEBB8; __ybotb=293b; __ybotu=j7lo7t3f8siycj7j7p; __ybotv=1505562040046; __ybots=j7n8rkz3pevee5hcxp.0.j7n8rkz2gk3zm4pstv.1; OX_sd=1; _uetsid=_uet64c88645; __ybotc=http%3A//ads-adseast-vpc.yldbt.com/m/; __ybotn=1; __uis=734a5718-d43c-5916-ac8f-3792218982d8; __uiv=1; OX_plg=pm' \
+-H 'Accept-Encoding: gzip, deflate' \
+-H 'Accept-Language: en-US,en;q=0.8' \
+-H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36' \
+-H 'Accept: application/json, text/javascript, */*; q=0.01' \
+-H 'Referer: http://document-management.softwareinsider.com/' \
+-H 'X-Requested-With: XMLHttpRequest' \
+-H 'If-None-Match: W/"7720ade1e88d69968d3972a8a4ac0d64-p33333"' \
+-H 'Connection: keep-alive' \
+-H 'X-Distil-Ajax: vfuywyqqbdbdatfactcezcbddrbztxxa' --compressed > data/search.out
+
+
+
+curl 'http://project-management.softwareinsider.com/ajax_compare?type=get_sponsored_listing&lids%5B%5D=68&lids%5B%5D=82&lids%5B%5D=194&lids%5B%5D=205&lids%5B%5D=313&lids%5B%5D=624&lids%5B%5D=630&lids%5B%5D=633&lids%5B%5D=643&lids%5B%5D=659' \
+ -H 'Cookie: __gads=ID=7d953af6d3a7428a:T=1505467062:S=ALNI_MZ4N4-s0HN2k141cMH5J4elu60oBw; D_SID=182.48.252.31:VgrutufMjCjbVY5Tz4Wu4+9PG+rhl1PKswy1IZRGtD8; ftb_ip_information=countryCode%3DIN%26countryName%3DIndia%26latitude%3D20%26longitude%3D77%26postCode%3D431743; __ybotu=j7loalbwy83e7ph7uk; __ybotv=1505467852307; OX_plg=pm; __uis=734a5718-d43c-5916-ac8f-3792218982d8; D_IID=7A16E7DE-470A-34AC-A683-2676ABB48A14; D_UID=2A77055A-A216-30AB-925D-85768743F982; D_ZID=FB16E4A3-24E6-3715-B124-A45C19EC85A4; D_ZUID=269EAB7F-BB7A-3CD6-A735-383FF8BF2AB2; D_HID=65DE894B-63F7-3E78-9F50-9D3BC45DEBB8; _ftbuptc=aGx9OIdTX1Vxw5f4QjZ9qUc7E1Zfp6qG; _ftbuptcs=oVGAIhmUrXDDi9suYAhPTSJGvN61GCHV; _uetsid=_uet29f10581; _gat=1; _ga=GA1.2.1972482535.1505467058; _gid=GA1.2.1301769673.1505562039; _gat_c=1; __ats=1505568454216; _giq_lv=1505566654219; _test_cookie=1; _gqpv=24' \
+ -H 'Accept-Encoding: gzip, deflate' \
+ -H 'Accept-Language: en-US,en;q=0.8' \
+ -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36' \
+ -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+ -H 'Referer: http://project-management.softwareinsider.com/compare/68-82-194-205-313-624-630-633-643-659-694-740-758-766-816-851-852-853/Wrike-vs-Smartsheet-vs-OpenAir-vs-Vorex-PSA-vs-Trac-vs-Artologik-vs-Beyond-Software-vs-VeoProject-vs-Can-Do-vs-Dovico-vs-Jumptree-Project-vs-Visual-Planning-vs-IProMonitor-vs-Topicscape-vs-WorkZone-vs-Deltek-Maconomy-vs-Deltek-trafficLIVE-vs-DocMinder' \
+ -H 'X-Requested-With: XMLHttpRequest' \
+ -H 'Connection: keep-alive' --compressed

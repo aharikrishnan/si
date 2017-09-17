@@ -1,0 +1,60 @@
+feature_group	feature	AceiconERP	BusinessMan	CGram Software	E2 Shop System	IBS	Job Trakker	Magstar	Mamut One Office	Minotaur	OASIS
+Main Functionality	Accounting	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
+Main Functionality	Business Intelligence	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
+Main Functionality	CRM	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1
+Main Functionality	eCommerce	0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	0
+Main Functionality	Human Resources	0	1	1	0	0	0	1	1	1	1	0	1	1	0	0	0	1	1	1	1
+Main Functionality	Maintenance	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	0	0	0	1	1
+Main Functionality	Manufacturing	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1
+Main Functionality	Sales & Marketing	0	1	1	0	0	0	0	1	1	0	0	1	1	0	0	0	0	1	1	0
+Main Functionality	Supply Chain	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1
+Main Functionality	Inventory	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Main Functionality	Project Management	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Accounting Features	Accrual-Based Costing	0	1	0	0	1	1	0	0	0	1
+Accounting Features	Analytic Accounting	0	0	1	0	1	1	0	0	0	1
+Accounting Features	Bank Reconciliation	0	1	1	1	0	0	0	0	1	1
+Accounting Features	Billing & Invoicing	0	0	1	0	1	0	1	1	1	1
+Accounting Features	Budgeting & Forecasting	0	1	1	1	1	1	1	1	1	1
+Accounting Features	Tax Preparation	0	1	0	0	1	0	0	1	0	1
+Business Intelligence Features	Custom Dashboards	0	1	1	0	0	1	1	1	1	0
+Business Intelligence Features	Custom Reports	0	1	1	0	0	1	1	1	1	1
+Business Intelligence Features	Predictive Analytics	0	1	1	1	1	1	1	0	1	0
+Business Intelligence Features	Role-Based Dashboards	0	1	0	0	0	0	1	0	0	1
+CRM Features	Call Center Support	0	0	0	0	0	0	0	0	0	1
+CRM Features	Contact Management	0	0	0	0	0	0	0	1	0	1
+CRM Features	Customer Self-Service	0	0	0	0	1	0	0	0	0	0
+CRM Features	Estimating & Quoting	0	1	1	1	0	1	1	1	1	0
+CRM Features	Field Service Management	0	0	1	1	1	1	1	0	0	0
+CRM Features	Help Desk	0	1	0	0	0	0	0	0	0	1
+CRM Features	Knowledge Base	0	0	0	0	1	0	0	0	0	0
+CRM Features	Sales Force Automation	0	0	1	0	1	1	1	1	0	0
+eCommerce Features	Custom Design	0	1	1	1	1	1	1	1	1	0
+eCommerce Features	Custom Pricing	0	0	1	0	1	0	1	0	1	0
+eCommerce Features	Shopping Cart	0	1	0	1	1	0	1	1	0	0
+HR Features	Benefits	0	1	0	0	0	0	0	0	0	0
+HR Features	Payroll	0	0	1	0	0	0	1	1	1	1
+HR Features	Performance Review	0	0	0	0	0	0	0	1	0	0
+HR Features	Time & Attendance	0	1	1	0	0	0	0	1	0	1
+HR Features	Training	0	0	0	0	0	0	1	0	0	0
+Inventory Features	Fleet Management	1	0	1	1	1	0	1	0	1	1
+Inventory Features	Inventory Forecasting	0	1	1	1	1	1	1	1	1	0
+Inventory Features	Multi-Location	1	0	1	0	1	0	1	0	1	0
+Inventory Features	Reorder Triggers	0	0	1	0	0	0	1	0	0	0
+Inventory Features	Tagging	0	1	1	1	0	1	1	1	1	0
+Maintenance Features	Capital Projects	0	0	0	0	1	0	0	0	0	0
+Maintenance Features	Energy Management	1	0	1	0	0	0	0	0	0	0
+Maintenance Features	Fixed Assets	0	1	1	1	1	0	0	0	1	1
+Manufacturing Features	Change Control	0	1	1	0	1	0	1	0	0	1
+Manufacturing Features	Lean Manufacturing	0	1	0	0	0	0	0	1	1	0
+Manufacturing Features	Quality Management	0	1	1	1	1	0	1	0	1	0
+Project Management Features	Agile	0	0	0	1	0	1	1	1	1	0
+Project Management Features	Gantt Charts	0	1	0	0	0	0	0	0	0	0
+Project Management Features	Issue Tracking	1	0	0	0	0	0	0	0	0	0
+Project Management Features	Resource Management	0	1	1	1	1	1	1	0	1	1
+Sales & Marketing Features	Email/SMS Marketing	0	1	0	0	0	0	0	1	1	0
+Sales & Marketing Features	Marketing Automation	0	0	1	0	0	0	0	0	0	1
+Supply Chain Management Features	Demand Forecasting	0	1	1	1	1	0	1	1	1	1
+Supply Chain Management Features	Inspection of Goods	0	0	0	0	1	0	0	0	1	0
+Supply Chain Management Features	Order to Cash	1	0	0	1	1	1	0	1	1	1
+Supply Chain Management Features	Product Configurator	0	0	0	0	0	0	1	0	0	0
+Supply Chain Management Features	Supplier Self-Service	0	0	0	0	0	1	1	0	0	0

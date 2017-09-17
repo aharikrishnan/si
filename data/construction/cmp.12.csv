@@ -1,0 +1,49 @@
+feature_group	feature	Carlson Construction	Corecon	GRS Tech WinTRF Time & Material Billing	IBSWIN	My Project Estimator	Newforma Project Analyzer	Trimble AllTrak	Trimble AutoBid Mechanical	JOBTRACKER	Owner InSite
+Functionality	Project Management	0	1	1	1	1	1	1	1	1	1
+Functionality	Estimating	1	1	0	1	1	1	0	1	1	0
+Functionality	Accounting	0	1	1	1	0	1	1	1	0	1
+Project Management Features	Bidding	0	1	0	1	0	0	0	1	1	0
+Project Management Features	Change Orders	0	1	1	1	0	1	0	1	0	1
+Project Management Features	Contract Management	0	1	0	1	0	1	1	1	0	1
+Project Management Features	Cost Management	0	1	1	1	1	1	1	1	0	0
+Project Management Features	Daily Log	0	1	0	0	0	1	1	0	0	0
+Project Management Features	Document Management	0	1	0	1	0	1	1	1	1	1
+Project Management Features	Equipment Management	0	1	0	0	0	1	1	0	0	0
+Project Management Features	Procurement	0	1	0	1	0	1	1	1	0	0
+Project Management Features	Punch List	0	1	0	0	0	1	1	1	0	1
+Project Management Features	RFIs/Submittals	0	1	0	0	0	0	0	0	0	1
+Project Management Features	Scheduling	0	1	1	1	0	1	1	1	1	1
+Project Management Features	Timecard	0	1	0	0	0	0	0	0	0	0
+Estimating Features	"What-if" Analysis	0	0	0	0	0	0	0	1	0	0
+Estimating Features	3D Takeoff	1	0	0	0	0	0	0	1	0	0
+Estimating Features	Bid Comparison	0	1	0	1	0	0	0	1	1	0
+Estimating Features	BIM Integration	0	0	0	0	0	0	0	1	0	0
+Estimating Features	Conceptual Estimates	0	1	0	1	1	0	0	0	0	1
+Estimating Features	Cost Database	1	1	0	1	1	1	1	1	0	1
+Estimating Features	Digitizer Integration	1	0	0	0	0	0	0	1	0	0
+Estimating Features	Excel/PDF File Import	1	0	0	0	0	1	0	1	1	1
+Estimating Features	Item List	1	1	0	1	1	1	0	1	1	1
+Estimating Features	On-Screen Takeoff	1	1	0	0	1	0	0	1	0	0
+Estimating Features	Proposal Generator	0	1	0	1	0	1	0	0	0	0
+Accounting Features	Accounts Payable	0	1	0	0	0	0	0	0	0	0
+Accounting Features	Accounts Receivable	0	1	0	0	0	0	0	0	0	0
+Accounting Features	Fixed Assets	0	0	0	0	0	0	1	0	0	0
+Accounting Features	Inventory Management	0	1	0	0	0	0	1	0	0	0
+Accounting Features	Job Costing	0	1	1	1	0	0	1	1	0	0
+Accounting Features	Materials Management	0	1	1	0	0	0	1	1	0	0
+Accounting Features	Payroll Processing	0	0	0	1	0	0	1	0	0	0
+Accounting Features	Purchase Order	0	1	0	1	0	1	0	1	0	1
+Accounting Features	Time & Materials Billing	0	1	1	1	0	1	1	1	0	0
+Service Management Features	Dispatch	0	0	1	0	0	0	0	0	0	0
+Service Management Features	Inventory Management	0	0	0	0	0	1	1	0	0	0
+Service Management Features	Service Contracts	0	1	0	1	0	1	1	0	1	0
+Service Management Features	Service Quotes	0	0	0	0	0	0	0	0	1	1
+Service Management Features	Work Orders	0	1	1	1	0	1	0	0	1	0
+Integration	API for Custom Integrations	0	0	0	0	0	0	1	0	0	0
+Integration	Automatic Field Mapping	1	0	0	1	0	1	0	1	0	0
+Integration	Bi-directional Sync	0	1	0	1	0	0	0	0	0	0
+Integration	Unlimited Custom Objects	0	0	0	0	1	0	0	0	0	0
+Reporting	Custom Dashboards	0	1	0	0	0	0	0	0	0	1
+Reporting	Custom Reports	1	1	0	1	0	1	0	1	1	0
+Reporting	Exportable Reports	0	1	0	0	0	0	0	0	1	0
+Reporting	User Actions	0	1	0	0	0	0	0	0	0	0

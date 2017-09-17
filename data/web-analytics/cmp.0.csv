@@ -1,0 +1,17 @@
+feature_group	feature	Google Analytics	Mint	Piwik	StatCounter.com	Adobe Analytics	Flurry Analytics	comScore Analytics	Leftronic	Yahoo Web Analytics	TraceMyIP
+Track Geo Stats	City	1	0	1	1	1	0	1	0	0	1
+Track Geo Stats	Country	1	0	1	1	1	0	1	1	1	1
+Track Geo Stats	ISP	0	1	1	1	1	0	0	0	0	1
+Track Geo Stats	None	0	1	0	0	0	1	0	0	0	0
+Track Geo Stats	Organization Name	0	0	1	0	1	0	0	0	0	1
+Track Geo Stats	State	1	0	1	1	1	0	1	0	0	1
+Track Traffic Sources	Direct	1	1	1	1	1	0	1	0	0	1
+Track Traffic Sources	Referring	1	1	1	1	1	1	1	1	0	1
+Track Traffic Sources	Search Engine	1	1	1	1	1	1	1	0	1	1
+Track Visitors	Returning Visitors	1	1	1	1	1	0	0	0	0	1
+Track Visitors	Time on Site	1	0	1	0	1	1	0	0	1	1
+Track Visitors	Unique Visitors	1	1	1	1	1	0	1	1	0	1
+Track Visitors	Pageviews	1	1	1	1	1	1	1	1	1	1
+Mobile Tracking	Mobile Devices	1	0	1	0	1	1	1	1	0	1
+Mobile Tracking	Mobile Operating System	1	0	1	0	1	1	1	1	0	1
+Mobile Tracking	None	0	1	0	1	0	0	0	0	1	0

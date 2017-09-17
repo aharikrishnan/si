@@ -1,0 +1,1030 @@
+Track Traffic Sources	Referring	Google Analytics	1
+Track Traffic Sources	Search Engine	Google Analytics	1
+Track Traffic Sources	Direct	Google Analytics	1
+Track Traffic Sources	Referring	Mint	1
+Track Traffic Sources	Search Engine	Mint	1
+Track Traffic Sources	Direct	Mint	1
+Track Traffic Sources	Referring	Piwik	1
+Track Traffic Sources	Search Engine	Piwik	1
+Track Traffic Sources	Direct	Piwik	1
+Track Traffic Sources	Referring	StatCounter.com	1
+Track Traffic Sources	Search Engine	StatCounter.com	1
+Track Traffic Sources	Direct	StatCounter.com	1
+Track Traffic Sources	Referring	Adobe Analytics	1
+Track Traffic Sources	Search Engine	Adobe Analytics	1
+Track Traffic Sources	Direct	Adobe Analytics	1
+Track Traffic Sources	Referring	Flurry Analytics	1
+Track Traffic Sources	Search Engine	Flurry Analytics	1
+Track Traffic Sources	Direct	Flurry Analytics	0
+Track Traffic Sources	Referring	comScore Analytics	1
+Track Traffic Sources	Search Engine	comScore Analytics	1
+Track Traffic Sources	Direct	comScore Analytics	1
+Track Traffic Sources	Referring	Leftronic	1
+Track Traffic Sources	Search Engine	Leftronic	0
+Track Traffic Sources	Direct	Leftronic	0
+Track Traffic Sources	Referring	Yahoo Web Analytics	0
+Track Traffic Sources	Search Engine	Yahoo Web Analytics	1
+Track Traffic Sources	Direct	Yahoo Web Analytics	0
+Track Traffic Sources	Referring	TraceMyIP	1
+Track Traffic Sources	Search Engine	TraceMyIP	1
+Track Traffic Sources	Direct	TraceMyIP	1
+Mobile Tracking	Mobile Operating System	Google Analytics	1
+Mobile Tracking	Mobile Devices	Google Analytics	1
+Mobile Tracking	None	Google Analytics	0
+Mobile Tracking	Mobile Operating System	Mint	0
+Mobile Tracking	Mobile Devices	Mint	0
+Mobile Tracking	None	Mint	1
+Mobile Tracking	Mobile Operating System	Piwik	1
+Mobile Tracking	Mobile Devices	Piwik	1
+Mobile Tracking	None	Piwik	0
+Mobile Tracking	Mobile Operating System	StatCounter.com	0
+Mobile Tracking	Mobile Devices	StatCounter.com	0
+Mobile Tracking	None	StatCounter.com	1
+Mobile Tracking	Mobile Operating System	Adobe Analytics	1
+Mobile Tracking	Mobile Devices	Adobe Analytics	1
+Mobile Tracking	None	Adobe Analytics	0
+Mobile Tracking	Mobile Operating System	Flurry Analytics	1
+Mobile Tracking	Mobile Devices	Flurry Analytics	1
+Mobile Tracking	None	Flurry Analytics	0
+Mobile Tracking	Mobile Operating System	comScore Analytics	1
+Mobile Tracking	Mobile Devices	comScore Analytics	1
+Mobile Tracking	None	comScore Analytics	0
+Mobile Tracking	Mobile Operating System	Leftronic	1
+Mobile Tracking	Mobile Devices	Leftronic	1
+Mobile Tracking	None	Leftronic	0
+Mobile Tracking	Mobile Operating System	Yahoo Web Analytics	0
+Mobile Tracking	Mobile Devices	Yahoo Web Analytics	0
+Mobile Tracking	None	Yahoo Web Analytics	1
+Mobile Tracking	Mobile Operating System	TraceMyIP	1
+Mobile Tracking	Mobile Devices	TraceMyIP	1
+Mobile Tracking	None	TraceMyIP	0
+Track Visitors	Returning Visitors	Google Analytics	1
+Track Visitors	Unique Visitors	Google Analytics	1
+Track Visitors	Pageviews	Google Analytics	1
+Track Visitors	Time on Site	Google Analytics	1
+Track Visitors	Returning Visitors	Mint	1
+Track Visitors	Unique Visitors	Mint	1
+Track Visitors	Pageviews	Mint	1
+Track Visitors	Time on Site	Mint	0
+Track Visitors	Returning Visitors	Piwik	1
+Track Visitors	Unique Visitors	Piwik	1
+Track Visitors	Pageviews	Piwik	1
+Track Visitors	Time on Site	Piwik	1
+Track Visitors	Returning Visitors	StatCounter.com	1
+Track Visitors	Unique Visitors	StatCounter.com	1
+Track Visitors	Pageviews	StatCounter.com	1
+Track Visitors	Time on Site	StatCounter.com	0
+Track Visitors	Returning Visitors	Adobe Analytics	1
+Track Visitors	Unique Visitors	Adobe Analytics	1
+Track Visitors	Pageviews	Adobe Analytics	1
+Track Visitors	Time on Site	Adobe Analytics	1
+Track Visitors	Returning Visitors	Flurry Analytics	0
+Track Visitors	Unique Visitors	Flurry Analytics	0
+Track Visitors	Pageviews	Flurry Analytics	1
+Track Visitors	Time on Site	Flurry Analytics	1
+Track Visitors	Returning Visitors	comScore Analytics	0
+Track Visitors	Unique Visitors	comScore Analytics	1
+Track Visitors	Pageviews	comScore Analytics	1
+Track Visitors	Time on Site	comScore Analytics	0
+Track Visitors	Returning Visitors	Leftronic	0
+Track Visitors	Unique Visitors	Leftronic	1
+Track Visitors	Pageviews	Leftronic	1
+Track Visitors	Time on Site	Leftronic	0
+Track Visitors	Returning Visitors	Yahoo Web Analytics	0
+Track Visitors	Unique Visitors	Yahoo Web Analytics	0
+Track Visitors	Pageviews	Yahoo Web Analytics	1
+Track Visitors	Time on Site	Yahoo Web Analytics	1
+Track Visitors	Returning Visitors	TraceMyIP	1
+Track Visitors	Unique Visitors	TraceMyIP	1
+Track Visitors	Pageviews	TraceMyIP	1
+Track Visitors	Time on Site	TraceMyIP	1
+Track Geo Stats	Organization Name	Google Analytics	0
+Track Geo Stats	City	Google Analytics	1
+Track Geo Stats	State	Google Analytics	1
+Track Geo Stats	None	Google Analytics	0
+Track Geo Stats	ISP	Google Analytics	0
+Track Geo Stats	Country	Google Analytics	1
+Track Geo Stats	Organization Name	Mint	0
+Track Geo Stats	City	Mint	0
+Track Geo Stats	State	Mint	0
+Track Geo Stats	None	Mint	1
+Track Geo Stats	ISP	Mint	1
+Track Geo Stats	Country	Mint	0
+Track Geo Stats	Organization Name	Piwik	1
+Track Geo Stats	City	Piwik	1
+Track Geo Stats	State	Piwik	1
+Track Geo Stats	None	Piwik	0
+Track Geo Stats	ISP	Piwik	1
+Track Geo Stats	Country	Piwik	1
+Track Geo Stats	Organization Name	StatCounter.com	0
+Track Geo Stats	City	StatCounter.com	1
+Track Geo Stats	State	StatCounter.com	1
+Track Geo Stats	None	StatCounter.com	0
+Track Geo Stats	ISP	StatCounter.com	1
+Track Geo Stats	Country	StatCounter.com	1
+Track Geo Stats	Organization Name	Adobe Analytics	1
+Track Geo Stats	City	Adobe Analytics	1
+Track Geo Stats	State	Adobe Analytics	1
+Track Geo Stats	None	Adobe Analytics	0
+Track Geo Stats	ISP	Adobe Analytics	1
+Track Geo Stats	Country	Adobe Analytics	1
+Track Geo Stats	Organization Name	Flurry Analytics	0
+Track Geo Stats	City	Flurry Analytics	0
+Track Geo Stats	State	Flurry Analytics	0
+Track Geo Stats	None	Flurry Analytics	1
+Track Geo Stats	ISP	Flurry Analytics	0
+Track Geo Stats	Country	Flurry Analytics	0
+Track Geo Stats	Organization Name	comScore Analytics	0
+Track Geo Stats	City	comScore Analytics	1
+Track Geo Stats	State	comScore Analytics	1
+Track Geo Stats	None	comScore Analytics	0
+Track Geo Stats	ISP	comScore Analytics	0
+Track Geo Stats	Country	comScore Analytics	1
+Track Geo Stats	Organization Name	Leftronic	0
+Track Geo Stats	City	Leftronic	0
+Track Geo Stats	State	Leftronic	0
+Track Geo Stats	None	Leftronic	0
+Track Geo Stats	ISP	Leftronic	0
+Track Geo Stats	Country	Leftronic	1
+Track Geo Stats	Organization Name	Yahoo Web Analytics	0
+Track Geo Stats	City	Yahoo Web Analytics	0
+Track Geo Stats	State	Yahoo Web Analytics	0
+Track Geo Stats	None	Yahoo Web Analytics	0
+Track Geo Stats	ISP	Yahoo Web Analytics	0
+Track Geo Stats	Country	Yahoo Web Analytics	1
+Track Geo Stats	Organization Name	TraceMyIP	1
+Track Geo Stats	City	TraceMyIP	1
+Track Geo Stats	State	TraceMyIP	1
+Track Geo Stats	None	TraceMyIP	0
+Track Geo Stats	ISP	TraceMyIP	1
+Track Geo Stats	Country	TraceMyIP	1
+Track Traffic Sources	Referring	ClickTale Core	1
+Track Traffic Sources	Search Engine	ClickTale Core	1
+Track Traffic Sources	Direct	ClickTale Core	1
+Track Traffic Sources	Referring	Deep Log Analyzer	1
+Track Traffic Sources	Search Engine	Deep Log Analyzer	1
+Track Traffic Sources	Direct	Deep Log Analyzer	1
+Track Traffic Sources	Referring	Open Web Analytics	1
+Track Traffic Sources	Search Engine	Open Web Analytics	1
+Track Traffic Sources	Direct	Open Web Analytics	1
+Track Traffic Sources	Referring	VisiStat	1
+Track Traffic Sources	Search Engine	VisiStat	1
+Track Traffic Sources	Direct	VisiStat	1
+Track Traffic Sources	Referring	BlueKai Audience Analytics Suite	1
+Track Traffic Sources	Search Engine	BlueKai Audience Analytics Suite	1
+Track Traffic Sources	Direct	BlueKai Audience Analytics Suite	1
+Track Traffic Sources	Referring	LeadLander	0
+Track Traffic Sources	Search Engine	LeadLander	1
+Track Traffic Sources	Direct	LeadLander	0
+Track Traffic Sources	Referring	Mixpanel	1
+Track Traffic Sources	Search Engine	Mixpanel	1
+Track Traffic Sources	Direct	Mixpanel	0
+Track Traffic Sources	Referring	Roambi	1
+Track Traffic Sources	Search Engine	Roambi	1
+Track Traffic Sources	Direct	Roambi	0
+Track Traffic Sources	Referring	SmartMPM	1
+Track Traffic Sources	Search Engine	SmartMPM	1
+Track Traffic Sources	Direct	SmartMPM	0
+Track Traffic Sources	Referring	Geckoboard	1
+Track Traffic Sources	Search Engine	Geckoboard	1
+Track Traffic Sources	Direct	Geckoboard	1
+Mobile Tracking	Mobile Operating System	ClickTale Core	0
+Mobile Tracking	Mobile Devices	ClickTale Core	1
+Mobile Tracking	None	ClickTale Core	0
+Mobile Tracking	Mobile Operating System	Deep Log Analyzer	0
+Mobile Tracking	Mobile Devices	Deep Log Analyzer	0
+Mobile Tracking	None	Deep Log Analyzer	1
+Mobile Tracking	Mobile Operating System	Open Web Analytics	0
+Mobile Tracking	Mobile Devices	Open Web Analytics	0
+Mobile Tracking	None	Open Web Analytics	1
+Mobile Tracking	Mobile Operating System	VisiStat	0
+Mobile Tracking	Mobile Devices	VisiStat	1
+Mobile Tracking	None	VisiStat	0
+Mobile Tracking	Mobile Operating System	BlueKai Audience Analytics Suite	0
+Mobile Tracking	Mobile Devices	BlueKai Audience Analytics Suite	0
+Mobile Tracking	None	BlueKai Audience Analytics Suite	1
+Mobile Tracking	Mobile Operating System	LeadLander	0
+Mobile Tracking	Mobile Devices	LeadLander	0
+Mobile Tracking	None	LeadLander	1
+Mobile Tracking	Mobile Operating System	Mixpanel	0
+Mobile Tracking	Mobile Devices	Mixpanel	1
+Mobile Tracking	None	Mixpanel	0
+Mobile Tracking	Mobile Operating System	Roambi	1
+Mobile Tracking	Mobile Devices	Roambi	1
+Mobile Tracking	None	Roambi	0
+Mobile Tracking	Mobile Operating System	SmartMPM	0
+Mobile Tracking	Mobile Devices	SmartMPM	0
+Mobile Tracking	None	SmartMPM	0
+Mobile Tracking	Mobile Operating System	Geckoboard	0
+Mobile Tracking	Mobile Devices	Geckoboard	1
+Mobile Tracking	None	Geckoboard	0
+Track Visitors	Returning Visitors	ClickTale Core	1
+Track Visitors	Unique Visitors	ClickTale Core	1
+Track Visitors	Time on Site	ClickTale Core	1
+Track Visitors	Pageviews	ClickTale Core	1
+Track Visitors	Returning Visitors	Deep Log Analyzer	1
+Track Visitors	Unique Visitors	Deep Log Analyzer	1
+Track Visitors	Time on Site	Deep Log Analyzer	1
+Track Visitors	Pageviews	Deep Log Analyzer	1
+Track Visitors	Returning Visitors	Open Web Analytics	1
+Track Visitors	Unique Visitors	Open Web Analytics	1
+Track Visitors	Time on Site	Open Web Analytics	1
+Track Visitors	Pageviews	Open Web Analytics	1
+Track Visitors	Returning Visitors	VisiStat	1
+Track Visitors	Unique Visitors	VisiStat	1
+Track Visitors	Time on Site	VisiStat	1
+Track Visitors	Pageviews	VisiStat	1
+Track Visitors	Returning Visitors	BlueKai Audience Analytics Suite	1
+Track Visitors	Unique Visitors	BlueKai Audience Analytics Suite	1
+Track Visitors	Time on Site	BlueKai Audience Analytics Suite	0
+Track Visitors	Pageviews	BlueKai Audience Analytics Suite	1
+Track Visitors	Returning Visitors	LeadLander	0
+Track Visitors	Unique Visitors	LeadLander	1
+Track Visitors	Time on Site	LeadLander	1
+Track Visitors	Pageviews	LeadLander	0
+Track Visitors	Returning Visitors	Mixpanel	1
+Track Visitors	Unique Visitors	Mixpanel	1
+Track Visitors	Time on Site	Mixpanel	1
+Track Visitors	Pageviews	Mixpanel	0
+Track Visitors	Returning Visitors	Roambi	0
+Track Visitors	Unique Visitors	Roambi	1
+Track Visitors	Time on Site	Roambi	0
+Track Visitors	Pageviews	Roambi	1
+Track Visitors	Returning Visitors	SmartMPM	1
+Track Visitors	Unique Visitors	SmartMPM	1
+Track Visitors	Time on Site	SmartMPM	1
+Track Visitors	Pageviews	SmartMPM	1
+Track Visitors	Returning Visitors	Geckoboard	1
+Track Visitors	Unique Visitors	Geckoboard	1
+Track Visitors	Time on Site	Geckoboard	0
+Track Visitors	Pageviews	Geckoboard	1
+Track Geo Stats	Organization Name	ClickTale Core	0
+Track Geo Stats	City	ClickTale Core	0
+Track Geo Stats	State	ClickTale Core	0
+Track Geo Stats	ISP	ClickTale Core	0
+Track Geo Stats	Country	ClickTale Core	1
+Track Geo Stats	Organization Name	Deep Log Analyzer	0
+Track Geo Stats	City	Deep Log Analyzer	0
+Track Geo Stats	State	Deep Log Analyzer	0
+Track Geo Stats	ISP	Deep Log Analyzer	0
+Track Geo Stats	Country	Deep Log Analyzer	1
+Track Geo Stats	Organization Name	Open Web Analytics	0
+Track Geo Stats	City	Open Web Analytics	1
+Track Geo Stats	State	Open Web Analytics	1
+Track Geo Stats	ISP	Open Web Analytics	1
+Track Geo Stats	Country	Open Web Analytics	1
+Track Geo Stats	Organization Name	VisiStat	1
+Track Geo Stats	City	VisiStat	1
+Track Geo Stats	State	VisiStat	1
+Track Geo Stats	ISP	VisiStat	1
+Track Geo Stats	Country	VisiStat	1
+Track Geo Stats	Organization Name	BlueKai Audience Analytics Suite	1
+Track Geo Stats	City	BlueKai Audience Analytics Suite	0
+Track Geo Stats	State	BlueKai Audience Analytics Suite	0
+Track Geo Stats	ISP	BlueKai Audience Analytics Suite	1
+Track Geo Stats	Country	BlueKai Audience Analytics Suite	0
+Track Geo Stats	Organization Name	LeadLander	0
+Track Geo Stats	City	LeadLander	0
+Track Geo Stats	State	LeadLander	0
+Track Geo Stats	ISP	LeadLander	0
+Track Geo Stats	Country	LeadLander	1
+Track Geo Stats	Organization Name	Mixpanel	0
+Track Geo Stats	City	Mixpanel	0
+Track Geo Stats	State	Mixpanel	0
+Track Geo Stats	ISP	Mixpanel	0
+Track Geo Stats	Country	Mixpanel	1
+Track Geo Stats	Organization Name	Roambi	1
+Track Geo Stats	City	Roambi	1
+Track Geo Stats	State	Roambi	1
+Track Geo Stats	ISP	Roambi	0
+Track Geo Stats	Country	Roambi	1
+Track Geo Stats	Organization Name	SmartMPM	0
+Track Geo Stats	City	SmartMPM	0
+Track Geo Stats	State	SmartMPM	0
+Track Geo Stats	ISP	SmartMPM	0
+Track Geo Stats	Country	SmartMPM	0
+Track Geo Stats	Organization Name	Geckoboard	0
+Track Geo Stats	City	Geckoboard	0
+Track Geo Stats	State	Geckoboard	0
+Track Geo Stats	ISP	Geckoboard	0
+Track Geo Stats	Country	Geckoboard	1
+Track Traffic Sources	Referring	Sawmill Analytics	1
+Track Traffic Sources	Search Engine	Sawmill Analytics	1
+Track Traffic Sources	Direct	Sawmill Analytics	1
+Track Traffic Sources	Referring	Webtrends Analytics	1
+Track Traffic Sources	Search Engine	Webtrends Analytics	1
+Track Traffic Sources	Direct	Webtrends Analytics	1
+Track Traffic Sources	Referring	MarketShare Optimizer	0
+Track Traffic Sources	Search Engine	MarketShare Optimizer	0
+Track Traffic Sources	Direct	MarketShare Optimizer	0
+Track Traffic Sources	Referring	AT Internet - Digital Analytics Solution	1
+Track Traffic Sources	Search Engine	AT Internet - Digital Analytics Solution	1
+Track Traffic Sources	Direct	AT Internet - Digital Analytics Solution	1
+Track Traffic Sources	Referring	TEA Software	1
+Track Traffic Sources	Search Engine	TEA Software	1
+Track Traffic Sources	Direct	TEA Software	1
+Track Traffic Sources	Referring	AddShoppers	1
+Track Traffic Sources	Search Engine	AddShoppers	1
+Track Traffic Sources	Direct	AddShoppers	0
+Track Traffic Sources	Referring	Opentracker Web Analytics	1
+Track Traffic Sources	Search Engine	Opentracker Web Analytics	1
+Track Traffic Sources	Direct	Opentracker Web Analytics	1
+Track Traffic Sources	Referring	Logaholic	1
+Track Traffic Sources	Search Engine	Logaholic	1
+Track Traffic Sources	Direct	Logaholic	1
+Track Traffic Sources	Referring	Angelfish Software	1
+Track Traffic Sources	Search Engine	Angelfish Software	1
+Track Traffic Sources	Direct	Angelfish Software	1
+Track Traffic Sources	Referring	SOLA Analytics	0
+Track Traffic Sources	Search Engine	SOLA Analytics	0
+Track Traffic Sources	Direct	SOLA Analytics	0
+Mobile Tracking	Mobile Operating System	Sawmill Analytics	0
+Mobile Tracking	Mobile Devices	Sawmill Analytics	0
+Mobile Tracking	None	Sawmill Analytics	1
+Mobile Tracking	Mobile Operating System	Webtrends Analytics	0
+Mobile Tracking	Mobile Devices	Webtrends Analytics	0
+Mobile Tracking	None	Webtrends Analytics	1
+Mobile Tracking	Mobile Operating System	MarketShare Optimizer	0
+Mobile Tracking	Mobile Devices	MarketShare Optimizer	0
+Mobile Tracking	None	MarketShare Optimizer	0
+Mobile Tracking	Mobile Operating System	AT Internet - Digital Analytics Solution	1
+Mobile Tracking	Mobile Devices	AT Internet - Digital Analytics Solution	0
+Mobile Tracking	None	AT Internet - Digital Analytics Solution	0
+Mobile Tracking	Mobile Operating System	TEA Software	1
+Mobile Tracking	Mobile Devices	TEA Software	1
+Mobile Tracking	None	TEA Software	0
+Mobile Tracking	Mobile Operating System	AddShoppers	0
+Mobile Tracking	Mobile Devices	AddShoppers	1
+Mobile Tracking	None	AddShoppers	0
+Mobile Tracking	Mobile Operating System	Opentracker Web Analytics	1
+Mobile Tracking	Mobile Devices	Opentracker Web Analytics	1
+Mobile Tracking	None	Opentracker Web Analytics	0
+Mobile Tracking	Mobile Operating System	Logaholic	1
+Mobile Tracking	Mobile Devices	Logaholic	1
+Mobile Tracking	None	Logaholic	0
+Mobile Tracking	Mobile Operating System	Angelfish Software	1
+Mobile Tracking	Mobile Devices	Angelfish Software	1
+Mobile Tracking	None	Angelfish Software	0
+Mobile Tracking	Mobile Operating System	SOLA Analytics	1
+Mobile Tracking	Mobile Devices	SOLA Analytics	1
+Mobile Tracking	None	SOLA Analytics	0
+Track Visitors	Returning Visitors	Sawmill Analytics	1
+Track Visitors	Unique Visitors	Sawmill Analytics	1
+Track Visitors	Time on Site	Sawmill Analytics	1
+Track Visitors	Pageviews	Sawmill Analytics	1
+Track Visitors	Returning Visitors	Webtrends Analytics	1
+Track Visitors	Unique Visitors	Webtrends Analytics	1
+Track Visitors	Time on Site	Webtrends Analytics	1
+Track Visitors	Pageviews	Webtrends Analytics	1
+Track Visitors	Returning Visitors	MarketShare Optimizer	0
+Track Visitors	Unique Visitors	MarketShare Optimizer	0
+Track Visitors	Time on Site	MarketShare Optimizer	0
+Track Visitors	Pageviews	MarketShare Optimizer	0
+Track Visitors	Returning Visitors	AT Internet - Digital Analytics Solution	1
+Track Visitors	Unique Visitors	AT Internet - Digital Analytics Solution	1
+Track Visitors	Time on Site	AT Internet - Digital Analytics Solution	1
+Track Visitors	Pageviews	AT Internet - Digital Analytics Solution	1
+Track Visitors	Returning Visitors	TEA Software	1
+Track Visitors	Unique Visitors	TEA Software	1
+Track Visitors	Time on Site	TEA Software	1
+Track Visitors	Pageviews	TEA Software	1
+Track Visitors	Returning Visitors	AddShoppers	1
+Track Visitors	Unique Visitors	AddShoppers	1
+Track Visitors	Time on Site	AddShoppers	0
+Track Visitors	Pageviews	AddShoppers	1
+Track Visitors	Returning Visitors	Opentracker Web Analytics	1
+Track Visitors	Unique Visitors	Opentracker Web Analytics	1
+Track Visitors	Time on Site	Opentracker Web Analytics	1
+Track Visitors	Pageviews	Opentracker Web Analytics	1
+Track Visitors	Returning Visitors	Logaholic	1
+Track Visitors	Unique Visitors	Logaholic	1
+Track Visitors	Time on Site	Logaholic	1
+Track Visitors	Pageviews	Logaholic	1
+Track Visitors	Returning Visitors	Angelfish Software	1
+Track Visitors	Unique Visitors	Angelfish Software	1
+Track Visitors	Time on Site	Angelfish Software	1
+Track Visitors	Pageviews	Angelfish Software	1
+Track Visitors	Returning Visitors	SOLA Analytics	1
+Track Visitors	Unique Visitors	SOLA Analytics	1
+Track Visitors	Time on Site	SOLA Analytics	1
+Track Visitors	Pageviews	SOLA Analytics	1
+Track Geo Stats	Organization Name	Sawmill Analytics	1
+Track Geo Stats	City	Sawmill Analytics	1
+Track Geo Stats	State	Sawmill Analytics	1
+Track Geo Stats	ISP	Sawmill Analytics	1
+Track Geo Stats	Country	Sawmill Analytics	1
+Track Geo Stats	Organization Name	Webtrends Analytics	0
+Track Geo Stats	City	Webtrends Analytics	1
+Track Geo Stats	State	Webtrends Analytics	1
+Track Geo Stats	ISP	Webtrends Analytics	0
+Track Geo Stats	Country	Webtrends Analytics	1
+Track Geo Stats	Organization Name	MarketShare Optimizer	0
+Track Geo Stats	City	MarketShare Optimizer	0
+Track Geo Stats	State	MarketShare Optimizer	0
+Track Geo Stats	ISP	MarketShare Optimizer	0
+Track Geo Stats	Country	MarketShare Optimizer	0
+Track Geo Stats	Organization Name	AT Internet - Digital Analytics Solution	0
+Track Geo Stats	City	AT Internet - Digital Analytics Solution	0
+Track Geo Stats	State	AT Internet - Digital Analytics Solution	1
+Track Geo Stats	ISP	AT Internet - Digital Analytics Solution	1
+Track Geo Stats	Country	AT Internet - Digital Analytics Solution	1
+Track Geo Stats	Organization Name	TEA Software	0
+Track Geo Stats	City	TEA Software	1
+Track Geo Stats	State	TEA Software	1
+Track Geo Stats	ISP	TEA Software	1
+Track Geo Stats	Country	TEA Software	1
+Track Geo Stats	Organization Name	AddShoppers	0
+Track Geo Stats	City	AddShoppers	0
+Track Geo Stats	State	AddShoppers	0
+Track Geo Stats	ISP	AddShoppers	0
+Track Geo Stats	Country	AddShoppers	1
+Track Geo Stats	Organization Name	Opentracker Web Analytics	1
+Track Geo Stats	City	Opentracker Web Analytics	1
+Track Geo Stats	State	Opentracker Web Analytics	1
+Track Geo Stats	ISP	Opentracker Web Analytics	1
+Track Geo Stats	Country	Opentracker Web Analytics	1
+Track Geo Stats	Organization Name	Logaholic	1
+Track Geo Stats	City	Logaholic	1
+Track Geo Stats	State	Logaholic	1
+Track Geo Stats	ISP	Logaholic	0
+Track Geo Stats	Country	Logaholic	1
+Track Geo Stats	Organization Name	Angelfish Software	1
+Track Geo Stats	City	Angelfish Software	1
+Track Geo Stats	State	Angelfish Software	1
+Track Geo Stats	ISP	Angelfish Software	1
+Track Geo Stats	Country	Angelfish Software	1
+Track Geo Stats	Organization Name	SOLA Analytics	0
+Track Geo Stats	City	SOLA Analytics	1
+Track Geo Stats	State	SOLA Analytics	1
+Track Geo Stats	ISP	SOLA Analytics	1
+Track Geo Stats	Country	SOLA Analytics	1
+Track Traffic Sources	Referring	Analytics Canvas	1
+Track Traffic Sources	Search Engine	Analytics Canvas	1
+Track Traffic Sources	Direct	Analytics Canvas	0
+Track Traffic Sources	Referring	App Annie	0
+Track Traffic Sources	Search Engine	App Annie	1
+Track Traffic Sources	Direct	App Annie	1
+Track Traffic Sources	Referring	Bizible Marketing Analytics	1
+Track Traffic Sources	Search Engine	Bizible Marketing Analytics	1
+Track Traffic Sources	Direct	Bizible Marketing Analytics	1
+Track Traffic Sources	Referring	Analytics Pro	0
+Track Traffic Sources	Search Engine	Analytics Pro	0
+Track Traffic Sources	Direct	Analytics Pro	1
+Track Traffic Sources	Referring	Catchpoint	0
+Track Traffic Sources	Search Engine	Catchpoint	0
+Track Traffic Sources	Direct	Catchpoint	0
+Track Traffic Sources	Referring	Chartbeat	1
+Track Traffic Sources	Search Engine	Chartbeat	1
+Track Traffic Sources	Direct	Chartbeat	1
+Track Traffic Sources	Referring	Clicky	1
+Track Traffic Sources	Search Engine	Clicky	1
+Track Traffic Sources	Direct	Clicky	1
+Track Traffic Sources	Referring	Compete	1
+Track Traffic Sources	Search Engine	Compete	1
+Track Traffic Sources	Direct	Compete	1
+Track Traffic Sources	Referring	Daddy Analytics	1
+Track Traffic Sources	Search Engine	Daddy Analytics	1
+Track Traffic Sources	Direct	Daddy Analytics	1
+Track Traffic Sources	Referring	Decibel Insight	0
+Track Traffic Sources	Search Engine	Decibel Insight	0
+Track Traffic Sources	Direct	Decibel Insight	1
+Mobile Tracking	Mobile Operating System	Analytics Canvas	0
+Mobile Tracking	Mobile Devices	Analytics Canvas	1
+Mobile Tracking	None	Analytics Canvas	0
+Mobile Tracking	Mobile Operating System	App Annie	0
+Mobile Tracking	Mobile Devices	App Annie	1
+Mobile Tracking	None	App Annie	0
+Mobile Tracking	Mobile Operating System	Bizible Marketing Analytics	0
+Mobile Tracking	Mobile Devices	Bizible Marketing Analytics	0
+Mobile Tracking	None	Bizible Marketing Analytics	1
+Mobile Tracking	Mobile Operating System	Analytics Pro	0
+Mobile Tracking	Mobile Devices	Analytics Pro	1
+Mobile Tracking	None	Analytics Pro	1
+Mobile Tracking	Mobile Operating System	Catchpoint	0
+Mobile Tracking	Mobile Devices	Catchpoint	1
+Mobile Tracking	None	Catchpoint	0
+Mobile Tracking	Mobile Operating System	Chartbeat	0
+Mobile Tracking	Mobile Devices	Chartbeat	1
+Mobile Tracking	None	Chartbeat	0
+Mobile Tracking	Mobile Operating System	Clicky	0
+Mobile Tracking	Mobile Devices	Clicky	0
+Mobile Tracking	None	Clicky	1
+Mobile Tracking	Mobile Operating System	Compete	1
+Mobile Tracking	Mobile Devices	Compete	1
+Mobile Tracking	None	Compete	0
+Mobile Tracking	Mobile Operating System	Daddy Analytics	0
+Mobile Tracking	Mobile Devices	Daddy Analytics	0
+Mobile Tracking	None	Daddy Analytics	1
+Mobile Tracking	Mobile Operating System	Decibel Insight	0
+Mobile Tracking	Mobile Devices	Decibel Insight	0
+Mobile Tracking	None	Decibel Insight	1
+Track Visitors	Returning Visitors	Analytics Canvas	1
+Track Visitors	Unique Visitors	Analytics Canvas	1
+Track Visitors	Time on Site	Analytics Canvas	0
+Track Visitors	Pageviews	Analytics Canvas	0
+Track Visitors	Returning Visitors	App Annie	0
+Track Visitors	Unique Visitors	App Annie	0
+Track Visitors	Time on Site	App Annie	1
+Track Visitors	Pageviews	App Annie	1
+Track Visitors	Returning Visitors	Bizible Marketing Analytics	0
+Track Visitors	Unique Visitors	Bizible Marketing Analytics	1
+Track Visitors	Time on Site	Bizible Marketing Analytics	1
+Track Visitors	Pageviews	Bizible Marketing Analytics	1
+Track Visitors	Returning Visitors	Analytics Pro	1
+Track Visitors	Unique Visitors	Analytics Pro	0
+Track Visitors	Time on Site	Analytics Pro	1
+Track Visitors	Pageviews	Analytics Pro	1
+Track Visitors	Returning Visitors	Catchpoint	0
+Track Visitors	Unique Visitors	Catchpoint	1
+Track Visitors	Time on Site	Catchpoint	0
+Track Visitors	Pageviews	Catchpoint	1
+Track Visitors	Returning Visitors	Chartbeat	1
+Track Visitors	Unique Visitors	Chartbeat	0
+Track Visitors	Time on Site	Chartbeat	1
+Track Visitors	Pageviews	Chartbeat	0
+Track Visitors	Returning Visitors	Clicky	0
+Track Visitors	Unique Visitors	Clicky	0
+Track Visitors	Time on Site	Clicky	1
+Track Visitors	Pageviews	Clicky	1
+Track Visitors	Returning Visitors	Compete	0
+Track Visitors	Unique Visitors	Compete	1
+Track Visitors	Time on Site	Compete	1
+Track Visitors	Pageviews	Compete	1
+Track Visitors	Returning Visitors	Daddy Analytics	1
+Track Visitors	Unique Visitors	Daddy Analytics	1
+Track Visitors	Time on Site	Daddy Analytics	1
+Track Visitors	Pageviews	Daddy Analytics	1
+Track Visitors	Returning Visitors	Decibel Insight	1
+Track Visitors	Unique Visitors	Decibel Insight	1
+Track Visitors	Time on Site	Decibel Insight	1
+Track Visitors	Pageviews	Decibel Insight	1
+Track Geo Stats	City	Analytics Canvas	0
+Track Geo Stats	State	Analytics Canvas	0
+Track Geo Stats	ISP	Analytics Canvas	0
+Track Geo Stats	Country	Analytics Canvas	0
+Track Geo Stats	City	App Annie	0
+Track Geo Stats	State	App Annie	1
+Track Geo Stats	ISP	App Annie	1
+Track Geo Stats	Country	App Annie	1
+Track Geo Stats	City	Bizible Marketing Analytics	1
+Track Geo Stats	State	Bizible Marketing Analytics	1
+Track Geo Stats	ISP	Bizible Marketing Analytics	1
+Track Geo Stats	Country	Bizible Marketing Analytics	1
+Track Geo Stats	City	Analytics Pro	1
+Track Geo Stats	State	Analytics Pro	0
+Track Geo Stats	ISP	Analytics Pro	0
+Track Geo Stats	Country	Analytics Pro	1
+Track Geo Stats	City	Catchpoint	0
+Track Geo Stats	State	Catchpoint	0
+Track Geo Stats	ISP	Catchpoint	1
+Track Geo Stats	Country	Catchpoint	1
+Track Geo Stats	City	Chartbeat	0
+Track Geo Stats	State	Chartbeat	0
+Track Geo Stats	ISP	Chartbeat	0
+Track Geo Stats	Country	Chartbeat	1
+Track Geo Stats	City	Clicky	1
+Track Geo Stats	State	Clicky	1
+Track Geo Stats	ISP	Clicky	1
+Track Geo Stats	Country	Clicky	1
+Track Geo Stats	City	Compete	1
+Track Geo Stats	State	Compete	1
+Track Geo Stats	ISP	Compete	0
+Track Geo Stats	Country	Compete	1
+Track Geo Stats	City	Daddy Analytics	1
+Track Geo Stats	State	Daddy Analytics	1
+Track Geo Stats	ISP	Daddy Analytics	1
+Track Geo Stats	Country	Daddy Analytics	1
+Track Geo Stats	City	Decibel Insight	1
+Track Geo Stats	State	Decibel Insight	1
+Track Geo Stats	ISP	Decibel Insight	0
+Track Geo Stats	Country	Decibel Insight	1
+Track Traffic Sources	Referring	Ducksboard	1
+Track Traffic Sources	Search Engine	Ducksboard	1
+Track Traffic Sources	Direct	Ducksboard	1
+Track Traffic Sources	Referring	Quicklytics	1
+Track Traffic Sources	Search Engine	Quicklytics	0
+Track Traffic Sources	Direct	Quicklytics	1
+Track Traffic Sources	Referring	GoSquared	1
+Track Traffic Sources	Search Engine	GoSquared	1
+Track Traffic Sources	Direct	GoSquared	1
+Track Traffic Sources	Referring	Happy Metrix	1
+Track Traffic Sources	Search Engine	Happy Metrix	1
+Track Traffic Sources	Direct	Happy Metrix	1
+Track Traffic Sources	Referring	IBM Digital Analytics	0
+Track Traffic Sources	Search Engine	IBM Digital Analytics	1
+Track Traffic Sources	Direct	IBM Digital Analytics	1
+Track Traffic Sources	Referring	Inspectlet	1
+Track Traffic Sources	Search Engine	Inspectlet	1
+Track Traffic Sources	Direct	Inspectlet	1
+Track Traffic Sources	Referring	KISSmetrics	1
+Track Traffic Sources	Search Engine	KISSmetrics	1
+Track Traffic Sources	Direct	KISSmetrics	1
+Track Traffic Sources	Referring	HitsLink	1
+Track Traffic Sources	Search Engine	HitsLink	1
+Track Traffic Sources	Direct	HitsLink	1
+Track Traffic Sources	Referring	Parse.ly Dash	1
+Track Traffic Sources	Search Engine	Parse.ly Dash	1
+Track Traffic Sources	Direct	Parse.ly Dash	0
+Track Traffic Sources	Referring	Quintly	1
+Track Traffic Sources	Search Engine	Quintly	1
+Track Traffic Sources	Direct	Quintly	1
+Mobile Tracking	Mobile Operating System	Ducksboard	0
+Mobile Tracking	Mobile Devices	Ducksboard	0
+Mobile Tracking	None	Ducksboard	1
+Mobile Tracking	Mobile Operating System	Quicklytics	1
+Mobile Tracking	Mobile Devices	Quicklytics	1
+Mobile Tracking	None	Quicklytics	0
+Mobile Tracking	Mobile Operating System	GoSquared	1
+Mobile Tracking	Mobile Devices	GoSquared	1
+Mobile Tracking	None	GoSquared	0
+Mobile Tracking	Mobile Operating System	Happy Metrix	1
+Mobile Tracking	Mobile Devices	Happy Metrix	1
+Mobile Tracking	None	Happy Metrix	0
+Mobile Tracking	Mobile Operating System	IBM Digital Analytics	0
+Mobile Tracking	Mobile Devices	IBM Digital Analytics	1
+Mobile Tracking	None	IBM Digital Analytics	0
+Mobile Tracking	Mobile Operating System	Inspectlet	0
+Mobile Tracking	Mobile Devices	Inspectlet	0
+Mobile Tracking	None	Inspectlet	1
+Mobile Tracking	Mobile Operating System	KISSmetrics	0
+Mobile Tracking	Mobile Devices	KISSmetrics	1
+Mobile Tracking	None	KISSmetrics	0
+Mobile Tracking	Mobile Operating System	HitsLink	0
+Mobile Tracking	Mobile Devices	HitsLink	1
+Mobile Tracking	None	HitsLink	0
+Mobile Tracking	Mobile Operating System	Parse.ly Dash	0
+Mobile Tracking	Mobile Devices	Parse.ly Dash	0
+Mobile Tracking	None	Parse.ly Dash	1
+Mobile Tracking	Mobile Operating System	Quintly	0
+Mobile Tracking	Mobile Devices	Quintly	0
+Mobile Tracking	None	Quintly	0
+Track Visitors	Returning Visitors	Ducksboard	1
+Track Visitors	Unique Visitors	Ducksboard	1
+Track Visitors	Time on Site	Ducksboard	1
+Track Visitors	Pageviews	Ducksboard	1
+Track Visitors	Returning Visitors	Quicklytics	1
+Track Visitors	Unique Visitors	Quicklytics	0
+Track Visitors	Time on Site	Quicklytics	0
+Track Visitors	Pageviews	Quicklytics	1
+Track Visitors	Returning Visitors	GoSquared	1
+Track Visitors	Unique Visitors	GoSquared	1
+Track Visitors	Time on Site	GoSquared	1
+Track Visitors	Pageviews	GoSquared	1
+Track Visitors	Returning Visitors	Happy Metrix	1
+Track Visitors	Unique Visitors	Happy Metrix	1
+Track Visitors	Time on Site	Happy Metrix	1
+Track Visitors	Pageviews	Happy Metrix	1
+Track Visitors	Returning Visitors	IBM Digital Analytics	0
+Track Visitors	Unique Visitors	IBM Digital Analytics	1
+Track Visitors	Time on Site	IBM Digital Analytics	0
+Track Visitors	Pageviews	IBM Digital Analytics	0
+Track Visitors	Returning Visitors	Inspectlet	1
+Track Visitors	Unique Visitors	Inspectlet	1
+Track Visitors	Time on Site	Inspectlet	1
+Track Visitors	Pageviews	Inspectlet	0
+Track Visitors	Returning Visitors	KISSmetrics	1
+Track Visitors	Unique Visitors	KISSmetrics	1
+Track Visitors	Time on Site	KISSmetrics	0
+Track Visitors	Pageviews	KISSmetrics	0
+Track Visitors	Returning Visitors	HitsLink	1
+Track Visitors	Unique Visitors	HitsLink	1
+Track Visitors	Time on Site	HitsLink	1
+Track Visitors	Pageviews	HitsLink	0
+Track Visitors	Returning Visitors	Parse.ly Dash	1
+Track Visitors	Unique Visitors	Parse.ly Dash	1
+Track Visitors	Time on Site	Parse.ly Dash	0
+Track Visitors	Pageviews	Parse.ly Dash	1
+Track Visitors	Returning Visitors	Quintly	1
+Track Visitors	Unique Visitors	Quintly	1
+Track Visitors	Time on Site	Quintly	0
+Track Visitors	Pageviews	Quintly	0
+Track Geo Stats	City	Ducksboard	0
+Track Geo Stats	State	Ducksboard	0
+Track Geo Stats	Country	Ducksboard	0
+Track Geo Stats	City	Quicklytics	1
+Track Geo Stats	State	Quicklytics	1
+Track Geo Stats	Country	Quicklytics	1
+Track Geo Stats	City	GoSquared	1
+Track Geo Stats	State	GoSquared	1
+Track Geo Stats	Country	GoSquared	1
+Track Geo Stats	City	Happy Metrix	1
+Track Geo Stats	State	Happy Metrix	1
+Track Geo Stats	Country	Happy Metrix	1
+Track Geo Stats	City	IBM Digital Analytics	0
+Track Geo Stats	State	IBM Digital Analytics	0
+Track Geo Stats	Country	IBM Digital Analytics	1
+Track Geo Stats	City	Inspectlet	0
+Track Geo Stats	State	Inspectlet	0
+Track Geo Stats	Country	Inspectlet	1
+Track Geo Stats	City	KISSmetrics	0
+Track Geo Stats	State	KISSmetrics	0
+Track Geo Stats	Country	KISSmetrics	0
+Track Geo Stats	City	HitsLink	0
+Track Geo Stats	State	HitsLink	0
+Track Geo Stats	Country	HitsLink	1
+Track Geo Stats	City	Parse.ly Dash	0
+Track Geo Stats	State	Parse.ly Dash	0
+Track Geo Stats	Country	Parse.ly Dash	0
+Track Geo Stats	City	Quintly	1
+Track Geo Stats	State	Quintly	1
+Track Geo Stats	Country	Quintly	1
+Track Traffic Sources	Referring	Rekko Cloud Marketing Suite	1
+Track Traffic Sources	Search Engine	Rekko Cloud Marketing Suite	0
+Track Traffic Sources	Direct	Rekko Cloud Marketing Suite	0
+Track Traffic Sources	Referring	Insights	1
+Track Traffic Sources	Search Engine	Insights	0
+Track Traffic Sources	Direct	Insights	0
+Track Traffic Sources	Referring	Upsight	0
+Track Traffic Sources	Search Engine	Upsight	1
+Track Traffic Sources	Direct	Upsight	0
+Track Traffic Sources	Referring	W3Counter	1
+Track Traffic Sources	Search Engine	W3Counter	1
+Track Traffic Sources	Direct	W3Counter	0
+Track Traffic Sources	Referring	WebLog Expert	0
+Track Traffic Sources	Search Engine	WebLog Expert	1
+Track Traffic Sources	Direct	WebLog Expert	0
+Track Traffic Sources	Referring	Woopra	1
+Track Traffic Sources	Search Engine	Woopra	1
+Track Traffic Sources	Direct	Woopra	0
+Track Traffic Sources	Referring	Site Stats	1
+Track Traffic Sources	Search Engine	Site Stats	1
+Track Traffic Sources	Direct	Site Stats	1
+Track Traffic Sources	Referring	Ometria	1
+Track Traffic Sources	Search Engine	Ometria	1
+Track Traffic Sources	Direct	Ometria	1
+Track Traffic Sources	Referring	Webtrends	0
+Track Traffic Sources	Search Engine	Webtrends	0
+Track Traffic Sources	Direct	Webtrends	0
+Track Traffic Sources	Referring	UsabilityTools	0
+Track Traffic Sources	Search Engine	UsabilityTools	0
+Track Traffic Sources	Direct	UsabilityTools	1
+Mobile Tracking	Mobile Operating System	Rekko Cloud Marketing Suite	0
+Mobile Tracking	Mobile Devices	Rekko Cloud Marketing Suite	1
+Mobile Tracking	None	Rekko Cloud Marketing Suite	0
+Mobile Tracking	Mobile Operating System	Insights	0
+Mobile Tracking	Mobile Devices	Insights	0
+Mobile Tracking	None	Insights	1
+Mobile Tracking	Mobile Operating System	Upsight	0
+Mobile Tracking	Mobile Devices	Upsight	0
+Mobile Tracking	None	Upsight	1
+Mobile Tracking	Mobile Operating System	W3Counter	1
+Mobile Tracking	Mobile Devices	W3Counter	1
+Mobile Tracking	None	W3Counter	0
+Mobile Tracking	Mobile Operating System	WebLog Expert	0
+Mobile Tracking	Mobile Devices	WebLog Expert	0
+Mobile Tracking	None	WebLog Expert	1
+Mobile Tracking	Mobile Operating System	Woopra	1
+Mobile Tracking	Mobile Devices	Woopra	0
+Mobile Tracking	None	Woopra	0
+Mobile Tracking	Mobile Operating System	Site Stats	0
+Mobile Tracking	Mobile Devices	Site Stats	0
+Mobile Tracking	None	Site Stats	0
+Mobile Tracking	Mobile Operating System	Ometria	1
+Mobile Tracking	Mobile Devices	Ometria	1
+Mobile Tracking	None	Ometria	0
+Mobile Tracking	Mobile Operating System	Webtrends	0
+Mobile Tracking	Mobile Devices	Webtrends	1
+Mobile Tracking	None	Webtrends	0
+Mobile Tracking	Mobile Operating System	UsabilityTools	1
+Mobile Tracking	Mobile Devices	UsabilityTools	0
+Mobile Tracking	None	UsabilityTools	0
+Track Visitors	Returning Visitors	Rekko Cloud Marketing Suite	1
+Track Visitors	Unique Visitors	Rekko Cloud Marketing Suite	1
+Track Visitors	Time on Site	Rekko Cloud Marketing Suite	0
+Track Visitors	Pageviews	Rekko Cloud Marketing Suite	1
+Track Visitors	Returning Visitors	Insights	0
+Track Visitors	Unique Visitors	Insights	0
+Track Visitors	Time on Site	Insights	1
+Track Visitors	Pageviews	Insights	1
+Track Visitors	Returning Visitors	Upsight	0
+Track Visitors	Unique Visitors	Upsight	1
+Track Visitors	Time on Site	Upsight	1
+Track Visitors	Pageviews	Upsight	0
+Track Visitors	Returning Visitors	W3Counter	1
+Track Visitors	Unique Visitors	W3Counter	1
+Track Visitors	Time on Site	W3Counter	0
+Track Visitors	Pageviews	W3Counter	1
+Track Visitors	Returning Visitors	WebLog Expert	1
+Track Visitors	Unique Visitors	WebLog Expert	0
+Track Visitors	Time on Site	WebLog Expert	0
+Track Visitors	Pageviews	WebLog Expert	1
+Track Visitors	Returning Visitors	Woopra	0
+Track Visitors	Unique Visitors	Woopra	1
+Track Visitors	Time on Site	Woopra	0
+Track Visitors	Pageviews	Woopra	0
+Track Visitors	Returning Visitors	Site Stats	1
+Track Visitors	Unique Visitors	Site Stats	1
+Track Visitors	Time on Site	Site Stats	1
+Track Visitors	Pageviews	Site Stats	1
+Track Visitors	Returning Visitors	Ometria	1
+Track Visitors	Unique Visitors	Ometria	1
+Track Visitors	Time on Site	Ometria	1
+Track Visitors	Pageviews	Ometria	1
+Track Visitors	Returning Visitors	Webtrends	0
+Track Visitors	Unique Visitors	Webtrends	1
+Track Visitors	Time on Site	Webtrends	1
+Track Visitors	Pageviews	Webtrends	1
+Track Visitors	Returning Visitors	UsabilityTools	0
+Track Visitors	Unique Visitors	UsabilityTools	0
+Track Visitors	Time on Site	UsabilityTools	1
+Track Visitors	Pageviews	UsabilityTools	1
+Track Geo Stats	Organization Name	Rekko Cloud Marketing Suite	0
+Track Geo Stats	City	Rekko Cloud Marketing Suite	0
+Track Geo Stats	State	Rekko Cloud Marketing Suite	0
+Track Geo Stats	None	Rekko Cloud Marketing Suite	0
+Track Geo Stats	Country	Rekko Cloud Marketing Suite	0
+Track Geo Stats	Organization Name	Insights	0
+Track Geo Stats	City	Insights	0
+Track Geo Stats	State	Insights	0
+Track Geo Stats	None	Insights	1
+Track Geo Stats	Country	Insights	0
+Track Geo Stats	Organization Name	Upsight	0
+Track Geo Stats	City	Upsight	0
+Track Geo Stats	State	Upsight	0
+Track Geo Stats	None	Upsight	0
+Track Geo Stats	Country	Upsight	1
+Track Geo Stats	Organization Name	W3Counter	0
+Track Geo Stats	City	W3Counter	1
+Track Geo Stats	State	W3Counter	1
+Track Geo Stats	None	W3Counter	0
+Track Geo Stats	Country	W3Counter	1
+Track Geo Stats	Organization Name	WebLog Expert	0
+Track Geo Stats	City	WebLog Expert	1
+Track Geo Stats	State	WebLog Expert	1
+Track Geo Stats	None	WebLog Expert	0
+Track Geo Stats	Country	WebLog Expert	1
+Track Geo Stats	Organization Name	Woopra	1
+Track Geo Stats	City	Woopra	1
+Track Geo Stats	State	Woopra	1
+Track Geo Stats	None	Woopra	0
+Track Geo Stats	Country	Woopra	1
+Track Geo Stats	Organization Name	Site Stats	0
+Track Geo Stats	City	Site Stats	1
+Track Geo Stats	State	Site Stats	1
+Track Geo Stats	None	Site Stats	0
+Track Geo Stats	Country	Site Stats	1
+Track Geo Stats	Organization Name	Ometria	0
+Track Geo Stats	City	Ometria	0
+Track Geo Stats	State	Ometria	0
+Track Geo Stats	None	Ometria	0
+Track Geo Stats	Country	Ometria	0
+Track Geo Stats	Organization Name	Webtrends	0
+Track Geo Stats	City	Webtrends	0
+Track Geo Stats	State	Webtrends	0
+Track Geo Stats	None	Webtrends	0
+Track Geo Stats	Country	Webtrends	0
+Track Geo Stats	Organization Name	UsabilityTools	0
+Track Geo Stats	City	UsabilityTools	0
+Track Geo Stats	State	UsabilityTools	0
+Track Geo Stats	None	UsabilityTools	0
+Track Geo Stats	Country	UsabilityTools	0
+Track Traffic Sources	Referring	Crowdbooster	1
+Track Traffic Sources	Search Engine	Crowdbooster	0
+Track Traffic Sources	Direct	Crowdbooster	0
+Track Traffic Sources	Referring	Simply Measured	1
+Track Traffic Sources	Search Engine	Simply Measured	1
+Track Traffic Sources	Direct	Simply Measured	0
+Track Traffic Sources	Referring	AdClarity Display	0
+Track Traffic Sources	Search Engine	AdClarity Display	0
+Track Traffic Sources	Direct	AdClarity Display	0
+Track Traffic Sources	Referring	andara.bi	0
+Track Traffic Sources	Search Engine	andara.bi	0
+Track Traffic Sources	Direct	andara.bi	0
+Track Traffic Sources	Referring	InfoCaptor Dashboard	0
+Track Traffic Sources	Search Engine	InfoCaptor Dashboard	1
+Track Traffic Sources	Direct	InfoCaptor Dashboard	0
+Track Traffic Sources	Referring	Reinvigorate	0
+Track Traffic Sources	Search Engine	Reinvigorate	0
+Track Traffic Sources	Direct	Reinvigorate	0
+Track Traffic Sources	Referring	Statvoo Analytics	1
+Track Traffic Sources	Search Engine	Statvoo Analytics	1
+Track Traffic Sources	Direct	Statvoo Analytics	1
+Track Traffic Sources	Referring	Snitcher	1
+Track Traffic Sources	Search Engine	Snitcher	1
+Track Traffic Sources	Direct	Snitcher	1
+Track Traffic Sources	Referring	Hitsteps	1
+Track Traffic Sources	Search Engine	Hitsteps	1
+Track Traffic Sources	Direct	Hitsteps	1
+Track Traffic Sources	Referring	FullStory	1
+Track Traffic Sources	Search Engine	FullStory	1
+Track Traffic Sources	Direct	FullStory	1
+Mobile Tracking	Mobile Operating System	Crowdbooster	0
+Mobile Tracking	Mobile Devices	Crowdbooster	0
+Mobile Tracking	None	Crowdbooster	1
+Mobile Tracking	Mobile Operating System	Simply Measured	0
+Mobile Tracking	Mobile Devices	Simply Measured	1
+Mobile Tracking	None	Simply Measured	0
+Mobile Tracking	Mobile Operating System	AdClarity Display	0
+Mobile Tracking	Mobile Devices	AdClarity Display	0
+Mobile Tracking	None	AdClarity Display	1
+Mobile Tracking	Mobile Operating System	andara.bi	0
+Mobile Tracking	Mobile Devices	andara.bi	1
+Mobile Tracking	None	andara.bi	0
+Mobile Tracking	Mobile Operating System	InfoCaptor Dashboard	1
+Mobile Tracking	Mobile Devices	InfoCaptor Dashboard	1
+Mobile Tracking	None	InfoCaptor Dashboard	0
+Mobile Tracking	Mobile Operating System	Reinvigorate	0
+Mobile Tracking	Mobile Devices	Reinvigorate	0
+Mobile Tracking	None	Reinvigorate	0
+Mobile Tracking	Mobile Operating System	Statvoo Analytics	1
+Mobile Tracking	Mobile Devices	Statvoo Analytics	1
+Mobile Tracking	None	Statvoo Analytics	1
+Mobile Tracking	Mobile Operating System	Snitcher	1
+Mobile Tracking	Mobile Devices	Snitcher	1
+Mobile Tracking	None	Snitcher	0
+Mobile Tracking	Mobile Operating System	Hitsteps	1
+Mobile Tracking	Mobile Devices	Hitsteps	1
+Mobile Tracking	None	Hitsteps	0
+Mobile Tracking	Mobile Operating System	FullStory	1
+Mobile Tracking	Mobile Devices	FullStory	1
+Mobile Tracking	None	FullStory	0
+Track Visitors	Returning Visitors	Crowdbooster	0
+Track Visitors	Unique Visitors	Crowdbooster	1
+Track Visitors	Time on Site	Crowdbooster	0
+Track Visitors	Pageviews	Crowdbooster	1
+Track Visitors	Returning Visitors	Simply Measured	1
+Track Visitors	Unique Visitors	Simply Measured	0
+Track Visitors	Time on Site	Simply Measured	0
+Track Visitors	Pageviews	Simply Measured	1
+Track Visitors	Returning Visitors	AdClarity Display	0
+Track Visitors	Unique Visitors	AdClarity Display	0
+Track Visitors	Time on Site	AdClarity Display	0
+Track Visitors	Pageviews	AdClarity Display	1
+Track Visitors	Returning Visitors	andara.bi	0
+Track Visitors	Unique Visitors	andara.bi	0
+Track Visitors	Time on Site	andara.bi	0
+Track Visitors	Pageviews	andara.bi	0
+Track Visitors	Returning Visitors	InfoCaptor Dashboard	1
+Track Visitors	Unique Visitors	InfoCaptor Dashboard	0
+Track Visitors	Time on Site	InfoCaptor Dashboard	1
+Track Visitors	Pageviews	InfoCaptor Dashboard	1
+Track Visitors	Returning Visitors	Reinvigorate	0
+Track Visitors	Unique Visitors	Reinvigorate	0
+Track Visitors	Time on Site	Reinvigorate	0
+Track Visitors	Pageviews	Reinvigorate	0
+Track Visitors	Returning Visitors	Statvoo Analytics	1
+Track Visitors	Unique Visitors	Statvoo Analytics	1
+Track Visitors	Time on Site	Statvoo Analytics	1
+Track Visitors	Pageviews	Statvoo Analytics	1
+Track Visitors	Returning Visitors	Snitcher	1
+Track Visitors	Unique Visitors	Snitcher	1
+Track Visitors	Time on Site	Snitcher	1
+Track Visitors	Pageviews	Snitcher	1
+Track Visitors	Returning Visitors	Hitsteps	1
+Track Visitors	Unique Visitors	Hitsteps	1
+Track Visitors	Time on Site	Hitsteps	1
+Track Visitors	Pageviews	Hitsteps	1
+Track Visitors	Returning Visitors	FullStory	1
+Track Visitors	Unique Visitors	FullStory	1
+Track Visitors	Time on Site	FullStory	1
+Track Visitors	Pageviews	FullStory	1
+Track Geo Stats	Organization Name	Crowdbooster	0
+Track Geo Stats	City	Crowdbooster	0
+Track Geo Stats	State	Crowdbooster	0
+Track Geo Stats	ISP	Crowdbooster	0
+Track Geo Stats	Country	Crowdbooster	0
+Track Geo Stats	Organization Name	Simply Measured	0
+Track Geo Stats	City	Simply Measured	1
+Track Geo Stats	State	Simply Measured	1
+Track Geo Stats	ISP	Simply Measured	0
+Track Geo Stats	Country	Simply Measured	1
+Track Geo Stats	Organization Name	AdClarity Display	0
+Track Geo Stats	City	AdClarity Display	0
+Track Geo Stats	State	AdClarity Display	0
+Track Geo Stats	ISP	AdClarity Display	0
+Track Geo Stats	Country	AdClarity Display	1
+Track Geo Stats	Organization Name	andara.bi	0
+Track Geo Stats	City	andara.bi	0
+Track Geo Stats	State	andara.bi	0
+Track Geo Stats	ISP	andara.bi	0
+Track Geo Stats	Country	andara.bi	0
+Track Geo Stats	Organization Name	InfoCaptor Dashboard	0
+Track Geo Stats	City	InfoCaptor Dashboard	0
+Track Geo Stats	State	InfoCaptor Dashboard	0
+Track Geo Stats	ISP	InfoCaptor Dashboard	0
+Track Geo Stats	Country	InfoCaptor Dashboard	1
+Track Geo Stats	Organization Name	Reinvigorate	0
+Track Geo Stats	City	Reinvigorate	0
+Track Geo Stats	State	Reinvigorate	0
+Track Geo Stats	ISP	Reinvigorate	0
+Track Geo Stats	Country	Reinvigorate	0
+Track Geo Stats	Organization Name	Statvoo Analytics	1
+Track Geo Stats	City	Statvoo Analytics	1
+Track Geo Stats	State	Statvoo Analytics	1
+Track Geo Stats	ISP	Statvoo Analytics	1
+Track Geo Stats	Country	Statvoo Analytics	1
+Track Geo Stats	Organization Name	Snitcher	1
+Track Geo Stats	City	Snitcher	1
+Track Geo Stats	State	Snitcher	1
+Track Geo Stats	ISP	Snitcher	0
+Track Geo Stats	Country	Snitcher	1
+Track Geo Stats	Organization Name	Hitsteps	1
+Track Geo Stats	City	Hitsteps	1
+Track Geo Stats	State	Hitsteps	1
+Track Geo Stats	ISP	Hitsteps	1
+Track Geo Stats	Country	Hitsteps	1
+Track Geo Stats	Organization Name	FullStory	0
+Track Geo Stats	City	FullStory	0
+Track Geo Stats	State	FullStory	1
+Track Geo Stats	ISP	FullStory	1
+Track Geo Stats	Country	FullStory	1

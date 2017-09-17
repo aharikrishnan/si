@@ -1,0 +1,29 @@
+feature_group	feature	Infor10 EAM Business	Infor10 EAM Enterprise Sustainability	Web Work Enterprise CMMS	WOW! On the Web	Azzier
+Functionality	Capital Program Management	0	0	1	0	0
+Functionality	Environmental Sustainability	0	1	1	0	0
+Functionality	Inventory Management	1	1	1	0	1
+Functionality	Maintenance Management	1	1	1	0	1
+Functionality	Move Management	0	0	1	0	1
+Functionality	Predictive Maintenance	0	0	1	0	1
+Functionality	Space Management	0	0	1	0	1
+Functionality	Work Order Management	1	0	1	1	1
+Functionality	Asset Management	1	1	1	1	1
+Functionality	Preventive Maintenance	1	1	1	1	1
+Features	Barcode Scanning	0	0	1	0	1
+Features	Document Management	0	0	1	0	1
+Features	Project Management	0	0	1	1	1
+Features	Relationship Management	0	0	1	0	0
+Features	Timecard Management	0	0	1	0	0
+Features	Equipment Management	1	1	1	1	1
+Features	Maintenance Scheduling	1	1	1	1	1
+Admin Features	Calendar	1	0	1	0	0
+Admin Features	Mobile Access	0	0	1	1	1
+Admin Features	Multiple Currencies	0	0	1	0	1
+Admin Features	Multiple Languages	0	0	1	0	1
+Admin Features	Multiple Locations	0	1	1	0	1
+Admin Features	Reporting & Analytics	0	0	1	0	1
+Customization Features	Category Customization	0	1	1	0	0
+Customization Features	Custom User Interface	0	1	1	0	0
+Customization Features	Customizable Fields	0	0	1	0	1
+Customization Features	Customizable Functionality	0	0	1	0	1
+Customization Features	Customizable Reports	0	1	1	1	0

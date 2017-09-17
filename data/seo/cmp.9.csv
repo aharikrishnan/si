@@ -1,0 +1,41 @@
+feature_group	feature	Keyword Density Comparison	iWebTool Keyword Density Checker	Keyword Eye	Link Detective	LinkResearchTools	Link Research Tools	linkdiagnosis	LipperHey.com	Majestic SEO Backlink Analyzer	Microsoft SEO Toolkit
+Site Optimization	Analytics	0	0	1	0	1	1	0	1	0	1
+Site Optimization	Domain Age	0	0	1	0	0	0	0	1	1	0
+Site Optimization	Duplicate Content	0	0	0	0	0	0	0	0	0	1
+Site Optimization	PageRank Analysis	0	0	0	1	1	1	1	1	1	1
+Site Optimization	Robots.txt Management	0	0	0	0	0	0	0	1	0	1
+Site Optimization	SEO Recommendations	0	0	0	0	0	0	0	1	0	1
+Site Optimization	Sitemap Management	0	0	0	0	0	0	0	0	0	1
+Site Optimization	Social Media Integration	0	0	0	0	0	1	0	1	0	0
+Site Optimization	Spider	0	0	0	0	0	0	0	1	0	0
+Site Optimization	Subdomain Analytics	0	0	0	0	0	0	0	0	1	0
+Site Optimization	Title/Meta Management	0	0	0	0	0	0	0	1	0	1
+Site Optimization	Unindexed Pages	0	0	0	0	0	0	1	0	0	1
+Competitive Analysis	Competitor Backlink Analysis	0	0	0	1	1	1	0	0	0	0
+Competitive Analysis	Competitor Keyword Analysis	0	0	1	0	1	1	0	0	0	0
+Competitive Analysis	Competitor Link Metrics	0	0	0	1	1	1	0	1	0	0
+Competitive Analysis	Competitor Ranking	0	0	0	1	1	0	0	1	0	0
+Competitive Analysis	Domain Comparison	0	0	0	0	1	1	0	1	0	0
+Keyword Research	Keyword Density Analysis	1	1	1	0	0	0	0	0	0	0
+Keyword Research	Keyword Difficulty Analysis	0	0	0	0	0	0	0	1	0	0
+Keyword Research	Keyword Performance	0	1	0	0	1	1	0	1	0	0
+Keyword Research	Keyword Suggestion	0	1	1	0	0	1	0	1	0	0
+Link Management	Backlink Management	0	0	0	0	1	1	1	1	1	0
+Link Management	Broken Links	0	0	0	0	1	1	0	1	0	1
+Link Management	Link Analysis	0	0	0	1	1	1	0	1	1	1
+Link Management	Link Anchor Text	0	0	1	1	1	1	1	1	1	0
+Link Management	Link Partner Analysis	0	0	0	0	1	1	0	0	0	0
+Link Management	Link Popularity	0	0	0	0	1	1	1	1	0	0
+Promotion Features	Affiliate Program	0	1	1	0	0	1	0	0	0	0
+Promotion Features	PPC/CPC Ad Tracking	0	0	1	0	1	0	0	0	0	0
+Reports	Backlinks Report	0	0	0	0	1	1	1	1	1	0
+Reports	Competitive Analysis Report	0	0	1	0	0	1	1	0	0	0
+Reports	Keyword Report	1	1	1	0	1	0	0	1	0	0
+Reports	Link Building Report	0	0	0	0	1	0	0	0	0	0
+Reports	Search Engine Report	0	0	1	0	0	0	0	1	0	1
+Reports	Site/Page Structure Report	0	0	0	0	0	1	0	0	0	0
+Reports	Traffic Report	0	0	0	0	0	0	0	1	0	1
+Integrations	Google AdWords	0	0	1	0	0	0	0	0	0	0
+Integrations	Google Analytics	0	0	0	0	0	1	0	1	0	0
+Integrations	SEOMoz Landscape data	0	0	0	0	0	0	1	0	0	0
+Integrations	Websphere	0	0	0	0	0	0	0	1	0	0

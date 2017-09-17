@@ -1,0 +1,16 @@
+feature_group	feature	Carestream Health	EMRConnect	Anesthesia Touch	SilkOne	InPracSys	OD Link	Doctorsoft Corporation	MS Group Software	Sectra North America	TechSoft
+Solutions Available	Electronic Medical Records	1	1	1	1	0	1	1	1	1	1
+Solutions Available	Medical Billing	1	0	1	1	1	1	1	1	1	0
+Solutions Available	Patient Scheduling	1	0	1	1	1	1	0	1	1	1
+Solutions Available	Practice Management	1	0	0	1	0	1	1	1	1	1
+Features	API Available	1	0	0	0	0	0	0	0	1	0
+Features	Claim Scrubber	0	0	0	0	0	0	0	0	0	1
+Features	Document Management	1	0	1	0	0	1	0	0	1	1
+Features	E-Prescribing	1	0	1	0	1	0	1	1	0	1
+Features	Electronic Remittance Advice	1	0	0	0	0	0	0	0	0	0
+Features	Insurance Verification	1	0	0	1	0	0	0	1	0	0
+Features	Lab Orders and Results	1	1	1	0	1	0	1	1	1	1
+Features	Online Booking	1	0	0	0	0	0	0	0	0	0
+Features	Patient Portal	1	0	0	1	1	0	1	1	0	0
+Features	Reporting Dashboard	1	1	1	0	0	0	1	0	1	1
+Features	Speech Recognition	0	0	0	0	0	0	1	0	1	0

@@ -1,0 +1,17 @@
+feature_group	feature	A.I. Med	AdvancedMD	Dermatology	IMS Clinical	Practice Studio	Benchmark Clinical	MedSym	Compulink Advantage EHR	Allscripts Professional	Valant EHR for Behavioral Health
+Solutions Available	Electronic Medical Records	1	1	1	1	1	1	1	1	1	1
+Solutions Available	Medical Billing	1	1	1	1	1	1	1	1	1	1
+Solutions Available	Patient Scheduling	1	1	1	1	1	1	1	1	1	1
+Solutions Available	Practice Management	1	1	1	1	1	1	1	1	1	1
+Features	API Available	0	1	0	0	0	0	0	1	1	0
+Features	Claim Scrubber	0	1	0	1	1	1	0	1	1	1
+Features	Credit Card Processing	1	1	0	0	1	0	0	0	0	1
+Features	Electronic Remittance Advice	0	1	0	0	1	0	0	1	1	1
+Features	Insurance Verification	1	1	1	1	1	0	1	1	1	1
+Features	Online Booking	0	0	0	0	1	0	0	1	1	1
+Features	Patient Portal	1	1	0	1	1	1	1	1	1	1
+Features	Reporting Dashboard	1	1	0	1	1	1	0	1	1	1
+Features	Speech Recognition	0	0	0	1	0	0	0	0	0	1
+Features	Document Management	1	1	1	1	1	1	1	1	1	1
+Features	E-Prescribing	1	1	1	1	1	1	1	1	1	1
+Features	Lab Orders and Results	1	1	1	1	1	1	1	1	1	1

@@ -1,0 +1,90 @@
+feature_group	feature	ProjectManager.com	Mavenlink	ZilicusPM	Planbox	ZingProject	Breeze	Wunderlist for Business	Eylean	Comindware Project	Talygen
+Main Functionality	Agile Project Management	1	0	0	1	0	1	0	1	0	0
+Main Functionality	Budgeting	1	1	1	0	1	1	0	1	0	1
+Main Functionality	Customization	0	0	1	1	1	1	1	0	0	1
+Main Functionality	Issue Tracking	1	1	1	1	1	1	0	1	0	1
+Main Functionality	Learning and Support	1	1	1	1	1	1	1	1	0	1
+Main Functionality	Notifications	1	1	1	1	1	1	1	1	0	1
+Main Functionality	Reporting	1	1	1	1	1	1	0	1	1	1
+Main Functionality	Resource Management	1	1	1	1	1	1	0	1	1	1
+Main Functionality	Collaboration	1	1	1	1	1	1	1	1	1	1
+Main Functionality	Task Management	1	1	1	1	1	1	1	1	1	1
+Main Functionality	Traditional Project Management	1	1	1	1	1	1	1	1	1	1
+Traditional Project Management	Cross Project Dependencies	1	1	1	0	0	0	0	0	1	0
+Traditional Project Management	Interactive Gantt Charts	1	1	1	1	0	0	0	0	1	1
+Traditional Project Management	Mind Maps	0	0	0	0	0	0	0	0	1	0
+Traditional Project Management	Project Hierarchy	0	1	1	0	1	1	0	0	0	0
+Traditional Project Management	Project Portfolio Management	0	0	1	1	0	0	0	0	0	0
+Traditional Project Management	Project Templates	1	1	1	1	1	1	0	1	1	0
+Traditional Project Management	Risk/Benefit Analyzer	1	0	1	0	0	1	0	0	0	0
+Traditional Project Management	Supports Multiple Projects	0	0	1	0	1	1	0	1	0	1
+Traditional Project Management	Calendar	1	1	1	1	1	1	1	1	1	1
+Traditional Project Management	Scheduling	1	1	1	1	1	1	1	1	1	1
+Agile Project Management	Burndown Charts	0	0	0	1	0	0	0	1	0	0
+Agile Project Management	Card View	0	0	0	0	0	1	0	0	0	0
+Agile Project Management	Cycle Time Analytics	1	0	0	0	0	1	0	1	0	0
+Agile Project Management	Kanban	0	0	0	1	0	1	0	1	0	0
+Agile Project Management	Manage Product Backlog	0	0	0	1	0	1	0	1	0	0
+Agile Project Management	Scrum Methodology	0	0	0	1	0	0	0	1	0	0
+Agile Project Management	User Stories	1	0	0	1	0	1	0	1	0	0
+Task Management	Add Recurring Tasks	0	1	1	1	1	1	1	1	0	1
+Task Management	Assign Stakeholders	1	0	0	0	0	1	0	1	0	0
+Task Management	Group Tasks by Projects	0	1	1	1	0	1	0	1	1	1
+Task Management	Set Priorities	0	1	1	1	1	1	0	1	1	1
+Task Management	Task History	1	1	1	1	1	1	1	1	1	0
+Task Management	To-Do List	1	1	1	1	1	1	1	1	1	1
+Issue Tracking	Code Integration	0	0	1	0	1	0	0	1	0	1
+Issue Tracking	Issue History	1	0	1	0	1	1	0	1	0	0
+Issue Tracking	Multiple Workflows	0	0	1	1	1	1	0	1	0	0
+Collaboration	Create Teams/Groups	1	1	1	0	1	1	1	1	1	1
+Collaboration	Forums	1	1	1	1	0	1	1	1	1	1
+Collaboration	Messaging or Instant Messaging	1	1	1	1	1	1	1	0	1	1
+Collaboration	RSS Feed	1	0	0	0	0	0	0	0	0	0
+Collaboration	Social Collaboration Platform	0	1	1	1	1	1	1	1	1	0
+Collaboration	Web Conferencing	0	0	1	0	0	0	0	0	0	0
+Collaboration	Wiki	0	0	0	0	0	1	0	0	0	0
+Collaboration	Document Management	1	1	1	1	1	1	1	1	1	1
+Resource Management	Allocate Resource by Skill Sets	1	1	1	1	1	1	0	0	0	1
+Resource Management	Cross Project Resource Allocation	1	0	1	0	0	0	0	0	1	1
+Resource Management	Forecast Resource Needs	1	0	1	0	0	1	0	1	1	1
+Resource Management	User/Role Based Permissions	0	0	1	0	0	0	0	1	0	0
+Budget and Expenses	Create Budgets	0	1	1	0	1	1	0	0	0	1
+Budget and Expenses	Forecast Budgets	0	0	1	0	1	1	0	1	0	1
+Budget and Expenses	Manage Expenses	1	1	1	0	0	1	0	1	0	1
+Budget and Expenses	Set Hourly Rates	0	0	1	0	0	0	0	0	0	1
+Budget and Expenses	Track Burn Rate	0	1	1	0	0	0	0	1	0	1
+Budget and Expenses	Track Project Hours	1	1	1	0	1	1	0	1	1	1
+Budget and Expenses	Track Staff Hours	1	1	1	0	1	1	0	1	1	1
+Reporting	Custom Reports	1	0	1	1	0	0	0	1	0	0
+Reporting	Dashboard	1	1	1	1	1	1	0	1	1	1
+Reporting	Financial Reports	1	1	1	0	0	0	0	1	0	1
+Reporting	Resource Reports	1	1	1	0	1	1	0	1	0	1
+Notifications	Custom Notifications	0	0	0	0	0	0	0	0	1	1
+Notifications	Email Integration	1	1	1	0	1	1	1	1	1	1
+Notifications	Notification Groups	0	0	0	0	0	0	1	0	0	0
+Customization	Curated Features	0	0	0	1	1	0	0	0	0	1
+Customization	Custom Fields	0	0	1	0	1	0	0	0	0	1
+Customization	Custom Labels	0	0	0	0	1	0	0	0	0	0
+Customization	Custom User Interface	0	0	1	1	0	1	1	0	0	0
+Learning and Support	24/7	0	1	1	0	0	0	0	0	0	0
+Learning and Support	Brochures	1	0	1	0	0	0	0	1	1	0
+Learning and Support	Email	1	1	1	1	1	1	1	1	0	0
+Learning and Support	FAQ	1	1	1	1	0	1	1	0	0	1
+Learning and Support	Forums	1	1	0	0	0	0	0	0	0	1
+Learning and Support	Help Desk	0	0	1	0	0	0	0	0	1	1
+Learning and Support	Instructional Videos	1	1	1	0	0	1	0	0	0	1
+Learning and Support	Knowledge base	0	1	1	1	0	0	0	0	1	1
+Learning and Support	Live chat	0	1	1	1	0	0	0	0	1	1
+Learning and Support	Mailing List	0	0	0	0	0	0	0	0	0	1
+Learning and Support	Normal business hours	0	1	0	0	0	0	0	0	0	0
+Learning and Support	Online self serve	0	0	1	0	0	0	0	0	0	0
+Learning and Support	Owner's/User Manual	0	0	0	0	0	0	0	0	1	0
+Learning and Support	Phone	0	1	1	1	0	0	0	1	1	1
+Learning and Support	Recorded demos	1	0	1	0	0	0	0	1	0	0
+Learning and Support	Remote Training	0	0	0	0	0	0	0	0	1	0
+Learning and Support	Request form	0	1	1	0	1	1	0	0	0	1
+Learning and Support	System upgrades	0	1	1	0	0	0	0	1	0	0
+Learning and Support	Tips and hints	1	0	1	0	0	0	0	0	0	0
+Learning and Support	Webinars	1	1	0	0	0	0	0	0	0	1
+Learning and Support	White papers	0	0	0	1	0	0	0	0	0	0
+Learning and Support	Blog	1	1	1	1	1	1	1	1	1	1

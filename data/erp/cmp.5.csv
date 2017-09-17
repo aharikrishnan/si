@@ -1,0 +1,59 @@
+feature_group	feature	OPTIMUM	Kenandy	Aquilon ERP	JustFoodERP	entrée V4 SQL	Accolent ERP	Agility	bcFood	InFocus	Chempax
+Main Functionality	Business Intelligence	1	1	1	0	1	0	1	0	1	0	1	1	1	0	1	0	1	0	1	0
+Main Functionality	CRM	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1
+Main Functionality	eCommerce	0	0	0	0	1	1	1	1	1	0	0	0	0	0	1	1	1	1	1	0
+Main Functionality	Human Resources	1	0	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0
+Main Functionality	Inventory	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1
+Main Functionality	Maintenance	1	0	1	0	0	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0
+Main Functionality	Manufacturing	0	1	1	1	0	1	0	1	1	1	0	1	1	1	0	1	0	1	1	1
+Main Functionality	Sales & Marketing	0	0	1	0	1	1	0	1	1	0	0	0	1	0	1	1	0	1	1	0
+Main Functionality	Supply Chain	0	1	0	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0
+Main Functionality	Accounting	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Main Functionality	Project Management	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Accounting Features	Accrual-Based Costing	0	0	0	0	0	0	0	0	1	0
+Accounting Features	Analytic Accounting	0	0	1	0	0	0	0	1	0	0
+Accounting Features	Bank Reconciliation	1	1	1	1	1	1	0	1	1	0
+Accounting Features	Budgeting & Forecasting	1	1	1	1	0	1	1	1	1	1
+Accounting Features	Tax Preparation	0	1	1	0	0	0	0	0	0	0
+Accounting Features	Billing & Invoicing	1	1	1	1	1	1	1	1	1	1
+Business Intelligence Features	Custom Dashboards	0	1	0	0	1	0	0	0	1	0
+Business Intelligence Features	Custom Reports	1	1	1	0	1	0	1	0	1	0
+Business Intelligence Features	Predictive Analytics	1	0	0	0	0	0	0	0	0	0
+Business Intelligence Features	Role-Based Dashboards	0	1	1	0	1	0	1	0	0	0
+CRM Features	Call Center Support	0	1	0	0	0	0	1	0	0	0
+CRM Features	Contact Management	1	1	1	1	1	0	0	0	0	0
+CRM Features	Customer Self-Service	0	1	1	0	1	1	1	0	0	1
+CRM Features	Estimating & Quoting	1	0	1	0	0	0	0	1	0	0
+CRM Features	Help Desk	1	0	1	1	0	0	0	0	0	0
+CRM Features	Knowledge Base	0	1	0	0	1	1	0	1	0	0
+CRM Features	Sales Force Automation	1	1	0	1	0	1	1	0	0	0
+eCommerce Features	Custom Design	0	0	0	0	1	0	1	1	1	0
+eCommerce Features	Custom Pricing	0	0	0	0	1	1	0	0	0	0
+eCommerce Features	Shopping Cart	0	0	0	0	1	1	0	0	0	0
+HR Features	Benefits	1	0	0	0	1	0	1	1	1	0
+HR Features	Employee Self-Service	1	0	0	0	1	0	0	0	0	0
+HR Features	Leave Management	1	0	0	0	0	0	0	0	0	0
+HR Features	Payroll	1	0	1	1	1	1	0	1	1	0
+HR Features	Recruiting	1	0	0	0	0	0	0	0	0	0
+HR Features	Time & Attendance	1	0	1	0	0	0	0	0	1	0
+HR Features	Training	1	0	0	0	1	1	1	1	1	0
+Inventory Features	Fleet Management	0	0	0	0	1	0	0	0	0	0
+Inventory Features	Inventory Forecasting	1	0	1	0	1	0	0	0	0	1
+Inventory Features	Multi-Location	1	0	0	1	1	1	1	1	0	0
+Inventory Features	Reorder Triggers	1	0	0	0	1	0	0	0	0	0
+Inventory Features	Tagging	0	1	1	0	0	0	0	1	0	1
+Maintenance Features	Fixed Assets	1	1	1	0	0	0	0	1	0	0
+Manufacturing Features	Change Control	0	0	1	0	0	0	0	0	0	0
+Manufacturing Features	Quality Management	0	1	0	1	0	0	0	1	0	1
+Manufacturing Features	Sampling	0	0	0	0	0	1	0	1	1	0
+Project Management Features	Agile	0	1	0	0	0	1	1	1	0	0
+Project Management Features	Gantt Charts	0	0	0	0	0	0	0	0	1	0
+Project Management Features	Issue Tracking	1	0	0	0	1	0	1	0	0	0
+Project Management Features	Resource Management	0	1	1	1	0	0	0	0	1	1
+Sales & Marketing Features	Commissions	0	0	1	0	1	1	0	1	1	0
+Sales & Marketing Features	Email/SMS Marketing	0	0	0	0	1	1	0	0	0	0
+Supply Chain Management Features	Demand Forecasting	0	1	0	0	1	1	0	1	0	0
+Supply Chain Management Features	Inspection of Goods	0	1	0	0	0	0	0	1	0	0
+Supply Chain Management Features	Order to Cash	0	1	0	0	1	0	1	0	0	0
+Supply Chain Management Features	Product Configurator	0	1	0	1	1	0	0	0	0	0
+Supply Chain Management Features	Request for Proposal	0	0	0	0	0	0	0	1	0	0

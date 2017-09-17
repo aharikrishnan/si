@@ -1,0 +1,17 @@
+feature_group	feature	ChartLogic	Praxis EMR	NextGen Ambulatory	Nortec	Aprima	NueMD	EncounterWorks	AllegianceMD	Nextech IntelleChart	ChiroSpring
+Solutions Available	Medical Billing	1	1	0	1	1	1	1	1	0	1
+Solutions Available	Patient Scheduling	1	1	0	1	1	1	1	1	0	1
+Solutions Available	Electronic Medical Records	1	1	1	1	1	1	1	1	1	1
+Solutions Available	Practice Management	1	1	1	1	1	1	1	1	1	1
+Features	API Available	0	1	0	0	0	0	0	0	0	0
+Features	Claim Scrubber	1	1	1	0	1	1	1	1	0	0
+Features	Credit Card Processing	1	1	0	1	1	1	1	0	0	0
+Features	Document Management	1	1	1	1	1	0	1	1	0	1
+Features	E-Prescribing	1	1	1	1	1	1	1	1	1	0
+Features	Electronic Remittance Advice	1	0	0	0	1	0	0	1	0	1
+Features	Insurance Verification	1	0	0	1	1	0	1	1	0	0
+Features	Lab Orders and Results	1	1	0	1	1	1	1	1	0	1
+Features	Online Booking	0	0	0	1	0	1	0	0	0	0
+Features	Patient Portal	1	1	1	1	1	1	1	1	0	0
+Features	Reporting Dashboard	0	0	1	0	1	0	1	1	0	1
+Features	Speech Recognition	1	0	0	0	1	0	0	0	0	0

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chrome-launcher": "^0.7.0",
+    "mongoose": "^4.11.11",
+    "puppeteer": "^0.10.2"
+  }
+}

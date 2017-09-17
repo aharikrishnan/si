@@ -1,0 +1,16 @@
+feature_group	feature	Elekta	WellCentive	Varian Medical Systems	True EHR™	SOAPware	Intermountain Healthcare	CIOX Health	Sammy Systems	Beth Israel Deaconess Medical Center	Crystal Practice Management
+Solutions Available	Electronic Medical Records	1	0	1	0	1	1	1	0	1	1
+Solutions Available	Medical Billing	1	0	1	0	1	1	0	1	1	1
+Solutions Available	Patient Scheduling	1	0	1	0	1	1	0	1	0	1
+Solutions Available	Practice Management	1	0	1	0	1	1	0	1	1	1
+Features	API Available	1	1	1	0	0	1	0	0	1	1
+Features	Claim Scrubber	0	0	1	0	0	0	0	1	0	1
+Features	Credit Card Processing	1	0	1	0	0	1	0	1	1	0
+Features	Document Management	1	0	1	0	1	1	1	1	0	1
+Features	E-Prescribing	1	0	0	0	1	1	0	0	1	1
+Features	Electronic Remittance Advice	0	0	0	0	0	0	0	0	0	1
+Features	Insurance Verification	0	0	0	0	0	0	0	1	0	1
+Features	Lab Orders and Results	0	0	0	0	1	1	0	0	0	1
+Features	Patient Portal	1	1	1	0	1	1	0	1	1	1
+Features	Reporting Dashboard	1	1	0	0	1	1	0	0	0	0
+Features	Speech Recognition	0	0	0	0	1	0	0	0	0	0

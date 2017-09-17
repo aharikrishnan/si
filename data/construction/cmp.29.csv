@@ -1,0 +1,47 @@
+feature_group	feature	Union Square	eTEK Construction Systems	Spectrum Construction Software	BuildTopia	Docunet	FastTrack Schedule	ContactWise CRM	FieldOne Sky	Vision InfoSoft Plumbing Bid Manager Plus	Builder Information System: Essential Edition
+Functionality	Project Management	1	1	1	1	1	1	1	1	1	0
+Functionality	Estimating	0	1	1	1	0	0	0	0	1	0
+Functionality	Accounting	0	1	1	1	0	0	0	1	1	1
+Project Management Features	Bidding	1	0	1	1	1	0	0	1	1	0
+Project Management Features	Change Orders	0	1	1	1	1	1	0	1	1	0
+Project Management Features	Contract Management	0	0	0	1	0	1	0	1	0	0
+Project Management Features	Cost Management	1	1	0	1	1	1	0	1	1	1
+Project Management Features	Daily Log	0	0	0	1	0	1	0	1	0	0
+Project Management Features	Document Management	1	0	1	1	1	1	1	1	1	0
+Project Management Features	Equipment Management	0	1	1	1	0	0	0	1	0	0
+Project Management Features	Facility Management	0	0	0	0	1	0	0	1	0	0
+Project Management Features	Gantt Chart Master Schedule	0	0	0	0	0	0	0	0	1	0
+Project Management Features	Procurement	0	0	0	1	0	0	0	0	0	0
+Project Management Features	Punch List	0	0	0	1	0	1	0	0	1	0
+Project Management Features	RFIs/Submittals	0	0	0	0	1	0	0	0	0	0
+Project Management Features	Scheduling	1	0	1	1	1	1	1	1	1	0
+Project Management Features	Timecard	1	0	0	0	0	1	0	1	0	0
+Estimating Features	"What-if" Analysis	0	0	0	0	0	0	0	0	1	0
+Estimating Features	Bid Comparison	0	0	1	0	0	0	0	0	1	0
+Estimating Features	Conceptual Estimates	0	0	0	0	0	0	0	0	1	0
+Estimating Features	Cost Database	1	0	0	0	0	0	0	0	1	0
+Estimating Features	Excel/PDF File Import	0	0	0	0	1	0	0	0	0	0
+Estimating Features	Item List	0	1	0	0	0	0	0	0	1	0
+Estimating Features	On-Screen Takeoff	0	0	0	0	0	0	0	0	1	0
+Estimating Features	Proposal Generator	0	0	0	0	0	0	0	1	1	0
+Accounting Features	Accounts Payable	0	1	1	0	0	0	0	0	0	1
+Accounting Features	Accounts Receivable	0	1	1	0	0	0	0	0	0	1
+Accounting Features	AIA Billing	0	1	0	0	0	0	0	0	0	1
+Accounting Features	Bank Reconciliation	0	0	0	0	0	0	0	0	0	1
+Accounting Features	Fixed Assets	0	1	1	0	0	0	0	1	0	0
+Accounting Features	General Ledger	0	1	1	0	0	0	0	0	0	1
+Accounting Features	Inventory Management	0	1	1	0	0	0	0	1	0	0
+Accounting Features	Job Costing	1	1	1	1	0	0	0	1	1	1
+Accounting Features	Materials Management	0	1	1	0	0	0	0	0	1	0
+Accounting Features	Payroll Processing	0	1	1	0	0	0	0	0	0	1
+Accounting Features	Purchase Order	0	1	1	1	0	0	0	1	1	0
+Accounting Features	Time & Materials Billing	0	1	1	0	0	0	0	1	1	1
+Service Management Features	Dispatch	0	0	1	0	0	0	0	1	0	0
+Service Management Features	Inventory Management	0	1	1	0	0	0	0	1	0	0
+Service Management Features	Service Contracts	0	0	1	1	0	0	1	0	0	0
+Service Management Features	Work Orders	0	1	1	1	1	0	1	1	0	0
+Integration	Bi-directional Sync	0	0	0	0	0	0	1	0	0	0
+Integration	Sync Frequency Definition	0	1	1	0	0	0	0	1	0	0
+Reporting	Custom Dashboards	0	1	0	0	0	0	0	0	0	0
+Reporting	Custom Reports	0	0	0	0	0	0	1	1	1	0
+Reporting	User Actions	1	0	0	0	0	0	0	0	0	0

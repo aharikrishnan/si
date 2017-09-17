@@ -1,0 +1,46 @@
+feature_group	feature	ConstructBuy.com	Knowify for Contractors	Plumbing Bid Manager™	EstimatorXpress	GenieBelt	Fieldwire	Bridgit	SKYSITE	Clixifix	BIM Track
+Functionality	Project Management	1	1	1	0	1	1	1	1	1	1
+Functionality	Estimating	1	1	1	1	0	0	1	1	0	0
+Functionality	Accounting	0	1	1	0	0	0	1	1	0	0
+Project Management Features	Bidding	1	0	1	0	0	0	0	0	0	0
+Project Management Features	Change Orders	0	1	0	1	0	1	1	0	0	0
+Project Management Features	Contract Management	0	1	0	0	1	0	0	1	1	0
+Project Management Features	Cost Management	0	0	1	1	0	1	0	0	0	0
+Project Management Features	Daily Log	0	1	0	0	1	1	0	0	1	0
+Project Management Features	Document Management	1	1	0	1	1	1	1	1	1	0
+Project Management Features	Equipment Management	0	0	0	0	0	0	0	1	0	0
+Project Management Features	Facility Management	0	0	0	1	0	1	0	1	1	0
+Project Management Features	Punch List	0	0	0	0	0	1	1	1	0	0
+Project Management Features	RFIs/Submittals	0	0	0	0	0	1	0	1	1	1
+Project Management Features	Scheduling	0	1	0	0	1	1	0	0	0	0
+Project Management Features	Timecard	0	1	0	0	0	0	0	0	0	0
+Estimating Features	Bid Comparison	0	0	1	0	0	0	0	0	0	0
+Estimating Features	BIM Integration	0	0	0	0	0	0	0	1	0	0
+Estimating Features	Conceptual Estimates	0	0	0	1	0	0	0	0	0	0
+Estimating Features	Cost Database	0	0	1	1	0	0	1	0	0	0
+Estimating Features	Excel/PDF File Import	0	1	0	1	1	1	0	1	1	0
+Estimating Features	Item List	0	0	1	1	1	1	1	0	0	0
+Estimating Features	On-Screen Takeoff	0	0	1	0	0	0	0	0	0	0
+Estimating Features	Proposal Generator	1	1	1	1	0	0	0	0	0	0
+Accounting Features	AIA Billing	0	1	0	0	0	0	0	0	0	0
+Accounting Features	Inventory Management	0	0	0	0	1	0	0	1	0	0
+Accounting Features	Job Costing	0	1	0	1	0	1	1	0	1	0
+Accounting Features	Materials Management	0	1	1	0	0	0	0	0	0	0
+Accounting Features	Purchase Order	0	0	0	1	0	0	0	0	0	0
+Accounting Features	Time & Materials Billing	0	1	1	1	0	1	0	0	0	0
+Service Management Features	Dispatch	0	1	0	0	0	1	0	0	0	0
+Service Management Features	Inventory Management	0	0	0	1	0	0	0	1	0	0
+Service Management Features	Service Contracts	0	0	0	0	1	0	0	1	0	0
+Service Management Features	Service Quotes	0	0	0	0	1	0	0	0	0	0
+Service Management Features	Work Orders	0	0	0	1	1	1	0	1	0	0
+Integration	API for Custom Integrations	0	0	0	0	1	1	0	0	0	1
+Integration	Automatic Field Mapping	0	0	0	0	0	0	0	0	0	1
+Integration	Bi-directional Sync	0	0	0	0	0	0	0	0	0	1
+Integration	Sync Frequency Definition	0	0	0	0	0	1	0	0	0	0
+Integration	Unlimited Custom Objects	1	0	0	0	0	0	0	1	0	1
+Reporting	Custom Dashboards	0	1	0	0	1	0	0	1	0	1
+Reporting	Custom Reports	0	1	0	0	1	1	1	0	1	1
+Reporting	Exportable Reports	0	1	0	1	1	1	1	0	1	1
+Reporting	Permissions	0	0	0	0	1	1	0	0	0	1
+Reporting	Regulatory	0	0	0	0	0	0	0	0	0	1
+Reporting	User Actions	0	0	0	0	1	0	0	1	0	1

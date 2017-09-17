@@ -1,0 +1,76 @@
+feature_group	feature	CartXpress	CashCowCart	cf_ezcart ColdFusion	Comersus	XSE Shopping Cart	CoolCart	Xsquizzit	1st4webshops	eComNation	Aabaco Small Business
+Features	Add Product Attributes	0	0	1	1	1	1	1	1	1	1
+Features	Affiliates Program	1	0	1	1	1	0	0	1	0	0
+Features	Content Management	0	0	0	0	1	1	1	1	1	1
+Features	Customer Registration	1	1	0	1	1	1	1	1	0	1
+Features	Design Features	1	1	1	1	1	0	1	1	1	1
+Features	Digital Goods	0	1	0	1	1	1	0	1	1	0
+Features	Edit Customers	1	0	0	1	1	0	0	1	0	0
+Features	Edit Product Order	0	0	1	0	1	0	0	0	0	0
+Features	Email When Sale is Made	0	1	0	1	1	1	1	1	0	1
+Features	Inventory Reports	0	1	1	1	1	1	1	0	0	0
+Features	Low Stock Alerts	1	0	0	1	0	1	1	0	1	0
+Features	Mobile User Interface	0	0	0	0	0	0	0	0	1	1
+Features	Newsletters	1	1	0	1	0	0	1	1	0	0
+Features	One Page Checkout	0	0	0	0	0	1	1	1	1	0
+Features	Product Reviews	1	1	1	1	1	0	1	1	1	1
+Features	Sales Reports	1	0	1	1	1	1	1	1	0	0
+Features	Search Engine Optimization Tools	0	1	1	1	0	0	1	1	1	1
+Features	Search Reports	0	1	0	1	0	1	1	0	0	1
+Features	Site Search	1	1	1	0	1	0	1	1	0	1
+Features	Spreadsheet Database Upload	0	0	1	0	0	0	0	0	0	0
+Features	SSL Support	1	1	1	1	0	0	1	1	1	1
+Features	Wish List	1	0	0	1	1	1	0	0	0	0
+Features	Unlimited Products	1	1	1	1	1	1	1	1	1	1
+SEO and Design Features	Auto-Generated Sitemaps	0	0	1	0	0	0	1	1	0	0
+SEO and Design Features	Bulk Image Upload	1	1	0	1	1	0	1	1	1	1
+SEO and Design Features	Bulk Product Import/Export	0	1	0	1	1	1	1	1	0	0
+SEO and Design Features	Custom SEO Tags	0	0	1	0	1	0	1	0	1	1
+SEO and Design Features	Drag and Drop Design	0	0	0	0	0	0	1	0	0	1
+SEO and Design Features	Existing Site Migration	0	0	0	0	0	0	0	1	0	0
+SEO and Design Features	Modifiable HTML/CSS	0	1	0	1	1	1	1	0	1	0
+SEO and Design Features	No Programming Necessary	1	1	0	0	0	0	0	1	0	0
+SEO and Design Features	Optimized URLs	0	0	1	0	0	0	1	1	1	0
+SEO and Design Features	Site Templates	0	0	0	1	1	0	1	1	1	1
+SEO and Design Features	Store/Product Subcategories	1	1	1	1	1	1	0	1	1	1
+SEO and Design Features	Unlimited Store/Product Categories	1	1	1	1	1	0	1	1	0	0
+SEO and Design Features	WYSIWYG Editor	0	0	0	1	1	0	0	1	1	0
+Customer Management Features	Abandonment Tracking	0	0	0	0	0	1	0	0	0	1
+Customer Management Features	Call Logs	0	0	0	0	0	0	1	0	0	0
+Customer Management Features	Customer Account Creation	1	1	0	1	1	1	1	1	1	1
+Customer Management Features	Customer Contact List	0	0	0	0	0	0	0	1	0	0
+Customer Management Features	Customer Order History	1	0	1	1	1	1	1	0	1	1
+Customer Management Features	Customer Profiles	1	0	0	1	1	0	1	1	0	1
+Customer Management Features	Customer Specific Offers	1	1	1	1	0	0	1	1	0	0
+Customer Management Features	Support Desk	0	1	0	1	1	1	0	0	1	1
+Shipping Features	Custom Shipping Rules	0	0	0	0	1	0	1	0	0	1
+Shipping Features	Drop Shipping	0	0	1	0	0	0	1	0	0	0
+Shipping Features	Fedex Price Lookup	1	0	0	1	0	1	0	0	0	0
+Shipping Features	Flat Rate Shipping	1	0	1	0	0	1	0	0	0	0
+Shipping Features	Heavy Freight Shipping	0	0	1	0	0	0	1	0	0	0
+Shipping Features	International Postage Fee Lookup	0	0	0	0	0	0	0	1	1	0
+Shipping Features	Label Printing	0	0	0	1	0	0	0	0	0	1
+Shipping Features	Live Rate Shipping	1	0	0	1	0	1	1	1	0	0
+Shipping Features	Product Specific Tax Rules	0	0	0	0	1	1	1	1	0	0
+Shipping Features	Real Time Package Tracking	0	0	0	1	0	0	0	0	0	0
+Shipping Features	Shipping by Location	1	0	1	0	1	1	1	0	1	1
+Shipping Features	Shipping Price Calculator	0	0	0	1	1	1	0	1	0	0
+Shipping Features	Shipping Weight Calculator	0	1	1	1	0	0	0	1	0	0
+Shipping Features	Tax by Country	1	0	1	1	0	1	0	0	1	0
+Shipping Features	Tax by State	1	0	1	1	1	1	0	0	1	0
+Shipping Features	UPS Price Lookup	1	0	1	1	0	1	0	1	0	1
+Shipping Features	USPS Price Lookup	1	0	0	1	0	1	0	1	0	0
+Shipping Features	Weight Based Shipping	0	1	1	1	1	1	0	1	1	0
+Hosting and Security Features	Antivirus	0	1	0	0	0	1	0	0	0	0
+Hosting and Security Features	Daily Backup	1	1	0	0	1	0	0	1	1	0
+Hosting and Security Features	Data Encryption	0	0	1	1	1	1	1	0	1	0
+Hosting and Security Features	Data Indexing	0	1	1	0	0	0	0	0	0	0
+Hosting and Security Features	Database Caching	1	0	0	0	0	0	0	0	0	1
+Hosting and Security Features	Dedicated SSL	0	0	0	0	1	0	1	1	0	0
+Hosting and Security Features	Firewall Protection	0	1	0	0	1	0	0	0	0	0
+Hosting and Security Features	FTP Access	1	1	0	1	0	0	0	0	0	1
+Hosting and Security Features	Injection Monitoring	0	0	0	1	0	0	0	0	0	0
+Hosting and Security Features	IP Blocking	0	1	0	1	0	0	0	0	0	0
+Hosting and Security Features	PCI Compliance	0	0	0	0	0	1	0	0	0	1
+Hosting and Security Features	Redundant DNS	0	1	0	0	0	0	0	0	0	1
+Hosting and Security Features	Shared SSL	1	0	1	1	0	0	0	0	1	1

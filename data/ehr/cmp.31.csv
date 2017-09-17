@@ -1,0 +1,16 @@
+feature_group	feature	Plexia EMR	VelociDoc	Qk Notes for Providers	QuickPractice	TherapyRehab Plus	ReLiMedEMR	PegasusEMR	TactusMD	e-Medsys	EMRx
+Solutions Available	Electronic Medical Records	1	1	0	1	1	1	1	1	1	1
+Solutions Available	Medical Billing	1	1	0	1	1	1	1	1	1	1
+Solutions Available	Patient Scheduling	1	1	0	1	1	1	1	0	1	1
+Solutions Available	Practice Management	0	1	0	1	1	1	1	1	1	1
+Features	API Available	0	1	0	1	1	1	1	0	0	0
+Features	Claim Scrubber	0	1	0	1	0	1	0	0	0	0
+Features	Credit Card Processing	0	1	0	1	1	0	0	0	0	0
+Features	Document Management	1	1	1	1	1	1	1	1	1	0
+Features	E-Prescribing	0	0	0	0	0	1	1	1	1	1
+Features	Electronic Remittance Advice	0	0	0	0	1	0	0	0	1	0
+Features	Insurance Verification	0	1	0	1	1	0	1	0	1	1
+Features	Lab Orders and Results	0	0	0	0	1	1	1	1	1	1
+Features	Online Booking	1	1	0	0	1	0	1	0	1	0
+Features	Patient Portal	1	0	0	0	0	0	0	0	1	1
+Features	Reporting Dashboard	0	0	0	1	1	1	0	0	1	1

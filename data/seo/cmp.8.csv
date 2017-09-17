@@ -1,0 +1,40 @@
+feature_group	feature	BRL Keyword Density Checker	Google Analytics	Ahrefs	Alexa	BuzzStream Plus	BuzzStream	ClearWebStats Site Report	CognitiveSEO	Foxy SEO Tool	iSEO - SEO Tool for Chrome
+Site Optimization	Analytics	0	1	1	1	1	1	1	1	1	0
+Site Optimization	Domain Age	1	0	1	0	1	1	1	0	0	1
+Site Optimization	Duplicate Content	0	0	0	1	0	0	0	0	0	0
+Site Optimization	HTML Validator	1	0	0	0	0	0	0	0	1	1
+Site Optimization	Robots.txt Management	0	0	1	1	0	0	0	0	0	0
+Site Optimization	SEO Recommendations	1	0	0	0	0	0	0	0	0	0
+Site Optimization	Social Media Integration	0	1	1	1	1	1	1	1	1	0
+Site Optimization	Spider	1	0	0	0	0	0	0	0	1	0
+Site Optimization	Title/Meta Management	1	0	0	1	0	0	0	0	0	0
+Site Optimization	PageRank Analysis	1	1	1	1	1	1	1	1	1	1
+Competitive Analysis	Competitor Backlink Analysis	0	0	1	0	0	0	0	1	0	1
+Competitive Analysis	Competitor Keyword Analysis	0	0	1	0	0	0	0	1	0	1
+Competitive Analysis	Competitor Link Metrics	0	0	1	1	0	1	0	1	0	0
+Competitive Analysis	Competitor Ranking	0	0	1	0	0	0	0	1	0	0
+Competitive Analysis	Domain Comparison	1	0	0	1	0	0	0	1	0	1
+Competitive Analysis	Number of Competing Sites	0	0	0	0	0	0	0	1	0	0
+Keyword Research	Keyword Density Analysis	1	1	0	0	0	0	0	0	1	0
+Keyword Research	Keyword Difficulty Analysis	0	1	0	0	0	0	0	0	0	0
+Keyword Research	Keyword Generator	0	1	0	0	0	0	0	1	0	0
+Keyword Research	Keyword Performance	0	1	0	1	0	0	0	1	1	1
+Keyword Research	Keyword Suggestion	1	0	1	0	0	0	0	0	1	1
+Link Management	Backlink Management	1	0	1	0	1	1	1	1	1	1
+Link Management	Broken Links	0	0	0	1	0	0	0	0	0	0
+Link Management	Link Analysis	0	1	1	1	1	1	0	1	1	0
+Link Management	Link Anchor Text	1	0	1	1	1	1	0	1	0	0
+Link Management	Link Partner Analysis	0	0	1	0	0	0	0	1	0	0
+Link Management	Link Popularity	1	0	0	1	0	1	0	0	0	0
+Link Management	Outbound Link Management	1	0	0	0	0	1	0	1	0	0
+Promotion Features	Affiliate Program	0	0	1	1	0	0	0	1	1	0
+Promotion Features	PPC/CPC Ad Tracking	0	0	0	1	1	1	0	0	0	0
+Reports	Backlinks Report	0	0	1	0	1	1	1	1	0	1
+Reports	Competitive Analysis Report	0	0	1	0	0	0	0	1	0	0
+Reports	Keyword Report	0	1	0	0	0	0	0	1	1	0
+Reports	Link Building Report	0	0	0	0	1	1	0	0	0	0
+Reports	Search Engine Report	0	1	1	0	0	0	0	0	0	0
+Reports	Traffic Report	0	1	0	1	1	1	1	0	1	0
+Integrations	Google AdWords	0	1	0	0	0	0	0	0	0	0
+Integrations	Google Analytics	0	1	1	0	0	1	0	0	1	0
+Integrations	SEOMoz Landscape data	0	0	0	0	0	0	0	1	0	0

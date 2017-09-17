@@ -1,0 +1,16 @@
+feature_group	feature	edgeMED	EncounterNOTES	EMRDoc	Evolution EMR	Experior	GEMMS One	gGastro	Practice Perfect	iMed EMR	Medsys
+Solutions Available	Electronic Medical Records	1	1	1	1	1	0	1	1	1	1
+Solutions Available	Medical Billing	1	1	1	1	1	0	1	1	1	1
+Solutions Available	Patient Scheduling	1	1	0	1	1	1	1	1	1	1
+Solutions Available	Practice Management	1	1	1	1	1	1	1	1	1	1
+Features	API Available	0	0	0	0	0	0	0	1	0	1
+Features	Claim Scrubber	0	1	0	0	0	0	0	1	0	1
+Features	Credit Card Processing	0	0	0	0	0	0	0	1	1	0
+Features	E-Prescribing	1	1	1	1	1	1	1	0	1	0
+Features	Electronic Remittance Advice	1	0	0	0	1	0	0	0	0	1
+Features	Insurance Verification	0	0	1	0	1	1	0	1	0	1
+Features	Lab Orders and Results	1	1	0	1	1	0	1	0	1	1
+Features	Online Booking	0	0	0	0	0	0	0	1	0	1
+Features	Patient Portal	1	1	1	0	1	1	1	0	1	1
+Features	Reporting Dashboard	0	1	1	1	1	0	0	1	1	0
+Features	Document Management	1	1	1	1	1	1	1	1	1	1

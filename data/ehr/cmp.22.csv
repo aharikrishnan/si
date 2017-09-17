@@ -1,0 +1,17 @@
+feature_group	feature	Health Systems Technology	ICANotes	Intelerad Medical Systems	ElationEMR	H-DOX	TRANSMED NETWORK	Ulrich Medical Concepts	Secure EMR	Cyclops Vision Corporation	DNA Data Systems
+Solutions Available	Practice Management	1	1	0	1	1	1	1	0	1	1
+Solutions Available	Electronic Medical Records	1	1	1	1	1	1	1	1	1	1
+Solutions Available	Medical Billing	1	1	1	1	1	1	1	1	1	1
+Solutions Available	Patient Scheduling	1	1	1	1	1	1	1	1	1	1
+Features	API Available	0	0	0	1	1	0	0	0	0	0
+Features	Claim Scrubber	0	0	0	0	0	0	0	1	0	1
+Features	Credit Card Processing	0	1	1	1	1	0	1	0	0	0
+Features	Document Management	1	1	1	1	1	1	1	1	0	1
+Features	E-Prescribing	1	1	0	1	0	1	1	1	1	0
+Features	Electronic Remittance Advice	1	1	0	0	0	0	0	0	0	0
+Features	Insurance Verification	0	1	0	0	0	0	0	1	0	0
+Features	Lab Orders and Results	1	1	0	1	1	1	1	1	0	1
+Features	Online Booking	0	0	0	0	0	0	0	1	0	0
+Features	Patient Portal	1	1	0	1	1	1	1	0	1	0
+Features	Reporting Dashboard	0	0	1	0	1	0	0	0	0	1
+Features	Speech Recognition	0	0	1	0	0	0	0	0	0	0

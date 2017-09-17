@@ -1,0 +1,21 @@
+feature_group	feature	Category SEO Meta Tags	clickworker.com SEO	B2 SEO	Basic SEO Pack	Google Rank Checker - SEO Tool with Google API	Greg's High Performance SEO	SEO Auto Linker	SEO Data Transporter	SEO Facebook Comment	Seo for wordpress
+Site Optimization	Analytics	1	0	0	0	1	0	0	0	0	0
+Site Optimization	Duplicate Content	0	1	0	0	0	1	0	0	0	0
+Site Optimization	HTML Validator	0	0	0	0	0	0	1	0	0	0
+Site Optimization	PageRank Analysis	1	0	1	1	1	1	1	1	0	1
+Site Optimization	Robots.txt Management	0	0	1	0	0	1	0	0	0	0
+Site Optimization	Social Media Integration	0	0	0	0	0	1	0	0	1	0
+Site Optimization	Title/Meta Management	0	0	1	0	0	1	0	1	0	1
+Competitive Analysis	Competitor Keyword Analysis	0	0	0	0	1	0	1	0	0	0
+Keyword Research	Keyword Density Analysis	0	1	0	0	0	0	0	0	0	0
+Keyword Research	Keyword Difficulty Analysis	0	0	0	0	1	0	0	0	0	0
+Keyword Research	Keyword Generator	0	0	1	0	1	0	0	0	0	0
+Keyword Research	Keyword Market Analysis	0	0	0	0	1	0	0	0	0	0
+Keyword Research	Keyword Performance	0	0	0	0	1	1	1	0	0	1
+Link Management	Link Analysis	0	0	0	0	1	0	1	0	0	0
+Promotion Features	PPC/CPC Ad Tracking	0	0	0	0	1	0	0	0	0	0
+Reports	Competitive Analysis Report	0	0	0	0	1	0	0	0	0	0
+Reports	Keyword Report	0	0	0	0	1	0	0	0	0	1
+Reports	Traffic Report	1	0	0	0	1	0	0	0	0	0
+Integrations	Google AdWords	0	0	0	0	1	0	0	0	0	0
+Integrations	Google Analytics	0	0	0	1	0	0	0	0	0	0

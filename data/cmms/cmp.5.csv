@@ -1,0 +1,43 @@
+feature_group	feature	Mainsaver	Maintenance Partner	Maintenance.io	MaintSmart	ManWinWin	Mcentral	MicroWest	MPlan	MPRO 2000	PEMAC Maintenance CMMS
+Functionality	Asset Management	1	1	1	1	0	1	1	1	0	1
+Functionality	Capital Program Management	0	1	0	0	0	0	0	1	0	1
+Functionality	Environmental Sustainability	0	0	0	0	0	0	0	0	0	1
+Functionality	Inventory Management	1	1	1	1	1	1	1	0	1	1
+Functionality	Move Management	0	1	0	0	0	0	0	0	0	0
+Functionality	Predictive Maintenance	0	0	0	0	0	0	0	0	0	1
+Functionality	Preventive Maintenance	0	1	1	1	1	0	1	0	1	1
+Functionality	Real Estate Portfolio Management	0	0	0	1	0	0	0	0	0	0
+Functionality	Work Order Management	0	1	1	1	1	1	1	0	1	1
+Functionality	Maintenance Management	1	1	1	1	1	1	1	1	1	1
+Features	Barcode Scanning	0	0	0	1	0	1	1	0	0	1
+Features	Document Management	0	1	1	1	1	1	1	0	1	1
+Features	Equipment Management	0	1	0	1	1	1	1	1	0	1
+Features	Key & Lock Management	0	1	0	0	0	0	0	0	0	0
+Features	Maintenance Scheduling	0	0	1	1	1	0	1	0	1	1
+Features	Project Management	0	0	0	0	1	1	0	0	0	0
+Features	Timecard Management	0	0	0	0	1	0	0	0	0	0
+Admin Features	Calendar	0	1	1	1	0	1	1	1	0	0
+Admin Features	Mobile Access	0	0	1	0	0	0	0	0	0	1
+Admin Features	Multiple Languages	0	0	0	0	1	0	0	0	0	0
+Admin Features	Multiple Locations	0	1	0	1	0	0	0	0	0	1
+Admin Features	Reporting & Analytics	1	1	0	1	1	1	1	1	1	1
+Customization Features	Custom User Interface	0	1	0	1	1	0	0	0	1	1
+Customization Features	Customizable Fields	0	0	1	0	0	0	0	0	0	0
+Customization Features	Customizable Functionality	0	1	1	1	1	0	0	0	1	0
+Customization Features	Customizable Reports	0	0	0	1	1	0	1	1	1	1
+Support Features	Blog	0	0	1	1	0	0	0	0	0	1
+Support Features	Brochures	0	1	0	0	0	1	1	0	0	1
+Support Features	Email	1	1	0	1	1	1	1	1	1	1
+Support Features	FAQ	0	1	0	0	0	0	0	0	0	1
+Support Features	Help Desk	0	0	1	0	0	0	1	0	0	1
+Support Features	Instructional Videos	0	0	1	1	1	0	0	1	0	0
+Support Features	Mailing List	1	1	0	0	0	0	0	0	0	1
+Support Features	Normal business hours	0	1	0	0	0	0	0	0	0	1
+Support Features	Owner's/User Manual	0	0	0	1	1	0	0	0	0	0
+Support Features	Phone	1	1	0	1	1	1	1	1	1	1
+Support Features	Recorded demos	0	1	1	1	1	0	1	1	1	0
+Support Features	Remote Training	1	0	0	0	0	0	1	0	0	0
+Support Features	Request form	0	1	1	0	1	1	1	1	0	1
+Support Features	System upgrades	0	0	0	0	1	0	0	0	0	0
+Support Features	Tips and hints	0	0	0	0	0	0	0	0	0	1
+Support Features	Webinars	0	1	0	0	0	0	0	0	0	1

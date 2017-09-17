@@ -1,0 +1,60 @@
+feature_group	feature	PTC Creo Parametric - CAD Software By PTC Inc. 	FineELEC - CAD Software By 4M SA 	PTC Creo - CAD Software By PTC Inc. 	4MCAD Classic - CAD Software By 4M SA 	4MCAD Standard - CAD Software By 4M SA 	4MCAD Professional - CAD Software By 4M SA 	FineSANI - CAD Software By 4M SA 	FineHVAC - CAD Software By 4M SA 	3D Turbo by Soft'X - iluac software - CAD Software By Iluac Software 	Rhinoceros - CAD Software By McNeel North America 
+Productivity Features	Archive and Share	1	0	1	0	0	0	0	0	0	0
+Productivity Features	Command Line	0	1	1	1	1	1	1	1	0	1
+Productivity Features	Copy Details	1	1	0	0	1	1	1	1	0	1
+Productivity Features	Design-Model Consistency	1	0	0	0	0	0	0	0	0	0
+Productivity Features	Manage User Roles and Permissions	0	0	0	0	0	0	1	0	0	0
+Productivity Features	Virtual Parts Library	0	1	0	0	0	1	1	1	0	0
+Collaboration Features	2D to 3D CAD Conversion	1	0	1	1	0	1	0	0	1	0
+Collaboration Features	3D Printing	1	0	1	0	0	1	0	0	1	1
+Collaboration Features	3D Viewing Tools	1	1	0	0	0	1	1	0	1	1
+Collaboration Features	Multiple User Reviews	0	1	1	1	1	1	1	1	0	0
+Collaboration Features	Version Control	1	0	1	1	1	1	1	1	0	0
+Advanced Surfacing Features	Click and Drag Geometry	0	1	1	1	1	1	0	1	0	1
+Advanced Surfacing Features	Copy Surface	1	1	1	1	1	1	1	1	0	1
+Advanced Surfacing Features	Create Mid Surfaces	0	0	0	0	0	0	0	0	0	1
+Advanced Surfacing Features	Create Organic Shapes	0	0	0	0	0	0	0	0	0	1
+Advanced Surfacing Features	Create Planar Surfaces	0	0	0	1	0	0	0	0	0	1
+Advanced Surfacing Features	Curvature Analysis	1	0	1	0	0	0	0	0	0	1
+Advanced Surfacing Features	Deviation Analysis	0	0	0	0	0	0	0	0	0	1
+Advanced Surfacing Features	Draft Analysis	1	0	1	1	1	1	0	0	0	1
+Advanced Surfacing Features	Extend	1	1	1	0	0	0	1	0	0	1
+Advanced Surfacing Features	Extrude	1	1	1	0	0	0	0	0	0	1
+Advanced Surfacing Features	Freeform Radiated Surface	1	0	1	0	0	0	0	0	0	0
+Advanced Surfacing Features	Gaussian Analysis	0	0	0	0	0	0	0	0	0	1
+Advanced Surfacing Features	Heal	0	0	0	0	0	0	0	0	0	1
+Advanced Surfacing Features	Loft	0	0	0	0	0	0	0	0	0	1
+Advanced Surfacing Features	Min Radius Analysis	0	0	0	0	0	0	0	0	0	1
+Advanced Surfacing Features	Move/Copy Face	0	1	0	1	0	0	0	0	0	1
+Advanced Surfacing Features	Replace Face	0	0	0	0	0	0	0	0	0	1
+Advanced Surfacing Features	Revolve	1	1	0	0	0	0	0	0	0	1
+Advanced Surfacing Features	Stylize Shapes	0	1	1	0	0	0	0	0	0	1
+Advanced Surfacing Features	Swept	1	0	0	0	0	0	0	0	0	1
+Advanced Surfacing Features	Thickness Analysis	1	0	0	0	0	0	0	0	0	1
+Advanced Surfacing Features	Trim	1	1	1	0	0	0	1	0	0	1
+Advanced Surfacing Features	Undercut Analysis	0	0	0	0	0	0	0	0	0	1
+Advanced Surfacing Features	Zebra Stripes Analysis	0	0	0	0	0	0	0	0	0	1
+Architecture Features	Construction Modeling	0	0	0	0	1	1	0	0	1	1
+Architecture Features	Elevation	0	0	0	0	0	0	1	0	1	0
+Architecture Features	Landscaping Tools	0	0	0	0	0	0	0	0	1	0
+Architecture Features	Stairs and Railings	0	0	0	0	0	0	1	0	0	0
+Architecture Features	Surveying Tools	0	0	0	0	0	0	0	0	0	1
+Architecture Features	Walls, Doors, Windows	0	0	0	0	0	0	1	1	1	0
+Electrical Features	2D Circuit Design	0	1	0	0	0	0	0	1	1	0
+Electrical Features	3D Electrical System Modeling	0	1	0	0	0	0	0	1	1	0
+Electrical Features	Analog Circuit Analysis	0	1	0	0	0	0	0	0	0	0
+Electrical Features	Automatic Wire Numbering	0	1	0	0	0	0	0	0	0	0
+Electrical Features	Detailing Tools	0	1	0	0	0	0	0	1	0	0
+Electrical Features	Digital Circuit Analysis	0	1	0	0	0	0	0	0	0	0
+Electrical Features	Electrical Symbol Library	0	1	0	0	0	0	0	0	0	0
+Electrical Features	Real Time Error Checking	0	1	0	0	0	0	0	0	0	0
+Sheet Metal Design Features	Bend Allowance/Deduction	0	0	1	0	0	0	0	0	0	0
+Sheet Metal Design Features	Bend Lines	1	0	1	0	0	0	0	0	0	0
+Sheet Metal Design Features	Bend Table	0	0	1	0	0	0	0	0	0	0
+Sheet Metal Design Features	Forming Tools	1	0	1	0	0	0	0	0	0	0
+Sheet Metal Design Features	Placement Sketches	1	0	0	0	0	0	0	0	0	0
+Sheet Metal Design Features	Punch Tables	1	0	0	0	0	0	0	0	0	0
+Training	Installation	1	0	1	0	0	0	0	0	0	0
+Training	Maintenance	1	0	1	0	0	0	0	0	0	0
+Training	Training Features	1	0	1	1	1	1	0	0	0	1
+Training	Training Programs	1	1	1	0	0	0	1	1	0	1

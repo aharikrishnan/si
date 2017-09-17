@@ -1,0 +1,59 @@
+feature_group	feature	LibreCAD - CAD Software By LibreCAD 	KeyCreator Direct CAD - CAD Software By Kubotek USA 	AutodDesk Fusion 360 Ultimate - CAD Software By Autodesk Inc. 	DWDRAFT IntelliCAD Premium Edition - CAD Software By TECHSOFT s.r.o. 	KOMPAS-3D - CAD Software By ASCON Group 	Zuken E3 - CAD Software By  Zuken UK Limited 	SkyCiv Structural 3D - CAD Software By SkyCiv Engineering 	TopSolid'Design - CAD Software By Missler Software 	HighDesign - CAD Software By ILEXSOFT 
+Productivity Features	Archive and Share	0	0	0	1	0	0	0	0	0
+Productivity Features	Command Line	1	0	1	1	0	0	0	0	0
+Productivity Features	Copy Details	0	0	1	1	0	0	0	1	0
+Productivity Features	Design-Model Consistency	0	0	1	0	0	1	0	1	0
+Productivity Features	Manage User Roles and Permissions	0	0	0	0	0	1	0	1	0
+Productivity Features	Virtual Parts Library	0	1	0	0	0	1	0	1	1
+Collaboration Features	2D to 3D CAD Conversion	0	0	1	0	0	0	0	1	0
+Collaboration Features	3D Printing	0	0	1	0	0	1	0	0	0
+Collaboration Features	3D Viewing Tools	0	0	0	0	0	1	0	1	0
+Collaboration Features	Multiple User Reviews	0	0	0	0	0	1	1	1	0
+Collaboration Features	Parts Ownership	0	0	1	0	0	1	0	1	0
+Collaboration Features	Version Control	0	0	0	0	0	1	0	1	0
+Advanced Surfacing Features	Click and Drag Geometry	1	0	1	0	0	0	0	1	0
+Advanced Surfacing Features	Copy Surface	1	0	1	0	0	0	0	1	0
+Advanced Surfacing Features	Create Mid Surfaces	0	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Create Organic Shapes	1	1	0	0	0	0	0	0	0
+Advanced Surfacing Features	Create Planar Surfaces	1	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Curvature Analysis	0	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Deviation Analysis	0	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Extend	1	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Extrude	0	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Heal	0	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Knit	1	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Loft	0	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Min Radius Analysis	0	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Move/Copy Face	0	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Replace Face	0	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Revolve	0	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Stylize Shapes	1	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Surface Fill	1	0	0	0	0	0	0	0	0
+Advanced Surfacing Features	Thickness Analysis	0	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Trim	1	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Zebra Stripes Analysis	0	0	0	0	0	0	0	1	0
+Architecture Features	Construction Modeling	0	1	0	0	0	0	1	1	0
+Architecture Features	Stairs and Railings	0	0	0	0	0	0	0	1	0
+Architecture Features	Surveying Tools	0	0	0	0	0	0	0	0	1
+Architecture Features	Walls, Doors, Windows	0	0	0	0	0	0	0	1	1
+Electrical Features	2D Circuit Design	0	0	0	0	0	1	0	0	0
+Electrical Features	3D Electrical System Modeling	0	0	0	0	0	1	0	0	0
+Electrical Features	Analog Circuit Analysis	0	0	0	0	0	1	0	0	0
+Electrical Features	Automatic Wire Numbering	0	0	0	0	0	1	0	0	0
+Electrical Features	Detailing Tools	0	0	0	0	0	1	0	0	0
+Electrical Features	Digital Circuit Analysis	0	0	0	0	0	1	0	0	0
+Electrical Features	Electrical Symbol Library	0	0	0	0	0	1	0	0	0
+Electrical Features	Real Time Error Checking	0	0	0	0	0	1	0	0	0
+Sheet Metal Design Features	Bend Allowance/Deduction	0	0	0	0	0	0	0	1	0
+Sheet Metal Design Features	Bend Lines	1	1	0	0	0	0	0	1	0
+Sheet Metal Design Features	Bend Table	1	1	0	0	0	0	0	1	0
+Sheet Metal Design Features	Forming Tools	0	0	0	0	0	0	0	1	0
+Sheet Metal Design Features	Hole Tables	0	1	0	0	0	0	0	1	0
+Sheet Metal Design Features	Placement Sketches	0	0	0	0	0	0	0	1	0
+Sheet Metal Design Features	Punch Tables	0	0	0	0	0	0	0	1	0
+Sheet Metal Design Features	Toggle Flat Display	0	0	0	0	0	0	0	1	0
+Sheet Metal Design Features	Weld Table	0	0	0	0	0	0	0	1	0
+Training	Installation	1	0	1	1	0	1	0	1	0
+Training	Maintenance	0	1	0	1	0	1	0	1	0
+Training	Training Features	0	0	1	0	0	1	1	1	0
+Training	Training Programs	0	1	1	0	0	1	1	1	0

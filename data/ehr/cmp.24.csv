@@ -1,0 +1,15 @@
+feature_group	feature	DigiDMS	Genius Solutions	Life Systems Software	ChiroWrite	Advanced Provider Solutions	PBSI - Positive Business Solutions	Qvera	SCC Soft Computer	Flexmedical	Center for Diagnostic Imaging
+Solutions Available	Electronic Medical Records	1	1	1	1	0	0	1	1	1	1
+Solutions Available	Medical Billing	1	1	1	1	1	0	1	1	1	0
+Solutions Available	Patient Scheduling	1	1	1	1	1	0	0	1	1	1
+Solutions Available	Practice Management	1	1	1	1	0	0	1	1	1	1
+Features	Claim Scrubber	1	0	0	0	0	0	0	0	0	0
+Features	Credit Card Processing	0	0	1	0	0	0	0	0	0	0
+Features	Document Management	0	1	1	1	1	0	1	1	1	0
+Features	E-Prescribing	1	1	1	1	0	0	0	0	1	0
+Features	Electronic Remittance Advice	0	0	1	0	0	0	0	0	0	0
+Features	Insurance Verification	0	0	1	0	0	0	0	1	0	0
+Features	Lab Orders and Results	0	1	1	1	0	0	0	1	0	0
+Features	Patient Portal	1	0	1	0	1	0	1	0	1	1
+Features	Reporting Dashboard	1	0	0	0	0	0	0	1	0	0
+Features	Speech Recognition	1	0	0	0	0	0	0	0	0	0

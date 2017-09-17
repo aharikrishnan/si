@@ -1,0 +1,75 @@
+feature_group	feature	Alegro Cart	AmeriCart	Big Realm	SecureNetShop	Shop a la Cart	Flashecom eConnect	GoStores	BizWebs	eCOMpal	Esellution
+Features	Add Product Attributes	1	1	1	0	1	1	1	0	1	1
+Features	Affiliates Program	0	1	0	1	0	1	1	0	1	0
+Features	Content Management	0	0	1	1	0	1	1	1	1	1
+Features	Customer Registration	0	1	1	1	1	1	1	1	1	1
+Features	Digital Goods	0	0	1	1	1	1	1	0	1	1
+Features	Edit Customers	0	0	0	1	1	0	1	1	0	0
+Features	Edit Product Order	0	1	0	0	1	0	0	1	0	0
+Features	Email When Sale is Made	0	1	1	1	1	1	1	1	1	1
+Features	Inventory Reports	0	1	1	1	1	1	1	1	1	1
+Features	Low Stock Alerts	1	0	0	1	0	1	0	0	1	1
+Features	Mobile User Interface	0	1	0	0	0	0	0	1	0	1
+Features	Multi-Store Support	0	1	0	0	0	0	1	1	0	0
+Features	Newsletters	0	0	0	0	1	1	1	1	1	1
+Features	One Page Checkout	1	1	0	1	0	1	0	1	1	1
+Features	Product Reviews	1	1	0	1	1	1	1	1	1	1
+Features	Sales Reports	0	1	1	1	1	1	1	1	1	1
+Features	Search Engine Optimization Tools	1	1	1	0	1	1	1	1	1	0
+Features	Search Reports	1	0	0	1	0	0	0	0	1	0
+Features	Site Search	1	0	0	1	1	0	1	1	1	0
+Features	Spreadsheet Database Upload	0	1	0	0	0	1	0	1	0	1
+Features	SSL Support	1	1	0	1	1	1	0	1	0	1
+Features	Unlimited Products	0	1	1	0	1	1	1	1	0	1
+Features	Wish List	1	1	0	1	0	0	0	0	0	0
+Features	Design Features	1	1	1	1	1	1	1	1	1	1
+SEO and Design Features	Auto-Generated Sitemaps	0	0	0	1	0	0	0	1	0	0
+SEO and Design Features	Breadcrumb Navigation	1	1	0	0	0	0	0	0	0	0
+SEO and Design Features	Bulk Product Import/Export	0	0	1	1	1	1	1	1	1	1
+SEO and Design Features	Custom SEO Tags	1	1	0	1	0	1	0	1	1	0
+SEO and Design Features	Drag and Drop Design	0	0	0	0	0	0	1	1	0	1
+SEO and Design Features	Duplicate Content Checker	1	0	0	0	0	0	0	0	0	0
+SEO and Design Features	Existing Site Migration	0	0	0	0	1	0	0	1	0	0
+SEO and Design Features	Modifiable HTML/CSS	1	1	0	1	0	1	0	1	0	1
+SEO and Design Features	No Graphic Design Necessary	0	0	1	0	0	1	1	1	1	0
+SEO and Design Features	No Programming Necessary	0	0	1	0	0	1	1	1	1	1
+SEO and Design Features	Optimized URLs	1	1	1	0	1	1	1	1	1	1
+SEO and Design Features	Site Templates	1	1	0	1	1	0	1	1	0	1
+SEO and Design Features	Store/Product Subcategories	0	1	1	0	0	1	0	1	0	1
+SEO and Design Features	Unlimited Store/Product Categories	1	0	1	1	1	1	1	1	0	1
+SEO and Design Features	WYSIWYG Editor	0	0	0	0	0	0	0	1	0	0
+SEO and Design Features	Bulk Image Upload	1	1	1	1	1	1	1	1	1	1
+Customer Management Features	Abandonment Tracking	1	0	0	0	0	1	1	0	1	0
+Customer Management Features	Customer Account Creation	0	1	1	1	1	1	1	1	1	1
+Customer Management Features	Customer Contact List	0	0	0	0	1	0	1	1	0	0
+Customer Management Features	Customer Order History	0	0	1	1	1	1	1	1	1	1
+Customer Management Features	Customer Profiles	0	0	0	1	1	1	0	1	0	0
+Customer Management Features	Customer Specific Offers	1	1	1	1	1	0	1	0	1	1
+Customer Management Features	Support Desk	0	1	1	1	0	1	1	1	1	1
+Shipping Features	Custom Shipping Rules	0	0	0	1	0	0	1	1	1	1
+Shipping Features	Drop Shipping	0	0	0	1	0	0	0	0	0	1
+Shipping Features	Fedex Price Lookup	0	1	0	1	1	1	1	1	0	0
+Shipping Features	Flat Rate Shipping	1	0	0	1	0	1	1	1	0	0
+Shipping Features	Heavy Freight Shipping	0	0	1	1	0	0	0	0	0	0
+Shipping Features	International Postage Fee Lookup	0	0	1	0	1	0	1	1	1	0
+Shipping Features	Item Box Placement	0	1	0	0	0	1	0	0	0	0
+Shipping Features	Label Printing	0	0	1	1	0	0	0	0	1	0
+Shipping Features	Live Rate Shipping	0	1	0	1	1	0	0	0	1	0
+Shipping Features	Product Specific Tax Rules	1	1	1	1	0	1	0	1	1	0
+Shipping Features	Real Time Package Tracking	1	1	0	1	1	0	1	1	0	1
+Shipping Features	Shipping by Location	1	1	1	1	0	1	0	1	0	0
+Shipping Features	Shipping Price Calculator	1	1	1	1	1	0	1	1	1	1
+Shipping Features	Shipping Weight Calculator	1	1	1	1	1	0	0	0	0	0
+Shipping Features	Tax by Country	0	1	1	1	1	1	1	1	1	0
+Shipping Features	Tax by State	0	1	1	1	1	1	0	0	1	0
+Shipping Features	UPS Price Lookup	0	1	0	1	1	1	1	0	1	0
+Shipping Features	USPS Price Lookup	0	0	0	1	1	1	1	0	1	0
+Shipping Features	Weight Based Shipping	1	1	1	1	0	0	0	0	1	1
+Hosting and Security Features	Daily Backup	0	1	0	0	1	1	0	1	1	1
+Hosting and Security Features	Data Encryption	0	0	1	0	0	0	0	1	0	0
+Hosting and Security Features	Database Caching	0	0	0	0	0	0	0	1	0	0
+Hosting and Security Features	Dedicated SSL	0	0	0	0	0	1	1	0	0	0
+Hosting and Security Features	Firewall Protection	0	0	0	0	0	1	0	0	0	0
+Hosting and Security Features	FTP Access	0	0	1	0	0	0	0	0	0	0
+Hosting and Security Features	PCI Compliance	0	0	0	1	0	0	0	0	0	0
+Hosting and Security Features	Shared SSL	1	1	0	1	1	1	1	1	0	0

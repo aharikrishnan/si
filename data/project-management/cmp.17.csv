@@ -1,0 +1,93 @@
+feature_group	feature	Preview App	STARS	Optimy	Hibox	Confluence	HipChat	G Suite	Lucidchart	ITM Platform	z0 Gravity
+Main Functionality	Agile Project Management	1	1	0	0	0	0	0	1	1	0
+Main Functionality	Budgeting	0	0	1	0	0	0	1	0	1	1
+Main Functionality	Customization	1	1	1	1	0	1	1	0	1	1
+Main Functionality	Issue Tracking	1	0	0	0	0	0	1	0	1	1
+Main Functionality	Learning and Support	0	0	1	0	0	0	1	0	1	1
+Main Functionality	Notifications	1	1	1	1	0	1	1	0	1	1
+Main Functionality	Reporting	0	1	1	0	0	0	1	1	1	1
+Main Functionality	Resource Management	0	0	0	0	0	0	1	0	1	1
+Main Functionality	Task Management	1	1	1	1	0	0	1	1	1	1
+Main Functionality	Traditional Project Management	0	0	1	0	0	1	1	0	1	1
+Main Functionality	Collaboration	1	1	1	1	1	1	1	1	1	1
+Traditional Project Management	Calendar	0	0	1	0	1	1	1	0	0	0
+Traditional Project Management	Cross Project Dependencies	0	0	1	0	0	0	0	0	0	1
+Traditional Project Management	Gate Review Process	0	0	0	0	0	0	0	0	0	1
+Traditional Project Management	Interactive Gantt Charts	0	0	1	0	0	0	1	0	1	1
+Traditional Project Management	Mind Maps	0	0	0	0	0	0	1	0	0	1
+Traditional Project Management	Project Hierarchy	0	0	1	0	0	0	0	1	0	1
+Traditional Project Management	Project Portfolio Management	1	0	0	0	0	0	1	1	1	1
+Traditional Project Management	Project Templates	0	0	1	0	0	0	1	0	0	1
+Traditional Project Management	Risk/Benefit Analyzer	0	0	0	0	0	0	0	0	0	1
+Traditional Project Management	Scheduling	1	0	1	0	1	0	1	1	1	1
+Traditional Project Management	Supports Multiple Projects	1	0	1	0	0	0	1	0	0	1
+Agile Project Management	Burndown Charts	0	0	0	0	0	0	0	1	0	0
+Agile Project Management	Card View	1	1	0	0	0	0	0	0	0	0
+Agile Project Management	Kanban	1	1	0	0	0	0	0	0	1	0
+Agile Project Management	Manage Product Backlog	1	1	0	0	0	0	0	0	0	0
+Agile Project Management	Scrum Methodology	1	1	0	0	0	0	0	0	0	0
+Agile Project Management	User Stories	1	1	0	0	0	0	0	0	0	0
+Agile Project Management	Version Control	1	0	0	0	0	0	0	1	0	0
+Task Management	Add Recurring Tasks	1	0	0	1	0	0	0	1	1	0
+Task Management	Assign Stakeholders	1	1	1	1	0	0	0	0	1	1
+Task Management	Group Tasks by Projects	1	1	1	1	0	0	1	0	1	1
+Task Management	Set Priorities	1	1	0	1	0	0	0	0	1	1
+Task Management	Task History	1	1	1	1	0	0	1	1	0	1
+Task Management	To-Do List	1	0	1	1	0	0	0	0	1	1
+Issue Tracking	Code Integration	0	0	0	0	0	0	1	0	0	0
+Issue Tracking	Escalation Management	0	0	0	0	0	0	0	0	1	0
+Issue Tracking	Issue History	0	0	0	0	0	0	0	0	0	1
+Issue Tracking	Multiple Workflows	1	0	0	0	0	0	0	0	0	0
+Collaboration	Create Teams/Groups	1	1	1	1	1	1	1	1	1	0
+Collaboration	Document Management	1	0	1	1	1	1	1	1	1	1
+Collaboration	Forums	0	0	0	1	0	0	0	1	0	1
+Collaboration	Messaging or Instant Messaging	0	1	1	1	1	1	1	1	0	1
+Collaboration	RSS Feed	0	0	0	0	0	0	1	0	0	0
+Collaboration	Social Collaboration Platform	0	0	0	1	0	1	1	1	1	1
+Collaboration	Web Conferencing	0	0	0	1	0	0	1	1	0	0
+Resource Management	Allocate Resource by Skill Sets	0	0	0	0	0	0	0	0	0	1
+Resource Management	Cross Project Resource Allocation	0	0	0	0	0	0	0	0	1	1
+Resource Management	Forecast Resource Needs	0	0	0	0	0	0	0	0	1	1
+Resource Management	User/Role Based Permissions	0	1	0	0	0	0	0	0	1	1
+Budget and Expenses	Create Budgets	0	0	1	0	0	0	1	0	1	1
+Budget and Expenses	Forecast Budgets	0	0	1	0	0	0	0	0	1	1
+Budget and Expenses	Manage Expenses	0	0	1	0	0	0	0	0	1	1
+Budget and Expenses	Set Hourly Rates	0	0	0	0	0	0	0	0	1	0
+Budget and Expenses	Track Burn Rate	0	0	0	0	0	0	0	0	0	1
+Budget and Expenses	Track Project Hours	0	0	1	0	0	0	0	0	1	1
+Budget and Expenses	Track Staff Hours	1	0	0	0	0	0	0	0	0	1
+Reporting	Custom Reports	0	0	1	0	0	0	1	0	1	1
+Reporting	Dashboard	1	0	1	0	0	0	1	0	1	1
+Reporting	Financial Reports	0	0	1	0	0	0	1	0	1	1
+Reporting	Resource Reports	0	0	1	0	0	0	0	0	1	1
+Notifications	Custom Notifications	1	1	1	1	0	1	1	0	1	1
+Notifications	Email Integration	1	1	1	1	0	0	1	1	1	0
+Notifications	Notification Groups	0	0	1	1	0	0	1	0	0	0
+Notifications	SMS Notifications	0	0	0	0	0	0	1	0	0	0
+Customization	Curated Features	0	0	1	0	0	0	0	0	0	1
+Customization	Custom Fields	0	0	1	1	0	0	0	0	1	1
+Customization	Custom Labels	0	1	1	0	0	0	0	0	0	1
+Customization	Custom User Interface	1	1	1	0	0	0	0	0	0	1
+Customization	Software Development Kit	0	0	1	0	0	0	0	0	0	0
+Learning and Support	24/7	0	0	0	0	0	0	1	0	0	0
+Learning and Support	Blog	0	0	1	0	1	0	1	0	1	0
+Learning and Support	Brochures	0	0	1	0	0	0	0	0	0	0
+Learning and Support	Email	1	1	1	0	1	0	1	1	1	1
+Learning and Support	FAQ	0	0	1	0	0	0	1	0	1	1
+Learning and Support	Forums	0	0	0	0	1	0	1	0	0	0
+Learning and Support	Help Desk	0	0	1	0	0	0	1	0	0	1
+Learning and Support	Instructional Videos	0	0	1	0	0	0	0	0	1	0
+Learning and Support	Knowledge base	0	1	1	0	0	0	1	0	1	0
+Learning and Support	Mailing List	0	0	1	0	1	0	0	0	1	0
+Learning and Support	Normal business hours	1	1	1	0	0	0	0	0	1	0
+Learning and Support	On-site	0	1	0	0	0	0	1	0	0	0
+Learning and Support	Online self serve	0	0	1	0	0	0	0	0	0	0
+Learning and Support	Owner's/User Manual	0	0	1	0	0	0	0	0	0	1
+Learning and Support	Phone	0	0	1	0	1	0	1	0	1	1
+Learning and Support	Recorded demos	0	0	1	0	0	0	0	0	1	1
+Learning and Support	Remote Training	0	0	1	0	0	0	0	0	0	0
+Learning and Support	Request form	0	0	1	0	0	0	0	0	0	1
+Learning and Support	System upgrades	0	0	1	0	0	0	0	0	0	0
+Learning and Support	Tips and hints	0	0	1	0	0	0	0	0	0	0
+Learning and Support	Webinars	0	0	0	0	0	0	0	0	1	0
+Learning and Support	White papers	0	0	1	0	0	0	0	0	0	0

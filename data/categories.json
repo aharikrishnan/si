@@ -1,0 +1,202 @@
+{
+  "Collaboration": {
+    "id": 294,
+    "child": [{
+      "name": "Document Management Software",
+      "link": "http://document-management.softwareinsider.com"
+    }, {
+      "name": "Project Management Software",
+      "link": "http://project-management.softwareinsider.com"
+    }, {
+      "name": "Scheduling Software",
+      "link": "http://scheduling.softwareinsider.com"
+    }, {
+      "name": "Virtual Data Rooms",
+      "link": "http://virtual-data-rooms.softwareinsider.com"
+    }, {
+      "name": "Web Conferencing",
+      "link": "http://web-conferencing.softwareinsider.com"
+    }]
+  },
+  "Industry Specific": {
+    "id": 296,
+    "child": [{
+      "name": "CAD Software",
+      "link": "http://cad.softwareinsider.com"
+    }, {
+      "name": "Construction Project Management Software",
+      "link": "http://construction.softwareinsider.com"
+    }, {
+      "name": "Electronic Health Records (EHR) Software",
+      "link": "http://ehr.softwareinsider.com"
+    }, {
+      "name": "Fundraising and Donor Management Software",
+      "link": "http://fundraising.softwareinsider.com"
+    }, {
+      "name": "Hotel and Hospitality Management Software",
+      "link": "http://hotel-management.softwareinsider.com"
+    }, {
+      "name": "Legal Software",
+      "link": "http://legal.softwareinsider.com"
+    }, {
+      "name": "Property Management Software",
+      "link": "http://property-management.softwareinsider.com"
+    }, {
+      "name": "Seed to Sale Software",
+      "link": "http://seed-to-sale.softwareinsider.com"
+    }]
+  },
+  "IT Management": {
+    "id": 297,
+    "child": [{
+      "name": "Database Management Systems",
+      "link": "http://database-management.softwareinsider.com"
+    }, {
+      "name": "Endpoint Protection Software",
+      "link": "http://endpoint-protection.softwareinsider.com"
+    }, {
+      "name": "IT Asset Management Software",
+      "link": "http://it-asset-management.softwareinsider.com"
+    }, {
+      "name": "Mobile Device Management",
+      "link": "http://mdm.softwareinsider.com"
+    }, {
+      "name": "Network Management Software",
+      "link": "http://network-management.softwareinsider.com"
+    }, {
+      "name": "Systems Management Software",
+      "link": "http://systems-management.softwareinsider.com"
+    }, {
+      "name": "VPN Services",
+      "link": "http://vpn-services.softwareinsider.com"
+    }]
+  },
+  "Logistics": {
+    "id": 298,
+    "child": [{
+      "name": "CMMS (Computerized Maintenance Management Systems)",
+      "link": "http://cmms.softwareinsider.com"
+    }, {
+      "name": "Distribution Software",
+      "link": "http://distribution.softwareinsider.com"
+    }, {
+      "name": "Enterprise Resource Planning (ERP) Software",
+      "link": "http://erp.softwareinsider.com"
+    }, {
+      "name": "Facility Management Software",
+      "link": "http://facility-management.softwareinsider.com"
+    }, {
+      "name": "Field Service Management Software",
+      "link": "http://field-service-management.softwareinsider.com"
+    }, {
+      "name": "Fleet Management Software",
+      "link": "http://fleet-management.softwareinsider.com"
+    }, {
+      "name": "Inventory Software",
+      "link": "http://inventory-management.softwareinsider.com"
+    }, {
+      "name": "Supply Chain Management Software",
+      "link": "http://supply-chain-management.softwareinsider.com"
+    }, {
+      "name": "Warehouse Management Systems",
+      "link": "http://warehouse-management.softwareinsider.com"
+    }]
+  },
+  "Marketing and Customer Management": {
+    "id": 299,
+    "child": [{
+      "name": "CRM (Customer Relationship Management) Software",
+      "link": "http://crm.softwareinsider.com"
+    }, {
+      "name": "Call Center Software",
+      "link": "http://call-center.softwareinsider.com"
+    }, {
+      "name": "Contact Management Software",
+      "link": "http://contact-management.softwareinsider.com"
+    }, {
+      "name": "Email Marketing Services",
+      "link": "http://email-marketing.softwareinsider.com"
+    }, {
+      "name": "Gamification Platforms",
+      "link": "http://gamification.softwareinsider.com"
+    }, {
+      "name": "Marketing Automation Software",
+      "link": "http://marketing-automation.softwareinsider.com"
+    }, {
+      "name": "Point of Sale (POS) Software",
+      "link": "http://point-of-sale.softwareinsider.com"
+    }, {
+      "name": "Social Media Management",
+      "link": "http://social-media-management.softwareinsider.com"
+    }]
+  },
+  "Operations and Administration": {
+    "id": 302,
+    "child": [{
+      "name": "Accounting Software",
+      "link": "http://accounting.softwareinsider.com"
+    }, {
+      "name": "Applicant Tracking Software",
+      "link": "http://applicant-tracking.softwareinsider.com"
+    }, {
+      "name": "Billing & Invoicing Software",
+      "link": "http://billing-invoicing.softwareinsider.com"
+    }, {
+      "name": "Business Intelligence Software",
+      "link": "http://business-intelligence.softwareinsider.com"
+    }, {
+      "name": "Contract Management Software",
+      "link": "http://contract-management.softwareinsider.com"
+    }, {
+      "name": "Digital Signature Software",
+      "link": "http://digital-signature.softwareinsider.com"
+    }, {
+      "name": "Help Desk Software",
+      "link": "http://help-desk.softwareinsider.com"
+    }, {
+      "name": "Human Resource Management Software",
+      "link": "http://hr-management.softwareinsider.com"
+    }, {
+      "name": "Learning Management Systems (LMS)",
+      "link": "http://lms.softwareinsider.com"
+    }, {
+      "name": "Payroll Software",
+      "link": "http://payroll.softwareinsider.com"
+    }, {
+      "name": "Predictive Analytics Software",
+      "link": "http://predictive-analytics.softwareinsider.com"
+    }, {
+      "name": "Time and Attendance Tracking Software",
+      "link": "http://time-attendance-tracking.softwareinsider.com"
+    }, {
+      "name": "VoIP Services",
+      "link": "http://voip-services.softwareinsider.com"
+    }]
+  },
+  "Personal Software": {
+    "id": 303,
+    "child": [{
+      "name": "Email Clients",
+      "link": "http://email-clients.softwareinsider.com"
+    }, {
+      "name": "Online Ticketing and Registration Software",
+      "link": "http://online-ticketing-and-registration.softwareinsider.com"
+    }, {
+      "name": "Survey Software",
+      "link": "http://survey.softwareinsider.com"
+    }]
+  },
+  "Website Management": {
+    "id": 307,
+    "child": [{
+      "name": "SEO Software & Tools",
+      "link": "http://seo.softwareinsider.com"
+    }, {
+      "name": "Shopping Cart Software",
+      "link": "http://e-commerce.softwareinsider.com"
+    }, {
+      "name": "Web Analytics Software",
+      "link": "http://web-analytics.softwareinsider.com"
+    }]
+  }
+}

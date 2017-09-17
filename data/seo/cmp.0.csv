@@ -1,0 +1,46 @@
+feature_group	feature	SEO PowerSuite	Moz	Conductor Searchlight	Colibri	Seo soft	Astral Nofollow	Woorank	Monitor Backlinks	SEO ICE CREAM	WebMeUp
+Site Optimization	Analytics	1	0	1	0	0	0	1	1	0	1
+Site Optimization	Class C Checker	0	0	0	0	0	0	0	1	0	1
+Site Optimization	Domain Age	1	0	0	0	0	0	1	0	0	1
+Site Optimization	Duplicate Content	0	1	0	0	0	0	1	0	0	1
+Site Optimization	HTML Validator	0	0	0	0	0	0	1	1	1	0
+Site Optimization	PageRank Analysis	1	1	1	0	1	0	1	1	1	1
+Site Optimization	Robots.txt Management	1	1	0	0	0	1	1	1	1	0
+Site Optimization	SEO Recommendations	1	1	1	0	1	0	1	0	1	1
+Site Optimization	Sitemap Management	1	0	0	0	0	0	1	1	0	0
+Site Optimization	Social Media Integration	0	0	0	1	0	0	1	0	0	1
+Site Optimization	Spider	1	1	0	0	0	0	0	0	0	1
+Site Optimization	Subdomain Analytics	0	0	0	0	0	0	1	1	0	0
+Site Optimization	Title/Meta Management	1	0	0	0	0	0	1	1	1	1
+Site Optimization	Unindexed Pages	0	0	0	0	0	0	1	0	0	1
+Competitive Analysis	Competitor Backlink Analysis	1	0	0	1	0	0	1	1	0	1
+Competitive Analysis	Competitor Keyword Analysis	1	0	1	0	0	0	1	0	0	1
+Competitive Analysis	Competitor Link Metrics	1	1	1	0	0	0	1	1	0	1
+Competitive Analysis	Competitor Ranking	1	1	0	0	0	0	1	1	0	1
+Competitive Analysis	Domain Comparison	1	0	0	0	0	0	1	0	0	1
+Competitive Analysis	Number of Competing Sites	0	0	0	1	0	0	1	0	0	1
+Keyword Research	Keyword Density Analysis	1	0	0	0	0	0	1	1	0	1
+Keyword Research	Keyword Difficulty Analysis	0	1	0	0	0	0	0	0	0	1
+Keyword Research	Keyword Generator	0	1	0	1	0	0	0	0	0	1
+Keyword Research	Keyword Market Analysis	1	0	0	1	0	0	0	0	0	0
+Keyword Research	Keyword Performance	1	1	1	1	1	0	1	1	1	1
+Keyword Research	Keyword Suggestion	1	1	1	0	0	0	1	0	0	1
+Link Management	Backlink Management	1	0	0	1	0	0	1	1	1	1
+Link Management	Broken Links	1	0	0	0	0	0	0	1	1	1
+Link Management	Link Analysis	1	1	0	1	0	1	1	1	1	1
+Link Management	Link Anchor Text	1	0	0	0	0	0	1	1	1	1
+Link Management	Link Partner Analysis	1	0	0	0	0	0	0	1	1	1
+Link Management	Link Popularity	1	0	0	0	0	0	1	1	1	1
+Link Management	Outbound Link Management	1	0	0	0	0	0	0	1	1	1
+Promotion Features	Affiliate Program	1	1	0	1	0	0	1	1	0	1
+Promotion Features	PPC/CPC Ad Tracking	1	1	0	0	0	0	0	0	0	0
+Reports	Backlinks Report	1	0	1	1	0	0	1	1	1	1
+Reports	Competitive Analysis Report	1	0	1	0	0	0	1	0	0	1
+Reports	Keyword Report	1	1	1	0	1	0	1	1	1	1
+Reports	Link Building Report	1	0	0	0	0	0	1	0	1	1
+Reports	Search Engine Report	1	0	0	1	0	0	1	0	1	1
+Reports	Site/Page Structure Report	1	0	0	0	0	0	1	0	1	1
+Reports	Traffic Report	1	0	0	1	0	0	1	1	1	1
+Integrations	Google AdWords	1	0	0	0	0	0	0	0	0	1
+Integrations	Google Analytics	1	1	1	1	0	0	1	1	1	1
+Integrations	SEOMoz Landscape data	0	1	1	0	0	0	0	1	0	0

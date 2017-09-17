@@ -1,0 +1,61 @@
+feature_group	feature	SpaceClaim Engineer - CAD Software By SpaceClaim Corporation 	TurboCAD Pro Platinum - CAD Software By TurboCAD 	VariCAD - CAD Software By VariCAD 	Vectorworks - CAD Software By Nemetschek Vectorworks Inc. 	ZWCAD+ - CAD Software By ZWCAD Software Co. Ltd. 	DesignCAD 3D Max - CAD Software By IMSI/Design LLC. 	TurboCAD LTE - CAD Software By IMSI/Design LLC. 	SketchUp Pro 2016 - CAD Software By Trimble Navigation Limited 	CGS Revit Tools - CAD Software By CGS plus LLC 	Inventor Professional - CAD Software By Autodesk Inc. 
+Productivity Features	Archive and Share	0	1	1	1	1	0	1	1	0	0
+Productivity Features	Command Line	0	1	1	1	1	1	1	0	0	0
+Productivity Features	Copy Details	0	1	1	0	0	1	1	1	1	0
+Productivity Features	Design-Model Consistency	0	1	0	1	0	0	0	1	1	0
+Productivity Features	Manage User Roles and Permissions	1	0	0	0	0	0	0	0	0	1
+Productivity Features	Virtual Parts Library	0	1	1	1	1	0	1	0	0	0
+Collaboration Features	2D to 3D CAD Conversion	1	0	1	1	0	1	0	0	0	1
+Collaboration Features	3D Printing	1	1	1	1	0	1	0	0	0	1
+Collaboration Features	Multiple User Reviews	0	0	0	0	1	0	1	0	1	0
+Collaboration Features	Version Control	0	0	0	1	0	1	1	0	1	0
+Collaboration Features	3D Viewing Tools	1	1	1	1	1	1	1	1	1	1
+Advanced Surfacing Features	Click and Drag Geometry	1	1	1	1	1	0	1	1	1	1
+Advanced Surfacing Features	Copy Surface	0	1	1	0	0	0	1	1	1	0
+Advanced Surfacing Features	Create Mid Surfaces	0	1	0	0	0	0	1	0	0	0
+Advanced Surfacing Features	Create Organic Shapes	0	1	0	1	0	0	0	0	1	0
+Advanced Surfacing Features	Create Planar Surfaces	1	0	0	1	0	0	0	0	0	0
+Advanced Surfacing Features	Curvature Analysis	1	1	1	0	0	0	1	1	0	0
+Advanced Surfacing Features	Draft Analysis	1	1	1	1	1	0	1	0	1	0
+Advanced Surfacing Features	Extend	1	1	1	1	0	1	0	0	1	0
+Advanced Surfacing Features	Extrude	1	1	1	1	0	0	0	0	0	0
+Advanced Surfacing Features	Freeform Radiated Surface	0	0	0	1	0	0	0	0	0	0
+Advanced Surfacing Features	Heal	1	1	0	0	0	0	1	0	0	0
+Advanced Surfacing Features	Knit	0	0	0	0	1	0	0	0	0	0
+Advanced Surfacing Features	Loft	1	1	1	1	0	0	0	0	0	0
+Advanced Surfacing Features	Min Radius Analysis	0	1	0	0	0	0	0	0	0	0
+Advanced Surfacing Features	Move/Copy Face	1	1	0	1	0	0	0	0	1	0
+Advanced Surfacing Features	Replace Face	0	1	0	0	0	0	0	0	1	0
+Advanced Surfacing Features	Revolve	1	1	1	1	0	0	1	1	1	0
+Advanced Surfacing Features	Stylize Shapes	0	0	0	0	0	0	1	0	0	0
+Advanced Surfacing Features	Surface Fill	0	0	0	1	0	0	1	0	0	0
+Advanced Surfacing Features	Swept	1	0	0	0	0	0	0	0	0	0
+Advanced Surfacing Features	Symmetry Check Analysis	1	0	0	0	0	0	0	0	0	0
+Advanced Surfacing Features	Thickness Analysis	0	1	0	0	1	0	0	0	0	0
+Advanced Surfacing Features	Trim	1	1	1	1	0	1	1	0	1	0
+Advanced Surfacing Features	Zebra Stripes Analysis	1	0	0	0	0	0	0	0	0	0
+Architecture Features	Building Energy Analysis	0	0	0	1	0	1	0	1	0	0
+Architecture Features	Construction Modeling	0	1	0	1	1	1	0	1	0	0
+Architecture Features	Elevation	0	1	0	1	0	1	1	1	1	0
+Architecture Features	Landscaping Tools	0	1	0	1	0	1	0	1	1	0
+Architecture Features	Stairs and Railings	0	1	0	1	1	1	1	1	1	0
+Architecture Features	Surveying Tools	0	1	0	1	0	0	1	0	0	0
+Architecture Features	Walls, Doors, Windows	0	1	0	1	1	1	1	1	1	0
+Electrical Features	2D Circuit Design	0	0	0	1	0	1	0	0	0	1
+Electrical Features	3D Electrical System Modeling	1	0	0	1	0	0	0	0	0	1
+Electrical Features	Analog Circuit Analysis	1	0	0	0	0	0	0	0	0	0
+Electrical Features	Automatic Wire Numbering	0	0	0	1	0	0	0	0	0	1
+Electrical Features	Detailing Tools	1	0	0	1	0	0	0	0	0	0
+Sheet Metal Design Features	Bend Allowance/Deduction	1	1	1	0	0	0	0	1	0	0
+Sheet Metal Design Features	Bend Lines	1	0	1	0	0	1	0	1	0	1
+Sheet Metal Design Features	Bend Table	1	1	1	0	0	0	0	1	0	1
+Sheet Metal Design Features	Forming Tools	0	1	1	0	0	1	0	0	0	0
+Sheet Metal Design Features	Hole Tables	1	1	1	0	0	1	0	0	0	0
+Sheet Metal Design Features	Placement Sketches	0	1	1	0	0	0	0	1	0	1
+Sheet Metal Design Features	Punch Tables	1	1	1	0	0	1	0	0	0	1
+Sheet Metal Design Features	Toggle Flat Display	0	0	1	0	0	0	0	0	0	0
+Sheet Metal Design Features	Weld Table	0	0	1	0	1	0	0	0	0	0
+Training	Installation	0	0	0	1	0	0	0	0	0	0
+Training	Maintenance	0	0	0	0	0	0	0	1	0	0
+Training	Training Features	0	1	1	1	1	1	1	1	1	0
+Training	Training Programs	1	1	1	1	1	1	1	1	1	1

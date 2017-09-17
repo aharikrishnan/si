@@ -1,0 +1,61 @@
+feature_group	feature	IcSoft	iRely i21	TexAms ERP	JobPack Production Suite	eKEPLER ERP	K8	KKE Manage	Ventus	Lakeview LV	MazikERP
+Main Functionality	Business Intelligence	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
+Main Functionality	CRM	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0
+Main Functionality	eCommerce	1	1	0	0	0	1	0	1	1	0	1	1	0	0	0	1	0	1	1	0
+Main Functionality	Human Resources	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1
+Main Functionality	Maintenance	1	0	0	1	1	1	0	1	1	1	1	0	0	1	1	1	0	1	1	1
+Main Functionality	Manufacturing	1	1	1	0	0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1
+Main Functionality	Project Management	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1
+Main Functionality	Sales & Marketing	1	0	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	0	0
+Main Functionality	Supply Chain	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1
+Main Functionality	Accounting	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Main Functionality	Inventory	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Accounting Features	Accrual-Based Costing	1	1	0	0	0	1	0	0	1	0
+Accounting Features	Analytic Accounting	1	1	0	0	1	0	0	0	1	0
+Accounting Features	Bank Reconciliation	1	1	1	0	1	1	0	1	0	0
+Accounting Features	Billing & Invoicing	1	0	1	1	1	1	1	1	1	1
+Accounting Features	Budgeting & Forecasting	0	1	0	0	1	1	0	1	1	1
+Accounting Features	Tax Preparation	1	1	1	0	1	0	0	1	0	0
+Business Intelligence Features	Custom Dashboards	1	1	0	1	0	0	1	0	0	0
+Business Intelligence Features	Custom Reports	1	1	1	1	0	0	1	1	1	1
+Business Intelligence Features	Predictive Analytics	0	0	0	0	0	0	1	0	1	0
+Business Intelligence Features	Role-Based Dashboards	1	1	1	1	0	1	1	0	0	0
+CRM Features	Call Center Support	0	0	0	0	0	0	0	0	1	0
+CRM Features	Contact Management	0	1	0	0	0	1	0	0	0	0
+CRM Features	Customer Self-Service	1	1	0	0	0	1	1	0	0	0
+CRM Features	Estimating & Quoting	1	1	0	1	1	1	0	1	0	0
+CRM Features	Field Service Management	0	0	0	0	0	1	0	0	0	0
+CRM Features	Sales Force Automation	0	1	0	0	0	0	0	1	0	0
+eCommerce Features	Custom Design	1	1	1	0	0	0	1	0	1	0
+eCommerce Features	Custom Pricing	0	1	0	0	0	0	0	1	0	0
+eCommerce Features	Shopping Cart	0	0	0	0	0	1	0	0	1	0
+HR Features	Benefits	1	1	0	0	1	0	0	0	0	0
+HR Features	Employee Self-Service	0	1	0	0	0	0	0	1	0	1
+HR Features	Leave Management	1	0	0	0	0	0	0	0	0	0
+HR Features	Payroll	1	1	1	0	1	1	0	1	0	0
+HR Features	Performance Review	1	0	0	0	1	0	0	0	0	0
+HR Features	Recruiting	1	0	0	0	0	0	0	0	0	0
+HR Features	Time & Attendance	1	1	0	0	1	0	0	0	0	0
+HR Features	Training	1	0	0	0	1	0	0	0	0	0
+Inventory Features	Fleet Management	1	1	1	1	1	0	0	1	1	0
+Inventory Features	Inventory Forecasting	1	1	1	0	1	1	0	1	1	1
+Inventory Features	Multi-Location	1	1	1	0	1	1	1	1	1	0
+Inventory Features	Reorder Triggers	1	1	0	0	0	1	1	0	0	0
+Inventory Features	Tagging	1	1	1	0	1	0	0	1	0	0
+Maintenance Features	CMMS	1	0	0	0	0	0	0	0	0	0
+Maintenance Features	Energy Management	0	0	0	0	0	0	0	0	0	1
+Maintenance Features	Fixed Assets	1	0	0	0	1	1	0	1	1	1
+Manufacturing Features	Lean Manufacturing	1	0	0	0	0	1	1	1	0	0
+Manufacturing Features	Quality Management	1	1	1	0	0	0	0	1	1	1
+Project Management Features	Agile	0	0	0	0	0	0	0	1	0	1
+Project Management Features	Gantt Charts	0	0	0	1	0	0	0	0	0	0
+Project Management Features	Issue Tracking	1	1	0	0	0	0	1	1	0	0
+Project Management Features	Resource Management	0	0	1	1	0	1	1	0	1	1
+Sales & Marketing Features	Commissions	0	0	0	0	1	0	0	0	0	0
+Sales & Marketing Features	Email/SMS Marketing	1	0	0	0	0	0	0	0	0	0
+Sales & Marketing Features	Marketing Automation	0	0	0	0	1	1	0	0	0	0
+Supply Chain Management Features	Demand Forecasting	0	1	0	0	0	1	0	1	1	1
+Supply Chain Management Features	Inspection of Goods	1	1	0	0	0	0	0	0	0	0
+Supply Chain Management Features	Order to Cash	0	1	1	1	1	1	0	1	1	0
+Supply Chain Management Features	Product Configurator	1	1	0	0	0	1	0	0	0	0
+Supply Chain Management Features	Request for Proposal	1	1	1	0	0	0	0	0	0	0

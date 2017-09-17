@@ -1,0 +1,37 @@
+feature_group	feature	PowerCADD - CAD Software By Engineered Software 	AutoCAD Map 3D - CAD Software By Autodesk Inc. 	Draftsight Enterprise - CAD Software By Dassault Systemes Americas Corporation 	Advance CAD - CAD Software By Graitec 	Microsurvey inCAD Premium - CAD Software By MicroSurvey Software Inc. 	Caddie Vio - CAD Software By Advanced Computer Solutions Limited 	Draftsight Educators - CAD Software By Dassault Systemes Americas Corporation 	OpenSCAD - CAD Software By GitHub Inc. 	MicroSurvey embeddedCAD Standard - CAD Software By MicroSurvey Software Inc. 	MicroSurvey embeddedCAD Premium - CAD Software By MicroSurvey Software Inc. 
+Productivity Features	Archive and Share	0	1	1	0	0	0	1	0	0	0
+Productivity Features	Command Line	0	1	1	1	1	0	1	0	1	1
+Productivity Features	Copy Details	1	1	1	1	1	0	1	0	1	1
+Productivity Features	Design-Model Consistency	0	1	1	0	1	0	0	1	0	0
+Productivity Features	Manage User Roles and Permissions	0	0	0	1	0	0	0	0	0	0
+Productivity Features	Virtual Parts Library	1	0	0	0	0	0	0	0	0	0
+Collaboration Features	3D Printing	0	0	0	0	1	0	0	0	0	0
+Collaboration Features	3D Viewing Tools	1	1	0	1	1	1	0	1	1	1
+Collaboration Features	Multiple User Reviews	0	0	0	0	1	0	0	1	0	0
+Collaboration Features	Version Control	1	0	0	1	0	0	0	0	0	0
+Advanced Surfacing Features	Click and Drag Geometry	0	1	1	1	1	1	1	0	1	1
+Advanced Surfacing Features	Copy Surface	0	1	1	1	1	0	1	1	1	1
+Advanced Surfacing Features	Create Organic Shapes	0	0	0	0	0	0	0	1	0	1
+Advanced Surfacing Features	Create Planar Surfaces	0	0	0	0	0	0	0	1	1	1
+Advanced Surfacing Features	Curvature Analysis	0	1	0	1	1	0	0	0	1	1
+Advanced Surfacing Features	Draft Analysis	1	0	1	1	1	0	1	0	1	1
+Advanced Surfacing Features	Extend	0	1	1	1	1	0	1	0	1	1
+Advanced Surfacing Features	Extrude	0	0	0	1	1	1	0	1	1	1
+Advanced Surfacing Features	Move/Copy Face	0	0	1	1	1	1	0	0	1	1
+Advanced Surfacing Features	Replace Face	0	0	0	0	0	0	0	0	0	1
+Advanced Surfacing Features	Revolve	0	1	1	1	0	1	1	0	1	1
+Advanced Surfacing Features	Surface Fill	0	0	1	0	0	0	1	0	0	0
+Advanced Surfacing Features	Thickness Analysis	1	0	0	0	0	0	0	0	0	0
+Advanced Surfacing Features	Trim	0	1	1	0	1	1	1	0	0	1
+Architecture Features	Building Energy Analysis	1	0	0	0	0	0	0	0	0	0
+Architecture Features	Construction Modeling	1	0	1	1	1	1	1	0	1	1
+Architecture Features	Elevation	1	1	0	0	1	1	0	0	1	1
+Architecture Features	Landscaping Tools	1	0	0	0	0	1	0	0	1	1
+Architecture Features	Stairs and Railings	1	0	0	0	0	1	0	0	0	1
+Architecture Features	Surveying Tools	1	1	0	0	1	1	0	0	1	1
+Architecture Features	Walls, Doors, Windows	1	0	0	0	0	1	0	0	0	0
+Electrical Features	Digital Circuit Analysis	1	0	0	0	0	0	0	0	0	0
+Training	Installation	1	1	0	0	0	0	0	0	0	0
+Training	Maintenance	1	0	0	0	0	0	0	0	0	1
+Training	Training Features	1	1	1	0	1	1	1	1	1	1
+Training	Training Programs	1	1	1	0	1	1	1	1	1	1

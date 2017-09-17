@@ -1,0 +1,44 @@
+feature_group	feature	SENERGY	SynergyMMS	TechWare MainTrac	TOMMS	Tuppas ERP	Ultimo Maintenance Management	Urgent Technology eMaintenance	VAL-PM	ViewPoint	WaterTrax
+Functionality	Asset Management	1	1	0	1	0	1	1	0	1	1
+Functionality	Environmental Sustainability	0	0	0	0	0	0	0	1	0	0
+Functionality	Inventory Management	1	1	0	0	1	1	0	0	0	1
+Functionality	Predictive Maintenance	1	0	0	0	0	0	0	0	1	0
+Functionality	Preventive Maintenance	1	1	1	0	0	1	1	1	0	1
+Functionality	Work Order Management	1	1	1	0	0	1	0	1	0	1
+Functionality	Maintenance Management	1	1	1	1	1	1	1	1	1	1
+Features	Barcode Scanning	0	0	0	0	0	1	0	0	0	0
+Features	Document Management	1	0	0	0	0	1	1	1	1	1
+Features	Equipment Management	1	1	1	0	1	0	0	1	1	1
+Features	Project Management	1	1	0	0	1	1	0	0	0	0
+Features	Timecard Management	0	1	0	0	0	0	0	0	0	0
+Features	Maintenance Scheduling	1	1	1	1	1	1	1	1	1	1
+Admin Features	Mobile Access	1	1	0	0	0	0	0	0	0	1
+Admin Features	Multiple Languages	1	1	0	1	0	1	0	0	1	0
+Admin Features	Multiple Locations	1	1	0	0	0	0	0	0	0	0
+Admin Features	Reporting & Analytics	1	1	0	0	1	1	1	1	1	1
+Customization Features	Category Customization	0	0	0	0	0	0	0	0	0	1
+Customization Features	Custom User Interface	1	1	0	0	0	1	0	0	0	1
+Customization Features	Customizable Fields	0	0	0	0	0	1	1	0	0	0
+Customization Features	Customizable Functionality	0	0	0	0	0	0	1	0	0	0
+Customization Features	Customizable Reports	1	0	0	0	0	1	0	0	0	0
+Customization Features	Software Development Kit	0	1	0	0	0	0	0	0	0	0
+Support Features	24/7	0	0	0	0	0	0	1	1	1	0
+Support Features	Blog	0	0	0	0	0	0	0	0	1	0
+Support Features	Brochures	1	0	1	0	0	1	0	1	0	0
+Support Features	FAQ	1	1	1	0	0	0	1	0	0	0
+Support Features	Forums	0	0	0	1	0	0	0	0	0	0
+Support Features	Help Desk	0	0	0	1	0	1	1	0	0	0
+Support Features	Instructional Videos	0	1	0	0	0	1	0	0	1	0
+Support Features	Knowledge base	0	1	0	0	0	0	0	0	0	0
+Support Features	Live chat	0	0	0	0	0	1	0	0	0	0
+Support Features	Mailing List	0	0	0	0	0	0	0	1	0	0
+Support Features	Normal business hours	1	1	1	1	0	1	0	0	0	0
+Support Features	Recorded demos	1	1	0	0	0	0	0	0	0	0
+Support Features	Remote Training	0	0	0	0	0	1	1	0	0	0
+Support Features	Request form	1	1	1	1	1	1	1	1	1	0
+Support Features	System upgrades	0	0	0	0	0	0	1	0	0	0
+Support Features	Tips and hints	1	1	0	0	0	0	0	0	0	0
+Support Features	Webinars	0	0	0	0	0	0	0	0	1	1
+Support Features	White papers	0	0	0	0	0	0	0	0	0	1
+Support Features	Email	1	1	1	1	1	1	1	1	1	1
+Support Features	Phone	1	1	1	1	1	1	1	1	1	1

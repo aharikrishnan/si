@@ -1,0 +1,16 @@
+feature_group	feature	Crowdbooster	Simply Measured	AdClarity Display	andara.bi	InfoCaptor Dashboard	Reinvigorate	Statvoo Analytics	Snitcher	Hitsteps	FullStory
+Track Geo Stats	City	0	1	0	0	0	0	1	1	1	0
+Track Geo Stats	Country	0	1	1	0	1	0	1	1	1	1
+Track Geo Stats	ISP	0	0	0	0	0	0	1	0	1	1
+Track Geo Stats	Organization Name	0	0	0	0	0	0	1	1	1	0
+Track Geo Stats	State	0	1	0	0	0	0	1	1	1	1
+Track Traffic Sources	Direct	0	0	0	0	0	0	1	1	1	1
+Track Traffic Sources	Referring	1	1	0	0	0	0	1	1	1	1
+Track Traffic Sources	Search Engine	0	1	0	0	1	0	1	1	1	1
+Track Visitors	Pageviews	1	1	1	0	1	0	1	1	1	1
+Track Visitors	Returning Visitors	0	1	0	0	1	0	1	1	1	1
+Track Visitors	Time on Site	0	0	0	0	1	0	1	1	1	1
+Track Visitors	Unique Visitors	1	0	0	0	0	0	1	1	1	1
+Mobile Tracking	Mobile Devices	0	1	0	1	1	0	1	1	1	1
+Mobile Tracking	Mobile Operating System	0	0	0	0	1	0	1	1	1	1
+Mobile Tracking	None	1	0	1	0	0	0	1	0	0	0

@@ -1,0 +1,16 @@
+feature_group	feature	JonokeMed	Meditech	MacPractice MD	MedcomSoft Record	Medent (Chart Central)	Medical Office Online	Medicat	Medinformatix	OpenVistA	meridianEMR
+Solutions Available	Medical Billing	0	0	1	1	1	1	0	1	1	0
+Solutions Available	Patient Scheduling	1	1	1	0	1	1	1	0	1	0
+Solutions Available	Practice Management	1	1	1	1	1	1	1	1	0	1
+Solutions Available	Electronic Medical Records	1	1	1	1	1	1	1	1	1	1
+Features	API Available	1	1	1	0	0	0	0	0	1	1
+Features	Claim Scrubber	0	0	0	0	0	0	0	1	0	0
+Features	E-Prescribing	0	1	1	0	1	1	1	1	1	1
+Features	Electronic Remittance Advice	0	1	0	0	0	1	1	1	0	0
+Features	Insurance Verification	0	0	1	0	0	1	1	1	0	0
+Features	Lab Orders and Results	1	1	1	0	1	0	1	1	1	1
+Features	Online Booking	0	1	0	0	0	0	0	0	0	0
+Features	Patient Portal	0	1	1	1	1	1	1	1	0	1
+Features	Reporting Dashboard	0	1	0	0	1	0	1	1	0	0
+Features	Speech Recognition	0	1	1	0	1	0	0	0	0	0
+Features	Document Management	1	1	1	1	1	1	1	1	1	1

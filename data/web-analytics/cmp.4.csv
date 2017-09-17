@@ -1,0 +1,14 @@
+feature_group	feature	Ducksboard	Quicklytics	GoSquared	Happy Metrix	IBM Digital Analytics	Inspectlet	KISSmetrics	HitsLink	Parse.ly Dash	Quintly
+Track Geo Stats	City	0	1	1	1	0	0	0	0	0	1
+Track Geo Stats	Country	0	1	1	1	1	1	0	1	0	1
+Track Geo Stats	State	0	1	1	1	0	0	0	0	0	1
+Track Traffic Sources	Direct	1	1	1	1	1	1	1	1	0	1
+Track Traffic Sources	Referring	1	1	1	1	0	1	1	1	1	1
+Track Traffic Sources	Search Engine	1	0	1	1	1	1	1	1	1	1
+Track Visitors	Pageviews	1	1	1	1	0	0	0	0	1	0
+Track Visitors	Returning Visitors	1	1	1	1	0	1	1	1	1	1
+Track Visitors	Time on Site	1	0	1	1	0	1	0	1	0	0
+Track Visitors	Unique Visitors	1	0	1	1	1	1	1	1	1	1
+Mobile Tracking	Mobile Devices	0	1	1	1	1	0	1	1	0	0
+Mobile Tracking	Mobile Operating System	0	1	1	1	0	0	0	0	0	0
+Mobile Tracking	None	1	0	0	0	0	1	0	0	1	0

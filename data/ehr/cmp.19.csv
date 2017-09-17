@@ -1,0 +1,14 @@
+feature_group	feature	PCIS GOLD	SolidPractice	ExitCare	Massachusetts eHealth Collaborative (MAeHC)	Point and Click Solutions	UltraMed Software	Acurus Solutions	ArcSys	Exemplo Medical	MedTeam EMR
+Solutions Available	Medical Billing	1	1	0	0	1	1	0	0	0	0
+Solutions Available	Patient Scheduling	1	0	0	1	1	0	1	1	1	0
+Solutions Available	Practice Management	1	0	1	1	1	0	0	1	1	1
+Solutions Available	Electronic Medical Records	1	1	1	1	1	1	1	1	1	1
+Features	Claim Scrubber	0	0	0	0	1	0	1	0	0	1
+Features	Document Management	1	1	1	1	1	0	1	0	0	1
+Features	E-Prescribing	1	1	0	0	1	0	1	0	1	0
+Features	Electronic Remittance Advice	0	0	0	0	1	0	0	0	0	0
+Features	Insurance Verification	0	0	0	0	0	0	0	0	0	1
+Features	Lab Orders and Results	0	1	0	0	0	0	1	0	1	1
+Features	Patient Portal	1	0	1	1	1	0	0	0	1	0
+Features	Reporting Dashboard	0	1	0	1	1	1	1	0	0	1
+Features	Speech Recognition	0	1	0	0	0	0	0	0	0	0
