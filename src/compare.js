@@ -18,7 +18,6 @@
 
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 
-const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
 
@@ -26,16 +25,21 @@ const mongoose = require('mongoose');
 
 (async() => {
 
-  const launchSettings = {
+  const puppeteer = require('puppeteer');
+  var launchSettings = {
     headless: false,
     ignoreHTTPSErrors: true,
     timeout:60000,
-    //executablePath: '/usr/bin/google-chrome'
+    //executablePath: '/usr/bin/google-chrome',
     //headless: true,
     //args: ['--ignore-certificate-errors']
+  //dumpio: true,
+    //args: ['--no-sandbox', '--disable-setuid-sandbox']
   };
-  const browser = await puppeteer.launch(launchSettings);
-  const page = await browser.newPage();
+  //puppeteer.launch(launchSettings);
+  var browser = await puppeteer.launch(launchSettings);
+  var page = await browser.newPage();
+
   await page.setRequestInterceptionEnabled(true);
   page.on('request', request => {
     //Document, Stylesheet, Image, Media, Font, Script, TextTrack, XHR, Fetch, EventSource, WebSocket, Manifest, Other
@@ -48,6 +52,9 @@ const mongoose = require('mongoose');
     else
     request.abort();
   });
+
+
+
   const startURL = process.env['CMP_URL']
   const cmpPage = process.env['CMP_PAGE']
   //"http://project-management.softwareinsider.com/compare/68-82-194-205-313-624-630-633-643-659-694-740-758-766-816-851-852-853/x";
@@ -67,11 +74,11 @@ const mongoose = require('mongoose');
       if (err) {
         return console.log(err);
       }
-      console.log("The file was saved at " + filePath);
+      //console.log("The file was saved at " + filePath);
     });
   }
   var writeToCSV = function (name, tbl) {
-    console.log(name);
+    //console.log(name);
     var filePath = path.join(__dirname, '..', "data", name + ".csv");
     var csv = "";
     console.log(tbl.length)
@@ -91,7 +98,7 @@ const mongoose = require('mongoose');
   var jq = path.join(__dirname, '..', "src", "jquery.min.js");
   await page.injectFile(jq)
     
-  await page.waitFor(8000);
+ await page.waitFor(8000);
 
   const features = await page.evaluate(() => {
     //const anchors = Array.from(document.querySelectorAll('h3 a'));
@@ -149,6 +156,9 @@ const mongoose = require('mongoose');
 
   writeToFile(dir+'/itm.'+fileName, features[0])
   writeToFile(dir+'/feat.'+fileName, features[1])
+
+  var content = await page.content()
+  writeToFile(dir+'/compare.html'+fileName, features[1])
 
   var tbl1 = [];
   //var header = ( cmpPage === '0' )? ["feature_group", "feature"] : [];

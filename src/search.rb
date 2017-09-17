@@ -27,6 +27,12 @@ def dir_from_url url
   dirname = url.split('.',2).first.split('://',2).last
 end
 
+def _sleep t
+  t = t + rand(5)
+  puts "Sleeping for #{t}"
+  sleep rand(5)+t
+end
+
 def search url, app_id=nil,page=0, got=0
   dirname = dir_from_url url
   if File.exists?(data_path("#{dirname}/search.#{page}.json"))
@@ -40,7 +46,7 @@ def search url, app_id=nil,page=0, got=0
     }
     resp = `#{cmd}`
     write_data("#{dirname}/search.#{page}.json", resp)
-    sleep rand(5)+1
+    _sleep 20
   end
 
     resp = JSON.parse(resp) rescue {}
@@ -69,13 +75,13 @@ def cmp url
       next
     end
     cmp_ids = g.join("-")
-    cmp_url = "#{url}/compare/#{cmp_ids}/bar"
+    cmp_url = "#{url}/compare/#{cmp_ids}/tour"
     # Handle the task to node js
     cmd = "cd  #{data_path('..')} && CMP_URL='#{cmp_url}' CMP_PAGE='#{index}' node src/compare.js"
     puts cmd
     puts `#{cmd}`
     puts "\n----------------------------------\n"
-    sleep rand(5)+1
+    _sleep 30
   end
 end
 
