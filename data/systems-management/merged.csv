@@ -1,0 +1,2598 @@
+Security Management Capabilities	Security Audit Trail	K1000	1
+Security Management Capabilities	Network Element Functions	K1000	0
+Security Management Capabilities	System/Resource Access Control	K1000	1
+Security Management Capabilities	Security Alarm/Event Reporting	K1000	1
+Security Management Capabilities	Access Logs	K1000	1
+Security Management Capabilities	Authentication	K1000	0
+Security Management Capabilities	Containment and Recovery	K1000	0
+Security Management Capabilities	Security Related Information Distributions	K1000	1
+Security Management Capabilities	Prevention	K1000	0
+Security Management Capabilities	Encryption	K1000	0
+Security Management Capabilities	Security Event Detection	K1000	1
+Security Management Capabilities	Data Privacy	K1000	1
+Security Management Capabilities	Security Audit Trail	FortiSIEM	0
+Security Management Capabilities	Network Element Functions	FortiSIEM	0
+Security Management Capabilities	System/Resource Access Control	FortiSIEM	1
+Security Management Capabilities	Security Alarm/Event Reporting	FortiSIEM	1
+Security Management Capabilities	Access Logs	FortiSIEM	1
+Security Management Capabilities	Authentication	FortiSIEM	0
+Security Management Capabilities	Containment and Recovery	FortiSIEM	1
+Security Management Capabilities	Security Related Information Distributions	FortiSIEM	0
+Security Management Capabilities	Prevention	FortiSIEM	1
+Security Management Capabilities	Encryption	FortiSIEM	0
+Security Management Capabilities	Security Event Detection	FortiSIEM	1
+Security Management Capabilities	Data Privacy	FortiSIEM	1
+Security Management Capabilities	Security Audit Trail	Apple Remote Desktop	0
+Security Management Capabilities	Network Element Functions	Apple Remote Desktop	0
+Security Management Capabilities	System/Resource Access Control	Apple Remote Desktop	0
+Security Management Capabilities	Security Alarm/Event Reporting	Apple Remote Desktop	0
+Security Management Capabilities	Access Logs	Apple Remote Desktop	0
+Security Management Capabilities	Authentication	Apple Remote Desktop	1
+Security Management Capabilities	Containment and Recovery	Apple Remote Desktop	0
+Security Management Capabilities	Security Related Information Distributions	Apple Remote Desktop	0
+Security Management Capabilities	Prevention	Apple Remote Desktop	0
+Security Management Capabilities	Encryption	Apple Remote Desktop	1
+Security Management Capabilities	Security Event Detection	Apple Remote Desktop	0
+Security Management Capabilities	Data Privacy	Apple Remote Desktop	0
+Security Management Capabilities	Security Audit Trail	Bcfg2	0
+Security Management Capabilities	Network Element Functions	Bcfg2	0
+Security Management Capabilities	System/Resource Access Control	Bcfg2	0
+Security Management Capabilities	Security Alarm/Event Reporting	Bcfg2	0
+Security Management Capabilities	Access Logs	Bcfg2	0
+Security Management Capabilities	Authentication	Bcfg2	1
+Security Management Capabilities	Containment and Recovery	Bcfg2	0
+Security Management Capabilities	Security Related Information Distributions	Bcfg2	0
+Security Management Capabilities	Prevention	Bcfg2	0
+Security Management Capabilities	Encryption	Bcfg2	1
+Security Management Capabilities	Security Event Detection	Bcfg2	0
+Security Management Capabilities	Data Privacy	Bcfg2	0
+Security Management Capabilities	Security Audit Trail	CFEngine Community	0
+Security Management Capabilities	Network Element Functions	CFEngine Community	0
+Security Management Capabilities	System/Resource Access Control	CFEngine Community	1
+Security Management Capabilities	Security Alarm/Event Reporting	CFEngine Community	1
+Security Management Capabilities	Access Logs	CFEngine Community	1
+Security Management Capabilities	Authentication	CFEngine Community	1
+Security Management Capabilities	Containment and Recovery	CFEngine Community	1
+Security Management Capabilities	Security Related Information Distributions	CFEngine Community	0
+Security Management Capabilities	Prevention	CFEngine Community	1
+Security Management Capabilities	Encryption	CFEngine Community	1
+Security Management Capabilities	Security Event Detection	CFEngine Community	1
+Security Management Capabilities	Data Privacy	CFEngine Community	0
+Security Management Capabilities	Security Audit Trail	Hinemos	0
+Security Management Capabilities	Network Element Functions	Hinemos	0
+Security Management Capabilities	System/Resource Access Control	Hinemos	0
+Security Management Capabilities	Security Alarm/Event Reporting	Hinemos	0
+Security Management Capabilities	Access Logs	Hinemos	0
+Security Management Capabilities	Authentication	Hinemos	0
+Security Management Capabilities	Containment and Recovery	Hinemos	0
+Security Management Capabilities	Security Related Information Distributions	Hinemos	0
+Security Management Capabilities	Prevention	Hinemos	0
+Security Management Capabilities	Encryption	Hinemos	0
+Security Management Capabilities	Security Event Detection	Hinemos	0
+Security Management Capabilities	Data Privacy	Hinemos	0
+Security Management Capabilities	Security Audit Trail	ISconf	0
+Security Management Capabilities	Network Element Functions	ISconf	0
+Security Management Capabilities	System/Resource Access Control	ISconf	0
+Security Management Capabilities	Security Alarm/Event Reporting	ISconf	0
+Security Management Capabilities	Access Logs	ISconf	0
+Security Management Capabilities	Authentication	ISconf	0
+Security Management Capabilities	Containment and Recovery	ISconf	0
+Security Management Capabilities	Security Related Information Distributions	ISconf	0
+Security Management Capabilities	Prevention	ISconf	0
+Security Management Capabilities	Encryption	ISconf	0
+Security Management Capabilities	Security Event Detection	ISconf	0
+Security Management Capabilities	Data Privacy	ISconf	0
+Security Management Capabilities	Security Audit Trail	Absolute	0
+Security Management Capabilities	Network Element Functions	Absolute	0
+Security Management Capabilities	System/Resource Access Control	Absolute	1
+Security Management Capabilities	Security Alarm/Event Reporting	Absolute	1
+Security Management Capabilities	Access Logs	Absolute	0
+Security Management Capabilities	Authentication	Absolute	1
+Security Management Capabilities	Containment and Recovery	Absolute	1
+Security Management Capabilities	Security Related Information Distributions	Absolute	0
+Security Management Capabilities	Prevention	Absolute	1
+Security Management Capabilities	Encryption	Absolute	1
+Security Management Capabilities	Security Event Detection	Absolute	1
+Security Management Capabilities	Data Privacy	Absolute	0
+Security Management Capabilities	Security Audit Trail	Absolute Manage MDM	0
+Security Management Capabilities	Network Element Functions	Absolute Manage MDM	1
+Security Management Capabilities	System/Resource Access Control	Absolute Manage MDM	1
+Security Management Capabilities	Security Alarm/Event Reporting	Absolute Manage MDM	0
+Security Management Capabilities	Access Logs	Absolute Manage MDM	0
+Security Management Capabilities	Authentication	Absolute Manage MDM	1
+Security Management Capabilities	Containment and Recovery	Absolute Manage MDM	0
+Security Management Capabilities	Security Related Information Distributions	Absolute Manage MDM	0
+Security Management Capabilities	Prevention	Absolute Manage MDM	1
+Security Management Capabilities	Encryption	Absolute Manage MDM	1
+Security Management Capabilities	Security Event Detection	Absolute Manage MDM	1
+Security Management Capabilities	Data Privacy	Absolute Manage MDM	0
+Security Management Capabilities	Security Audit Trail	CFEngine Nova	0
+Security Management Capabilities	Network Element Functions	CFEngine Nova	0
+Security Management Capabilities	System/Resource Access Control	CFEngine Nova	0
+Security Management Capabilities	Security Alarm/Event Reporting	CFEngine Nova	0
+Security Management Capabilities	Access Logs	CFEngine Nova	0
+Security Management Capabilities	Authentication	CFEngine Nova	0
+Security Management Capabilities	Containment and Recovery	CFEngine Nova	0
+Security Management Capabilities	Security Related Information Distributions	CFEngine Nova	0
+Security Management Capabilities	Prevention	CFEngine Nova	0
+Security Management Capabilities	Encryption	CFEngine Nova	1
+Security Management Capabilities	Security Event Detection	CFEngine Nova	0
+Security Management Capabilities	Data Privacy	CFEngine Nova	0
+Performance Management Capabilities	Performance Report Generation	K1000	1
+Performance Management Capabilities	Performance Monitoring	K1000	1
+Performance Management Capabilities	Performance Data Analysis	K1000	1
+Performance Management Capabilities	Performance Data Collection	K1000	1
+Performance Management Capabilities	Capacity Planning	K1000	0
+Performance Management Capabilities	Problem Reporting	K1000	1
+Performance Management Capabilities	Consistent Performance Level	K1000	0
+Performance Management Capabilities	Utilization & Error Rates	K1000	1
+Performance Management Capabilities	Performance Report Generation	FortiSIEM	1
+Performance Management Capabilities	Performance Monitoring	FortiSIEM	1
+Performance Management Capabilities	Performance Data Analysis	FortiSIEM	1
+Performance Management Capabilities	Performance Data Collection	FortiSIEM	1
+Performance Management Capabilities	Capacity Planning	FortiSIEM	0
+Performance Management Capabilities	Problem Reporting	FortiSIEM	1
+Performance Management Capabilities	Consistent Performance Level	FortiSIEM	1
+Performance Management Capabilities	Utilization & Error Rates	FortiSIEM	1
+Performance Management Capabilities	Performance Report Generation	Apple Remote Desktop	1
+Performance Management Capabilities	Performance Monitoring	Apple Remote Desktop	1
+Performance Management Capabilities	Performance Data Analysis	Apple Remote Desktop	0
+Performance Management Capabilities	Performance Data Collection	Apple Remote Desktop	1
+Performance Management Capabilities	Capacity Planning	Apple Remote Desktop	0
+Performance Management Capabilities	Problem Reporting	Apple Remote Desktop	0
+Performance Management Capabilities	Consistent Performance Level	Apple Remote Desktop	0
+Performance Management Capabilities	Utilization & Error Rates	Apple Remote Desktop	0
+Performance Management Capabilities	Performance Report Generation	Bcfg2	1
+Performance Management Capabilities	Performance Monitoring	Bcfg2	1
+Performance Management Capabilities	Performance Data Analysis	Bcfg2	1
+Performance Management Capabilities	Performance Data Collection	Bcfg2	1
+Performance Management Capabilities	Capacity Planning	Bcfg2	0
+Performance Management Capabilities	Problem Reporting	Bcfg2	0
+Performance Management Capabilities	Consistent Performance Level	Bcfg2	0
+Performance Management Capabilities	Utilization & Error Rates	Bcfg2	0
+Performance Management Capabilities	Performance Report Generation	CFEngine Community	1
+Performance Management Capabilities	Performance Monitoring	CFEngine Community	1
+Performance Management Capabilities	Performance Data Analysis	CFEngine Community	1
+Performance Management Capabilities	Performance Data Collection	CFEngine Community	0
+Performance Management Capabilities	Capacity Planning	CFEngine Community	0
+Performance Management Capabilities	Problem Reporting	CFEngine Community	1
+Performance Management Capabilities	Consistent Performance Level	CFEngine Community	1
+Performance Management Capabilities	Utilization & Error Rates	CFEngine Community	1
+Performance Management Capabilities	Performance Report Generation	Hinemos	1
+Performance Management Capabilities	Performance Monitoring	Hinemos	1
+Performance Management Capabilities	Performance Data Analysis	Hinemos	1
+Performance Management Capabilities	Performance Data Collection	Hinemos	1
+Performance Management Capabilities	Capacity Planning	Hinemos	0
+Performance Management Capabilities	Problem Reporting	Hinemos	0
+Performance Management Capabilities	Consistent Performance Level	Hinemos	0
+Performance Management Capabilities	Utilization & Error Rates	Hinemos	0
+Performance Management Capabilities	Performance Report Generation	ISconf	0
+Performance Management Capabilities	Performance Monitoring	ISconf	0
+Performance Management Capabilities	Performance Data Analysis	ISconf	0
+Performance Management Capabilities	Performance Data Collection	ISconf	0
+Performance Management Capabilities	Capacity Planning	ISconf	0
+Performance Management Capabilities	Problem Reporting	ISconf	0
+Performance Management Capabilities	Consistent Performance Level	ISconf	0
+Performance Management Capabilities	Utilization & Error Rates	ISconf	0
+Performance Management Capabilities	Performance Report Generation	Absolute	0
+Performance Management Capabilities	Performance Monitoring	Absolute	1
+Performance Management Capabilities	Performance Data Analysis	Absolute	1
+Performance Management Capabilities	Performance Data Collection	Absolute	0
+Performance Management Capabilities	Capacity Planning	Absolute	1
+Performance Management Capabilities	Problem Reporting	Absolute	1
+Performance Management Capabilities	Consistent Performance Level	Absolute	1
+Performance Management Capabilities	Utilization & Error Rates	Absolute	0
+Performance Management Capabilities	Performance Report Generation	Absolute Manage MDM	0
+Performance Management Capabilities	Performance Monitoring	Absolute Manage MDM	0
+Performance Management Capabilities	Performance Data Analysis	Absolute Manage MDM	1
+Performance Management Capabilities	Performance Data Collection	Absolute Manage MDM	0
+Performance Management Capabilities	Capacity Planning	Absolute Manage MDM	0
+Performance Management Capabilities	Problem Reporting	Absolute Manage MDM	0
+Performance Management Capabilities	Consistent Performance Level	Absolute Manage MDM	0
+Performance Management Capabilities	Utilization & Error Rates	Absolute Manage MDM	0
+Performance Management Capabilities	Performance Report Generation	CFEngine Nova	1
+Performance Management Capabilities	Performance Monitoring	CFEngine Nova	1
+Performance Management Capabilities	Performance Data Analysis	CFEngine Nova	1
+Performance Management Capabilities	Performance Data Collection	CFEngine Nova	1
+Performance Management Capabilities	Capacity Planning	CFEngine Nova	0
+Performance Management Capabilities	Problem Reporting	CFEngine Nova	1
+Performance Management Capabilities	Consistent Performance Level	CFEngine Nova	0
+Performance Management Capabilities	Utilization & Error Rates	CFEngine Nova	1
+Accounting/allocation Management Capabilities	Usage Reporting	K1000	1
+Accounting/allocation Management Capabilities	Audits	K1000	1
+Accounting/allocation Management Capabilities	Set Usage Quotas	K1000	1
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	K1000	1
+Accounting/allocation Management Capabilities	Usage Reporting	FortiSIEM	1
+Accounting/allocation Management Capabilities	Audits	FortiSIEM	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	FortiSIEM	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	FortiSIEM	1
+Accounting/allocation Management Capabilities	Usage Reporting	Apple Remote Desktop	1
+Accounting/allocation Management Capabilities	Audits	Apple Remote Desktop	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Apple Remote Desktop	1
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Apple Remote Desktop	1
+Accounting/allocation Management Capabilities	Usage Reporting	Bcfg2	1
+Accounting/allocation Management Capabilities	Audits	Bcfg2	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Bcfg2	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Bcfg2	1
+Accounting/allocation Management Capabilities	Usage Reporting	CFEngine Community	1
+Accounting/allocation Management Capabilities	Audits	CFEngine Community	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	CFEngine Community	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	CFEngine Community	1
+Accounting/allocation Management Capabilities	Usage Reporting	Hinemos	0
+Accounting/allocation Management Capabilities	Audits	Hinemos	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Hinemos	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Hinemos	1
+Accounting/allocation Management Capabilities	Usage Reporting	ISconf	0
+Accounting/allocation Management Capabilities	Audits	ISconf	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	ISconf	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	ISconf	0
+Accounting/allocation Management Capabilities	Usage Reporting	Absolute	1
+Accounting/allocation Management Capabilities	Audits	Absolute	1
+Accounting/allocation Management Capabilities	Set Usage Quotas	Absolute	1
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Absolute	1
+Accounting/allocation Management Capabilities	Usage Reporting	Absolute Manage MDM	1
+Accounting/allocation Management Capabilities	Audits	Absolute Manage MDM	1
+Accounting/allocation Management Capabilities	Set Usage Quotas	Absolute Manage MDM	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Absolute Manage MDM	1
+Accounting/allocation Management Capabilities	Usage Reporting	CFEngine Nova	1
+Accounting/allocation Management Capabilities	Audits	CFEngine Nova	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	CFEngine Nova	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	CFEngine Nova	1
+Fault Management Capabilities	Fault Detection	K1000	0
+Fault Management Capabilities	Error Handling	K1000	0
+Fault Management Capabilities	Fault Isolation	K1000	0
+Fault Management Capabilities	Alarm Correlation/Analysis	K1000	0
+Fault Management Capabilities	Fault Correction	K1000	0
+Fault Management Capabilities	Network Recovery	K1000	0
+Fault Management Capabilities	Error Logging	K1000	0
+Fault Management Capabilities	Diagnostic Testing	K1000	0
+Fault Management Capabilities	Alarm Generation	K1000	0
+Fault Management Capabilities	Alarm Forwarding/Handling	K1000	0
+Fault Management Capabilities	Alarm Filtering	K1000	0
+Fault Management Capabilities	Fault Detection	FortiSIEM	0
+Fault Management Capabilities	Error Handling	FortiSIEM	1
+Fault Management Capabilities	Fault Isolation	FortiSIEM	0
+Fault Management Capabilities	Alarm Correlation/Analysis	FortiSIEM	1
+Fault Management Capabilities	Fault Correction	FortiSIEM	0
+Fault Management Capabilities	Network Recovery	FortiSIEM	1
+Fault Management Capabilities	Error Logging	FortiSIEM	1
+Fault Management Capabilities	Diagnostic Testing	FortiSIEM	0
+Fault Management Capabilities	Alarm Generation	FortiSIEM	1
+Fault Management Capabilities	Alarm Forwarding/Handling	FortiSIEM	0
+Fault Management Capabilities	Alarm Filtering	FortiSIEM	1
+Fault Management Capabilities	Fault Detection	Apple Remote Desktop	0
+Fault Management Capabilities	Error Handling	Apple Remote Desktop	0
+Fault Management Capabilities	Fault Isolation	Apple Remote Desktop	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Apple Remote Desktop	0
+Fault Management Capabilities	Fault Correction	Apple Remote Desktop	0
+Fault Management Capabilities	Network Recovery	Apple Remote Desktop	0
+Fault Management Capabilities	Error Logging	Apple Remote Desktop	0
+Fault Management Capabilities	Diagnostic Testing	Apple Remote Desktop	0
+Fault Management Capabilities	Alarm Generation	Apple Remote Desktop	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Apple Remote Desktop	0
+Fault Management Capabilities	Alarm Filtering	Apple Remote Desktop	0
+Fault Management Capabilities	Fault Detection	Bcfg2	0
+Fault Management Capabilities	Error Handling	Bcfg2	0
+Fault Management Capabilities	Fault Isolation	Bcfg2	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Bcfg2	0
+Fault Management Capabilities	Fault Correction	Bcfg2	0
+Fault Management Capabilities	Network Recovery	Bcfg2	0
+Fault Management Capabilities	Error Logging	Bcfg2	0
+Fault Management Capabilities	Diagnostic Testing	Bcfg2	0
+Fault Management Capabilities	Alarm Generation	Bcfg2	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Bcfg2	0
+Fault Management Capabilities	Alarm Filtering	Bcfg2	0
+Fault Management Capabilities	Fault Detection	CFEngine Community	1
+Fault Management Capabilities	Error Handling	CFEngine Community	1
+Fault Management Capabilities	Fault Isolation	CFEngine Community	1
+Fault Management Capabilities	Alarm Correlation/Analysis	CFEngine Community	0
+Fault Management Capabilities	Fault Correction	CFEngine Community	1
+Fault Management Capabilities	Network Recovery	CFEngine Community	0
+Fault Management Capabilities	Error Logging	CFEngine Community	1
+Fault Management Capabilities	Diagnostic Testing	CFEngine Community	1
+Fault Management Capabilities	Alarm Generation	CFEngine Community	1
+Fault Management Capabilities	Alarm Forwarding/Handling	CFEngine Community	1
+Fault Management Capabilities	Alarm Filtering	CFEngine Community	0
+Fault Management Capabilities	Fault Detection	Hinemos	0
+Fault Management Capabilities	Error Handling	Hinemos	1
+Fault Management Capabilities	Fault Isolation	Hinemos	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Hinemos	0
+Fault Management Capabilities	Fault Correction	Hinemos	1
+Fault Management Capabilities	Network Recovery	Hinemos	0
+Fault Management Capabilities	Error Logging	Hinemos	0
+Fault Management Capabilities	Diagnostic Testing	Hinemos	0
+Fault Management Capabilities	Alarm Generation	Hinemos	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Hinemos	1
+Fault Management Capabilities	Alarm Filtering	Hinemos	0
+Fault Management Capabilities	Fault Detection	ISconf	0
+Fault Management Capabilities	Error Handling	ISconf	0
+Fault Management Capabilities	Fault Isolation	ISconf	0
+Fault Management Capabilities	Alarm Correlation/Analysis	ISconf	0
+Fault Management Capabilities	Fault Correction	ISconf	0
+Fault Management Capabilities	Network Recovery	ISconf	0
+Fault Management Capabilities	Error Logging	ISconf	0
+Fault Management Capabilities	Diagnostic Testing	ISconf	0
+Fault Management Capabilities	Alarm Generation	ISconf	0
+Fault Management Capabilities	Alarm Forwarding/Handling	ISconf	0
+Fault Management Capabilities	Alarm Filtering	ISconf	0
+Fault Management Capabilities	Fault Detection	Absolute	0
+Fault Management Capabilities	Error Handling	Absolute	0
+Fault Management Capabilities	Fault Isolation	Absolute	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Absolute	0
+Fault Management Capabilities	Fault Correction	Absolute	0
+Fault Management Capabilities	Network Recovery	Absolute	0
+Fault Management Capabilities	Error Logging	Absolute	0
+Fault Management Capabilities	Diagnostic Testing	Absolute	0
+Fault Management Capabilities	Alarm Generation	Absolute	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Absolute	0
+Fault Management Capabilities	Alarm Filtering	Absolute	0
+Fault Management Capabilities	Fault Detection	Absolute Manage MDM	0
+Fault Management Capabilities	Error Handling	Absolute Manage MDM	0
+Fault Management Capabilities	Fault Isolation	Absolute Manage MDM	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Absolute Manage MDM	0
+Fault Management Capabilities	Fault Correction	Absolute Manage MDM	0
+Fault Management Capabilities	Network Recovery	Absolute Manage MDM	0
+Fault Management Capabilities	Error Logging	Absolute Manage MDM	0
+Fault Management Capabilities	Diagnostic Testing	Absolute Manage MDM	0
+Fault Management Capabilities	Alarm Generation	Absolute Manage MDM	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Absolute Manage MDM	0
+Fault Management Capabilities	Alarm Filtering	Absolute Manage MDM	0
+Fault Management Capabilities	Fault Detection	CFEngine Nova	1
+Fault Management Capabilities	Error Handling	CFEngine Nova	0
+Fault Management Capabilities	Fault Isolation	CFEngine Nova	1
+Fault Management Capabilities	Alarm Correlation/Analysis	CFEngine Nova	0
+Fault Management Capabilities	Fault Correction	CFEngine Nova	1
+Fault Management Capabilities	Network Recovery	CFEngine Nova	0
+Fault Management Capabilities	Error Logging	CFEngine Nova	0
+Fault Management Capabilities	Diagnostic Testing	CFEngine Nova	1
+Fault Management Capabilities	Alarm Generation	CFEngine Nova	0
+Fault Management Capabilities	Alarm Forwarding/Handling	CFEngine Nova	0
+Fault Management Capabilities	Alarm Filtering	CFEngine Nova	0
+Configuration Management Capabilities	Service Activation	K1000	1
+Configuration Management Capabilities	Auto Discovery	K1000	1
+Configuration Management Capabilities	Resource Initialization	K1000	0
+Configuration Management Capabilities	Remote Configuration	K1000	1
+Configuration Management Capabilities	Network Provisioning	K1000	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	K1000	1
+Configuration Management Capabilities	Automated Software Distribution	K1000	1
+Configuration Management Capabilities	Copy Configuration	K1000	1
+Configuration Management Capabilities	Change Management	K1000	1
+Configuration Management Capabilities	Resource Shutdown	K1000	0
+Configuration Management Capabilities	Inventory/Asset Management	K1000	1
+Configuration Management Capabilities	Backup and Restore	K1000	1
+Configuration Management Capabilities	Service Activation	FortiSIEM	0
+Configuration Management Capabilities	Auto Discovery	FortiSIEM	1
+Configuration Management Capabilities	Resource Initialization	FortiSIEM	0
+Configuration Management Capabilities	Remote Configuration	FortiSIEM	1
+Configuration Management Capabilities	Network Provisioning	FortiSIEM	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	FortiSIEM	0
+Configuration Management Capabilities	Automated Software Distribution	FortiSIEM	0
+Configuration Management Capabilities	Copy Configuration	FortiSIEM	0
+Configuration Management Capabilities	Change Management	FortiSIEM	1
+Configuration Management Capabilities	Resource Shutdown	FortiSIEM	0
+Configuration Management Capabilities	Inventory/Asset Management	FortiSIEM	1
+Configuration Management Capabilities	Backup and Restore	FortiSIEM	0
+Configuration Management Capabilities	Service Activation	Apple Remote Desktop	0
+Configuration Management Capabilities	Auto Discovery	Apple Remote Desktop	0
+Configuration Management Capabilities	Resource Initialization	Apple Remote Desktop	0
+Configuration Management Capabilities	Remote Configuration	Apple Remote Desktop	1
+Configuration Management Capabilities	Network Provisioning	Apple Remote Desktop	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Apple Remote Desktop	1
+Configuration Management Capabilities	Automated Software Distribution	Apple Remote Desktop	0
+Configuration Management Capabilities	Copy Configuration	Apple Remote Desktop	1
+Configuration Management Capabilities	Change Management	Apple Remote Desktop	0
+Configuration Management Capabilities	Resource Shutdown	Apple Remote Desktop	0
+Configuration Management Capabilities	Inventory/Asset Management	Apple Remote Desktop	1
+Configuration Management Capabilities	Backup and Restore	Apple Remote Desktop	0
+Configuration Management Capabilities	Service Activation	Bcfg2	0
+Configuration Management Capabilities	Auto Discovery	Bcfg2	0
+Configuration Management Capabilities	Resource Initialization	Bcfg2	1
+Configuration Management Capabilities	Remote Configuration	Bcfg2	0
+Configuration Management Capabilities	Network Provisioning	Bcfg2	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Bcfg2	0
+Configuration Management Capabilities	Automated Software Distribution	Bcfg2	1
+Configuration Management Capabilities	Copy Configuration	Bcfg2	1
+Configuration Management Capabilities	Change Management	Bcfg2	1
+Configuration Management Capabilities	Resource Shutdown	Bcfg2	0
+Configuration Management Capabilities	Inventory/Asset Management	Bcfg2	1
+Configuration Management Capabilities	Backup and Restore	Bcfg2	0
+Configuration Management Capabilities	Service Activation	CFEngine Community	0
+Configuration Management Capabilities	Auto Discovery	CFEngine Community	0
+Configuration Management Capabilities	Resource Initialization	CFEngine Community	1
+Configuration Management Capabilities	Remote Configuration	CFEngine Community	1
+Configuration Management Capabilities	Network Provisioning	CFEngine Community	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	CFEngine Community	1
+Configuration Management Capabilities	Automated Software Distribution	CFEngine Community	1
+Configuration Management Capabilities	Copy Configuration	CFEngine Community	1
+Configuration Management Capabilities	Change Management	CFEngine Community	0
+Configuration Management Capabilities	Resource Shutdown	CFEngine Community	1
+Configuration Management Capabilities	Inventory/Asset Management	CFEngine Community	1
+Configuration Management Capabilities	Backup and Restore	CFEngine Community	0
+Configuration Management Capabilities	Service Activation	Hinemos	0
+Configuration Management Capabilities	Auto Discovery	Hinemos	0
+Configuration Management Capabilities	Resource Initialization	Hinemos	0
+Configuration Management Capabilities	Remote Configuration	Hinemos	0
+Configuration Management Capabilities	Network Provisioning	Hinemos	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Hinemos	0
+Configuration Management Capabilities	Automated Software Distribution	Hinemos	1
+Configuration Management Capabilities	Copy Configuration	Hinemos	1
+Configuration Management Capabilities	Change Management	Hinemos	1
+Configuration Management Capabilities	Resource Shutdown	Hinemos	0
+Configuration Management Capabilities	Inventory/Asset Management	Hinemos	1
+Configuration Management Capabilities	Backup and Restore	Hinemos	0
+Configuration Management Capabilities	Service Activation	ISconf	0
+Configuration Management Capabilities	Auto Discovery	ISconf	0
+Configuration Management Capabilities	Resource Initialization	ISconf	0
+Configuration Management Capabilities	Remote Configuration	ISconf	1
+Configuration Management Capabilities	Network Provisioning	ISconf	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	ISconf	0
+Configuration Management Capabilities	Automated Software Distribution	ISconf	1
+Configuration Management Capabilities	Copy Configuration	ISconf	1
+Configuration Management Capabilities	Change Management	ISconf	0
+Configuration Management Capabilities	Resource Shutdown	ISconf	0
+Configuration Management Capabilities	Inventory/Asset Management	ISconf	0
+Configuration Management Capabilities	Backup and Restore	ISconf	0
+Configuration Management Capabilities	Service Activation	Absolute	1
+Configuration Management Capabilities	Auto Discovery	Absolute	0
+Configuration Management Capabilities	Resource Initialization	Absolute	0
+Configuration Management Capabilities	Remote Configuration	Absolute	1
+Configuration Management Capabilities	Network Provisioning	Absolute	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Absolute	0
+Configuration Management Capabilities	Automated Software Distribution	Absolute	1
+Configuration Management Capabilities	Copy Configuration	Absolute	0
+Configuration Management Capabilities	Change Management	Absolute	1
+Configuration Management Capabilities	Resource Shutdown	Absolute	0
+Configuration Management Capabilities	Inventory/Asset Management	Absolute	1
+Configuration Management Capabilities	Backup and Restore	Absolute	1
+Configuration Management Capabilities	Service Activation	Absolute Manage MDM	0
+Configuration Management Capabilities	Auto Discovery	Absolute Manage MDM	0
+Configuration Management Capabilities	Resource Initialization	Absolute Manage MDM	0
+Configuration Management Capabilities	Remote Configuration	Absolute Manage MDM	1
+Configuration Management Capabilities	Network Provisioning	Absolute Manage MDM	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Absolute Manage MDM	0
+Configuration Management Capabilities	Automated Software Distribution	Absolute Manage MDM	1
+Configuration Management Capabilities	Copy Configuration	Absolute Manage MDM	0
+Configuration Management Capabilities	Change Management	Absolute Manage MDM	1
+Configuration Management Capabilities	Resource Shutdown	Absolute Manage MDM	0
+Configuration Management Capabilities	Inventory/Asset Management	Absolute Manage MDM	1
+Configuration Management Capabilities	Backup and Restore	Absolute Manage MDM	0
+Configuration Management Capabilities	Service Activation	CFEngine Nova	0
+Configuration Management Capabilities	Auto Discovery	CFEngine Nova	0
+Configuration Management Capabilities	Resource Initialization	CFEngine Nova	0
+Configuration Management Capabilities	Remote Configuration	CFEngine Nova	1
+Configuration Management Capabilities	Network Provisioning	CFEngine Nova	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	CFEngine Nova	0
+Configuration Management Capabilities	Automated Software Distribution	CFEngine Nova	1
+Configuration Management Capabilities	Copy Configuration	CFEngine Nova	1
+Configuration Management Capabilities	Change Management	CFEngine Nova	1
+Configuration Management Capabilities	Resource Shutdown	CFEngine Nova	0
+Configuration Management Capabilities	Inventory/Asset Management	CFEngine Nova	1
+Configuration Management Capabilities	Backup and Restore	CFEngine Nova	0
+Functionality	Performance Management	K1000	1
+Functionality	Accounting/Allocation Management	K1000	1
+Functionality	Fault Management	K1000	0
+Functionality	Security Management	K1000	1
+Functionality	Configuration Management	K1000	1
+Functionality	Performance Management	FortiSIEM	1
+Functionality	Accounting/Allocation Management	FortiSIEM	1
+Functionality	Fault Management	FortiSIEM	1
+Functionality	Security Management	FortiSIEM	1
+Functionality	Configuration Management	FortiSIEM	1
+Functionality	Performance Management	Apple Remote Desktop	1
+Functionality	Accounting/Allocation Management	Apple Remote Desktop	1
+Functionality	Fault Management	Apple Remote Desktop	0
+Functionality	Security Management	Apple Remote Desktop	1
+Functionality	Configuration Management	Apple Remote Desktop	1
+Functionality	Performance Management	Bcfg2	1
+Functionality	Accounting/Allocation Management	Bcfg2	1
+Functionality	Fault Management	Bcfg2	0
+Functionality	Security Management	Bcfg2	1
+Functionality	Configuration Management	Bcfg2	1
+Functionality	Performance Management	CFEngine Community	1
+Functionality	Accounting/Allocation Management	CFEngine Community	1
+Functionality	Fault Management	CFEngine Community	1
+Functionality	Security Management	CFEngine Community	1
+Functionality	Configuration Management	CFEngine Community	1
+Functionality	Performance Management	Hinemos	1
+Functionality	Accounting/Allocation Management	Hinemos	1
+Functionality	Fault Management	Hinemos	1
+Functionality	Security Management	Hinemos	0
+Functionality	Configuration Management	Hinemos	1
+Functionality	Performance Management	ISconf	0
+Functionality	Accounting/Allocation Management	ISconf	0
+Functionality	Fault Management	ISconf	0
+Functionality	Security Management	ISconf	0
+Functionality	Configuration Management	ISconf	1
+Functionality	Performance Management	Absolute	1
+Functionality	Accounting/Allocation Management	Absolute	1
+Functionality	Fault Management	Absolute	0
+Functionality	Security Management	Absolute	1
+Functionality	Configuration Management	Absolute	1
+Functionality	Performance Management	Absolute Manage MDM	1
+Functionality	Accounting/Allocation Management	Absolute Manage MDM	1
+Functionality	Fault Management	Absolute Manage MDM	0
+Functionality	Security Management	Absolute Manage MDM	1
+Functionality	Configuration Management	Absolute Manage MDM	1
+Functionality	Performance Management	CFEngine Nova	1
+Functionality	Accounting/Allocation Management	CFEngine Nova	1
+Functionality	Fault Management	CFEngine Nova	1
+Functionality	Security Management	CFEngine Nova	1
+Functionality	Configuration Management	CFEngine Nova	1
+Additional Capabilities and Features	Remote Searching	K1000	0
+Additional Capabilities and Features	No Coding Knowledge Required	K1000	0
+Additional Capabilities and Features	User Portal	K1000	1
+Additional Capabilities and Features	Administrator Dashboard	K1000	1
+Additional Capabilities and Features	Remote Administration & Assistance	K1000	1
+Additional Capabilities and Features	Remote Searching	FortiSIEM	0
+Additional Capabilities and Features	No Coding Knowledge Required	FortiSIEM	0
+Additional Capabilities and Features	User Portal	FortiSIEM	0
+Additional Capabilities and Features	Administrator Dashboard	FortiSIEM	1
+Additional Capabilities and Features	Remote Administration & Assistance	FortiSIEM	1
+Additional Capabilities and Features	Remote Searching	Apple Remote Desktop	1
+Additional Capabilities and Features	No Coding Knowledge Required	Apple Remote Desktop	0
+Additional Capabilities and Features	User Portal	Apple Remote Desktop	0
+Additional Capabilities and Features	Administrator Dashboard	Apple Remote Desktop	0
+Additional Capabilities and Features	Remote Administration & Assistance	Apple Remote Desktop	1
+Additional Capabilities and Features	Remote Searching	Bcfg2	0
+Additional Capabilities and Features	No Coding Knowledge Required	Bcfg2	0
+Additional Capabilities and Features	User Portal	Bcfg2	0
+Additional Capabilities and Features	Administrator Dashboard	Bcfg2	0
+Additional Capabilities and Features	Remote Administration & Assistance	Bcfg2	0
+Additional Capabilities and Features	Remote Searching	CFEngine Community	0
+Additional Capabilities and Features	No Coding Knowledge Required	CFEngine Community	0
+Additional Capabilities and Features	User Portal	CFEngine Community	0
+Additional Capabilities and Features	Administrator Dashboard	CFEngine Community	1
+Additional Capabilities and Features	Remote Administration & Assistance	CFEngine Community	0
+Additional Capabilities and Features	Remote Searching	Hinemos	0
+Additional Capabilities and Features	No Coding Knowledge Required	Hinemos	0
+Additional Capabilities and Features	User Portal	Hinemos	0
+Additional Capabilities and Features	Administrator Dashboard	Hinemos	0
+Additional Capabilities and Features	Remote Administration & Assistance	Hinemos	0
+Additional Capabilities and Features	Remote Searching	ISconf	0
+Additional Capabilities and Features	No Coding Knowledge Required	ISconf	0
+Additional Capabilities and Features	User Portal	ISconf	0
+Additional Capabilities and Features	Administrator Dashboard	ISconf	0
+Additional Capabilities and Features	Remote Administration & Assistance	ISconf	0
+Additional Capabilities and Features	Remote Searching	Absolute	0
+Additional Capabilities and Features	No Coding Knowledge Required	Absolute	0
+Additional Capabilities and Features	User Portal	Absolute	0
+Additional Capabilities and Features	Administrator Dashboard	Absolute	1
+Additional Capabilities and Features	Remote Administration & Assistance	Absolute	1
+Additional Capabilities and Features	Remote Searching	Absolute Manage MDM	0
+Additional Capabilities and Features	No Coding Knowledge Required	Absolute Manage MDM	1
+Additional Capabilities and Features	User Portal	Absolute Manage MDM	0
+Additional Capabilities and Features	Administrator Dashboard	Absolute Manage MDM	1
+Additional Capabilities and Features	Remote Administration & Assistance	Absolute Manage MDM	1
+Additional Capabilities and Features	Remote Searching	CFEngine Nova	0
+Additional Capabilities and Features	No Coding Knowledge Required	CFEngine Nova	0
+Additional Capabilities and Features	User Portal	CFEngine Nova	0
+Additional Capabilities and Features	Administrator Dashboard	CFEngine Nova	1
+Additional Capabilities and Features	Remote Administration & Assistance	CFEngine Nova	1
+Security Management Capabilities	Security Audit Trail	Local ConFiGuration System (LCFG)	0
+Security Management Capabilities	Network Element Functions	Local ConFiGuration System (LCFG)	1
+Security Management Capabilities	System/Resource Access Control	Local ConFiGuration System (LCFG)	1
+Security Management Capabilities	Security Alarm/Event Reporting	Local ConFiGuration System (LCFG)	0
+Security Management Capabilities	Access Logs	Local ConFiGuration System (LCFG)	1
+Security Management Capabilities	Authentication	Local ConFiGuration System (LCFG)	0
+Security Management Capabilities	Containment and Recovery	Local ConFiGuration System (LCFG)	1
+Security Management Capabilities	Security Related Information Distributions	Local ConFiGuration System (LCFG)	0
+Security Management Capabilities	Encryption	Local ConFiGuration System (LCFG)	1
+Security Management Capabilities	Security Event Detection	Local ConFiGuration System (LCFG)	0
+Security Management Capabilities	Data Privacy	Local ConFiGuration System (LCFG)	0
+Security Management Capabilities	Security Audit Trail	Nagios XI	1
+Security Management Capabilities	Network Element Functions	Nagios XI	0
+Security Management Capabilities	System/Resource Access Control	Nagios XI	1
+Security Management Capabilities	Security Alarm/Event Reporting	Nagios XI	1
+Security Management Capabilities	Access Logs	Nagios XI	1
+Security Management Capabilities	Authentication	Nagios XI	1
+Security Management Capabilities	Containment and Recovery	Nagios XI	0
+Security Management Capabilities	Security Related Information Distributions	Nagios XI	0
+Security Management Capabilities	Encryption	Nagios XI	1
+Security Management Capabilities	Security Event Detection	Nagios XI	1
+Security Management Capabilities	Data Privacy	Nagios XI	0
+Security Management Capabilities	Security Audit Trail	Opsi	0
+Security Management Capabilities	Network Element Functions	Opsi	0
+Security Management Capabilities	System/Resource Access Control	Opsi	0
+Security Management Capabilities	Security Alarm/Event Reporting	Opsi	0
+Security Management Capabilities	Access Logs	Opsi	0
+Security Management Capabilities	Authentication	Opsi	0
+Security Management Capabilities	Containment and Recovery	Opsi	0
+Security Management Capabilities	Security Related Information Distributions	Opsi	0
+Security Management Capabilities	Encryption	Opsi	0
+Security Management Capabilities	Security Event Detection	Opsi	0
+Security Management Capabilities	Data Privacy	Opsi	0
+Security Management Capabilities	Security Audit Trail	PIKT	0
+Security Management Capabilities	Network Element Functions	PIKT	0
+Security Management Capabilities	System/Resource Access Control	PIKT	1
+Security Management Capabilities	Security Alarm/Event Reporting	PIKT	0
+Security Management Capabilities	Access Logs	PIKT	1
+Security Management Capabilities	Authentication	PIKT	1
+Security Management Capabilities	Containment and Recovery	PIKT	0
+Security Management Capabilities	Security Related Information Distributions	PIKT	0
+Security Management Capabilities	Encryption	PIKT	1
+Security Management Capabilities	Security Event Detection	PIKT	1
+Security Management Capabilities	Data Privacy	PIKT	1
+Security Management Capabilities	Security Audit Trail	Puppet Enterprise	0
+Security Management Capabilities	Network Element Functions	Puppet Enterprise	0
+Security Management Capabilities	System/Resource Access Control	Puppet Enterprise	1
+Security Management Capabilities	Security Alarm/Event Reporting	Puppet Enterprise	0
+Security Management Capabilities	Access Logs	Puppet Enterprise	0
+Security Management Capabilities	Authentication	Puppet Enterprise	1
+Security Management Capabilities	Containment and Recovery	Puppet Enterprise	0
+Security Management Capabilities	Security Related Information Distributions	Puppet Enterprise	0
+Security Management Capabilities	Encryption	Puppet Enterprise	1
+Security Management Capabilities	Security Event Detection	Puppet Enterprise	0
+Security Management Capabilities	Data Privacy	Puppet Enterprise	0
+Security Management Capabilities	Security Audit Trail	Quattor Toolkit	0
+Security Management Capabilities	Network Element Functions	Quattor Toolkit	0
+Security Management Capabilities	System/Resource Access Control	Quattor Toolkit	0
+Security Management Capabilities	Security Alarm/Event Reporting	Quattor Toolkit	0
+Security Management Capabilities	Access Logs	Quattor Toolkit	0
+Security Management Capabilities	Authentication	Quattor Toolkit	1
+Security Management Capabilities	Containment and Recovery	Quattor Toolkit	0
+Security Management Capabilities	Security Related Information Distributions	Quattor Toolkit	0
+Security Management Capabilities	Encryption	Quattor Toolkit	0
+Security Management Capabilities	Security Event Detection	Quattor Toolkit	0
+Security Management Capabilities	Data Privacy	Quattor Toolkit	0
+Security Management Capabilities	Security Audit Trail	Verax NMS	1
+Security Management Capabilities	Network Element Functions	Verax NMS	1
+Security Management Capabilities	System/Resource Access Control	Verax NMS	1
+Security Management Capabilities	Security Alarm/Event Reporting	Verax NMS	1
+Security Management Capabilities	Access Logs	Verax NMS	1
+Security Management Capabilities	Authentication	Verax NMS	1
+Security Management Capabilities	Containment and Recovery	Verax NMS	0
+Security Management Capabilities	Security Related Information Distributions	Verax NMS	0
+Security Management Capabilities	Encryption	Verax NMS	0
+Security Management Capabilities	Security Event Detection	Verax NMS	0
+Security Management Capabilities	Data Privacy	Verax NMS	0
+Security Management Capabilities	Security Audit Trail	Zenoss Service Dynamics	0
+Security Management Capabilities	Network Element Functions	Zenoss Service Dynamics	0
+Security Management Capabilities	System/Resource Access Control	Zenoss Service Dynamics	1
+Security Management Capabilities	Security Alarm/Event Reporting	Zenoss Service Dynamics	0
+Security Management Capabilities	Access Logs	Zenoss Service Dynamics	0
+Security Management Capabilities	Authentication	Zenoss Service Dynamics	0
+Security Management Capabilities	Containment and Recovery	Zenoss Service Dynamics	0
+Security Management Capabilities	Security Related Information Distributions	Zenoss Service Dynamics	0
+Security Management Capabilities	Encryption	Zenoss Service Dynamics	0
+Security Management Capabilities	Security Event Detection	Zenoss Service Dynamics	0
+Security Management Capabilities	Data Privacy	Zenoss Service Dynamics	0
+Security Management Capabilities	Security Audit Trail	Microsoft System Center Configuration Manager	1
+Security Management Capabilities	Network Element Functions	Microsoft System Center Configuration Manager	0
+Security Management Capabilities	System/Resource Access Control	Microsoft System Center Configuration Manager	1
+Security Management Capabilities	Security Alarm/Event Reporting	Microsoft System Center Configuration Manager	0
+Security Management Capabilities	Access Logs	Microsoft System Center Configuration Manager	0
+Security Management Capabilities	Authentication	Microsoft System Center Configuration Manager	1
+Security Management Capabilities	Containment and Recovery	Microsoft System Center Configuration Manager	0
+Security Management Capabilities	Security Related Information Distributions	Microsoft System Center Configuration Manager	1
+Security Management Capabilities	Encryption	Microsoft System Center Configuration Manager	0
+Security Management Capabilities	Security Event Detection	Microsoft System Center Configuration Manager	0
+Security Management Capabilities	Data Privacy	Microsoft System Center Configuration Manager	1
+Security Management Capabilities	Security Audit Trail	Dameware Remote Support	0
+Security Management Capabilities	Network Element Functions	Dameware Remote Support	0
+Security Management Capabilities	System/Resource Access Control	Dameware Remote Support	1
+Security Management Capabilities	Security Alarm/Event Reporting	Dameware Remote Support	1
+Security Management Capabilities	Access Logs	Dameware Remote Support	1
+Security Management Capabilities	Authentication	Dameware Remote Support	1
+Security Management Capabilities	Containment and Recovery	Dameware Remote Support	0
+Security Management Capabilities	Security Related Information Distributions	Dameware Remote Support	0
+Security Management Capabilities	Encryption	Dameware Remote Support	0
+Security Management Capabilities	Security Event Detection	Dameware Remote Support	0
+Security Management Capabilities	Data Privacy	Dameware Remote Support	0
+Performance Management Capabilities	Performance Report Generation	Local ConFiGuration System (LCFG)	0
+Performance Management Capabilities	Performance Monitoring	Local ConFiGuration System (LCFG)	0
+Performance Management Capabilities	Performance Data Analysis	Local ConFiGuration System (LCFG)	0
+Performance Management Capabilities	Performance Data Collection	Local ConFiGuration System (LCFG)	0
+Performance Management Capabilities	Capacity Planning	Local ConFiGuration System (LCFG)	0
+Performance Management Capabilities	Problem Reporting	Local ConFiGuration System (LCFG)	0
+Performance Management Capabilities	Consistent Performance Level	Local ConFiGuration System (LCFG)	0
+Performance Management Capabilities	Utilization & Error Rates	Local ConFiGuration System (LCFG)	0
+Performance Management Capabilities	Performance Report Generation	Nagios XI	1
+Performance Management Capabilities	Performance Monitoring	Nagios XI	1
+Performance Management Capabilities	Performance Data Analysis	Nagios XI	1
+Performance Management Capabilities	Performance Data Collection	Nagios XI	1
+Performance Management Capabilities	Capacity Planning	Nagios XI	1
+Performance Management Capabilities	Problem Reporting	Nagios XI	1
+Performance Management Capabilities	Consistent Performance Level	Nagios XI	1
+Performance Management Capabilities	Utilization & Error Rates	Nagios XI	0
+Performance Management Capabilities	Performance Report Generation	Opsi	1
+Performance Management Capabilities	Performance Monitoring	Opsi	1
+Performance Management Capabilities	Performance Data Analysis	Opsi	1
+Performance Management Capabilities	Performance Data Collection	Opsi	0
+Performance Management Capabilities	Capacity Planning	Opsi	0
+Performance Management Capabilities	Problem Reporting	Opsi	0
+Performance Management Capabilities	Consistent Performance Level	Opsi	0
+Performance Management Capabilities	Utilization & Error Rates	Opsi	0
+Performance Management Capabilities	Performance Report Generation	PIKT	0
+Performance Management Capabilities	Performance Monitoring	PIKT	0
+Performance Management Capabilities	Performance Data Analysis	PIKT	0
+Performance Management Capabilities	Performance Data Collection	PIKT	0
+Performance Management Capabilities	Capacity Planning	PIKT	0
+Performance Management Capabilities	Problem Reporting	PIKT	0
+Performance Management Capabilities	Consistent Performance Level	PIKT	1
+Performance Management Capabilities	Utilization & Error Rates	PIKT	0
+Performance Management Capabilities	Performance Report Generation	Puppet Enterprise	1
+Performance Management Capabilities	Performance Monitoring	Puppet Enterprise	1
+Performance Management Capabilities	Performance Data Analysis	Puppet Enterprise	1
+Performance Management Capabilities	Performance Data Collection	Puppet Enterprise	1
+Performance Management Capabilities	Capacity Planning	Puppet Enterprise	1
+Performance Management Capabilities	Problem Reporting	Puppet Enterprise	1
+Performance Management Capabilities	Consistent Performance Level	Puppet Enterprise	1
+Performance Management Capabilities	Utilization & Error Rates	Puppet Enterprise	0
+Performance Management Capabilities	Performance Report Generation	Quattor Toolkit	0
+Performance Management Capabilities	Performance Monitoring	Quattor Toolkit	0
+Performance Management Capabilities	Performance Data Analysis	Quattor Toolkit	0
+Performance Management Capabilities	Performance Data Collection	Quattor Toolkit	0
+Performance Management Capabilities	Capacity Planning	Quattor Toolkit	0
+Performance Management Capabilities	Problem Reporting	Quattor Toolkit	0
+Performance Management Capabilities	Consistent Performance Level	Quattor Toolkit	0
+Performance Management Capabilities	Utilization & Error Rates	Quattor Toolkit	0
+Performance Management Capabilities	Performance Report Generation	Verax NMS	1
+Performance Management Capabilities	Performance Monitoring	Verax NMS	1
+Performance Management Capabilities	Performance Data Analysis	Verax NMS	1
+Performance Management Capabilities	Performance Data Collection	Verax NMS	1
+Performance Management Capabilities	Capacity Planning	Verax NMS	1
+Performance Management Capabilities	Problem Reporting	Verax NMS	1
+Performance Management Capabilities	Consistent Performance Level	Verax NMS	0
+Performance Management Capabilities	Utilization & Error Rates	Verax NMS	0
+Performance Management Capabilities	Performance Report Generation	Zenoss Service Dynamics	1
+Performance Management Capabilities	Performance Monitoring	Zenoss Service Dynamics	1
+Performance Management Capabilities	Performance Data Analysis	Zenoss Service Dynamics	1
+Performance Management Capabilities	Performance Data Collection	Zenoss Service Dynamics	1
+Performance Management Capabilities	Capacity Planning	Zenoss Service Dynamics	1
+Performance Management Capabilities	Problem Reporting	Zenoss Service Dynamics	1
+Performance Management Capabilities	Consistent Performance Level	Zenoss Service Dynamics	0
+Performance Management Capabilities	Utilization & Error Rates	Zenoss Service Dynamics	1
+Performance Management Capabilities	Performance Report Generation	Microsoft System Center Configuration Manager	1
+Performance Management Capabilities	Performance Monitoring	Microsoft System Center Configuration Manager	1
+Performance Management Capabilities	Performance Data Analysis	Microsoft System Center Configuration Manager	1
+Performance Management Capabilities	Performance Data Collection	Microsoft System Center Configuration Manager	1
+Performance Management Capabilities	Capacity Planning	Microsoft System Center Configuration Manager	1
+Performance Management Capabilities	Problem Reporting	Microsoft System Center Configuration Manager	0
+Performance Management Capabilities	Consistent Performance Level	Microsoft System Center Configuration Manager	1
+Performance Management Capabilities	Utilization & Error Rates	Microsoft System Center Configuration Manager	0
+Performance Management Capabilities	Performance Report Generation	Dameware Remote Support	0
+Performance Management Capabilities	Performance Monitoring	Dameware Remote Support	1
+Performance Management Capabilities	Performance Data Analysis	Dameware Remote Support	0
+Performance Management Capabilities	Performance Data Collection	Dameware Remote Support	0
+Performance Management Capabilities	Capacity Planning	Dameware Remote Support	0
+Performance Management Capabilities	Problem Reporting	Dameware Remote Support	0
+Performance Management Capabilities	Consistent Performance Level	Dameware Remote Support	0
+Performance Management Capabilities	Utilization & Error Rates	Dameware Remote Support	0
+Accounting/allocation Management Capabilities	Usage Reporting	Local ConFiGuration System (LCFG)	0
+Accounting/allocation Management Capabilities	Cost Calculation	Local ConFiGuration System (LCFG)	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Local ConFiGuration System (LCFG)	0
+Accounting/allocation Management Capabilities	Audits	Local ConFiGuration System (LCFG)	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Local ConFiGuration System (LCFG)	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Local ConFiGuration System (LCFG)	0
+Accounting/allocation Management Capabilities	Usage Reporting	Nagios XI	1
+Accounting/allocation Management Capabilities	Cost Calculation	Nagios XI	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Nagios XI	1
+Accounting/allocation Management Capabilities	Audits	Nagios XI	1
+Accounting/allocation Management Capabilities	Set Usage Quotas	Nagios XI	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Nagios XI	1
+Accounting/allocation Management Capabilities	Usage Reporting	Opsi	0
+Accounting/allocation Management Capabilities	Cost Calculation	Opsi	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Opsi	0
+Accounting/allocation Management Capabilities	Audits	Opsi	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Opsi	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Opsi	0
+Accounting/allocation Management Capabilities	Usage Reporting	PIKT	0
+Accounting/allocation Management Capabilities	Cost Calculation	PIKT	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	PIKT	0
+Accounting/allocation Management Capabilities	Audits	PIKT	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	PIKT	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	PIKT	0
+Accounting/allocation Management Capabilities	Usage Reporting	Puppet Enterprise	0
+Accounting/allocation Management Capabilities	Cost Calculation	Puppet Enterprise	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Puppet Enterprise	0
+Accounting/allocation Management Capabilities	Audits	Puppet Enterprise	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Puppet Enterprise	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Puppet Enterprise	0
+Accounting/allocation Management Capabilities	Usage Reporting	Quattor Toolkit	0
+Accounting/allocation Management Capabilities	Cost Calculation	Quattor Toolkit	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Quattor Toolkit	0
+Accounting/allocation Management Capabilities	Audits	Quattor Toolkit	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Quattor Toolkit	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Quattor Toolkit	0
+Accounting/allocation Management Capabilities	Usage Reporting	Verax NMS	1
+Accounting/allocation Management Capabilities	Cost Calculation	Verax NMS	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Verax NMS	0
+Accounting/allocation Management Capabilities	Audits	Verax NMS	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Verax NMS	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Verax NMS	1
+Accounting/allocation Management Capabilities	Usage Reporting	Zenoss Service Dynamics	1
+Accounting/allocation Management Capabilities	Cost Calculation	Zenoss Service Dynamics	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Zenoss Service Dynamics	0
+Accounting/allocation Management Capabilities	Audits	Zenoss Service Dynamics	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Zenoss Service Dynamics	1
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Zenoss Service Dynamics	1
+Accounting/allocation Management Capabilities	Usage Reporting	Microsoft System Center Configuration Manager	1
+Accounting/allocation Management Capabilities	Cost Calculation	Microsoft System Center Configuration Manager	1
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Microsoft System Center Configuration Manager	0
+Accounting/allocation Management Capabilities	Audits	Microsoft System Center Configuration Manager	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Microsoft System Center Configuration Manager	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Microsoft System Center Configuration Manager	1
+Accounting/allocation Management Capabilities	Usage Reporting	Dameware Remote Support	0
+Accounting/allocation Management Capabilities	Cost Calculation	Dameware Remote Support	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Dameware Remote Support	0
+Accounting/allocation Management Capabilities	Audits	Dameware Remote Support	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Dameware Remote Support	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Dameware Remote Support	0
+Fault Management Capabilities	Fault Detection	Local ConFiGuration System (LCFG)	0
+Fault Management Capabilities	Error Handling	Local ConFiGuration System (LCFG)	0
+Fault Management Capabilities	Fault Isolation	Local ConFiGuration System (LCFG)	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Local ConFiGuration System (LCFG)	0
+Fault Management Capabilities	Fault Correction	Local ConFiGuration System (LCFG)	0
+Fault Management Capabilities	Network Recovery	Local ConFiGuration System (LCFG)	1
+Fault Management Capabilities	Error Logging	Local ConFiGuration System (LCFG)	0
+Fault Management Capabilities	Diagnostic Testing	Local ConFiGuration System (LCFG)	0
+Fault Management Capabilities	Calculation of Error Statistics	Local ConFiGuration System (LCFG)	0
+Fault Management Capabilities	Alarm Generation	Local ConFiGuration System (LCFG)	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Local ConFiGuration System (LCFG)	0
+Fault Management Capabilities	Alarm Filtering	Local ConFiGuration System (LCFG)	0
+Fault Management Capabilities	Fault Detection	Nagios XI	0
+Fault Management Capabilities	Error Handling	Nagios XI	0
+Fault Management Capabilities	Fault Isolation	Nagios XI	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Nagios XI	0
+Fault Management Capabilities	Fault Correction	Nagios XI	0
+Fault Management Capabilities	Network Recovery	Nagios XI	1
+Fault Management Capabilities	Error Logging	Nagios XI	0
+Fault Management Capabilities	Diagnostic Testing	Nagios XI	1
+Fault Management Capabilities	Calculation of Error Statistics	Nagios XI	1
+Fault Management Capabilities	Alarm Generation	Nagios XI	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Nagios XI	0
+Fault Management Capabilities	Alarm Filtering	Nagios XI	0
+Fault Management Capabilities	Fault Detection	Opsi	0
+Fault Management Capabilities	Error Handling	Opsi	0
+Fault Management Capabilities	Fault Isolation	Opsi	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Opsi	0
+Fault Management Capabilities	Fault Correction	Opsi	0
+Fault Management Capabilities	Network Recovery	Opsi	0
+Fault Management Capabilities	Error Logging	Opsi	0
+Fault Management Capabilities	Diagnostic Testing	Opsi	0
+Fault Management Capabilities	Calculation of Error Statistics	Opsi	0
+Fault Management Capabilities	Alarm Generation	Opsi	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Opsi	0
+Fault Management Capabilities	Alarm Filtering	Opsi	0
+Fault Management Capabilities	Fault Detection	PIKT	1
+Fault Management Capabilities	Error Handling	PIKT	1
+Fault Management Capabilities	Fault Isolation	PIKT	1
+Fault Management Capabilities	Alarm Correlation/Analysis	PIKT	0
+Fault Management Capabilities	Fault Correction	PIKT	1
+Fault Management Capabilities	Network Recovery	PIKT	1
+Fault Management Capabilities	Error Logging	PIKT	1
+Fault Management Capabilities	Diagnostic Testing	PIKT	0
+Fault Management Capabilities	Calculation of Error Statistics	PIKT	0
+Fault Management Capabilities	Alarm Generation	PIKT	1
+Fault Management Capabilities	Alarm Forwarding/Handling	PIKT	0
+Fault Management Capabilities	Alarm Filtering	PIKT	1
+Fault Management Capabilities	Fault Detection	Puppet Enterprise	1
+Fault Management Capabilities	Error Handling	Puppet Enterprise	1
+Fault Management Capabilities	Fault Isolation	Puppet Enterprise	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Puppet Enterprise	0
+Fault Management Capabilities	Fault Correction	Puppet Enterprise	1
+Fault Management Capabilities	Network Recovery	Puppet Enterprise	0
+Fault Management Capabilities	Error Logging	Puppet Enterprise	1
+Fault Management Capabilities	Diagnostic Testing	Puppet Enterprise	0
+Fault Management Capabilities	Calculation of Error Statistics	Puppet Enterprise	0
+Fault Management Capabilities	Alarm Generation	Puppet Enterprise	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Puppet Enterprise	0
+Fault Management Capabilities	Alarm Filtering	Puppet Enterprise	0
+Fault Management Capabilities	Fault Detection	Quattor Toolkit	0
+Fault Management Capabilities	Error Handling	Quattor Toolkit	0
+Fault Management Capabilities	Fault Isolation	Quattor Toolkit	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Quattor Toolkit	0
+Fault Management Capabilities	Fault Correction	Quattor Toolkit	0
+Fault Management Capabilities	Network Recovery	Quattor Toolkit	0
+Fault Management Capabilities	Error Logging	Quattor Toolkit	0
+Fault Management Capabilities	Diagnostic Testing	Quattor Toolkit	0
+Fault Management Capabilities	Calculation of Error Statistics	Quattor Toolkit	0
+Fault Management Capabilities	Alarm Generation	Quattor Toolkit	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Quattor Toolkit	0
+Fault Management Capabilities	Alarm Filtering	Quattor Toolkit	0
+Fault Management Capabilities	Fault Detection	Verax NMS	1
+Fault Management Capabilities	Error Handling	Verax NMS	1
+Fault Management Capabilities	Fault Isolation	Verax NMS	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Verax NMS	1
+Fault Management Capabilities	Fault Correction	Verax NMS	0
+Fault Management Capabilities	Network Recovery	Verax NMS	1
+Fault Management Capabilities	Error Logging	Verax NMS	0
+Fault Management Capabilities	Diagnostic Testing	Verax NMS	1
+Fault Management Capabilities	Calculation of Error Statistics	Verax NMS	1
+Fault Management Capabilities	Alarm Generation	Verax NMS	1
+Fault Management Capabilities	Alarm Forwarding/Handling	Verax NMS	1
+Fault Management Capabilities	Alarm Filtering	Verax NMS	1
+Fault Management Capabilities	Fault Detection	Zenoss Service Dynamics	1
+Fault Management Capabilities	Error Handling	Zenoss Service Dynamics	0
+Fault Management Capabilities	Fault Isolation	Zenoss Service Dynamics	1
+Fault Management Capabilities	Alarm Correlation/Analysis	Zenoss Service Dynamics	0
+Fault Management Capabilities	Fault Correction	Zenoss Service Dynamics	1
+Fault Management Capabilities	Network Recovery	Zenoss Service Dynamics	0
+Fault Management Capabilities	Error Logging	Zenoss Service Dynamics	0
+Fault Management Capabilities	Diagnostic Testing	Zenoss Service Dynamics	1
+Fault Management Capabilities	Calculation of Error Statistics	Zenoss Service Dynamics	1
+Fault Management Capabilities	Alarm Generation	Zenoss Service Dynamics	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Zenoss Service Dynamics	1
+Fault Management Capabilities	Alarm Filtering	Zenoss Service Dynamics	0
+Fault Management Capabilities	Fault Detection	Microsoft System Center Configuration Manager	0
+Fault Management Capabilities	Error Handling	Microsoft System Center Configuration Manager	0
+Fault Management Capabilities	Fault Isolation	Microsoft System Center Configuration Manager	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Microsoft System Center Configuration Manager	0
+Fault Management Capabilities	Fault Correction	Microsoft System Center Configuration Manager	0
+Fault Management Capabilities	Network Recovery	Microsoft System Center Configuration Manager	0
+Fault Management Capabilities	Error Logging	Microsoft System Center Configuration Manager	0
+Fault Management Capabilities	Diagnostic Testing	Microsoft System Center Configuration Manager	0
+Fault Management Capabilities	Calculation of Error Statistics	Microsoft System Center Configuration Manager	0
+Fault Management Capabilities	Alarm Generation	Microsoft System Center Configuration Manager	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Microsoft System Center Configuration Manager	0
+Fault Management Capabilities	Alarm Filtering	Microsoft System Center Configuration Manager	0
+Fault Management Capabilities	Fault Detection	Dameware Remote Support	0
+Fault Management Capabilities	Error Handling	Dameware Remote Support	0
+Fault Management Capabilities	Fault Isolation	Dameware Remote Support	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Dameware Remote Support	0
+Fault Management Capabilities	Fault Correction	Dameware Remote Support	0
+Fault Management Capabilities	Network Recovery	Dameware Remote Support	1
+Fault Management Capabilities	Error Logging	Dameware Remote Support	0
+Fault Management Capabilities	Diagnostic Testing	Dameware Remote Support	0
+Fault Management Capabilities	Calculation of Error Statistics	Dameware Remote Support	0
+Fault Management Capabilities	Alarm Generation	Dameware Remote Support	1
+Fault Management Capabilities	Alarm Forwarding/Handling	Dameware Remote Support	0
+Fault Management Capabilities	Alarm Filtering	Dameware Remote Support	0
+Configuration Management Capabilities	Service Activation	Local ConFiGuration System (LCFG)	1
+Configuration Management Capabilities	Auto Discovery	Local ConFiGuration System (LCFG)	0
+Configuration Management Capabilities	Resource Initialization	Local ConFiGuration System (LCFG)	1
+Configuration Management Capabilities	Remote Configuration	Local ConFiGuration System (LCFG)	1
+Configuration Management Capabilities	Network Provisioning	Local ConFiGuration System (LCFG)	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Local ConFiGuration System (LCFG)	0
+Configuration Management Capabilities	Automated Software Distribution	Local ConFiGuration System (LCFG)	1
+Configuration Management Capabilities	Copy Configuration	Local ConFiGuration System (LCFG)	1
+Configuration Management Capabilities	Change Management	Local ConFiGuration System (LCFG)	1
+Configuration Management Capabilities	Resource Shutdown	Local ConFiGuration System (LCFG)	0
+Configuration Management Capabilities	Inventory/Asset Management	Local ConFiGuration System (LCFG)	0
+Configuration Management Capabilities	Backup and Restore	Local ConFiGuration System (LCFG)	0
+Configuration Management Capabilities	Service Activation	Nagios XI	0
+Configuration Management Capabilities	Auto Discovery	Nagios XI	1
+Configuration Management Capabilities	Resource Initialization	Nagios XI	1
+Configuration Management Capabilities	Remote Configuration	Nagios XI	1
+Configuration Management Capabilities	Network Provisioning	Nagios XI	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Nagios XI	1
+Configuration Management Capabilities	Automated Software Distribution	Nagios XI	0
+Configuration Management Capabilities	Copy Configuration	Nagios XI	1
+Configuration Management Capabilities	Change Management	Nagios XI	1
+Configuration Management Capabilities	Resource Shutdown	Nagios XI	1
+Configuration Management Capabilities	Inventory/Asset Management	Nagios XI	0
+Configuration Management Capabilities	Backup and Restore	Nagios XI	1
+Configuration Management Capabilities	Service Activation	Opsi	1
+Configuration Management Capabilities	Auto Discovery	Opsi	1
+Configuration Management Capabilities	Resource Initialization	Opsi	1
+Configuration Management Capabilities	Remote Configuration	Opsi	0
+Configuration Management Capabilities	Network Provisioning	Opsi	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Opsi	1
+Configuration Management Capabilities	Automated Software Distribution	Opsi	1
+Configuration Management Capabilities	Copy Configuration	Opsi	1
+Configuration Management Capabilities	Change Management	Opsi	1
+Configuration Management Capabilities	Resource Shutdown	Opsi	0
+Configuration Management Capabilities	Inventory/Asset Management	Opsi	1
+Configuration Management Capabilities	Backup and Restore	Opsi	1
+Configuration Management Capabilities	Service Activation	PIKT	0
+Configuration Management Capabilities	Auto Discovery	PIKT	0
+Configuration Management Capabilities	Resource Initialization	PIKT	1
+Configuration Management Capabilities	Remote Configuration	PIKT	0
+Configuration Management Capabilities	Network Provisioning	PIKT	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	PIKT	0
+Configuration Management Capabilities	Automated Software Distribution	PIKT	1
+Configuration Management Capabilities	Copy Configuration	PIKT	1
+Configuration Management Capabilities	Change Management	PIKT	1
+Configuration Management Capabilities	Resource Shutdown	PIKT	0
+Configuration Management Capabilities	Inventory/Asset Management	PIKT	1
+Configuration Management Capabilities	Backup and Restore	PIKT	0
+Configuration Management Capabilities	Service Activation	Puppet Enterprise	0
+Configuration Management Capabilities	Auto Discovery	Puppet Enterprise	1
+Configuration Management Capabilities	Resource Initialization	Puppet Enterprise	1
+Configuration Management Capabilities	Remote Configuration	Puppet Enterprise	1
+Configuration Management Capabilities	Network Provisioning	Puppet Enterprise	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Puppet Enterprise	0
+Configuration Management Capabilities	Automated Software Distribution	Puppet Enterprise	1
+Configuration Management Capabilities	Copy Configuration	Puppet Enterprise	1
+Configuration Management Capabilities	Change Management	Puppet Enterprise	1
+Configuration Management Capabilities	Resource Shutdown	Puppet Enterprise	0
+Configuration Management Capabilities	Inventory/Asset Management	Puppet Enterprise	1
+Configuration Management Capabilities	Backup and Restore	Puppet Enterprise	0
+Configuration Management Capabilities	Service Activation	Quattor Toolkit	1
+Configuration Management Capabilities	Auto Discovery	Quattor Toolkit	1
+Configuration Management Capabilities	Resource Initialization	Quattor Toolkit	1
+Configuration Management Capabilities	Remote Configuration	Quattor Toolkit	1
+Configuration Management Capabilities	Network Provisioning	Quattor Toolkit	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Quattor Toolkit	0
+Configuration Management Capabilities	Automated Software Distribution	Quattor Toolkit	1
+Configuration Management Capabilities	Copy Configuration	Quattor Toolkit	1
+Configuration Management Capabilities	Change Management	Quattor Toolkit	1
+Configuration Management Capabilities	Resource Shutdown	Quattor Toolkit	0
+Configuration Management Capabilities	Inventory/Asset Management	Quattor Toolkit	1
+Configuration Management Capabilities	Backup and Restore	Quattor Toolkit	1
+Configuration Management Capabilities	Service Activation	Verax NMS	0
+Configuration Management Capabilities	Auto Discovery	Verax NMS	1
+Configuration Management Capabilities	Resource Initialization	Verax NMS	0
+Configuration Management Capabilities	Remote Configuration	Verax NMS	1
+Configuration Management Capabilities	Network Provisioning	Verax NMS	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Verax NMS	0
+Configuration Management Capabilities	Automated Software Distribution	Verax NMS	1
+Configuration Management Capabilities	Copy Configuration	Verax NMS	1
+Configuration Management Capabilities	Change Management	Verax NMS	0
+Configuration Management Capabilities	Resource Shutdown	Verax NMS	1
+Configuration Management Capabilities	Inventory/Asset Management	Verax NMS	0
+Configuration Management Capabilities	Backup and Restore	Verax NMS	0
+Configuration Management Capabilities	Service Activation	Zenoss Service Dynamics	0
+Configuration Management Capabilities	Auto Discovery	Zenoss Service Dynamics	1
+Configuration Management Capabilities	Resource Initialization	Zenoss Service Dynamics	1
+Configuration Management Capabilities	Remote Configuration	Zenoss Service Dynamics	0
+Configuration Management Capabilities	Network Provisioning	Zenoss Service Dynamics	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Zenoss Service Dynamics	0
+Configuration Management Capabilities	Automated Software Distribution	Zenoss Service Dynamics	1
+Configuration Management Capabilities	Copy Configuration	Zenoss Service Dynamics	0
+Configuration Management Capabilities	Change Management	Zenoss Service Dynamics	1
+Configuration Management Capabilities	Resource Shutdown	Zenoss Service Dynamics	0
+Configuration Management Capabilities	Inventory/Asset Management	Zenoss Service Dynamics	0
+Configuration Management Capabilities	Backup and Restore	Zenoss Service Dynamics	0
+Configuration Management Capabilities	Service Activation	Microsoft System Center Configuration Manager	0
+Configuration Management Capabilities	Auto Discovery	Microsoft System Center Configuration Manager	0
+Configuration Management Capabilities	Resource Initialization	Microsoft System Center Configuration Manager	1
+Configuration Management Capabilities	Remote Configuration	Microsoft System Center Configuration Manager	1
+Configuration Management Capabilities	Network Provisioning	Microsoft System Center Configuration Manager	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Microsoft System Center Configuration Manager	0
+Configuration Management Capabilities	Automated Software Distribution	Microsoft System Center Configuration Manager	0
+Configuration Management Capabilities	Copy Configuration	Microsoft System Center Configuration Manager	1
+Configuration Management Capabilities	Change Management	Microsoft System Center Configuration Manager	1
+Configuration Management Capabilities	Resource Shutdown	Microsoft System Center Configuration Manager	0
+Configuration Management Capabilities	Inventory/Asset Management	Microsoft System Center Configuration Manager	1
+Configuration Management Capabilities	Backup and Restore	Microsoft System Center Configuration Manager	1
+Configuration Management Capabilities	Service Activation	Dameware Remote Support	0
+Configuration Management Capabilities	Auto Discovery	Dameware Remote Support	0
+Configuration Management Capabilities	Resource Initialization	Dameware Remote Support	1
+Configuration Management Capabilities	Remote Configuration	Dameware Remote Support	1
+Configuration Management Capabilities	Network Provisioning	Dameware Remote Support	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Dameware Remote Support	1
+Configuration Management Capabilities	Automated Software Distribution	Dameware Remote Support	1
+Configuration Management Capabilities	Copy Configuration	Dameware Remote Support	0
+Configuration Management Capabilities	Change Management	Dameware Remote Support	1
+Configuration Management Capabilities	Resource Shutdown	Dameware Remote Support	1
+Configuration Management Capabilities	Inventory/Asset Management	Dameware Remote Support	1
+Configuration Management Capabilities	Backup and Restore	Dameware Remote Support	0
+Functionality	Performance Management	Local ConFiGuration System (LCFG)	0
+Functionality	Accounting/Allocation Management	Local ConFiGuration System (LCFG)	0
+Functionality	Fault Management	Local ConFiGuration System (LCFG)	1
+Functionality	Security Management	Local ConFiGuration System (LCFG)	1
+Functionality	Configuration Management	Local ConFiGuration System (LCFG)	1
+Functionality	Performance Management	Nagios XI	1
+Functionality	Accounting/Allocation Management	Nagios XI	1
+Functionality	Fault Management	Nagios XI	1
+Functionality	Security Management	Nagios XI	1
+Functionality	Configuration Management	Nagios XI	1
+Functionality	Performance Management	Opsi	1
+Functionality	Accounting/Allocation Management	Opsi	0
+Functionality	Fault Management	Opsi	0
+Functionality	Security Management	Opsi	0
+Functionality	Configuration Management	Opsi	1
+Functionality	Performance Management	PIKT	1
+Functionality	Accounting/Allocation Management	PIKT	0
+Functionality	Fault Management	PIKT	1
+Functionality	Security Management	PIKT	1
+Functionality	Configuration Management	PIKT	1
+Functionality	Performance Management	Puppet Enterprise	1
+Functionality	Accounting/Allocation Management	Puppet Enterprise	0
+Functionality	Fault Management	Puppet Enterprise	1
+Functionality	Security Management	Puppet Enterprise	1
+Functionality	Configuration Management	Puppet Enterprise	1
+Functionality	Performance Management	Quattor Toolkit	0
+Functionality	Accounting/Allocation Management	Quattor Toolkit	0
+Functionality	Fault Management	Quattor Toolkit	0
+Functionality	Security Management	Quattor Toolkit	0
+Functionality	Configuration Management	Quattor Toolkit	1
+Functionality	Performance Management	Verax NMS	1
+Functionality	Accounting/Allocation Management	Verax NMS	0
+Functionality	Fault Management	Verax NMS	1
+Functionality	Security Management	Verax NMS	1
+Functionality	Configuration Management	Verax NMS	1
+Functionality	Performance Management	Zenoss Service Dynamics	1
+Functionality	Accounting/Allocation Management	Zenoss Service Dynamics	1
+Functionality	Fault Management	Zenoss Service Dynamics	1
+Functionality	Security Management	Zenoss Service Dynamics	0
+Functionality	Configuration Management	Zenoss Service Dynamics	1
+Functionality	Performance Management	Microsoft System Center Configuration Manager	1
+Functionality	Accounting/Allocation Management	Microsoft System Center Configuration Manager	1
+Functionality	Fault Management	Microsoft System Center Configuration Manager	0
+Functionality	Security Management	Microsoft System Center Configuration Manager	1
+Functionality	Configuration Management	Microsoft System Center Configuration Manager	1
+Functionality	Performance Management	Dameware Remote Support	1
+Functionality	Accounting/Allocation Management	Dameware Remote Support	0
+Functionality	Fault Management	Dameware Remote Support	1
+Functionality	Security Management	Dameware Remote Support	1
+Functionality	Configuration Management	Dameware Remote Support	1
+Additional Capabilities and Features	Remote Searching	Local ConFiGuration System (LCFG)	0
+Additional Capabilities and Features	No Coding Knowledge Required	Local ConFiGuration System (LCFG)	1
+Additional Capabilities and Features	User Portal	Local ConFiGuration System (LCFG)	0
+Additional Capabilities and Features	Administrator Dashboard	Local ConFiGuration System (LCFG)	1
+Additional Capabilities and Features	Remote Administration & Assistance	Local ConFiGuration System (LCFG)	0
+Additional Capabilities and Features	Remote Searching	Nagios XI	1
+Additional Capabilities and Features	No Coding Knowledge Required	Nagios XI	1
+Additional Capabilities and Features	User Portal	Nagios XI	1
+Additional Capabilities and Features	Administrator Dashboard	Nagios XI	1
+Additional Capabilities and Features	Remote Administration & Assistance	Nagios XI	1
+Additional Capabilities and Features	Remote Searching	Opsi	0
+Additional Capabilities and Features	No Coding Knowledge Required	Opsi	1
+Additional Capabilities and Features	User Portal	Opsi	1
+Additional Capabilities and Features	Administrator Dashboard	Opsi	1
+Additional Capabilities and Features	Remote Administration & Assistance	Opsi	0
+Additional Capabilities and Features	Remote Searching	PIKT	0
+Additional Capabilities and Features	No Coding Knowledge Required	PIKT	0
+Additional Capabilities and Features	User Portal	PIKT	0
+Additional Capabilities and Features	Administrator Dashboard	PIKT	0
+Additional Capabilities and Features	Remote Administration & Assistance	PIKT	0
+Additional Capabilities and Features	Remote Searching	Puppet Enterprise	0
+Additional Capabilities and Features	No Coding Knowledge Required	Puppet Enterprise	0
+Additional Capabilities and Features	User Portal	Puppet Enterprise	1
+Additional Capabilities and Features	Administrator Dashboard	Puppet Enterprise	1
+Additional Capabilities and Features	Remote Administration & Assistance	Puppet Enterprise	1
+Additional Capabilities and Features	Remote Searching	Quattor Toolkit	0
+Additional Capabilities and Features	No Coding Knowledge Required	Quattor Toolkit	0
+Additional Capabilities and Features	User Portal	Quattor Toolkit	0
+Additional Capabilities and Features	Administrator Dashboard	Quattor Toolkit	0
+Additional Capabilities and Features	Remote Administration & Assistance	Quattor Toolkit	0
+Additional Capabilities and Features	Remote Searching	Verax NMS	0
+Additional Capabilities and Features	No Coding Knowledge Required	Verax NMS	1
+Additional Capabilities and Features	User Portal	Verax NMS	0
+Additional Capabilities and Features	Administrator Dashboard	Verax NMS	1
+Additional Capabilities and Features	Remote Administration & Assistance	Verax NMS	1
+Additional Capabilities and Features	Remote Searching	Zenoss Service Dynamics	0
+Additional Capabilities and Features	No Coding Knowledge Required	Zenoss Service Dynamics	0
+Additional Capabilities and Features	User Portal	Zenoss Service Dynamics	1
+Additional Capabilities and Features	Administrator Dashboard	Zenoss Service Dynamics	1
+Additional Capabilities and Features	Remote Administration & Assistance	Zenoss Service Dynamics	0
+Additional Capabilities and Features	Remote Searching	Microsoft System Center Configuration Manager	1
+Additional Capabilities and Features	No Coding Knowledge Required	Microsoft System Center Configuration Manager	0
+Additional Capabilities and Features	User Portal	Microsoft System Center Configuration Manager	1
+Additional Capabilities and Features	Administrator Dashboard	Microsoft System Center Configuration Manager	1
+Additional Capabilities and Features	Remote Administration & Assistance	Microsoft System Center Configuration Manager	0
+Additional Capabilities and Features	Remote Searching	Dameware Remote Support	1
+Additional Capabilities and Features	No Coding Knowledge Required	Dameware Remote Support	1
+Additional Capabilities and Features	User Portal	Dameware Remote Support	0
+Additional Capabilities and Features	Administrator Dashboard	Dameware Remote Support	1
+Additional Capabilities and Features	Remote Administration & Assistance	Dameware Remote Support	1
+Security Management Capabilities	System/Resource Access Control	F5 Enterprise Manager	1
+Security Management Capabilities	Access Logs	F5 Enterprise Manager	0
+Security Management Capabilities	Authentication	F5 Enterprise Manager	0
+Security Management Capabilities	Encryption	F5 Enterprise Manager	0
+Security Management Capabilities	System/Resource Access Control	vRealize Operations	1
+Security Management Capabilities	Access Logs	vRealize Operations	0
+Security Management Capabilities	Authentication	vRealize Operations	0
+Security Management Capabilities	Encryption	vRealize Operations	0
+Security Management Capabilities	System/Resource Access Control	SolarWinds Server & Application Monitor	0
+Security Management Capabilities	Access Logs	SolarWinds Server & Application Monitor	0
+Security Management Capabilities	Authentication	SolarWinds Server & Application Monitor	0
+Security Management Capabilities	Encryption	SolarWinds Server & Application Monitor	0
+Security Management Capabilities	System/Resource Access Control	Salt	0
+Security Management Capabilities	Access Logs	Salt	0
+Security Management Capabilities	Authentication	Salt	1
+Security Management Capabilities	Encryption	Salt	1
+Security Management Capabilities	System/Resource Access Control	Spacewalk	0
+Security Management Capabilities	Access Logs	Spacewalk	0
+Security Management Capabilities	Authentication	Spacewalk	0
+Security Management Capabilities	Encryption	Spacewalk	0
+Security Management Capabilities	System/Resource Access Control	Viewfinity	1
+Security Management Capabilities	Access Logs	Viewfinity	0
+Security Management Capabilities	Authentication	Viewfinity	0
+Security Management Capabilities	Encryption	Viewfinity	1
+Security Management Capabilities	System/Resource Access Control	IBM Systems Director	0
+Security Management Capabilities	Access Logs	IBM Systems Director	0
+Security Management Capabilities	Authentication	IBM Systems Director	0
+Security Management Capabilities	Encryption	IBM Systems Director	0
+Security Management Capabilities	System/Resource Access Control	NetIQ AppManager Suite	0
+Security Management Capabilities	Access Logs	NetIQ AppManager Suite	0
+Security Management Capabilities	Authentication	NetIQ AppManager Suite	0
+Security Management Capabilities	Encryption	NetIQ AppManager Suite	0
+Security Management Capabilities	System/Resource Access Control	VMware vRealize Hyperic	1
+Security Management Capabilities	Access Logs	VMware vRealize Hyperic	1
+Security Management Capabilities	Authentication	VMware vRealize Hyperic	1
+Security Management Capabilities	Encryption	VMware vRealize Hyperic	0
+Security Management Capabilities	System/Resource Access Control	Uptime Infrastructure Monitor	1
+Security Management Capabilities	Access Logs	Uptime Infrastructure Monitor	1
+Security Management Capabilities	Authentication	Uptime Infrastructure Monitor	1
+Security Management Capabilities	Encryption	Uptime Infrastructure Monitor	1
+Performance Management Capabilities	Performance Report Generation	F5 Enterprise Manager	1
+Performance Management Capabilities	Performance Monitoring	F5 Enterprise Manager	1
+Performance Management Capabilities	Performance Data Analysis	F5 Enterprise Manager	1
+Performance Management Capabilities	Performance Data Collection	F5 Enterprise Manager	1
+Performance Management Capabilities	Capacity Planning	F5 Enterprise Manager	1
+Performance Management Capabilities	Problem Reporting	F5 Enterprise Manager	0
+Performance Management Capabilities	Consistent Performance Level	F5 Enterprise Manager	0
+Performance Management Capabilities	Utilization & Error Rates	F5 Enterprise Manager	0
+Performance Management Capabilities	Performance Report Generation	vRealize Operations	1
+Performance Management Capabilities	Performance Monitoring	vRealize Operations	1
+Performance Management Capabilities	Performance Data Analysis	vRealize Operations	1
+Performance Management Capabilities	Performance Data Collection	vRealize Operations	1
+Performance Management Capabilities	Capacity Planning	vRealize Operations	1
+Performance Management Capabilities	Problem Reporting	vRealize Operations	1
+Performance Management Capabilities	Consistent Performance Level	vRealize Operations	0
+Performance Management Capabilities	Utilization & Error Rates	vRealize Operations	0
+Performance Management Capabilities	Performance Report Generation	SolarWinds Server & Application Monitor	1
+Performance Management Capabilities	Performance Monitoring	SolarWinds Server & Application Monitor	1
+Performance Management Capabilities	Performance Data Analysis	SolarWinds Server & Application Monitor	1
+Performance Management Capabilities	Performance Data Collection	SolarWinds Server & Application Monitor	1
+Performance Management Capabilities	Capacity Planning	SolarWinds Server & Application Monitor	1
+Performance Management Capabilities	Problem Reporting	SolarWinds Server & Application Monitor	1
+Performance Management Capabilities	Consistent Performance Level	SolarWinds Server & Application Monitor	0
+Performance Management Capabilities	Utilization & Error Rates	SolarWinds Server & Application Monitor	0
+Performance Management Capabilities	Performance Report Generation	Salt	0
+Performance Management Capabilities	Performance Monitoring	Salt	0
+Performance Management Capabilities	Performance Data Analysis	Salt	0
+Performance Management Capabilities	Performance Data Collection	Salt	0
+Performance Management Capabilities	Capacity Planning	Salt	0
+Performance Management Capabilities	Problem Reporting	Salt	0
+Performance Management Capabilities	Consistent Performance Level	Salt	0
+Performance Management Capabilities	Utilization & Error Rates	Salt	0
+Performance Management Capabilities	Performance Report Generation	Spacewalk	0
+Performance Management Capabilities	Performance Monitoring	Spacewalk	0
+Performance Management Capabilities	Performance Data Analysis	Spacewalk	0
+Performance Management Capabilities	Performance Data Collection	Spacewalk	0
+Performance Management Capabilities	Capacity Planning	Spacewalk	0
+Performance Management Capabilities	Problem Reporting	Spacewalk	0
+Performance Management Capabilities	Consistent Performance Level	Spacewalk	0
+Performance Management Capabilities	Utilization & Error Rates	Spacewalk	0
+Performance Management Capabilities	Performance Report Generation	Viewfinity	0
+Performance Management Capabilities	Performance Monitoring	Viewfinity	0
+Performance Management Capabilities	Performance Data Analysis	Viewfinity	0
+Performance Management Capabilities	Performance Data Collection	Viewfinity	0
+Performance Management Capabilities	Capacity Planning	Viewfinity	0
+Performance Management Capabilities	Problem Reporting	Viewfinity	0
+Performance Management Capabilities	Consistent Performance Level	Viewfinity	0
+Performance Management Capabilities	Utilization & Error Rates	Viewfinity	0
+Performance Management Capabilities	Performance Report Generation	IBM Systems Director	1
+Performance Management Capabilities	Performance Monitoring	IBM Systems Director	1
+Performance Management Capabilities	Performance Data Analysis	IBM Systems Director	1
+Performance Management Capabilities	Performance Data Collection	IBM Systems Director	1
+Performance Management Capabilities	Capacity Planning	IBM Systems Director	1
+Performance Management Capabilities	Problem Reporting	IBM Systems Director	0
+Performance Management Capabilities	Consistent Performance Level	IBM Systems Director	0
+Performance Management Capabilities	Utilization & Error Rates	IBM Systems Director	0
+Performance Management Capabilities	Performance Report Generation	NetIQ AppManager Suite	1
+Performance Management Capabilities	Performance Monitoring	NetIQ AppManager Suite	1
+Performance Management Capabilities	Performance Data Analysis	NetIQ AppManager Suite	1
+Performance Management Capabilities	Performance Data Collection	NetIQ AppManager Suite	1
+Performance Management Capabilities	Capacity Planning	NetIQ AppManager Suite	1
+Performance Management Capabilities	Problem Reporting	NetIQ AppManager Suite	0
+Performance Management Capabilities	Consistent Performance Level	NetIQ AppManager Suite	0
+Performance Management Capabilities	Utilization & Error Rates	NetIQ AppManager Suite	1
+Performance Management Capabilities	Performance Report Generation	VMware vRealize Hyperic	1
+Performance Management Capabilities	Performance Monitoring	VMware vRealize Hyperic	1
+Performance Management Capabilities	Performance Data Analysis	VMware vRealize Hyperic	1
+Performance Management Capabilities	Performance Data Collection	VMware vRealize Hyperic	1
+Performance Management Capabilities	Capacity Planning	VMware vRealize Hyperic	1
+Performance Management Capabilities	Problem Reporting	VMware vRealize Hyperic	1
+Performance Management Capabilities	Consistent Performance Level	VMware vRealize Hyperic	0
+Performance Management Capabilities	Utilization & Error Rates	VMware vRealize Hyperic	0
+Performance Management Capabilities	Performance Report Generation	Uptime Infrastructure Monitor	1
+Performance Management Capabilities	Performance Monitoring	Uptime Infrastructure Monitor	1
+Performance Management Capabilities	Performance Data Analysis	Uptime Infrastructure Monitor	1
+Performance Management Capabilities	Performance Data Collection	Uptime Infrastructure Monitor	1
+Performance Management Capabilities	Capacity Planning	Uptime Infrastructure Monitor	1
+Performance Management Capabilities	Problem Reporting	Uptime Infrastructure Monitor	1
+Performance Management Capabilities	Consistent Performance Level	Uptime Infrastructure Monitor	1
+Performance Management Capabilities	Utilization & Error Rates	Uptime Infrastructure Monitor	1
+Accounting/allocation Management Capabilities	Usage Reporting	F5 Enterprise Manager	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	F5 Enterprise Manager	0
+Accounting/allocation Management Capabilities	Usage Reporting	vRealize Operations	1
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	vRealize Operations	1
+Accounting/allocation Management Capabilities	Usage Reporting	SolarWinds Server & Application Monitor	1
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	SolarWinds Server & Application Monitor	0
+Accounting/allocation Management Capabilities	Usage Reporting	Salt	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Salt	0
+Accounting/allocation Management Capabilities	Usage Reporting	Spacewalk	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Spacewalk	0
+Accounting/allocation Management Capabilities	Usage Reporting	Viewfinity	1
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Viewfinity	0
+Accounting/allocation Management Capabilities	Usage Reporting	IBM Systems Director	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	IBM Systems Director	0
+Accounting/allocation Management Capabilities	Usage Reporting	NetIQ AppManager Suite	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	NetIQ AppManager Suite	0
+Accounting/allocation Management Capabilities	Usage Reporting	VMware vRealize Hyperic	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	VMware vRealize Hyperic	0
+Accounting/allocation Management Capabilities	Usage Reporting	Uptime Infrastructure Monitor	1
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Uptime Infrastructure Monitor	0
+Fault Management Capabilities	Fault Detection	F5 Enterprise Manager	0
+Fault Management Capabilities	Error Handling	F5 Enterprise Manager	0
+Fault Management Capabilities	Alarm Correlation/Analysis	F5 Enterprise Manager	0
+Fault Management Capabilities	Fault Correction	F5 Enterprise Manager	0
+Fault Management Capabilities	Error Logging	F5 Enterprise Manager	0
+Fault Management Capabilities	Diagnostic Testing	F5 Enterprise Manager	0
+Fault Management Capabilities	Calculation of Error Statistics	F5 Enterprise Manager	0
+Fault Management Capabilities	Alarm Generation	F5 Enterprise Manager	0
+Fault Management Capabilities	Alarm Filtering	F5 Enterprise Manager	0
+Fault Management Capabilities	Fault Detection	vRealize Operations	1
+Fault Management Capabilities	Error Handling	vRealize Operations	1
+Fault Management Capabilities	Alarm Correlation/Analysis	vRealize Operations	1
+Fault Management Capabilities	Fault Correction	vRealize Operations	0
+Fault Management Capabilities	Error Logging	vRealize Operations	1
+Fault Management Capabilities	Diagnostic Testing	vRealize Operations	0
+Fault Management Capabilities	Calculation of Error Statistics	vRealize Operations	0
+Fault Management Capabilities	Alarm Generation	vRealize Operations	0
+Fault Management Capabilities	Alarm Filtering	vRealize Operations	0
+Fault Management Capabilities	Fault Detection	SolarWinds Server & Application Monitor	0
+Fault Management Capabilities	Error Handling	SolarWinds Server & Application Monitor	0
+Fault Management Capabilities	Alarm Correlation/Analysis	SolarWinds Server & Application Monitor	0
+Fault Management Capabilities	Fault Correction	SolarWinds Server & Application Monitor	0
+Fault Management Capabilities	Error Logging	SolarWinds Server & Application Monitor	0
+Fault Management Capabilities	Diagnostic Testing	SolarWinds Server & Application Monitor	0
+Fault Management Capabilities	Calculation of Error Statistics	SolarWinds Server & Application Monitor	0
+Fault Management Capabilities	Alarm Generation	SolarWinds Server & Application Monitor	0
+Fault Management Capabilities	Alarm Filtering	SolarWinds Server & Application Monitor	0
+Fault Management Capabilities	Fault Detection	Salt	0
+Fault Management Capabilities	Error Handling	Salt	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Salt	0
+Fault Management Capabilities	Fault Correction	Salt	0
+Fault Management Capabilities	Error Logging	Salt	0
+Fault Management Capabilities	Diagnostic Testing	Salt	0
+Fault Management Capabilities	Calculation of Error Statistics	Salt	0
+Fault Management Capabilities	Alarm Generation	Salt	0
+Fault Management Capabilities	Alarm Filtering	Salt	0
+Fault Management Capabilities	Fault Detection	Spacewalk	0
+Fault Management Capabilities	Error Handling	Spacewalk	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Spacewalk	0
+Fault Management Capabilities	Fault Correction	Spacewalk	0
+Fault Management Capabilities	Error Logging	Spacewalk	0
+Fault Management Capabilities	Diagnostic Testing	Spacewalk	0
+Fault Management Capabilities	Calculation of Error Statistics	Spacewalk	0
+Fault Management Capabilities	Alarm Generation	Spacewalk	0
+Fault Management Capabilities	Alarm Filtering	Spacewalk	0
+Fault Management Capabilities	Fault Detection	Viewfinity	0
+Fault Management Capabilities	Error Handling	Viewfinity	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Viewfinity	0
+Fault Management Capabilities	Fault Correction	Viewfinity	0
+Fault Management Capabilities	Error Logging	Viewfinity	0
+Fault Management Capabilities	Diagnostic Testing	Viewfinity	0
+Fault Management Capabilities	Calculation of Error Statistics	Viewfinity	0
+Fault Management Capabilities	Alarm Generation	Viewfinity	0
+Fault Management Capabilities	Alarm Filtering	Viewfinity	0
+Fault Management Capabilities	Fault Detection	IBM Systems Director	0
+Fault Management Capabilities	Error Handling	IBM Systems Director	0
+Fault Management Capabilities	Alarm Correlation/Analysis	IBM Systems Director	0
+Fault Management Capabilities	Fault Correction	IBM Systems Director	0
+Fault Management Capabilities	Error Logging	IBM Systems Director	0
+Fault Management Capabilities	Diagnostic Testing	IBM Systems Director	0
+Fault Management Capabilities	Calculation of Error Statistics	IBM Systems Director	0
+Fault Management Capabilities	Alarm Generation	IBM Systems Director	0
+Fault Management Capabilities	Alarm Filtering	IBM Systems Director	0
+Fault Management Capabilities	Fault Detection	NetIQ AppManager Suite	1
+Fault Management Capabilities	Error Handling	NetIQ AppManager Suite	0
+Fault Management Capabilities	Alarm Correlation/Analysis	NetIQ AppManager Suite	0
+Fault Management Capabilities	Fault Correction	NetIQ AppManager Suite	1
+Fault Management Capabilities	Error Logging	NetIQ AppManager Suite	0
+Fault Management Capabilities	Diagnostic Testing	NetIQ AppManager Suite	1
+Fault Management Capabilities	Calculation of Error Statistics	NetIQ AppManager Suite	0
+Fault Management Capabilities	Alarm Generation	NetIQ AppManager Suite	0
+Fault Management Capabilities	Alarm Filtering	NetIQ AppManager Suite	0
+Fault Management Capabilities	Fault Detection	VMware vRealize Hyperic	1
+Fault Management Capabilities	Error Handling	VMware vRealize Hyperic	0
+Fault Management Capabilities	Alarm Correlation/Analysis	VMware vRealize Hyperic	0
+Fault Management Capabilities	Fault Correction	VMware vRealize Hyperic	1
+Fault Management Capabilities	Error Logging	VMware vRealize Hyperic	1
+Fault Management Capabilities	Diagnostic Testing	VMware vRealize Hyperic	1
+Fault Management Capabilities	Calculation of Error Statistics	VMware vRealize Hyperic	0
+Fault Management Capabilities	Alarm Generation	VMware vRealize Hyperic	1
+Fault Management Capabilities	Alarm Filtering	VMware vRealize Hyperic	1
+Fault Management Capabilities	Fault Detection	Uptime Infrastructure Monitor	1
+Fault Management Capabilities	Error Handling	Uptime Infrastructure Monitor	1
+Fault Management Capabilities	Alarm Correlation/Analysis	Uptime Infrastructure Monitor	1
+Fault Management Capabilities	Fault Correction	Uptime Infrastructure Monitor	1
+Fault Management Capabilities	Error Logging	Uptime Infrastructure Monitor	1
+Fault Management Capabilities	Diagnostic Testing	Uptime Infrastructure Monitor	1
+Fault Management Capabilities	Calculation of Error Statistics	Uptime Infrastructure Monitor	1
+Fault Management Capabilities	Alarm Generation	Uptime Infrastructure Monitor	1
+Fault Management Capabilities	Alarm Filtering	Uptime Infrastructure Monitor	0
+Configuration Management Capabilities	Auto Discovery	F5 Enterprise Manager	1
+Configuration Management Capabilities	Resource Initialization	F5 Enterprise Manager	1
+Configuration Management Capabilities	Remote Configuration	F5 Enterprise Manager	0
+Configuration Management Capabilities	Network Provisioning	F5 Enterprise Manager	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	F5 Enterprise Manager	0
+Configuration Management Capabilities	Automated Software Distribution	F5 Enterprise Manager	0
+Configuration Management Capabilities	Copy Configuration	F5 Enterprise Manager	1
+Configuration Management Capabilities	Change Management	F5 Enterprise Manager	1
+Configuration Management Capabilities	Inventory/Asset Management	F5 Enterprise Manager	0
+Configuration Management Capabilities	Backup and Restore	F5 Enterprise Manager	0
+Configuration Management Capabilities	Auto Discovery	vRealize Operations	1
+Configuration Management Capabilities	Resource Initialization	vRealize Operations	0
+Configuration Management Capabilities	Remote Configuration	vRealize Operations	1
+Configuration Management Capabilities	Network Provisioning	vRealize Operations	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	vRealize Operations	0
+Configuration Management Capabilities	Automated Software Distribution	vRealize Operations	1
+Configuration Management Capabilities	Copy Configuration	vRealize Operations	0
+Configuration Management Capabilities	Change Management	vRealize Operations	1
+Configuration Management Capabilities	Inventory/Asset Management	vRealize Operations	0
+Configuration Management Capabilities	Backup and Restore	vRealize Operations	1
+Configuration Management Capabilities	Auto Discovery	SolarWinds Server & Application Monitor	0
+Configuration Management Capabilities	Resource Initialization	SolarWinds Server & Application Monitor	0
+Configuration Management Capabilities	Remote Configuration	SolarWinds Server & Application Monitor	0
+Configuration Management Capabilities	Network Provisioning	SolarWinds Server & Application Monitor	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	SolarWinds Server & Application Monitor	0
+Configuration Management Capabilities	Automated Software Distribution	SolarWinds Server & Application Monitor	0
+Configuration Management Capabilities	Copy Configuration	SolarWinds Server & Application Monitor	0
+Configuration Management Capabilities	Change Management	SolarWinds Server & Application Monitor	0
+Configuration Management Capabilities	Inventory/Asset Management	SolarWinds Server & Application Monitor	1
+Configuration Management Capabilities	Backup and Restore	SolarWinds Server & Application Monitor	0
+Configuration Management Capabilities	Auto Discovery	Salt	0
+Configuration Management Capabilities	Resource Initialization	Salt	0
+Configuration Management Capabilities	Remote Configuration	Salt	1
+Configuration Management Capabilities	Network Provisioning	Salt	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Salt	0
+Configuration Management Capabilities	Automated Software Distribution	Salt	1
+Configuration Management Capabilities	Copy Configuration	Salt	0
+Configuration Management Capabilities	Change Management	Salt	0
+Configuration Management Capabilities	Inventory/Asset Management	Salt	0
+Configuration Management Capabilities	Backup and Restore	Salt	0
+Configuration Management Capabilities	Auto Discovery	Spacewalk	0
+Configuration Management Capabilities	Resource Initialization	Spacewalk	0
+Configuration Management Capabilities	Remote Configuration	Spacewalk	1
+Configuration Management Capabilities	Network Provisioning	Spacewalk	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Spacewalk	0
+Configuration Management Capabilities	Automated Software Distribution	Spacewalk	1
+Configuration Management Capabilities	Copy Configuration	Spacewalk	0
+Configuration Management Capabilities	Change Management	Spacewalk	1
+Configuration Management Capabilities	Inventory/Asset Management	Spacewalk	1
+Configuration Management Capabilities	Backup and Restore	Spacewalk	0
+Configuration Management Capabilities	Auto Discovery	Viewfinity	0
+Configuration Management Capabilities	Resource Initialization	Viewfinity	0
+Configuration Management Capabilities	Remote Configuration	Viewfinity	1
+Configuration Management Capabilities	Network Provisioning	Viewfinity	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Viewfinity	0
+Configuration Management Capabilities	Automated Software Distribution	Viewfinity	1
+Configuration Management Capabilities	Copy Configuration	Viewfinity	1
+Configuration Management Capabilities	Change Management	Viewfinity	1
+Configuration Management Capabilities	Inventory/Asset Management	Viewfinity	0
+Configuration Management Capabilities	Backup and Restore	Viewfinity	1
+Configuration Management Capabilities	Auto Discovery	IBM Systems Director	1
+Configuration Management Capabilities	Resource Initialization	IBM Systems Director	0
+Configuration Management Capabilities	Remote Configuration	IBM Systems Director	1
+Configuration Management Capabilities	Network Provisioning	IBM Systems Director	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	IBM Systems Director	0
+Configuration Management Capabilities	Automated Software Distribution	IBM Systems Director	1
+Configuration Management Capabilities	Copy Configuration	IBM Systems Director	0
+Configuration Management Capabilities	Change Management	IBM Systems Director	1
+Configuration Management Capabilities	Inventory/Asset Management	IBM Systems Director	1
+Configuration Management Capabilities	Backup and Restore	IBM Systems Director	0
+Configuration Management Capabilities	Auto Discovery	NetIQ AppManager Suite	1
+Configuration Management Capabilities	Resource Initialization	NetIQ AppManager Suite	0
+Configuration Management Capabilities	Remote Configuration	NetIQ AppManager Suite	1
+Configuration Management Capabilities	Network Provisioning	NetIQ AppManager Suite	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	NetIQ AppManager Suite	1
+Configuration Management Capabilities	Automated Software Distribution	NetIQ AppManager Suite	0
+Configuration Management Capabilities	Copy Configuration	NetIQ AppManager Suite	0
+Configuration Management Capabilities	Change Management	NetIQ AppManager Suite	1
+Configuration Management Capabilities	Inventory/Asset Management	NetIQ AppManager Suite	0
+Configuration Management Capabilities	Backup and Restore	NetIQ AppManager Suite	0
+Configuration Management Capabilities	Auto Discovery	VMware vRealize Hyperic	1
+Configuration Management Capabilities	Resource Initialization	VMware vRealize Hyperic	0
+Configuration Management Capabilities	Remote Configuration	VMware vRealize Hyperic	0
+Configuration Management Capabilities	Network Provisioning	VMware vRealize Hyperic	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	VMware vRealize Hyperic	1
+Configuration Management Capabilities	Automated Software Distribution	VMware vRealize Hyperic	0
+Configuration Management Capabilities	Copy Configuration	VMware vRealize Hyperic	0
+Configuration Management Capabilities	Change Management	VMware vRealize Hyperic	1
+Configuration Management Capabilities	Inventory/Asset Management	VMware vRealize Hyperic	1
+Configuration Management Capabilities	Backup and Restore	VMware vRealize Hyperic	0
+Configuration Management Capabilities	Auto Discovery	Uptime Infrastructure Monitor	1
+Configuration Management Capabilities	Resource Initialization	Uptime Infrastructure Monitor	0
+Configuration Management Capabilities	Remote Configuration	Uptime Infrastructure Monitor	0
+Configuration Management Capabilities	Network Provisioning	Uptime Infrastructure Monitor	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Uptime Infrastructure Monitor	0
+Configuration Management Capabilities	Automated Software Distribution	Uptime Infrastructure Monitor	0
+Configuration Management Capabilities	Copy Configuration	Uptime Infrastructure Monitor	0
+Configuration Management Capabilities	Change Management	Uptime Infrastructure Monitor	0
+Configuration Management Capabilities	Inventory/Asset Management	Uptime Infrastructure Monitor	1
+Configuration Management Capabilities	Backup and Restore	Uptime Infrastructure Monitor	0
+Functionality	Performance Management	F5 Enterprise Manager	1
+Functionality	Accounting/Allocation Management	F5 Enterprise Manager	0
+Functionality	Fault Management	F5 Enterprise Manager	0
+Functionality	Security Management	F5 Enterprise Manager	1
+Functionality	Configuration Management	F5 Enterprise Manager	1
+Functionality	Performance Management	vRealize Operations	1
+Functionality	Accounting/Allocation Management	vRealize Operations	1
+Functionality	Fault Management	vRealize Operations	1
+Functionality	Security Management	vRealize Operations	1
+Functionality	Configuration Management	vRealize Operations	1
+Functionality	Performance Management	SolarWinds Server & Application Monitor	1
+Functionality	Accounting/Allocation Management	SolarWinds Server & Application Monitor	1
+Functionality	Fault Management	SolarWinds Server & Application Monitor	0
+Functionality	Security Management	SolarWinds Server & Application Monitor	0
+Functionality	Configuration Management	SolarWinds Server & Application Monitor	1
+Functionality	Performance Management	Salt	0
+Functionality	Accounting/Allocation Management	Salt	0
+Functionality	Fault Management	Salt	0
+Functionality	Security Management	Salt	1
+Functionality	Configuration Management	Salt	1
+Functionality	Performance Management	Spacewalk	0
+Functionality	Accounting/Allocation Management	Spacewalk	0
+Functionality	Fault Management	Spacewalk	0
+Functionality	Security Management	Spacewalk	0
+Functionality	Configuration Management	Spacewalk	1
+Functionality	Performance Management	Viewfinity	0
+Functionality	Accounting/Allocation Management	Viewfinity	0
+Functionality	Fault Management	Viewfinity	0
+Functionality	Security Management	Viewfinity	1
+Functionality	Configuration Management	Viewfinity	1
+Functionality	Performance Management	IBM Systems Director	1
+Functionality	Accounting/Allocation Management	IBM Systems Director	0
+Functionality	Fault Management	IBM Systems Director	0
+Functionality	Security Management	IBM Systems Director	0
+Functionality	Configuration Management	IBM Systems Director	1
+Functionality	Performance Management	NetIQ AppManager Suite	1
+Functionality	Accounting/Allocation Management	NetIQ AppManager Suite	0
+Functionality	Fault Management	NetIQ AppManager Suite	1
+Functionality	Security Management	NetIQ AppManager Suite	0
+Functionality	Configuration Management	NetIQ AppManager Suite	1
+Functionality	Performance Management	VMware vRealize Hyperic	1
+Functionality	Accounting/Allocation Management	VMware vRealize Hyperic	0
+Functionality	Fault Management	VMware vRealize Hyperic	1
+Functionality	Security Management	VMware vRealize Hyperic	1
+Functionality	Configuration Management	VMware vRealize Hyperic	1
+Functionality	Performance Management	Uptime Infrastructure Monitor	1
+Functionality	Accounting/Allocation Management	Uptime Infrastructure Monitor	0
+Functionality	Fault Management	Uptime Infrastructure Monitor	1
+Functionality	Security Management	Uptime Infrastructure Monitor	1
+Functionality	Configuration Management	Uptime Infrastructure Monitor	1
+Additional Capabilities and Features	Remote Searching	F5 Enterprise Manager	0
+Additional Capabilities and Features	No Coding Knowledge Required	F5 Enterprise Manager	1
+Additional Capabilities and Features	User Portal	F5 Enterprise Manager	0
+Additional Capabilities and Features	Administrator Dashboard	F5 Enterprise Manager	0
+Additional Capabilities and Features	Remote Administration & Assistance	F5 Enterprise Manager	0
+Additional Capabilities and Features	Remote Searching	vRealize Operations	0
+Additional Capabilities and Features	No Coding Knowledge Required	vRealize Operations	1
+Additional Capabilities and Features	User Portal	vRealize Operations	1
+Additional Capabilities and Features	Administrator Dashboard	vRealize Operations	1
+Additional Capabilities and Features	Remote Administration & Assistance	vRealize Operations	1
+Additional Capabilities and Features	Remote Searching	SolarWinds Server & Application Monitor	0
+Additional Capabilities and Features	No Coding Knowledge Required	SolarWinds Server & Application Monitor	1
+Additional Capabilities and Features	User Portal	SolarWinds Server & Application Monitor	0
+Additional Capabilities and Features	Administrator Dashboard	SolarWinds Server & Application Monitor	1
+Additional Capabilities and Features	Remote Administration & Assistance	SolarWinds Server & Application Monitor	1
+Additional Capabilities and Features	Remote Searching	Salt	0
+Additional Capabilities and Features	No Coding Knowledge Required	Salt	0
+Additional Capabilities and Features	User Portal	Salt	0
+Additional Capabilities and Features	Administrator Dashboard	Salt	0
+Additional Capabilities and Features	Remote Administration & Assistance	Salt	0
+Additional Capabilities and Features	Remote Searching	Spacewalk	0
+Additional Capabilities and Features	No Coding Knowledge Required	Spacewalk	0
+Additional Capabilities and Features	User Portal	Spacewalk	0
+Additional Capabilities and Features	Administrator Dashboard	Spacewalk	0
+Additional Capabilities and Features	Remote Administration & Assistance	Spacewalk	0
+Additional Capabilities and Features	Remote Searching	Viewfinity	0
+Additional Capabilities and Features	No Coding Knowledge Required	Viewfinity	1
+Additional Capabilities and Features	User Portal	Viewfinity	0
+Additional Capabilities and Features	Administrator Dashboard	Viewfinity	1
+Additional Capabilities and Features	Remote Administration & Assistance	Viewfinity	0
+Additional Capabilities and Features	Remote Searching	IBM Systems Director	0
+Additional Capabilities and Features	No Coding Knowledge Required	IBM Systems Director	1
+Additional Capabilities and Features	User Portal	IBM Systems Director	0
+Additional Capabilities and Features	Administrator Dashboard	IBM Systems Director	1
+Additional Capabilities and Features	Remote Administration & Assistance	IBM Systems Director	0
+Additional Capabilities and Features	Remote Searching	NetIQ AppManager Suite	0
+Additional Capabilities and Features	No Coding Knowledge Required	NetIQ AppManager Suite	0
+Additional Capabilities and Features	User Portal	NetIQ AppManager Suite	0
+Additional Capabilities and Features	Administrator Dashboard	NetIQ AppManager Suite	0
+Additional Capabilities and Features	Remote Administration & Assistance	NetIQ AppManager Suite	0
+Additional Capabilities and Features	Remote Searching	VMware vRealize Hyperic	0
+Additional Capabilities and Features	No Coding Knowledge Required	VMware vRealize Hyperic	1
+Additional Capabilities and Features	User Portal	VMware vRealize Hyperic	0
+Additional Capabilities and Features	Administrator Dashboard	VMware vRealize Hyperic	1
+Additional Capabilities and Features	Remote Administration & Assistance	VMware vRealize Hyperic	0
+Additional Capabilities and Features	Remote Searching	Uptime Infrastructure Monitor	1
+Additional Capabilities and Features	No Coding Knowledge Required	Uptime Infrastructure Monitor	0
+Additional Capabilities and Features	User Portal	Uptime Infrastructure Monitor	1
+Additional Capabilities and Features	Administrator Dashboard	Uptime Infrastructure Monitor	1
+Additional Capabilities and Features	Remote Administration & Assistance	Uptime Infrastructure Monitor	1
+Security Management Capabilities	Security Audit Trail	Symantec Deployment Solution	0
+Security Management Capabilities	Network Element Functions	Symantec Deployment Solution	0
+Security Management Capabilities	System/Resource Access Control	Symantec Deployment Solution	1
+Security Management Capabilities	Security Alarm/Event Reporting	Symantec Deployment Solution	0
+Security Management Capabilities	Access Logs	Symantec Deployment Solution	0
+Security Management Capabilities	Authentication	Symantec Deployment Solution	0
+Security Management Capabilities	Security Related Information Distributions	Symantec Deployment Solution	0
+Security Management Capabilities	Prevention	Symantec Deployment Solution	0
+Security Management Capabilities	Encryption	Symantec Deployment Solution	0
+Security Management Capabilities	Security Event Detection	Symantec Deployment Solution	0
+Security Management Capabilities	Security Audit Trail	SGI Management Suite	0
+Security Management Capabilities	Network Element Functions	SGI Management Suite	0
+Security Management Capabilities	System/Resource Access Control	SGI Management Suite	0
+Security Management Capabilities	Security Alarm/Event Reporting	SGI Management Suite	0
+Security Management Capabilities	Access Logs	SGI Management Suite	0
+Security Management Capabilities	Authentication	SGI Management Suite	0
+Security Management Capabilities	Security Related Information Distributions	SGI Management Suite	0
+Security Management Capabilities	Prevention	SGI Management Suite	0
+Security Management Capabilities	Encryption	SGI Management Suite	0
+Security Management Capabilities	Security Event Detection	SGI Management Suite	0
+Security Management Capabilities	Security Audit Trail	EventSentry	1
+Security Management Capabilities	Network Element Functions	EventSentry	1
+Security Management Capabilities	System/Resource Access Control	EventSentry	1
+Security Management Capabilities	Security Alarm/Event Reporting	EventSentry	1
+Security Management Capabilities	Access Logs	EventSentry	1
+Security Management Capabilities	Authentication	EventSentry	1
+Security Management Capabilities	Security Related Information Distributions	EventSentry	1
+Security Management Capabilities	Prevention	EventSentry	1
+Security Management Capabilities	Encryption	EventSentry	0
+Security Management Capabilities	Security Event Detection	EventSentry	1
+Security Management Capabilities	Security Audit Trail	OCS Inventory NG	0
+Security Management Capabilities	Network Element Functions	OCS Inventory NG	0
+Security Management Capabilities	System/Resource Access Control	OCS Inventory NG	0
+Security Management Capabilities	Security Alarm/Event Reporting	OCS Inventory NG	0
+Security Management Capabilities	Access Logs	OCS Inventory NG	0
+Security Management Capabilities	Authentication	OCS Inventory NG	0
+Security Management Capabilities	Security Related Information Distributions	OCS Inventory NG	0
+Security Management Capabilities	Prevention	OCS Inventory NG	0
+Security Management Capabilities	Encryption	OCS Inventory NG	0
+Security Management Capabilities	Security Event Detection	OCS Inventory NG	0
+Security Management Capabilities	Security Audit Trail	ManageEngine Desktop Central	0
+Security Management Capabilities	Network Element Functions	ManageEngine Desktop Central	0
+Security Management Capabilities	System/Resource Access Control	ManageEngine Desktop Central	1
+Security Management Capabilities	Security Alarm/Event Reporting	ManageEngine Desktop Central	0
+Security Management Capabilities	Access Logs	ManageEngine Desktop Central	1
+Security Management Capabilities	Authentication	ManageEngine Desktop Central	1
+Security Management Capabilities	Security Related Information Distributions	ManageEngine Desktop Central	0
+Security Management Capabilities	Prevention	ManageEngine Desktop Central	0
+Security Management Capabilities	Encryption	ManageEngine Desktop Central	0
+Security Management Capabilities	Security Event Detection	ManageEngine Desktop Central	0
+Security Management Capabilities	Security Audit Trail	LogicMonitor	0
+Security Management Capabilities	Network Element Functions	LogicMonitor	0
+Security Management Capabilities	System/Resource Access Control	LogicMonitor	1
+Security Management Capabilities	Security Alarm/Event Reporting	LogicMonitor	1
+Security Management Capabilities	Access Logs	LogicMonitor	1
+Security Management Capabilities	Authentication	LogicMonitor	1
+Security Management Capabilities	Security Related Information Distributions	LogicMonitor	0
+Security Management Capabilities	Prevention	LogicMonitor	1
+Security Management Capabilities	Encryption	LogicMonitor	1
+Security Management Capabilities	Security Event Detection	LogicMonitor	1
+Security Management Capabilities	Security Audit Trail	AdminToys Suite	0
+Security Management Capabilities	Network Element Functions	AdminToys Suite	0
+Security Management Capabilities	System/Resource Access Control	AdminToys Suite	1
+Security Management Capabilities	Security Alarm/Event Reporting	AdminToys Suite	0
+Security Management Capabilities	Access Logs	AdminToys Suite	0
+Security Management Capabilities	Authentication	AdminToys Suite	0
+Security Management Capabilities	Security Related Information Distributions	AdminToys Suite	0
+Security Management Capabilities	Prevention	AdminToys Suite	0
+Security Management Capabilities	Encryption	AdminToys Suite	0
+Security Management Capabilities	Security Event Detection	AdminToys Suite	0
+Security Management Capabilities	Security Audit Trail	Goverlan	0
+Security Management Capabilities	Network Element Functions	Goverlan	0
+Security Management Capabilities	System/Resource Access Control	Goverlan	1
+Security Management Capabilities	Security Alarm/Event Reporting	Goverlan	0
+Security Management Capabilities	Access Logs	Goverlan	0
+Security Management Capabilities	Authentication	Goverlan	1
+Security Management Capabilities	Security Related Information Distributions	Goverlan	0
+Security Management Capabilities	Prevention	Goverlan	0
+Security Management Capabilities	Encryption	Goverlan	1
+Security Management Capabilities	Security Event Detection	Goverlan	1
+Security Management Capabilities	Security Audit Trail	Redcell System Commander	0
+Security Management Capabilities	Network Element Functions	Redcell System Commander	0
+Security Management Capabilities	System/Resource Access Control	Redcell System Commander	1
+Security Management Capabilities	Security Alarm/Event Reporting	Redcell System Commander	0
+Security Management Capabilities	Access Logs	Redcell System Commander	1
+Security Management Capabilities	Authentication	Redcell System Commander	0
+Security Management Capabilities	Security Related Information Distributions	Redcell System Commander	0
+Security Management Capabilities	Prevention	Redcell System Commander	0
+Security Management Capabilities	Encryption	Redcell System Commander	0
+Security Management Capabilities	Security Event Detection	Redcell System Commander	0
+Security Management Capabilities	Security Audit Trail	Splunk	0
+Security Management Capabilities	Network Element Functions	Splunk	0
+Security Management Capabilities	System/Resource Access Control	Splunk	1
+Security Management Capabilities	Security Alarm/Event Reporting	Splunk	1
+Security Management Capabilities	Access Logs	Splunk	0
+Security Management Capabilities	Authentication	Splunk	1
+Security Management Capabilities	Security Related Information Distributions	Splunk	0
+Security Management Capabilities	Prevention	Splunk	0
+Security Management Capabilities	Encryption	Splunk	0
+Security Management Capabilities	Security Event Detection	Splunk	0
+Performance Management Capabilities	Performance Report Generation	Symantec Deployment Solution	0
+Performance Management Capabilities	Performance Monitoring	Symantec Deployment Solution	0
+Performance Management Capabilities	Performance Data Analysis	Symantec Deployment Solution	0
+Performance Management Capabilities	Performance Data Collection	Symantec Deployment Solution	0
+Performance Management Capabilities	Capacity Planning	Symantec Deployment Solution	0
+Performance Management Capabilities	Problem Reporting	Symantec Deployment Solution	0
+Performance Management Capabilities	Consistent Performance Level	Symantec Deployment Solution	0
+Performance Management Capabilities	Utilization & Error Rates	Symantec Deployment Solution	0
+Performance Management Capabilities	Performance Report Generation	SGI Management Suite	1
+Performance Management Capabilities	Performance Monitoring	SGI Management Suite	1
+Performance Management Capabilities	Performance Data Analysis	SGI Management Suite	0
+Performance Management Capabilities	Performance Data Collection	SGI Management Suite	1
+Performance Management Capabilities	Capacity Planning	SGI Management Suite	1
+Performance Management Capabilities	Problem Reporting	SGI Management Suite	1
+Performance Management Capabilities	Consistent Performance Level	SGI Management Suite	0
+Performance Management Capabilities	Utilization & Error Rates	SGI Management Suite	0
+Performance Management Capabilities	Performance Report Generation	EventSentry	1
+Performance Management Capabilities	Performance Monitoring	EventSentry	1
+Performance Management Capabilities	Performance Data Analysis	EventSentry	1
+Performance Management Capabilities	Performance Data Collection	EventSentry	1
+Performance Management Capabilities	Capacity Planning	EventSentry	1
+Performance Management Capabilities	Problem Reporting	EventSentry	0
+Performance Management Capabilities	Consistent Performance Level	EventSentry	1
+Performance Management Capabilities	Utilization & Error Rates	EventSentry	1
+Performance Management Capabilities	Performance Report Generation	OCS Inventory NG	0
+Performance Management Capabilities	Performance Monitoring	OCS Inventory NG	0
+Performance Management Capabilities	Performance Data Analysis	OCS Inventory NG	0
+Performance Management Capabilities	Performance Data Collection	OCS Inventory NG	0
+Performance Management Capabilities	Capacity Planning	OCS Inventory NG	1
+Performance Management Capabilities	Problem Reporting	OCS Inventory NG	0
+Performance Management Capabilities	Consistent Performance Level	OCS Inventory NG	0
+Performance Management Capabilities	Utilization & Error Rates	OCS Inventory NG	0
+Performance Management Capabilities	Performance Report Generation	ManageEngine Desktop Central	0
+Performance Management Capabilities	Performance Monitoring	ManageEngine Desktop Central	1
+Performance Management Capabilities	Performance Data Analysis	ManageEngine Desktop Central	0
+Performance Management Capabilities	Performance Data Collection	ManageEngine Desktop Central	0
+Performance Management Capabilities	Capacity Planning	ManageEngine Desktop Central	1
+Performance Management Capabilities	Problem Reporting	ManageEngine Desktop Central	1
+Performance Management Capabilities	Consistent Performance Level	ManageEngine Desktop Central	0
+Performance Management Capabilities	Utilization & Error Rates	ManageEngine Desktop Central	0
+Performance Management Capabilities	Performance Report Generation	LogicMonitor	1
+Performance Management Capabilities	Performance Monitoring	LogicMonitor	1
+Performance Management Capabilities	Performance Data Analysis	LogicMonitor	1
+Performance Management Capabilities	Performance Data Collection	LogicMonitor	0
+Performance Management Capabilities	Capacity Planning	LogicMonitor	0
+Performance Management Capabilities	Problem Reporting	LogicMonitor	1
+Performance Management Capabilities	Consistent Performance Level	LogicMonitor	1
+Performance Management Capabilities	Utilization & Error Rates	LogicMonitor	1
+Performance Management Capabilities	Performance Report Generation	AdminToys Suite	1
+Performance Management Capabilities	Performance Monitoring	AdminToys Suite	1
+Performance Management Capabilities	Performance Data Analysis	AdminToys Suite	1
+Performance Management Capabilities	Performance Data Collection	AdminToys Suite	1
+Performance Management Capabilities	Capacity Planning	AdminToys Suite	0
+Performance Management Capabilities	Problem Reporting	AdminToys Suite	1
+Performance Management Capabilities	Consistent Performance Level	AdminToys Suite	0
+Performance Management Capabilities	Utilization & Error Rates	AdminToys Suite	0
+Performance Management Capabilities	Performance Report Generation	Goverlan	1
+Performance Management Capabilities	Performance Monitoring	Goverlan	1
+Performance Management Capabilities	Performance Data Analysis	Goverlan	0
+Performance Management Capabilities	Performance Data Collection	Goverlan	0
+Performance Management Capabilities	Capacity Planning	Goverlan	1
+Performance Management Capabilities	Problem Reporting	Goverlan	1
+Performance Management Capabilities	Consistent Performance Level	Goverlan	0
+Performance Management Capabilities	Utilization & Error Rates	Goverlan	1
+Performance Management Capabilities	Performance Report Generation	Redcell System Commander	0
+Performance Management Capabilities	Performance Monitoring	Redcell System Commander	1
+Performance Management Capabilities	Performance Data Analysis	Redcell System Commander	1
+Performance Management Capabilities	Performance Data Collection	Redcell System Commander	1
+Performance Management Capabilities	Capacity Planning	Redcell System Commander	0
+Performance Management Capabilities	Problem Reporting	Redcell System Commander	0
+Performance Management Capabilities	Consistent Performance Level	Redcell System Commander	1
+Performance Management Capabilities	Utilization & Error Rates	Redcell System Commander	0
+Performance Management Capabilities	Performance Report Generation	Splunk	1
+Performance Management Capabilities	Performance Monitoring	Splunk	1
+Performance Management Capabilities	Performance Data Analysis	Splunk	1
+Performance Management Capabilities	Performance Data Collection	Splunk	1
+Performance Management Capabilities	Capacity Planning	Splunk	1
+Performance Management Capabilities	Problem Reporting	Splunk	0
+Performance Management Capabilities	Consistent Performance Level	Splunk	0
+Performance Management Capabilities	Utilization & Error Rates	Splunk	0
+Accounting/allocation Management Capabilities	Usage Reporting	Symantec Deployment Solution	0
+Accounting/allocation Management Capabilities	Audits	Symantec Deployment Solution	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Symantec Deployment Solution	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Symantec Deployment Solution	0
+Accounting/allocation Management Capabilities	Usage Reporting	SGI Management Suite	0
+Accounting/allocation Management Capabilities	Audits	SGI Management Suite	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	SGI Management Suite	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	SGI Management Suite	0
+Accounting/allocation Management Capabilities	Usage Reporting	EventSentry	1
+Accounting/allocation Management Capabilities	Audits	EventSentry	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	EventSentry	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	EventSentry	1
+Accounting/allocation Management Capabilities	Usage Reporting	OCS Inventory NG	0
+Accounting/allocation Management Capabilities	Audits	OCS Inventory NG	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	OCS Inventory NG	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	OCS Inventory NG	0
+Accounting/allocation Management Capabilities	Usage Reporting	ManageEngine Desktop Central	1
+Accounting/allocation Management Capabilities	Audits	ManageEngine Desktop Central	1
+Accounting/allocation Management Capabilities	Set Usage Quotas	ManageEngine Desktop Central	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	ManageEngine Desktop Central	0
+Accounting/allocation Management Capabilities	Usage Reporting	LogicMonitor	1
+Accounting/allocation Management Capabilities	Audits	LogicMonitor	1
+Accounting/allocation Management Capabilities	Set Usage Quotas	LogicMonitor	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	LogicMonitor	0
+Accounting/allocation Management Capabilities	Usage Reporting	AdminToys Suite	1
+Accounting/allocation Management Capabilities	Audits	AdminToys Suite	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	AdminToys Suite	1
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	AdminToys Suite	0
+Accounting/allocation Management Capabilities	Usage Reporting	Goverlan	1
+Accounting/allocation Management Capabilities	Audits	Goverlan	1
+Accounting/allocation Management Capabilities	Set Usage Quotas	Goverlan	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Goverlan	1
+Accounting/allocation Management Capabilities	Usage Reporting	Redcell System Commander	0
+Accounting/allocation Management Capabilities	Audits	Redcell System Commander	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Redcell System Commander	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Redcell System Commander	0
+Accounting/allocation Management Capabilities	Usage Reporting	Splunk	0
+Accounting/allocation Management Capabilities	Audits	Splunk	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Splunk	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Splunk	0
+Fault Management Capabilities	Fault Detection	Symantec Deployment Solution	0
+Fault Management Capabilities	Error Handling	Symantec Deployment Solution	1
+Fault Management Capabilities	Alarm Correlation/Analysis	Symantec Deployment Solution	0
+Fault Management Capabilities	Network Recovery	Symantec Deployment Solution	0
+Fault Management Capabilities	Error Logging	Symantec Deployment Solution	0
+Fault Management Capabilities	Alarm Generation	Symantec Deployment Solution	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Symantec Deployment Solution	0
+Fault Management Capabilities	Alarm Filtering	Symantec Deployment Solution	0
+Fault Management Capabilities	Fault Detection	SGI Management Suite	1
+Fault Management Capabilities	Error Handling	SGI Management Suite	1
+Fault Management Capabilities	Alarm Correlation/Analysis	SGI Management Suite	0
+Fault Management Capabilities	Network Recovery	SGI Management Suite	0
+Fault Management Capabilities	Error Logging	SGI Management Suite	1
+Fault Management Capabilities	Alarm Generation	SGI Management Suite	1
+Fault Management Capabilities	Alarm Forwarding/Handling	SGI Management Suite	1
+Fault Management Capabilities	Alarm Filtering	SGI Management Suite	1
+Fault Management Capabilities	Fault Detection	EventSentry	0
+Fault Management Capabilities	Error Handling	EventSentry	1
+Fault Management Capabilities	Alarm Correlation/Analysis	EventSentry	1
+Fault Management Capabilities	Network Recovery	EventSentry	1
+Fault Management Capabilities	Error Logging	EventSentry	0
+Fault Management Capabilities	Alarm Generation	EventSentry	1
+Fault Management Capabilities	Alarm Forwarding/Handling	EventSentry	0
+Fault Management Capabilities	Alarm Filtering	EventSentry	0
+Fault Management Capabilities	Fault Detection	OCS Inventory NG	0
+Fault Management Capabilities	Error Handling	OCS Inventory NG	0
+Fault Management Capabilities	Alarm Correlation/Analysis	OCS Inventory NG	0
+Fault Management Capabilities	Network Recovery	OCS Inventory NG	0
+Fault Management Capabilities	Error Logging	OCS Inventory NG	0
+Fault Management Capabilities	Alarm Generation	OCS Inventory NG	0
+Fault Management Capabilities	Alarm Forwarding/Handling	OCS Inventory NG	0
+Fault Management Capabilities	Alarm Filtering	OCS Inventory NG	0
+Fault Management Capabilities	Fault Detection	ManageEngine Desktop Central	0
+Fault Management Capabilities	Error Handling	ManageEngine Desktop Central	0
+Fault Management Capabilities	Alarm Correlation/Analysis	ManageEngine Desktop Central	0
+Fault Management Capabilities	Network Recovery	ManageEngine Desktop Central	0
+Fault Management Capabilities	Error Logging	ManageEngine Desktop Central	0
+Fault Management Capabilities	Alarm Generation	ManageEngine Desktop Central	0
+Fault Management Capabilities	Alarm Forwarding/Handling	ManageEngine Desktop Central	0
+Fault Management Capabilities	Alarm Filtering	ManageEngine Desktop Central	0
+Fault Management Capabilities	Fault Detection	LogicMonitor	1
+Fault Management Capabilities	Error Handling	LogicMonitor	0
+Fault Management Capabilities	Alarm Correlation/Analysis	LogicMonitor	1
+Fault Management Capabilities	Network Recovery	LogicMonitor	0
+Fault Management Capabilities	Error Logging	LogicMonitor	1
+Fault Management Capabilities	Alarm Generation	LogicMonitor	1
+Fault Management Capabilities	Alarm Forwarding/Handling	LogicMonitor	1
+Fault Management Capabilities	Alarm Filtering	LogicMonitor	1
+Fault Management Capabilities	Fault Detection	AdminToys Suite	0
+Fault Management Capabilities	Error Handling	AdminToys Suite	0
+Fault Management Capabilities	Alarm Correlation/Analysis	AdminToys Suite	0
+Fault Management Capabilities	Network Recovery	AdminToys Suite	1
+Fault Management Capabilities	Error Logging	AdminToys Suite	0
+Fault Management Capabilities	Alarm Generation	AdminToys Suite	0
+Fault Management Capabilities	Alarm Forwarding/Handling	AdminToys Suite	0
+Fault Management Capabilities	Alarm Filtering	AdminToys Suite	0
+Fault Management Capabilities	Fault Detection	Goverlan	0
+Fault Management Capabilities	Error Handling	Goverlan	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Goverlan	0
+Fault Management Capabilities	Network Recovery	Goverlan	0
+Fault Management Capabilities	Error Logging	Goverlan	0
+Fault Management Capabilities	Alarm Generation	Goverlan	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Goverlan	0
+Fault Management Capabilities	Alarm Filtering	Goverlan	0
+Fault Management Capabilities	Fault Detection	Redcell System Commander	0
+Fault Management Capabilities	Error Handling	Redcell System Commander	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Redcell System Commander	0
+Fault Management Capabilities	Network Recovery	Redcell System Commander	0
+Fault Management Capabilities	Error Logging	Redcell System Commander	0
+Fault Management Capabilities	Alarm Generation	Redcell System Commander	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Redcell System Commander	0
+Fault Management Capabilities	Alarm Filtering	Redcell System Commander	0
+Fault Management Capabilities	Fault Detection	Splunk	0
+Fault Management Capabilities	Error Handling	Splunk	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Splunk	1
+Fault Management Capabilities	Network Recovery	Splunk	1
+Fault Management Capabilities	Error Logging	Splunk	0
+Fault Management Capabilities	Alarm Generation	Splunk	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Splunk	0
+Fault Management Capabilities	Alarm Filtering	Splunk	0
+Configuration Management Capabilities	Service Activation	Symantec Deployment Solution	0
+Configuration Management Capabilities	Auto Discovery	Symantec Deployment Solution	0
+Configuration Management Capabilities	Resource Initialization	Symantec Deployment Solution	0
+Configuration Management Capabilities	Remote Configuration	Symantec Deployment Solution	1
+Configuration Management Capabilities	Network Provisioning	Symantec Deployment Solution	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Symantec Deployment Solution	1
+Configuration Management Capabilities	Automated Software Distribution	Symantec Deployment Solution	1
+Configuration Management Capabilities	Copy Configuration	Symantec Deployment Solution	1
+Configuration Management Capabilities	Change Management	Symantec Deployment Solution	0
+Configuration Management Capabilities	Resource Shutdown	Symantec Deployment Solution	0
+Configuration Management Capabilities	Inventory/Asset Management	Symantec Deployment Solution	1
+Configuration Management Capabilities	Backup and Restore	Symantec Deployment Solution	1
+Configuration Management Capabilities	Service Activation	SGI Management Suite	0
+Configuration Management Capabilities	Auto Discovery	SGI Management Suite	0
+Configuration Management Capabilities	Resource Initialization	SGI Management Suite	0
+Configuration Management Capabilities	Remote Configuration	SGI Management Suite	0
+Configuration Management Capabilities	Network Provisioning	SGI Management Suite	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	SGI Management Suite	0
+Configuration Management Capabilities	Automated Software Distribution	SGI Management Suite	0
+Configuration Management Capabilities	Copy Configuration	SGI Management Suite	0
+Configuration Management Capabilities	Change Management	SGI Management Suite	1
+Configuration Management Capabilities	Resource Shutdown	SGI Management Suite	0
+Configuration Management Capabilities	Inventory/Asset Management	SGI Management Suite	0
+Configuration Management Capabilities	Backup and Restore	SGI Management Suite	1
+Configuration Management Capabilities	Service Activation	EventSentry	0
+Configuration Management Capabilities	Auto Discovery	EventSentry	0
+Configuration Management Capabilities	Resource Initialization	EventSentry	0
+Configuration Management Capabilities	Remote Configuration	EventSentry	1
+Configuration Management Capabilities	Network Provisioning	EventSentry	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	EventSentry	0
+Configuration Management Capabilities	Automated Software Distribution	EventSentry	0
+Configuration Management Capabilities	Copy Configuration	EventSentry	0
+Configuration Management Capabilities	Change Management	EventSentry	0
+Configuration Management Capabilities	Resource Shutdown	EventSentry	0
+Configuration Management Capabilities	Inventory/Asset Management	EventSentry	0
+Configuration Management Capabilities	Backup and Restore	EventSentry	1
+Configuration Management Capabilities	Service Activation	OCS Inventory NG	0
+Configuration Management Capabilities	Auto Discovery	OCS Inventory NG	1
+Configuration Management Capabilities	Resource Initialization	OCS Inventory NG	1
+Configuration Management Capabilities	Remote Configuration	OCS Inventory NG	0
+Configuration Management Capabilities	Network Provisioning	OCS Inventory NG	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	OCS Inventory NG	1
+Configuration Management Capabilities	Automated Software Distribution	OCS Inventory NG	1
+Configuration Management Capabilities	Copy Configuration	OCS Inventory NG	0
+Configuration Management Capabilities	Change Management	OCS Inventory NG	0
+Configuration Management Capabilities	Resource Shutdown	OCS Inventory NG	0
+Configuration Management Capabilities	Inventory/Asset Management	OCS Inventory NG	1
+Configuration Management Capabilities	Backup and Restore	OCS Inventory NG	0
+Configuration Management Capabilities	Service Activation	ManageEngine Desktop Central	1
+Configuration Management Capabilities	Auto Discovery	ManageEngine Desktop Central	1
+Configuration Management Capabilities	Resource Initialization	ManageEngine Desktop Central	1
+Configuration Management Capabilities	Remote Configuration	ManageEngine Desktop Central	1
+Configuration Management Capabilities	Network Provisioning	ManageEngine Desktop Central	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	ManageEngine Desktop Central	1
+Configuration Management Capabilities	Automated Software Distribution	ManageEngine Desktop Central	1
+Configuration Management Capabilities	Copy Configuration	ManageEngine Desktop Central	1
+Configuration Management Capabilities	Change Management	ManageEngine Desktop Central	1
+Configuration Management Capabilities	Resource Shutdown	ManageEngine Desktop Central	0
+Configuration Management Capabilities	Inventory/Asset Management	ManageEngine Desktop Central	1
+Configuration Management Capabilities	Backup and Restore	ManageEngine Desktop Central	1
+Configuration Management Capabilities	Service Activation	LogicMonitor	0
+Configuration Management Capabilities	Auto Discovery	LogicMonitor	1
+Configuration Management Capabilities	Resource Initialization	LogicMonitor	0
+Configuration Management Capabilities	Remote Configuration	LogicMonitor	1
+Configuration Management Capabilities	Network Provisioning	LogicMonitor	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	LogicMonitor	0
+Configuration Management Capabilities	Automated Software Distribution	LogicMonitor	1
+Configuration Management Capabilities	Copy Configuration	LogicMonitor	0
+Configuration Management Capabilities	Change Management	LogicMonitor	0
+Configuration Management Capabilities	Resource Shutdown	LogicMonitor	0
+Configuration Management Capabilities	Inventory/Asset Management	LogicMonitor	1
+Configuration Management Capabilities	Backup and Restore	LogicMonitor	1
+Configuration Management Capabilities	Service Activation	AdminToys Suite	0
+Configuration Management Capabilities	Auto Discovery	AdminToys Suite	0
+Configuration Management Capabilities	Resource Initialization	AdminToys Suite	0
+Configuration Management Capabilities	Remote Configuration	AdminToys Suite	1
+Configuration Management Capabilities	Network Provisioning	AdminToys Suite	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	AdminToys Suite	0
+Configuration Management Capabilities	Automated Software Distribution	AdminToys Suite	0
+Configuration Management Capabilities	Copy Configuration	AdminToys Suite	0
+Configuration Management Capabilities	Change Management	AdminToys Suite	1
+Configuration Management Capabilities	Resource Shutdown	AdminToys Suite	0
+Configuration Management Capabilities	Inventory/Asset Management	AdminToys Suite	0
+Configuration Management Capabilities	Backup and Restore	AdminToys Suite	0
+Configuration Management Capabilities	Service Activation	Goverlan	0
+Configuration Management Capabilities	Auto Discovery	Goverlan	1
+Configuration Management Capabilities	Resource Initialization	Goverlan	1
+Configuration Management Capabilities	Remote Configuration	Goverlan	1
+Configuration Management Capabilities	Network Provisioning	Goverlan	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Goverlan	1
+Configuration Management Capabilities	Automated Software Distribution	Goverlan	1
+Configuration Management Capabilities	Copy Configuration	Goverlan	0
+Configuration Management Capabilities	Change Management	Goverlan	1
+Configuration Management Capabilities	Resource Shutdown	Goverlan	1
+Configuration Management Capabilities	Inventory/Asset Management	Goverlan	1
+Configuration Management Capabilities	Backup and Restore	Goverlan	0
+Configuration Management Capabilities	Service Activation	Redcell System Commander	0
+Configuration Management Capabilities	Auto Discovery	Redcell System Commander	1
+Configuration Management Capabilities	Resource Initialization	Redcell System Commander	1
+Configuration Management Capabilities	Remote Configuration	Redcell System Commander	1
+Configuration Management Capabilities	Network Provisioning	Redcell System Commander	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Redcell System Commander	0
+Configuration Management Capabilities	Automated Software Distribution	Redcell System Commander	0
+Configuration Management Capabilities	Copy Configuration	Redcell System Commander	0
+Configuration Management Capabilities	Change Management	Redcell System Commander	1
+Configuration Management Capabilities	Resource Shutdown	Redcell System Commander	0
+Configuration Management Capabilities	Inventory/Asset Management	Redcell System Commander	1
+Configuration Management Capabilities	Backup and Restore	Redcell System Commander	1
+Configuration Management Capabilities	Service Activation	Splunk	0
+Configuration Management Capabilities	Auto Discovery	Splunk	0
+Configuration Management Capabilities	Resource Initialization	Splunk	1
+Configuration Management Capabilities	Remote Configuration	Splunk	1
+Configuration Management Capabilities	Network Provisioning	Splunk	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Splunk	0
+Configuration Management Capabilities	Automated Software Distribution	Splunk	0
+Configuration Management Capabilities	Copy Configuration	Splunk	0
+Configuration Management Capabilities	Change Management	Splunk	0
+Configuration Management Capabilities	Resource Shutdown	Splunk	0
+Configuration Management Capabilities	Inventory/Asset Management	Splunk	1
+Configuration Management Capabilities	Backup and Restore	Splunk	1
+Functionality	Performance Management	Symantec Deployment Solution	0
+Functionality	Accounting/Allocation Management	Symantec Deployment Solution	0
+Functionality	Fault Management	Symantec Deployment Solution	0
+Functionality	Security Management	Symantec Deployment Solution	1
+Functionality	Configuration Management	Symantec Deployment Solution	1
+Functionality	Performance Management	SGI Management Suite	1
+Functionality	Accounting/Allocation Management	SGI Management Suite	0
+Functionality	Fault Management	SGI Management Suite	1
+Functionality	Security Management	SGI Management Suite	0
+Functionality	Configuration Management	SGI Management Suite	1
+Functionality	Performance Management	EventSentry	1
+Functionality	Accounting/Allocation Management	EventSentry	1
+Functionality	Fault Management	EventSentry	1
+Functionality	Security Management	EventSentry	1
+Functionality	Configuration Management	EventSentry	1
+Functionality	Performance Management	OCS Inventory NG	0
+Functionality	Accounting/Allocation Management	OCS Inventory NG	0
+Functionality	Fault Management	OCS Inventory NG	0
+Functionality	Security Management	OCS Inventory NG	0
+Functionality	Configuration Management	OCS Inventory NG	1
+Functionality	Performance Management	ManageEngine Desktop Central	1
+Functionality	Accounting/Allocation Management	ManageEngine Desktop Central	1
+Functionality	Fault Management	ManageEngine Desktop Central	0
+Functionality	Security Management	ManageEngine Desktop Central	1
+Functionality	Configuration Management	ManageEngine Desktop Central	1
+Functionality	Performance Management	LogicMonitor	1
+Functionality	Accounting/Allocation Management	LogicMonitor	1
+Functionality	Fault Management	LogicMonitor	1
+Functionality	Security Management	LogicMonitor	1
+Functionality	Configuration Management	LogicMonitor	1
+Functionality	Performance Management	AdminToys Suite	1
+Functionality	Accounting/Allocation Management	AdminToys Suite	1
+Functionality	Fault Management	AdminToys Suite	1
+Functionality	Security Management	AdminToys Suite	1
+Functionality	Configuration Management	AdminToys Suite	1
+Functionality	Performance Management	Goverlan	1
+Functionality	Accounting/Allocation Management	Goverlan	1
+Functionality	Fault Management	Goverlan	0
+Functionality	Security Management	Goverlan	1
+Functionality	Configuration Management	Goverlan	1
+Functionality	Performance Management	Redcell System Commander	1
+Functionality	Accounting/Allocation Management	Redcell System Commander	0
+Functionality	Fault Management	Redcell System Commander	0
+Functionality	Security Management	Redcell System Commander	1
+Functionality	Configuration Management	Redcell System Commander	1
+Functionality	Performance Management	Splunk	1
+Functionality	Accounting/Allocation Management	Splunk	0
+Functionality	Fault Management	Splunk	1
+Functionality	Security Management	Splunk	1
+Functionality	Configuration Management	Splunk	1
+Additional Capabilities and Features	Remote Searching	Symantec Deployment Solution	0
+Additional Capabilities and Features	No Coding Knowledge Required	Symantec Deployment Solution	1
+Additional Capabilities and Features	User Portal	Symantec Deployment Solution	0
+Additional Capabilities and Features	Administrator Dashboard	Symantec Deployment Solution	0
+Additional Capabilities and Features	Remote Administration & Assistance	Symantec Deployment Solution	0
+Additional Capabilities and Features	Remote Searching	SGI Management Suite	0
+Additional Capabilities and Features	No Coding Knowledge Required	SGI Management Suite	1
+Additional Capabilities and Features	User Portal	SGI Management Suite	0
+Additional Capabilities and Features	Administrator Dashboard	SGI Management Suite	1
+Additional Capabilities and Features	Remote Administration & Assistance	SGI Management Suite	1
+Additional Capabilities and Features	Remote Searching	EventSentry	0
+Additional Capabilities and Features	No Coding Knowledge Required	EventSentry	1
+Additional Capabilities and Features	User Portal	EventSentry	1
+Additional Capabilities and Features	Administrator Dashboard	EventSentry	1
+Additional Capabilities and Features	Remote Administration & Assistance	EventSentry	0
+Additional Capabilities and Features	Remote Searching	OCS Inventory NG	0
+Additional Capabilities and Features	No Coding Knowledge Required	OCS Inventory NG	0
+Additional Capabilities and Features	User Portal	OCS Inventory NG	0
+Additional Capabilities and Features	Administrator Dashboard	OCS Inventory NG	1
+Additional Capabilities and Features	Remote Administration & Assistance	OCS Inventory NG	0
+Additional Capabilities and Features	Remote Searching	ManageEngine Desktop Central	0
+Additional Capabilities and Features	No Coding Knowledge Required	ManageEngine Desktop Central	0
+Additional Capabilities and Features	User Portal	ManageEngine Desktop Central	0
+Additional Capabilities and Features	Administrator Dashboard	ManageEngine Desktop Central	1
+Additional Capabilities and Features	Remote Administration & Assistance	ManageEngine Desktop Central	1
+Additional Capabilities and Features	Remote Searching	LogicMonitor	0
+Additional Capabilities and Features	No Coding Knowledge Required	LogicMonitor	0
+Additional Capabilities and Features	User Portal	LogicMonitor	1
+Additional Capabilities and Features	Administrator Dashboard	LogicMonitor	1
+Additional Capabilities and Features	Remote Administration & Assistance	LogicMonitor	1
+Additional Capabilities and Features	Remote Searching	AdminToys Suite	0
+Additional Capabilities and Features	No Coding Knowledge Required	AdminToys Suite	0
+Additional Capabilities and Features	User Portal	AdminToys Suite	0
+Additional Capabilities and Features	Administrator Dashboard	AdminToys Suite	1
+Additional Capabilities and Features	Remote Administration & Assistance	AdminToys Suite	1
+Additional Capabilities and Features	Remote Searching	Goverlan	1
+Additional Capabilities and Features	No Coding Knowledge Required	Goverlan	0
+Additional Capabilities and Features	User Portal	Goverlan	0
+Additional Capabilities and Features	Administrator Dashboard	Goverlan	0
+Additional Capabilities and Features	Remote Administration & Assistance	Goverlan	1
+Additional Capabilities and Features	Remote Searching	Redcell System Commander	0
+Additional Capabilities and Features	No Coding Knowledge Required	Redcell System Commander	0
+Additional Capabilities and Features	User Portal	Redcell System Commander	0
+Additional Capabilities and Features	Administrator Dashboard	Redcell System Commander	0
+Additional Capabilities and Features	Remote Administration & Assistance	Redcell System Commander	1
+Additional Capabilities and Features	Remote Searching	Splunk	0
+Additional Capabilities and Features	No Coding Knowledge Required	Splunk	0
+Additional Capabilities and Features	User Portal	Splunk	1
+Additional Capabilities and Features	Administrator Dashboard	Splunk	1
+Additional Capabilities and Features	Remote Administration & Assistance	Splunk	1
+Security Management Capabilities	Security Audit Trail	NetCrunch 9	1
+Security Management Capabilities	Network Element Functions	NetCrunch 9	1
+Security Management Capabilities	System/Resource Access Control	NetCrunch 9	1
+Security Management Capabilities	Security Alarm/Event Reporting	NetCrunch 9	1
+Security Management Capabilities	Access Logs	NetCrunch 9	1
+Security Management Capabilities	Authentication	NetCrunch 9	0
+Security Management Capabilities	Containment and Recovery	NetCrunch 9	0
+Security Management Capabilities	Security Related Information Distributions	NetCrunch 9	0
+Security Management Capabilities	Prevention	NetCrunch 9	0
+Security Management Capabilities	Encryption	NetCrunch 9	0
+Security Management Capabilities	Security Event Detection	NetCrunch 9	1
+Security Management Capabilities	Data Privacy	NetCrunch 9	0
+Security Management Capabilities	Security Audit Trail	Convert OST To PST Outlook Files	0
+Security Management Capabilities	Network Element Functions	Convert OST To PST Outlook Files	0
+Security Management Capabilities	System/Resource Access Control	Convert OST To PST Outlook Files	0
+Security Management Capabilities	Security Alarm/Event Reporting	Convert OST To PST Outlook Files	0
+Security Management Capabilities	Access Logs	Convert OST To PST Outlook Files	0
+Security Management Capabilities	Authentication	Convert OST To PST Outlook Files	0
+Security Management Capabilities	Containment and Recovery	Convert OST To PST Outlook Files	1
+Security Management Capabilities	Security Related Information Distributions	Convert OST To PST Outlook Files	0
+Security Management Capabilities	Prevention	Convert OST To PST Outlook Files	0
+Security Management Capabilities	Encryption	Convert OST To PST Outlook Files	0
+Security Management Capabilities	Security Event Detection	Convert OST To PST Outlook Files	0
+Security Management Capabilities	Data Privacy	Convert OST To PST Outlook Files	1
+Security Management Capabilities	Security Audit Trail	Lab Reservations	0
+Security Management Capabilities	Network Element Functions	Lab Reservations	0
+Security Management Capabilities	System/Resource Access Control	Lab Reservations	0
+Security Management Capabilities	Security Alarm/Event Reporting	Lab Reservations	0
+Security Management Capabilities	Access Logs	Lab Reservations	0
+Security Management Capabilities	Authentication	Lab Reservations	0
+Security Management Capabilities	Containment and Recovery	Lab Reservations	0
+Security Management Capabilities	Security Related Information Distributions	Lab Reservations	0
+Security Management Capabilities	Prevention	Lab Reservations	0
+Security Management Capabilities	Encryption	Lab Reservations	0
+Security Management Capabilities	Security Event Detection	Lab Reservations	0
+Security Management Capabilities	Data Privacy	Lab Reservations	0
+Security Management Capabilities	Security Audit Trail	Ruxit	0
+Security Management Capabilities	Network Element Functions	Ruxit	0
+Security Management Capabilities	System/Resource Access Control	Ruxit	0
+Security Management Capabilities	Security Alarm/Event Reporting	Ruxit	0
+Security Management Capabilities	Access Logs	Ruxit	0
+Security Management Capabilities	Authentication	Ruxit	0
+Security Management Capabilities	Containment and Recovery	Ruxit	0
+Security Management Capabilities	Security Related Information Distributions	Ruxit	0
+Security Management Capabilities	Prevention	Ruxit	0
+Security Management Capabilities	Encryption	Ruxit	0
+Security Management Capabilities	Security Event Detection	Ruxit	0
+Security Management Capabilities	Data Privacy	Ruxit	0
+Security Management Capabilities	Security Audit Trail	CoScale	0
+Security Management Capabilities	Network Element Functions	CoScale	0
+Security Management Capabilities	System/Resource Access Control	CoScale	0
+Security Management Capabilities	Security Alarm/Event Reporting	CoScale	0
+Security Management Capabilities	Access Logs	CoScale	0
+Security Management Capabilities	Authentication	CoScale	0
+Security Management Capabilities	Containment and Recovery	CoScale	0
+Security Management Capabilities	Security Related Information Distributions	CoScale	0
+Security Management Capabilities	Prevention	CoScale	0
+Security Management Capabilities	Encryption	CoScale	0
+Security Management Capabilities	Security Event Detection	CoScale	0
+Security Management Capabilities	Data Privacy	CoScale	0
+Security Management Capabilities	Security Audit Trail	Kaseya VSA	1
+Security Management Capabilities	Network Element Functions	Kaseya VSA	1
+Security Management Capabilities	System/Resource Access Control	Kaseya VSA	1
+Security Management Capabilities	Security Alarm/Event Reporting	Kaseya VSA	1
+Security Management Capabilities	Access Logs	Kaseya VSA	1
+Security Management Capabilities	Authentication	Kaseya VSA	1
+Security Management Capabilities	Containment and Recovery	Kaseya VSA	1
+Security Management Capabilities	Security Related Information Distributions	Kaseya VSA	1
+Security Management Capabilities	Prevention	Kaseya VSA	1
+Security Management Capabilities	Encryption	Kaseya VSA	1
+Security Management Capabilities	Security Event Detection	Kaseya VSA	1
+Security Management Capabilities	Data Privacy	Kaseya VSA	1
+Security Management Capabilities	Security Audit Trail	Pulseway	1
+Security Management Capabilities	Network Element Functions	Pulseway	0
+Security Management Capabilities	System/Resource Access Control	Pulseway	0
+Security Management Capabilities	Security Alarm/Event Reporting	Pulseway	0
+Security Management Capabilities	Access Logs	Pulseway	0
+Security Management Capabilities	Authentication	Pulseway	0
+Security Management Capabilities	Containment and Recovery	Pulseway	0
+Security Management Capabilities	Security Related Information Distributions	Pulseway	0
+Security Management Capabilities	Prevention	Pulseway	1
+Security Management Capabilities	Encryption	Pulseway	0
+Security Management Capabilities	Security Event Detection	Pulseway	0
+Security Management Capabilities	Data Privacy	Pulseway	0
+Security Management Capabilities	Security Audit Trail	CloudSploit	1
+Security Management Capabilities	Network Element Functions	CloudSploit	0
+Security Management Capabilities	System/Resource Access Control	CloudSploit	1
+Security Management Capabilities	Security Alarm/Event Reporting	CloudSploit	1
+Security Management Capabilities	Access Logs	CloudSploit	1
+Security Management Capabilities	Authentication	CloudSploit	0
+Security Management Capabilities	Containment and Recovery	CloudSploit	0
+Security Management Capabilities	Security Related Information Distributions	CloudSploit	1
+Security Management Capabilities	Prevention	CloudSploit	1
+Security Management Capabilities	Encryption	CloudSploit	0
+Security Management Capabilities	Security Event Detection	CloudSploit	0
+Security Management Capabilities	Data Privacy	CloudSploit	1
+Performance Management Capabilities	Performance Report Generation	NetCrunch 9	1
+Performance Management Capabilities	Performance Monitoring	NetCrunch 9	1
+Performance Management Capabilities	Performance Data Analysis	NetCrunch 9	1
+Performance Management Capabilities	Performance Data Collection	NetCrunch 9	1
+Performance Management Capabilities	Capacity Planning	NetCrunch 9	1
+Performance Management Capabilities	Problem Reporting	NetCrunch 9	1
+Performance Management Capabilities	Consistent Performance Level	NetCrunch 9	0
+Performance Management Capabilities	Utilization & Error Rates	NetCrunch 9	1
+Performance Management Capabilities	Performance Report Generation	Convert OST To PST Outlook Files	0
+Performance Management Capabilities	Performance Monitoring	Convert OST To PST Outlook Files	1
+Performance Management Capabilities	Performance Data Analysis	Convert OST To PST Outlook Files	0
+Performance Management Capabilities	Performance Data Collection	Convert OST To PST Outlook Files	1
+Performance Management Capabilities	Capacity Planning	Convert OST To PST Outlook Files	1
+Performance Management Capabilities	Problem Reporting	Convert OST To PST Outlook Files	1
+Performance Management Capabilities	Consistent Performance Level	Convert OST To PST Outlook Files	0
+Performance Management Capabilities	Utilization & Error Rates	Convert OST To PST Outlook Files	0
+Performance Management Capabilities	Performance Report Generation	Lab Reservations	0
+Performance Management Capabilities	Performance Monitoring	Lab Reservations	0
+Performance Management Capabilities	Performance Data Analysis	Lab Reservations	0
+Performance Management Capabilities	Performance Data Collection	Lab Reservations	0
+Performance Management Capabilities	Capacity Planning	Lab Reservations	0
+Performance Management Capabilities	Problem Reporting	Lab Reservations	0
+Performance Management Capabilities	Consistent Performance Level	Lab Reservations	0
+Performance Management Capabilities	Utilization & Error Rates	Lab Reservations	0
+Performance Management Capabilities	Performance Report Generation	Ruxit	0
+Performance Management Capabilities	Performance Monitoring	Ruxit	1
+Performance Management Capabilities	Performance Data Analysis	Ruxit	1
+Performance Management Capabilities	Performance Data Collection	Ruxit	1
+Performance Management Capabilities	Capacity Planning	Ruxit	1
+Performance Management Capabilities	Problem Reporting	Ruxit	1
+Performance Management Capabilities	Consistent Performance Level	Ruxit	0
+Performance Management Capabilities	Utilization & Error Rates	Ruxit	0
+Performance Management Capabilities	Performance Report Generation	CoScale	1
+Performance Management Capabilities	Performance Monitoring	CoScale	1
+Performance Management Capabilities	Performance Data Analysis	CoScale	1
+Performance Management Capabilities	Performance Data Collection	CoScale	1
+Performance Management Capabilities	Capacity Planning	CoScale	0
+Performance Management Capabilities	Problem Reporting	CoScale	1
+Performance Management Capabilities	Consistent Performance Level	CoScale	0
+Performance Management Capabilities	Utilization & Error Rates	CoScale	1
+Performance Management Capabilities	Performance Report Generation	Kaseya VSA	1
+Performance Management Capabilities	Performance Monitoring	Kaseya VSA	1
+Performance Management Capabilities	Performance Data Analysis	Kaseya VSA	1
+Performance Management Capabilities	Performance Data Collection	Kaseya VSA	1
+Performance Management Capabilities	Capacity Planning	Kaseya VSA	1
+Performance Management Capabilities	Problem Reporting	Kaseya VSA	1
+Performance Management Capabilities	Consistent Performance Level	Kaseya VSA	1
+Performance Management Capabilities	Utilization & Error Rates	Kaseya VSA	1
+Performance Management Capabilities	Performance Report Generation	Pulseway	1
+Performance Management Capabilities	Performance Monitoring	Pulseway	1
+Performance Management Capabilities	Performance Data Analysis	Pulseway	0
+Performance Management Capabilities	Performance Data Collection	Pulseway	0
+Performance Management Capabilities	Capacity Planning	Pulseway	0
+Performance Management Capabilities	Problem Reporting	Pulseway	1
+Performance Management Capabilities	Consistent Performance Level	Pulseway	0
+Performance Management Capabilities	Utilization & Error Rates	Pulseway	0
+Performance Management Capabilities	Performance Report Generation	CloudSploit	0
+Performance Management Capabilities	Performance Monitoring	CloudSploit	0
+Performance Management Capabilities	Performance Data Analysis	CloudSploit	0
+Performance Management Capabilities	Performance Data Collection	CloudSploit	0
+Performance Management Capabilities	Capacity Planning	CloudSploit	0
+Performance Management Capabilities	Problem Reporting	CloudSploit	1
+Performance Management Capabilities	Consistent Performance Level	CloudSploit	0
+Performance Management Capabilities	Utilization & Error Rates	CloudSploit	1
+Accounting/allocation Management Capabilities	Fraud Reporting	NetCrunch 9	0
+Accounting/allocation Management Capabilities	Usage Reporting	NetCrunch 9	1
+Accounting/allocation Management Capabilities	Cost Calculation	NetCrunch 9	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	NetCrunch 9	0
+Accounting/allocation Management Capabilities	Audits	NetCrunch 9	1
+Accounting/allocation Management Capabilities	Set Usage Quotas	NetCrunch 9	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	NetCrunch 9	1
+Accounting/allocation Management Capabilities	Fraud Reporting	Convert OST To PST Outlook Files	0
+Accounting/allocation Management Capabilities	Usage Reporting	Convert OST To PST Outlook Files	0
+Accounting/allocation Management Capabilities	Cost Calculation	Convert OST To PST Outlook Files	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Convert OST To PST Outlook Files	0
+Accounting/allocation Management Capabilities	Audits	Convert OST To PST Outlook Files	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Convert OST To PST Outlook Files	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Convert OST To PST Outlook Files	0
+Accounting/allocation Management Capabilities	Fraud Reporting	Lab Reservations	0
+Accounting/allocation Management Capabilities	Usage Reporting	Lab Reservations	0
+Accounting/allocation Management Capabilities	Cost Calculation	Lab Reservations	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Lab Reservations	0
+Accounting/allocation Management Capabilities	Audits	Lab Reservations	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Lab Reservations	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Lab Reservations	0
+Accounting/allocation Management Capabilities	Fraud Reporting	Ruxit	0
+Accounting/allocation Management Capabilities	Usage Reporting	Ruxit	0
+Accounting/allocation Management Capabilities	Cost Calculation	Ruxit	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Ruxit	0
+Accounting/allocation Management Capabilities	Audits	Ruxit	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Ruxit	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Ruxit	0
+Accounting/allocation Management Capabilities	Fraud Reporting	CoScale	0
+Accounting/allocation Management Capabilities	Usage Reporting	CoScale	0
+Accounting/allocation Management Capabilities	Cost Calculation	CoScale	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	CoScale	0
+Accounting/allocation Management Capabilities	Audits	CoScale	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	CoScale	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	CoScale	0
+Accounting/allocation Management Capabilities	Fraud Reporting	Kaseya VSA	1
+Accounting/allocation Management Capabilities	Usage Reporting	Kaseya VSA	1
+Accounting/allocation Management Capabilities	Cost Calculation	Kaseya VSA	1
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Kaseya VSA	1
+Accounting/allocation Management Capabilities	Audits	Kaseya VSA	1
+Accounting/allocation Management Capabilities	Set Usage Quotas	Kaseya VSA	1
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Kaseya VSA	1
+Accounting/allocation Management Capabilities	Fraud Reporting	Pulseway	0
+Accounting/allocation Management Capabilities	Usage Reporting	Pulseway	0
+Accounting/allocation Management Capabilities	Cost Calculation	Pulseway	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	Pulseway	0
+Accounting/allocation Management Capabilities	Audits	Pulseway	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	Pulseway	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	Pulseway	0
+Accounting/allocation Management Capabilities	Fraud Reporting	CloudSploit	0
+Accounting/allocation Management Capabilities	Usage Reporting	CloudSploit	1
+Accounting/allocation Management Capabilities	Cost Calculation	CloudSploit	0
+Accounting/allocation Management Capabilities	Multiple Accounting Modes	CloudSploit	0
+Accounting/allocation Management Capabilities	Audits	CloudSploit	0
+Accounting/allocation Management Capabilities	Set Usage Quotas	CloudSploit	0
+Accounting/allocation Management Capabilities	Service/Resource Usage Tracking	CloudSploit	1
+Fault Management Capabilities	Fault Detection	NetCrunch 9	0
+Fault Management Capabilities	Error Handling	NetCrunch 9	0
+Fault Management Capabilities	Fault Isolation	NetCrunch 9	0
+Fault Management Capabilities	Alarm Correlation/Analysis	NetCrunch 9	0
+Fault Management Capabilities	Fault Correction	NetCrunch 9	0
+Fault Management Capabilities	Network Recovery	NetCrunch 9	1
+Fault Management Capabilities	Error Logging	NetCrunch 9	0
+Fault Management Capabilities	Diagnostic Testing	NetCrunch 9	1
+Fault Management Capabilities	Calculation of Error Statistics	NetCrunch 9	1
+Fault Management Capabilities	Alarm Generation	NetCrunch 9	0
+Fault Management Capabilities	Alarm Forwarding/Handling	NetCrunch 9	0
+Fault Management Capabilities	Alarm Filtering	NetCrunch 9	0
+Fault Management Capabilities	Fault Detection	Convert OST To PST Outlook Files	0
+Fault Management Capabilities	Error Handling	Convert OST To PST Outlook Files	1
+Fault Management Capabilities	Fault Isolation	Convert OST To PST Outlook Files	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Convert OST To PST Outlook Files	0
+Fault Management Capabilities	Fault Correction	Convert OST To PST Outlook Files	1
+Fault Management Capabilities	Network Recovery	Convert OST To PST Outlook Files	0
+Fault Management Capabilities	Error Logging	Convert OST To PST Outlook Files	0
+Fault Management Capabilities	Diagnostic Testing	Convert OST To PST Outlook Files	0
+Fault Management Capabilities	Calculation of Error Statistics	Convert OST To PST Outlook Files	1
+Fault Management Capabilities	Alarm Generation	Convert OST To PST Outlook Files	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Convert OST To PST Outlook Files	0
+Fault Management Capabilities	Alarm Filtering	Convert OST To PST Outlook Files	0
+Fault Management Capabilities	Fault Detection	Lab Reservations	0
+Fault Management Capabilities	Error Handling	Lab Reservations	0
+Fault Management Capabilities	Fault Isolation	Lab Reservations	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Lab Reservations	0
+Fault Management Capabilities	Fault Correction	Lab Reservations	0
+Fault Management Capabilities	Network Recovery	Lab Reservations	0
+Fault Management Capabilities	Error Logging	Lab Reservations	0
+Fault Management Capabilities	Diagnostic Testing	Lab Reservations	0
+Fault Management Capabilities	Calculation of Error Statistics	Lab Reservations	0
+Fault Management Capabilities	Alarm Generation	Lab Reservations	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Lab Reservations	0
+Fault Management Capabilities	Alarm Filtering	Lab Reservations	0
+Fault Management Capabilities	Fault Detection	Ruxit	0
+Fault Management Capabilities	Error Handling	Ruxit	0
+Fault Management Capabilities	Fault Isolation	Ruxit	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Ruxit	0
+Fault Management Capabilities	Fault Correction	Ruxit	0
+Fault Management Capabilities	Network Recovery	Ruxit	0
+Fault Management Capabilities	Error Logging	Ruxit	0
+Fault Management Capabilities	Diagnostic Testing	Ruxit	0
+Fault Management Capabilities	Calculation of Error Statistics	Ruxit	0
+Fault Management Capabilities	Alarm Generation	Ruxit	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Ruxit	0
+Fault Management Capabilities	Alarm Filtering	Ruxit	0
+Fault Management Capabilities	Fault Detection	CoScale	1
+Fault Management Capabilities	Error Handling	CoScale	0
+Fault Management Capabilities	Fault Isolation	CoScale	0
+Fault Management Capabilities	Alarm Correlation/Analysis	CoScale	0
+Fault Management Capabilities	Fault Correction	CoScale	0
+Fault Management Capabilities	Network Recovery	CoScale	0
+Fault Management Capabilities	Error Logging	CoScale	0
+Fault Management Capabilities	Diagnostic Testing	CoScale	0
+Fault Management Capabilities	Calculation of Error Statistics	CoScale	0
+Fault Management Capabilities	Alarm Generation	CoScale	1
+Fault Management Capabilities	Alarm Forwarding/Handling	CoScale	0
+Fault Management Capabilities	Alarm Filtering	CoScale	0
+Fault Management Capabilities	Fault Detection	Kaseya VSA	1
+Fault Management Capabilities	Error Handling	Kaseya VSA	1
+Fault Management Capabilities	Fault Isolation	Kaseya VSA	1
+Fault Management Capabilities	Alarm Correlation/Analysis	Kaseya VSA	1
+Fault Management Capabilities	Fault Correction	Kaseya VSA	1
+Fault Management Capabilities	Network Recovery	Kaseya VSA	1
+Fault Management Capabilities	Error Logging	Kaseya VSA	1
+Fault Management Capabilities	Diagnostic Testing	Kaseya VSA	1
+Fault Management Capabilities	Calculation of Error Statistics	Kaseya VSA	1
+Fault Management Capabilities	Alarm Generation	Kaseya VSA	1
+Fault Management Capabilities	Alarm Forwarding/Handling	Kaseya VSA	1
+Fault Management Capabilities	Alarm Filtering	Kaseya VSA	1
+Fault Management Capabilities	Fault Detection	Pulseway	0
+Fault Management Capabilities	Error Handling	Pulseway	1
+Fault Management Capabilities	Fault Isolation	Pulseway	0
+Fault Management Capabilities	Alarm Correlation/Analysis	Pulseway	0
+Fault Management Capabilities	Fault Correction	Pulseway	0
+Fault Management Capabilities	Network Recovery	Pulseway	0
+Fault Management Capabilities	Error Logging	Pulseway	0
+Fault Management Capabilities	Diagnostic Testing	Pulseway	0
+Fault Management Capabilities	Calculation of Error Statistics	Pulseway	0
+Fault Management Capabilities	Alarm Generation	Pulseway	0
+Fault Management Capabilities	Alarm Forwarding/Handling	Pulseway	0
+Fault Management Capabilities	Alarm Filtering	Pulseway	0
+Fault Management Capabilities	Fault Detection	CloudSploit	1
+Fault Management Capabilities	Error Handling	CloudSploit	1
+Fault Management Capabilities	Fault Isolation	CloudSploit	0
+Fault Management Capabilities	Alarm Correlation/Analysis	CloudSploit	1
+Fault Management Capabilities	Fault Correction	CloudSploit	0
+Fault Management Capabilities	Network Recovery	CloudSploit	0
+Fault Management Capabilities	Error Logging	CloudSploit	1
+Fault Management Capabilities	Diagnostic Testing	CloudSploit	0
+Fault Management Capabilities	Calculation of Error Statistics	CloudSploit	1
+Fault Management Capabilities	Alarm Generation	CloudSploit	1
+Fault Management Capabilities	Alarm Forwarding/Handling	CloudSploit	1
+Fault Management Capabilities	Alarm Filtering	CloudSploit	1
+Configuration Management Capabilities	Service Activation	NetCrunch 9	1
+Configuration Management Capabilities	Auto Discovery	NetCrunch 9	1
+Configuration Management Capabilities	Resource Initialization	NetCrunch 9	0
+Configuration Management Capabilities	Remote Configuration	NetCrunch 9	0
+Configuration Management Capabilities	Network Provisioning	NetCrunch 9	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	NetCrunch 9	0
+Configuration Management Capabilities	Automated Software Distribution	NetCrunch 9	0
+Configuration Management Capabilities	Copy Configuration	NetCrunch 9	0
+Configuration Management Capabilities	Change Management	NetCrunch 9	1
+Configuration Management Capabilities	Resource Shutdown	NetCrunch 9	1
+Configuration Management Capabilities	Inventory/Asset Management	NetCrunch 9	1
+Configuration Management Capabilities	Backup and Restore	NetCrunch 9	0
+Configuration Management Capabilities	Service Activation	Convert OST To PST Outlook Files	0
+Configuration Management Capabilities	Auto Discovery	Convert OST To PST Outlook Files	0
+Configuration Management Capabilities	Resource Initialization	Convert OST To PST Outlook Files	0
+Configuration Management Capabilities	Remote Configuration	Convert OST To PST Outlook Files	0
+Configuration Management Capabilities	Network Provisioning	Convert OST To PST Outlook Files	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Convert OST To PST Outlook Files	0
+Configuration Management Capabilities	Automated Software Distribution	Convert OST To PST Outlook Files	0
+Configuration Management Capabilities	Copy Configuration	Convert OST To PST Outlook Files	0
+Configuration Management Capabilities	Change Management	Convert OST To PST Outlook Files	0
+Configuration Management Capabilities	Resource Shutdown	Convert OST To PST Outlook Files	0
+Configuration Management Capabilities	Inventory/Asset Management	Convert OST To PST Outlook Files	0
+Configuration Management Capabilities	Backup and Restore	Convert OST To PST Outlook Files	0
+Configuration Management Capabilities	Service Activation	Lab Reservations	0
+Configuration Management Capabilities	Auto Discovery	Lab Reservations	0
+Configuration Management Capabilities	Resource Initialization	Lab Reservations	0
+Configuration Management Capabilities	Remote Configuration	Lab Reservations	0
+Configuration Management Capabilities	Network Provisioning	Lab Reservations	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Lab Reservations	0
+Configuration Management Capabilities	Automated Software Distribution	Lab Reservations	0
+Configuration Management Capabilities	Copy Configuration	Lab Reservations	0
+Configuration Management Capabilities	Change Management	Lab Reservations	0
+Configuration Management Capabilities	Resource Shutdown	Lab Reservations	0
+Configuration Management Capabilities	Inventory/Asset Management	Lab Reservations	0
+Configuration Management Capabilities	Backup and Restore	Lab Reservations	0
+Configuration Management Capabilities	Service Activation	Ruxit	0
+Configuration Management Capabilities	Auto Discovery	Ruxit	0
+Configuration Management Capabilities	Resource Initialization	Ruxit	0
+Configuration Management Capabilities	Remote Configuration	Ruxit	0
+Configuration Management Capabilities	Network Provisioning	Ruxit	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Ruxit	0
+Configuration Management Capabilities	Automated Software Distribution	Ruxit	0
+Configuration Management Capabilities	Copy Configuration	Ruxit	0
+Configuration Management Capabilities	Change Management	Ruxit	0
+Configuration Management Capabilities	Resource Shutdown	Ruxit	0
+Configuration Management Capabilities	Inventory/Asset Management	Ruxit	0
+Configuration Management Capabilities	Backup and Restore	Ruxit	0
+Configuration Management Capabilities	Service Activation	CoScale	0
+Configuration Management Capabilities	Auto Discovery	CoScale	0
+Configuration Management Capabilities	Resource Initialization	CoScale	0
+Configuration Management Capabilities	Remote Configuration	CoScale	0
+Configuration Management Capabilities	Network Provisioning	CoScale	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	CoScale	0
+Configuration Management Capabilities	Automated Software Distribution	CoScale	0
+Configuration Management Capabilities	Copy Configuration	CoScale	0
+Configuration Management Capabilities	Change Management	CoScale	0
+Configuration Management Capabilities	Resource Shutdown	CoScale	0
+Configuration Management Capabilities	Inventory/Asset Management	CoScale	0
+Configuration Management Capabilities	Backup and Restore	CoScale	0
+Configuration Management Capabilities	Service Activation	Kaseya VSA	1
+Configuration Management Capabilities	Auto Discovery	Kaseya VSA	1
+Configuration Management Capabilities	Resource Initialization	Kaseya VSA	1
+Configuration Management Capabilities	Remote Configuration	Kaseya VSA	1
+Configuration Management Capabilities	Network Provisioning	Kaseya VSA	1
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Kaseya VSA	1
+Configuration Management Capabilities	Automated Software Distribution	Kaseya VSA	1
+Configuration Management Capabilities	Copy Configuration	Kaseya VSA	1
+Configuration Management Capabilities	Change Management	Kaseya VSA	1
+Configuration Management Capabilities	Resource Shutdown	Kaseya VSA	1
+Configuration Management Capabilities	Inventory/Asset Management	Kaseya VSA	1
+Configuration Management Capabilities	Backup and Restore	Kaseya VSA	1
+Configuration Management Capabilities	Service Activation	Pulseway	0
+Configuration Management Capabilities	Auto Discovery	Pulseway	1
+Configuration Management Capabilities	Resource Initialization	Pulseway	0
+Configuration Management Capabilities	Remote Configuration	Pulseway	0
+Configuration Management Capabilities	Network Provisioning	Pulseway	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	Pulseway	0
+Configuration Management Capabilities	Automated Software Distribution	Pulseway	0
+Configuration Management Capabilities	Copy Configuration	Pulseway	0
+Configuration Management Capabilities	Change Management	Pulseway	0
+Configuration Management Capabilities	Resource Shutdown	Pulseway	0
+Configuration Management Capabilities	Inventory/Asset Management	Pulseway	1
+Configuration Management Capabilities	Backup and Restore	Pulseway	0
+Configuration Management Capabilities	Service Activation	CloudSploit	1
+Configuration Management Capabilities	Auto Discovery	CloudSploit	0
+Configuration Management Capabilities	Resource Initialization	CloudSploit	0
+Configuration Management Capabilities	Remote Configuration	CloudSploit	1
+Configuration Management Capabilities	Network Provisioning	CloudSploit	0
+Configuration Management Capabilities	Job Initiation, Tracking, & Execution	CloudSploit	0
+Configuration Management Capabilities	Automated Software Distribution	CloudSploit	0
+Configuration Management Capabilities	Copy Configuration	CloudSploit	0
+Configuration Management Capabilities	Change Management	CloudSploit	1
+Configuration Management Capabilities	Resource Shutdown	CloudSploit	0
+Configuration Management Capabilities	Inventory/Asset Management	CloudSploit	0
+Configuration Management Capabilities	Backup and Restore	CloudSploit	0
+Functionality	Performance Management	NetCrunch 9	1
+Functionality	Accounting/Allocation Management	NetCrunch 9	1
+Functionality	Fault Management	NetCrunch 9	1
+Functionality	Security Management	NetCrunch 9	1
+Functionality	Configuration Management	NetCrunch 9	1
+Functionality	Performance Management	Convert OST To PST Outlook Files	1
+Functionality	Accounting/Allocation Management	Convert OST To PST Outlook Files	0
+Functionality	Fault Management	Convert OST To PST Outlook Files	1
+Functionality	Security Management	Convert OST To PST Outlook Files	1
+Functionality	Configuration Management	Convert OST To PST Outlook Files	0
+Functionality	Performance Management	Lab Reservations	0
+Functionality	Accounting/Allocation Management	Lab Reservations	1
+Functionality	Fault Management	Lab Reservations	0
+Functionality	Security Management	Lab Reservations	0
+Functionality	Configuration Management	Lab Reservations	1
+Functionality	Performance Management	Ruxit	1
+Functionality	Accounting/Allocation Management	Ruxit	0
+Functionality	Fault Management	Ruxit	1
+Functionality	Security Management	Ruxit	0
+Functionality	Configuration Management	Ruxit	0
+Functionality	Performance Management	CoScale	1
+Functionality	Accounting/Allocation Management	CoScale	0
+Functionality	Fault Management	CoScale	1
+Functionality	Security Management	CoScale	0
+Functionality	Configuration Management	CoScale	0
+Functionality	Performance Management	Kaseya VSA	1
+Functionality	Accounting/Allocation Management	Kaseya VSA	1
+Functionality	Fault Management	Kaseya VSA	1
+Functionality	Security Management	Kaseya VSA	1
+Functionality	Configuration Management	Kaseya VSA	1
+Functionality	Performance Management	Pulseway	1
+Functionality	Accounting/Allocation Management	Pulseway	0
+Functionality	Fault Management	Pulseway	1
+Functionality	Security Management	Pulseway	1
+Functionality	Configuration Management	Pulseway	1
+Functionality	Performance Management	CloudSploit	1
+Functionality	Accounting/Allocation Management	CloudSploit	1
+Functionality	Fault Management	CloudSploit	1
+Functionality	Security Management	CloudSploit	1
+Functionality	Configuration Management	CloudSploit	1
+Additional Capabilities and Features	Remote Searching	NetCrunch 9	0
+Additional Capabilities and Features	No Coding Knowledge Required	NetCrunch 9	1
+Additional Capabilities and Features	User Portal	NetCrunch 9	1
+Additional Capabilities and Features	Administrator Dashboard	NetCrunch 9	1
+Additional Capabilities and Features	Remote Administration & Assistance	NetCrunch 9	1
+Additional Capabilities and Features	Remote Searching	Convert OST To PST Outlook Files	0
+Additional Capabilities and Features	No Coding Knowledge Required	Convert OST To PST Outlook Files	1
+Additional Capabilities and Features	User Portal	Convert OST To PST Outlook Files	0
+Additional Capabilities and Features	Administrator Dashboard	Convert OST To PST Outlook Files	0
+Additional Capabilities and Features	Remote Administration & Assistance	Convert OST To PST Outlook Files	0
+Additional Capabilities and Features	Remote Searching	Lab Reservations	0
+Additional Capabilities and Features	No Coding Knowledge Required	Lab Reservations	1
+Additional Capabilities and Features	User Portal	Lab Reservations	0
+Additional Capabilities and Features	Administrator Dashboard	Lab Reservations	1
+Additional Capabilities and Features	Remote Administration & Assistance	Lab Reservations	0
+Additional Capabilities and Features	Remote Searching	Ruxit	0
+Additional Capabilities and Features	No Coding Knowledge Required	Ruxit	0
+Additional Capabilities and Features	User Portal	Ruxit	0
+Additional Capabilities and Features	Administrator Dashboard	Ruxit	0
+Additional Capabilities and Features	Remote Administration & Assistance	Ruxit	0
+Additional Capabilities and Features	Remote Searching	CoScale	0
+Additional Capabilities and Features	No Coding Knowledge Required	CoScale	1
+Additional Capabilities and Features	User Portal	CoScale	1
+Additional Capabilities and Features	Administrator Dashboard	CoScale	1
+Additional Capabilities and Features	Remote Administration & Assistance	CoScale	1
+Additional Capabilities and Features	Remote Searching	Kaseya VSA	1
+Additional Capabilities and Features	No Coding Knowledge Required	Kaseya VSA	1
+Additional Capabilities and Features	User Portal	Kaseya VSA	1
+Additional Capabilities and Features	Administrator Dashboard	Kaseya VSA	1
+Additional Capabilities and Features	Remote Administration & Assistance	Kaseya VSA	1
+Additional Capabilities and Features	Remote Searching	Pulseway	0
+Additional Capabilities and Features	No Coding Knowledge Required	Pulseway	1
+Additional Capabilities and Features	User Portal	Pulseway	0
+Additional Capabilities and Features	Administrator Dashboard	Pulseway	1
+Additional Capabilities and Features	Remote Administration & Assistance	Pulseway	1
+Additional Capabilities and Features	Remote Searching	CloudSploit	1
+Additional Capabilities and Features	No Coding Knowledge Required	CloudSploit	1
+Additional Capabilities and Features	User Portal	CloudSploit	1
+Additional Capabilities and Features	Administrator Dashboard	CloudSploit	1
+Additional Capabilities and Features	Remote Administration & Assistance	CloudSploit	1
