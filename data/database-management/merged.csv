@@ -1,0 +1,4551 @@
+Features	XML Format Support	4D (4th Dimension)	1
+Features	Templates	4D (4th Dimension)	0
+Features	Archive Storage Engines	4D (4th Dimension)	0
+Features	Transactions	4D (4th Dimension)	1
+Features	Parallel Processing	4D (4th Dimension)	0
+Features	Integrated Storage Manager	4D (4th Dimension)	0
+Features	Script Debugger	4D (4th Dimension)	1
+Features	Highly Scalable	4D (4th Dimension)	0
+Features	High Availability	4D (4th Dimension)	0
+Features	Convert from Old Relational Databases	4D (4th Dimension)	0
+Features	SQL Interpreter	4D (4th Dimension)	1
+Features	Referential Integrity	4D (4th Dimension)	1
+Features	Multi-Core Support	4D (4th Dimension)	0
+Features	Open Source	4D (4th Dimension)	0
+Features	Java Support	4D (4th Dimension)	0
+Features	Drag and Drop	4D (4th Dimension)	1
+Features	Compression of Data	4D (4th Dimension)	1
+Features	Backup	4D (4th Dimension)	0
+Features	Very small and Fast	4D (4th Dimension)	0
+Features	Unicode	4D (4th Dimension)	1
+Features	Multiple Threads	4D (4th Dimension)	0
+Features	Import Data	4D (4th Dimension)	1
+Features	Extensibility	4D (4th Dimension)	0
+Features	Encryption of Data	4D (4th Dimension)	0
+Features	Export Data	4D (4th Dimension)	1
+Features	ACID	4D (4th Dimension)	1
+Features	Real Time Access to Database	4D (4th Dimension)	0
+Features	Internet Protocol Support	4D (4th Dimension)	0
+Features	Database Imports	4D (4th Dimension)	1
+Features	Custom Functions	4D (4th Dimension)	0
+Features	XML Format Support	Firebird	1
+Features	Templates	Firebird	1
+Features	Archive Storage Engines	Firebird	0
+Features	Transactions	Firebird	1
+Features	Parallel Processing	Firebird	0
+Features	Integrated Storage Manager	Firebird	0
+Features	Script Debugger	Firebird	1
+Features	Highly Scalable	Firebird	1
+Features	High Availability	Firebird	1
+Features	Convert from Old Relational Databases	Firebird	1
+Features	SQL Interpreter	Firebird	0
+Features	Referential Integrity	Firebird	1
+Features	Multi-Core Support	Firebird	1
+Features	Open Source	Firebird	1
+Features	Java Support	Firebird	0
+Features	Drag and Drop	Firebird	1
+Features	Compression of Data	Firebird	0
+Features	Backup	Firebird	1
+Features	Very small and Fast	Firebird	1
+Features	Unicode	Firebird	1
+Features	Multiple Threads	Firebird	1
+Features	Import Data	Firebird	0
+Features	Extensibility	Firebird	0
+Features	Encryption of Data	Firebird	0
+Features	Export Data	Firebird	0
+Features	ACID	Firebird	1
+Features	Real Time Access to Database	Firebird	0
+Features	Internet Protocol Support	Firebird	0
+Features	Database Imports	Firebird	0
+Features	Custom Functions	Firebird	0
+Features	XML Format Support	HSQLDB	0
+Features	Templates	HSQLDB	0
+Features	Archive Storage Engines	HSQLDB	0
+Features	Transactions	HSQLDB	1
+Features	Parallel Processing	HSQLDB	0
+Features	Integrated Storage Manager	HSQLDB	0
+Features	Script Debugger	HSQLDB	0
+Features	Highly Scalable	HSQLDB	0
+Features	High Availability	HSQLDB	0
+Features	Convert from Old Relational Databases	HSQLDB	0
+Features	SQL Interpreter	HSQLDB	0
+Features	Referential Integrity	HSQLDB	1
+Features	Multi-Core Support	HSQLDB	0
+Features	Open Source	HSQLDB	0
+Features	Java Support	HSQLDB	0
+Features	Drag and Drop	HSQLDB	0
+Features	Compression of Data	HSQLDB	0
+Features	Backup	HSQLDB	0
+Features	Very small and Fast	HSQLDB	0
+Features	Unicode	HSQLDB	1
+Features	Multiple Threads	HSQLDB	0
+Features	Import Data	HSQLDB	0
+Features	Extensibility	HSQLDB	0
+Features	Encryption of Data	HSQLDB	0
+Features	Export Data	HSQLDB	0
+Features	ACID	HSQLDB	1
+Features	Real Time Access to Database	HSQLDB	0
+Features	Internet Protocol Support	HSQLDB	0
+Features	Database Imports	HSQLDB	0
+Features	Custom Functions	HSQLDB	0
+Features	XML Format Support	H2	1
+Features	Templates	H2	0
+Features	Archive Storage Engines	H2	0
+Features	Transactions	H2	1
+Features	Parallel Processing	H2	0
+Features	Integrated Storage Manager	H2	0
+Features	Script Debugger	H2	0
+Features	Highly Scalable	H2	0
+Features	High Availability	H2	0
+Features	Convert from Old Relational Databases	H2	0
+Features	SQL Interpreter	H2	0
+Features	Referential Integrity	H2	1
+Features	Multi-Core Support	H2	0
+Features	Open Source	H2	1
+Features	Java Support	H2	0
+Features	Drag and Drop	H2	0
+Features	Compression of Data	H2	1
+Features	Backup	H2	1
+Features	Very small and Fast	H2	0
+Features	Unicode	H2	1
+Features	Multiple Threads	H2	0
+Features	Import Data	H2	0
+Features	Extensibility	H2	0
+Features	Encryption of Data	H2	1
+Features	Export Data	H2	0
+Features	ACID	H2	1
+Features	Real Time Access to Database	H2	0
+Features	Internet Protocol Support	H2	0
+Features	Database Imports	H2	0
+Features	Custom Functions	H2	0
+Features	XML Format Support	MariaDB	1
+Features	Templates	MariaDB	0
+Features	Archive Storage Engines	MariaDB	1
+Features	Transactions	MariaDB	1
+Features	Parallel Processing	MariaDB	0
+Features	Integrated Storage Manager	MariaDB	0
+Features	Script Debugger	MariaDB	0
+Features	Highly Scalable	MariaDB	1
+Features	High Availability	MariaDB	1
+Features	Convert from Old Relational Databases	MariaDB	0
+Features	SQL Interpreter	MariaDB	0
+Features	Referential Integrity	MariaDB	0
+Features	Multi-Core Support	MariaDB	1
+Features	Open Source	MariaDB	1
+Features	Java Support	MariaDB	0
+Features	Drag and Drop	MariaDB	0
+Features	Compression of Data	MariaDB	1
+Features	Backup	MariaDB	0
+Features	Very small and Fast	MariaDB	0
+Features	Unicode	MariaDB	1
+Features	Multiple Threads	MariaDB	1
+Features	Import Data	MariaDB	0
+Features	Extensibility	MariaDB	1
+Features	Encryption of Data	MariaDB	1
+Features	Export Data	MariaDB	0
+Features	ACID	MariaDB	1
+Features	Real Time Access to Database	MariaDB	1
+Features	Internet Protocol Support	MariaDB	1
+Features	Database Imports	MariaDB	0
+Features	Custom Functions	MariaDB	0
+Features	XML Format Support	Microsoft SQL Server	0
+Features	Templates	Microsoft SQL Server	0
+Features	Archive Storage Engines	Microsoft SQL Server	0
+Features	Transactions	Microsoft SQL Server	1
+Features	Parallel Processing	Microsoft SQL Server	0
+Features	Integrated Storage Manager	Microsoft SQL Server	0
+Features	Script Debugger	Microsoft SQL Server	0
+Features	Highly Scalable	Microsoft SQL Server	0
+Features	High Availability	Microsoft SQL Server	0
+Features	Convert from Old Relational Databases	Microsoft SQL Server	0
+Features	SQL Interpreter	Microsoft SQL Server	1
+Features	Referential Integrity	Microsoft SQL Server	1
+Features	Multi-Core Support	Microsoft SQL Server	0
+Features	Open Source	Microsoft SQL Server	0
+Features	Java Support	Microsoft SQL Server	0
+Features	Drag and Drop	Microsoft SQL Server	0
+Features	Compression of Data	Microsoft SQL Server	0
+Features	Backup	Microsoft SQL Server	1
+Features	Very small and Fast	Microsoft SQL Server	0
+Features	Unicode	Microsoft SQL Server	1
+Features	Multiple Threads	Microsoft SQL Server	0
+Features	Import Data	Microsoft SQL Server	1
+Features	Extensibility	Microsoft SQL Server	0
+Features	Encryption of Data	Microsoft SQL Server	0
+Features	Export Data	Microsoft SQL Server	0
+Features	ACID	Microsoft SQL Server	1
+Features	Real Time Access to Database	Microsoft SQL Server	1
+Features	Internet Protocol Support	Microsoft SQL Server	0
+Features	Database Imports	Microsoft SQL Server	0
+Features	Custom Functions	Microsoft SQL Server	1
+Features	XML Format Support	MySQL	0
+Features	Templates	MySQL	0
+Features	Archive Storage Engines	MySQL	0
+Features	Transactions	MySQL	1
+Features	Parallel Processing	MySQL	0
+Features	Integrated Storage Manager	MySQL	1
+Features	Script Debugger	MySQL	0
+Features	Highly Scalable	MySQL	0
+Features	High Availability	MySQL	0
+Features	Convert from Old Relational Databases	MySQL	0
+Features	SQL Interpreter	MySQL	1
+Features	Referential Integrity	MySQL	1
+Features	Multi-Core Support	MySQL	0
+Features	Open Source	MySQL	0
+Features	Java Support	MySQL	1
+Features	Drag and Drop	MySQL	0
+Features	Compression of Data	MySQL	0
+Features	Backup	MySQL	1
+Features	Very small and Fast	MySQL	1
+Features	Unicode	MySQL	1
+Features	Multiple Threads	MySQL	0
+Features	Import Data	MySQL	1
+Features	Extensibility	MySQL	0
+Features	Encryption of Data	MySQL	0
+Features	Export Data	MySQL	1
+Features	ACID	MySQL	1
+Features	Real Time Access to Database	MySQL	0
+Features	Internet Protocol Support	MySQL	0
+Features	Database Imports	MySQL	1
+Features	Custom Functions	MySQL	1
+Features	XML Format Support	HP NonStop SQL	0
+Features	Templates	HP NonStop SQL	0
+Features	Archive Storage Engines	HP NonStop SQL	1
+Features	Transactions	HP NonStop SQL	0
+Features	Parallel Processing	HP NonStop SQL	1
+Features	Integrated Storage Manager	HP NonStop SQL	0
+Features	Script Debugger	HP NonStop SQL	0
+Features	Highly Scalable	HP NonStop SQL	1
+Features	High Availability	HP NonStop SQL	1
+Features	Convert from Old Relational Databases	HP NonStop SQL	0
+Features	SQL Interpreter	HP NonStop SQL	0
+Features	Referential Integrity	HP NonStop SQL	1
+Features	Multi-Core Support	HP NonStop SQL	0
+Features	Open Source	HP NonStop SQL	0
+Features	Java Support	HP NonStop SQL	0
+Features	Drag and Drop	HP NonStop SQL	0
+Features	Compression of Data	HP NonStop SQL	0
+Features	Backup	HP NonStop SQL	0
+Features	Very small and Fast	HP NonStop SQL	0
+Features	Unicode	HP NonStop SQL	0
+Features	Multiple Threads	HP NonStop SQL	0
+Features	Import Data	HP NonStop SQL	0
+Features	Extensibility	HP NonStop SQL	1
+Features	Encryption of Data	HP NonStop SQL	0
+Features	Export Data	HP NonStop SQL	0
+Features	ACID	HP NonStop SQL	0
+Features	Real Time Access to Database	HP NonStop SQL	1
+Features	Internet Protocol Support	HP NonStop SQL	0
+Features	Database Imports	HP NonStop SQL	0
+Features	Custom Functions	HP NonStop SQL	0
+Features	XML Format Support	Oracle	0
+Features	Templates	Oracle	0
+Features	Archive Storage Engines	Oracle	0
+Features	Transactions	Oracle	1
+Features	Parallel Processing	Oracle	1
+Features	Integrated Storage Manager	Oracle	0
+Features	Script Debugger	Oracle	0
+Features	Highly Scalable	Oracle	0
+Features	High Availability	Oracle	0
+Features	Convert from Old Relational Databases	Oracle	0
+Features	SQL Interpreter	Oracle	0
+Features	Referential Integrity	Oracle	1
+Features	Multi-Core Support	Oracle	0
+Features	Open Source	Oracle	0
+Features	Java Support	Oracle	0
+Features	Drag and Drop	Oracle	0
+Features	Compression of Data	Oracle	1
+Features	Backup	Oracle	1
+Features	Very small and Fast	Oracle	0
+Features	Unicode	Oracle	1
+Features	Multiple Threads	Oracle	0
+Features	Import Data	Oracle	1
+Features	Extensibility	Oracle	0
+Features	Encryption of Data	Oracle	1
+Features	Export Data	Oracle	1
+Features	ACID	Oracle	1
+Features	Real Time Access to Database	Oracle	0
+Features	Internet Protocol Support	Oracle	0
+Features	Database Imports	Oracle	0
+Features	Custom Functions	Oracle	0
+Features	XML Format Support	PostgreSQL	1
+Features	Templates	PostgreSQL	1
+Features	Archive Storage Engines	PostgreSQL	0
+Features	Transactions	PostgreSQL	1
+Features	Parallel Processing	PostgreSQL	0
+Features	Integrated Storage Manager	PostgreSQL	0
+Features	Script Debugger	PostgreSQL	0
+Features	Highly Scalable	PostgreSQL	1
+Features	High Availability	PostgreSQL	1
+Features	Convert from Old Relational Databases	PostgreSQL	0
+Features	SQL Interpreter	PostgreSQL	0
+Features	Referential Integrity	PostgreSQL	1
+Features	Multi-Core Support	PostgreSQL	0
+Features	Open Source	PostgreSQL	0
+Features	Java Support	PostgreSQL	0
+Features	Drag and Drop	PostgreSQL	0
+Features	Compression of Data	PostgreSQL	0
+Features	Backup	PostgreSQL	1
+Features	Very small and Fast	PostgreSQL	0
+Features	Unicode	PostgreSQL	1
+Features	Multiple Threads	PostgreSQL	0
+Features	Import Data	PostgreSQL	1
+Features	Extensibility	PostgreSQL	1
+Features	Encryption of Data	PostgreSQL	0
+Features	Export Data	PostgreSQL	1
+Features	ACID	PostgreSQL	1
+Features	Real Time Access to Database	PostgreSQL	1
+Features	Internet Protocol Support	PostgreSQL	0
+Features	Database Imports	PostgreSQL	1
+Features	Custom Functions	PostgreSQL	1
+Indexes	Spatial	4D (4th Dimension)	0
+Indexes	Bitmap	4D (4th Dimension)	0
+Indexes	R-/R+ Tree	4D (4th Dimension)	0
+Indexes	GiST	4D (4th Dimension)	0
+Indexes	Hash	4D (4th Dimension)	1
+Indexes	Partial	4D (4th Dimension)	0
+Indexes	Unknown	4D (4th Dimension)	0
+Indexes	GIN	4D (4th Dimension)	0
+Indexes	Full-text	4D (4th Dimension)	1
+Indexes	Reverse	4D (4th Dimension)	0
+Indexes	None	4D (4th Dimension)	0
+Indexes	Expression	4D (4th Dimension)	0
+Indexes	Spatial	Firebird	0
+Indexes	Bitmap	Firebird	0
+Indexes	R-/R+ Tree	Firebird	0
+Indexes	GiST	Firebird	0
+Indexes	Hash	Firebird	0
+Indexes	Partial	Firebird	0
+Indexes	Unknown	Firebird	0
+Indexes	GIN	Firebird	0
+Indexes	Full-text	Firebird	1
+Indexes	Reverse	Firebird	1
+Indexes	None	Firebird	0
+Indexes	Expression	Firebird	1
+Indexes	Spatial	HSQLDB	0
+Indexes	Bitmap	HSQLDB	0
+Indexes	R-/R+ Tree	HSQLDB	0
+Indexes	GiST	HSQLDB	0
+Indexes	Hash	HSQLDB	0
+Indexes	Partial	HSQLDB	0
+Indexes	Unknown	HSQLDB	0
+Indexes	GIN	HSQLDB	0
+Indexes	Full-text	HSQLDB	0
+Indexes	Reverse	HSQLDB	0
+Indexes	None	HSQLDB	1
+Indexes	Expression	HSQLDB	0
+Indexes	Spatial	H2	1
+Indexes	Bitmap	H2	0
+Indexes	R-/R+ Tree	H2	0
+Indexes	GiST	H2	0
+Indexes	Hash	H2	1
+Indexes	Partial	H2	0
+Indexes	Unknown	H2	0
+Indexes	GIN	H2	0
+Indexes	Full-text	H2	1
+Indexes	Reverse	H2	0
+Indexes	None	H2	0
+Indexes	Expression	H2	0
+Indexes	Spatial	MariaDB	1
+Indexes	Bitmap	MariaDB	0
+Indexes	R-/R+ Tree	MariaDB	1
+Indexes	GiST	MariaDB	0
+Indexes	Hash	MariaDB	1
+Indexes	Partial	MariaDB	0
+Indexes	Unknown	MariaDB	0
+Indexes	GIN	MariaDB	0
+Indexes	Full-text	MariaDB	1
+Indexes	Reverse	MariaDB	0
+Indexes	None	MariaDB	0
+Indexes	Expression	MariaDB	1
+Indexes	Spatial	Microsoft SQL Server	1
+Indexes	Bitmap	Microsoft SQL Server	0
+Indexes	R-/R+ Tree	Microsoft SQL Server	0
+Indexes	GiST	Microsoft SQL Server	0
+Indexes	Hash	Microsoft SQL Server	1
+Indexes	Partial	Microsoft SQL Server	1
+Indexes	Unknown	Microsoft SQL Server	0
+Indexes	GIN	Microsoft SQL Server	0
+Indexes	Full-text	Microsoft SQL Server	1
+Indexes	Reverse	Microsoft SQL Server	0
+Indexes	None	Microsoft SQL Server	0
+Indexes	Expression	Microsoft SQL Server	1
+Indexes	Spatial	MySQL	1
+Indexes	Bitmap	MySQL	0
+Indexes	R-/R+ Tree	MySQL	1
+Indexes	GiST	MySQL	0
+Indexes	Hash	MySQL	1
+Indexes	Partial	MySQL	0
+Indexes	Unknown	MySQL	0
+Indexes	GIN	MySQL	0
+Indexes	Full-text	MySQL	1
+Indexes	Reverse	MySQL	0
+Indexes	None	MySQL	0
+Indexes	Expression	MySQL	0
+Indexes	Spatial	HP NonStop SQL	0
+Indexes	Bitmap	HP NonStop SQL	0
+Indexes	R-/R+ Tree	HP NonStop SQL	0
+Indexes	GiST	HP NonStop SQL	0
+Indexes	Hash	HP NonStop SQL	0
+Indexes	Partial	HP NonStop SQL	0
+Indexes	Unknown	HP NonStop SQL	1
+Indexes	GIN	HP NonStop SQL	0
+Indexes	Full-text	HP NonStop SQL	0
+Indexes	Reverse	HP NonStop SQL	0
+Indexes	None	HP NonStop SQL	0
+Indexes	Expression	HP NonStop SQL	0
+Indexes	Spatial	Oracle	1
+Indexes	Bitmap	Oracle	1
+Indexes	R-/R+ Tree	Oracle	1
+Indexes	GiST	Oracle	0
+Indexes	Hash	Oracle	1
+Indexes	Partial	Oracle	1
+Indexes	Unknown	Oracle	0
+Indexes	GIN	Oracle	0
+Indexes	Full-text	Oracle	1
+Indexes	Reverse	Oracle	1
+Indexes	None	Oracle	0
+Indexes	Expression	Oracle	1
+Indexes	Spatial	PostgreSQL	1
+Indexes	Bitmap	PostgreSQL	1
+Indexes	R-/R+ Tree	PostgreSQL	1
+Indexes	GiST	PostgreSQL	1
+Indexes	Hash	PostgreSQL	1
+Indexes	Partial	PostgreSQL	1
+Indexes	Unknown	PostgreSQL	0
+Indexes	GIN	PostgreSQL	1
+Indexes	Full-text	PostgreSQL	1
+Indexes	Reverse	PostgreSQL	1
+Indexes	None	PostgreSQL	0
+Indexes	Expression	PostgreSQL	1
+Other Objects	Data Domain	4D (4th Dimension)	1
+Other Objects	Trigger	4D (4th Dimension)	1
+Other Objects	Procedure	4D (4th Dimension)	1
+Other Objects	Function	4D (4th Dimension)	1
+Other Objects	Cursor	4D (4th Dimension)	0
+Other Objects	External Routine	4D (4th Dimension)	1
+Other Objects	Data Domain	Firebird	1
+Other Objects	Trigger	Firebird	1
+Other Objects	Procedure	Firebird	1
+Other Objects	Function	Firebird	1
+Other Objects	Cursor	Firebird	1
+Other Objects	External Routine	Firebird	1
+Other Objects	Data Domain	HSQLDB	1
+Other Objects	Trigger	HSQLDB	1
+Other Objects	Procedure	HSQLDB	1
+Other Objects	Function	HSQLDB	1
+Other Objects	Cursor	HSQLDB	0
+Other Objects	External Routine	HSQLDB	1
+Other Objects	Data Domain	H2	1
+Other Objects	Trigger	H2	1
+Other Objects	Procedure	H2	1
+Other Objects	Function	H2	1
+Other Objects	Cursor	H2	0
+Other Objects	External Routine	H2	1
+Other Objects	Data Domain	MariaDB	0
+Other Objects	Trigger	MariaDB	1
+Other Objects	Procedure	MariaDB	1
+Other Objects	Function	MariaDB	0
+Other Objects	Cursor	MariaDB	1
+Other Objects	External Routine	MariaDB	0
+Other Objects	Data Domain	Microsoft SQL Server	1
+Other Objects	Trigger	Microsoft SQL Server	1
+Other Objects	Procedure	Microsoft SQL Server	1
+Other Objects	Function	Microsoft SQL Server	1
+Other Objects	Cursor	Microsoft SQL Server	1
+Other Objects	External Routine	Microsoft SQL Server	1
+Other Objects	Data Domain	MySQL	0
+Other Objects	Trigger	MySQL	1
+Other Objects	Procedure	MySQL	1
+Other Objects	Function	MySQL	1
+Other Objects	Cursor	MySQL	1
+Other Objects	External Routine	MySQL	1
+Other Objects	Data Domain	HP NonStop SQL	0
+Other Objects	Trigger	HP NonStop SQL	0
+Other Objects	Procedure	HP NonStop SQL	0
+Other Objects	Function	HP NonStop SQL	1
+Other Objects	Cursor	HP NonStop SQL	0
+Other Objects	External Routine	HP NonStop SQL	0
+Other Objects	Data Domain	Oracle	1
+Other Objects	Trigger	Oracle	1
+Other Objects	Procedure	Oracle	1
+Other Objects	Function	Oracle	1
+Other Objects	Cursor	Oracle	1
+Other Objects	External Routine	Oracle	1
+Other Objects	Data Domain	PostgreSQL	1
+Other Objects	Trigger	PostgreSQL	1
+Other Objects	Procedure	PostgreSQL	1
+Other Objects	Function	PostgreSQL	1
+Other Objects	Cursor	PostgreSQL	1
+Other Objects	External Routine	PostgreSQL	1
+Partitioning	Composite (Range + Hash)	4D (4th Dimension)	0
+Partitioning	Native Replication API	4D (4th Dimension)	0
+Partitioning	Hash	4D (4th Dimension)	0
+Partitioning	Range	4D (4th Dimension)	0
+Partitioning	List	4D (4th Dimension)	0
+Partitioning	Unknown	4D (4th Dimension)	1
+Partitioning	Shadow	4D (4th Dimension)	0
+Partitioning	None	4D (4th Dimension)	0
+Partitioning	Composite (Range + Hash)	Firebird	0
+Partitioning	Native Replication API	Firebird	0
+Partitioning	Hash	Firebird	0
+Partitioning	Range	Firebird	0
+Partitioning	List	Firebird	0
+Partitioning	Unknown	Firebird	0
+Partitioning	Shadow	Firebird	1
+Partitioning	None	Firebird	0
+Partitioning	Composite (Range + Hash)	HSQLDB	0
+Partitioning	Native Replication API	HSQLDB	0
+Partitioning	Hash	HSQLDB	0
+Partitioning	Range	HSQLDB	0
+Partitioning	List	HSQLDB	0
+Partitioning	Unknown	HSQLDB	0
+Partitioning	Shadow	HSQLDB	0
+Partitioning	None	HSQLDB	1
+Partitioning	Composite (Range + Hash)	H2	0
+Partitioning	Native Replication API	H2	0
+Partitioning	Hash	H2	0
+Partitioning	Range	H2	0
+Partitioning	List	H2	0
+Partitioning	Unknown	H2	0
+Partitioning	Shadow	H2	0
+Partitioning	None	H2	1
+Partitioning	Composite (Range + Hash)	MariaDB	0
+Partitioning	Native Replication API	MariaDB	0
+Partitioning	Hash	MariaDB	0
+Partitioning	Range	MariaDB	0
+Partitioning	List	MariaDB	0
+Partitioning	Unknown	MariaDB	0
+Partitioning	Shadow	MariaDB	0
+Partitioning	None	MariaDB	1
+Partitioning	Composite (Range + Hash)	Microsoft SQL Server	0
+Partitioning	Native Replication API	Microsoft SQL Server	0
+Partitioning	Hash	Microsoft SQL Server	0
+Partitioning	Range	Microsoft SQL Server	1
+Partitioning	List	Microsoft SQL Server	0
+Partitioning	Unknown	Microsoft SQL Server	0
+Partitioning	Shadow	Microsoft SQL Server	0
+Partitioning	None	Microsoft SQL Server	0
+Partitioning	Composite (Range + Hash)	MySQL	1
+Partitioning	Native Replication API	MySQL	0
+Partitioning	Hash	MySQL	1
+Partitioning	Range	MySQL	1
+Partitioning	List	MySQL	1
+Partitioning	Unknown	MySQL	0
+Partitioning	Shadow	MySQL	0
+Partitioning	None	MySQL	0
+Partitioning	Composite (Range + Hash)	HP NonStop SQL	0
+Partitioning	Native Replication API	HP NonStop SQL	1
+Partitioning	Hash	HP NonStop SQL	0
+Partitioning	Range	HP NonStop SQL	0
+Partitioning	List	HP NonStop SQL	0
+Partitioning	Unknown	HP NonStop SQL	0
+Partitioning	Shadow	HP NonStop SQL	0
+Partitioning	None	HP NonStop SQL	0
+Partitioning	Composite (Range + Hash)	Oracle	1
+Partitioning	Native Replication API	Oracle	0
+Partitioning	Hash	Oracle	1
+Partitioning	Range	Oracle	1
+Partitioning	List	Oracle	1
+Partitioning	Unknown	Oracle	0
+Partitioning	Shadow	Oracle	0
+Partitioning	None	Oracle	0
+Partitioning	Composite (Range + Hash)	PostgreSQL	1
+Partitioning	Native Replication API	PostgreSQL	0
+Partitioning	Hash	PostgreSQL	1
+Partitioning	Range	PostgreSQL	1
+Partitioning	List	PostgreSQL	1
+Partitioning	Unknown	PostgreSQL	0
+Partitioning	Shadow	PostgreSQL	0
+Partitioning	None	PostgreSQL	0
+Access Control	Password Complexity Rules	4D (4th Dimension)	0
+Access Control	Run Unprivileged	4D (4th Dimension)	1
+Access Control	Enterprise Directory Compatibility	4D (4th Dimension)	0
+Access Control	Brute-force Protection	4D (4th Dimension)	0
+Access Control	Audit	4D (4th Dimension)	0
+Access Control	Security Certification	4D (4th Dimension)	0
+Access Control	Native Network Encryption	4D (4th Dimension)	1
+Access Control	Separation of Duties	4D (4th Dimension)	1
+Access Control	Resource Limit	4D (4th Dimension)	0
+Access Control	Patch Access	4D (4th Dimension)	1
+Access Control	Password Complexity Rules	Firebird	0
+Access Control	Run Unprivileged	Firebird	1
+Access Control	Enterprise Directory Compatibility	Firebird	1
+Access Control	Brute-force Protection	Firebird	1
+Access Control	Audit	Firebird	0
+Access Control	Security Certification	Firebird	0
+Access Control	Native Network Encryption	Firebird	0
+Access Control	Separation of Duties	Firebird	0
+Access Control	Resource Limit	Firebird	0
+Access Control	Patch Access	Firebird	1
+Access Control	Password Complexity Rules	HSQLDB	1
+Access Control	Run Unprivileged	HSQLDB	1
+Access Control	Enterprise Directory Compatibility	HSQLDB	1
+Access Control	Brute-force Protection	HSQLDB	0
+Access Control	Audit	HSQLDB	0
+Access Control	Security Certification	HSQLDB	0
+Access Control	Native Network Encryption	HSQLDB	1
+Access Control	Separation of Duties	HSQLDB	1
+Access Control	Resource Limit	HSQLDB	0
+Access Control	Patch Access	HSQLDB	1
+Access Control	Password Complexity Rules	H2	0
+Access Control	Run Unprivileged	H2	1
+Access Control	Enterprise Directory Compatibility	H2	0
+Access Control	Brute-force Protection	H2	1
+Access Control	Audit	H2	0
+Access Control	Security Certification	H2	0
+Access Control	Native Network Encryption	H2	1
+Access Control	Separation of Duties	H2	1
+Access Control	Resource Limit	H2	1
+Access Control	Patch Access	H2	0
+Access Control	Password Complexity Rules	MariaDB	1
+Access Control	Run Unprivileged	MariaDB	1
+Access Control	Enterprise Directory Compatibility	MariaDB	1
+Access Control	Brute-force Protection	MariaDB	0
+Access Control	Audit	MariaDB	0
+Access Control	Security Certification	MariaDB	0
+Access Control	Native Network Encryption	MariaDB	1
+Access Control	Separation of Duties	MariaDB	0
+Access Control	Resource Limit	MariaDB	0
+Access Control	Patch Access	MariaDB	1
+Access Control	Password Complexity Rules	Microsoft SQL Server	1
+Access Control	Run Unprivileged	Microsoft SQL Server	1
+Access Control	Enterprise Directory Compatibility	Microsoft SQL Server	1
+Access Control	Brute-force Protection	Microsoft SQL Server	0
+Access Control	Audit	Microsoft SQL Server	1
+Access Control	Security Certification	Microsoft SQL Server	1
+Access Control	Native Network Encryption	Microsoft SQL Server	1
+Access Control	Separation of Duties	Microsoft SQL Server	1
+Access Control	Resource Limit	Microsoft SQL Server	1
+Access Control	Patch Access	Microsoft SQL Server	1
+Access Control	Password Complexity Rules	MySQL	0
+Access Control	Run Unprivileged	MySQL	1
+Access Control	Enterprise Directory Compatibility	MySQL	1
+Access Control	Brute-force Protection	MySQL	0
+Access Control	Audit	MySQL	0
+Access Control	Security Certification	MySQL	1
+Access Control	Native Network Encryption	MySQL	1
+Access Control	Separation of Duties	MySQL	0
+Access Control	Resource Limit	MySQL	0
+Access Control	Patch Access	MySQL	1
+Access Control	Password Complexity Rules	HP NonStop SQL	0
+Access Control	Run Unprivileged	HP NonStop SQL	0
+Access Control	Enterprise Directory Compatibility	HP NonStop SQL	0
+Access Control	Brute-force Protection	HP NonStop SQL	0
+Access Control	Audit	HP NonStop SQL	0
+Access Control	Security Certification	HP NonStop SQL	1
+Access Control	Native Network Encryption	HP NonStop SQL	0
+Access Control	Separation of Duties	HP NonStop SQL	0
+Access Control	Resource Limit	HP NonStop SQL	0
+Access Control	Patch Access	HP NonStop SQL	0
+Access Control	Password Complexity Rules	Oracle	1
+Access Control	Run Unprivileged	Oracle	0
+Access Control	Enterprise Directory Compatibility	Oracle	1
+Access Control	Brute-force Protection	Oracle	1
+Access Control	Audit	Oracle	1
+Access Control	Security Certification	Oracle	1
+Access Control	Native Network Encryption	Oracle	1
+Access Control	Separation of Duties	Oracle	0
+Access Control	Resource Limit	Oracle	1
+Access Control	Patch Access	Oracle	0
+Access Control	Password Complexity Rules	PostgreSQL	1
+Access Control	Run Unprivileged	PostgreSQL	1
+Access Control	Enterprise Directory Compatibility	PostgreSQL	1
+Access Control	Brute-force Protection	PostgreSQL	1
+Access Control	Audit	PostgreSQL	0
+Access Control	Security Certification	PostgreSQL	1
+Access Control	Native Network Encryption	PostgreSQL	1
+Access Control	Separation of Duties	PostgreSQL	0
+Access Control	Resource Limit	PostgreSQL	1
+Access Control	Patch Access	PostgreSQL	1
+Database Capabilities	Outer Joins	4D (4th Dimension)	1
+Database Capabilities	Merge Joins	4D (4th Dimension)	0
+Database Capabilities	Except	4D (4th Dimension)	1
+Database Capabilities	Inner Joins	4D (4th Dimension)	1
+Database Capabilities	Inner Selects	4D (4th Dimension)	0
+Database Capabilities	Windowing Functions	4D (4th Dimension)	0
+Database Capabilities	Intersect	4D (4th Dimension)	1
+Database Capabilities	Common Table Expressions	4D (4th Dimension)	0
+Database Capabilities	Union	4D (4th Dimension)	1
+Database Capabilities	Parallel Query	4D (4th Dimension)	0
+Database Capabilities	Blobs and Clobs	4D (4th Dimension)	1
+Database Capabilities	Outer Joins	Firebird	1
+Database Capabilities	Merge Joins	Firebird	1
+Database Capabilities	Except	Firebird	0
+Database Capabilities	Inner Joins	Firebird	1
+Database Capabilities	Inner Selects	Firebird	1
+Database Capabilities	Windowing Functions	Firebird	1
+Database Capabilities	Intersect	Firebird	1
+Database Capabilities	Common Table Expressions	Firebird	1
+Database Capabilities	Union	Firebird	1
+Database Capabilities	Parallel Query	Firebird	1
+Database Capabilities	Blobs and Clobs	Firebird	1
+Database Capabilities	Outer Joins	HSQLDB	1
+Database Capabilities	Merge Joins	HSQLDB	1
+Database Capabilities	Except	HSQLDB	1
+Database Capabilities	Inner Joins	HSQLDB	1
+Database Capabilities	Inner Selects	HSQLDB	1
+Database Capabilities	Windowing Functions	HSQLDB	0
+Database Capabilities	Intersect	HSQLDB	1
+Database Capabilities	Common Table Expressions	HSQLDB	1
+Database Capabilities	Union	HSQLDB	1
+Database Capabilities	Parallel Query	HSQLDB	1
+Database Capabilities	Blobs and Clobs	HSQLDB	1
+Database Capabilities	Outer Joins	H2	1
+Database Capabilities	Merge Joins	H2	1
+Database Capabilities	Except	H2	1
+Database Capabilities	Inner Joins	H2	1
+Database Capabilities	Inner Selects	H2	1
+Database Capabilities	Windowing Functions	H2	0
+Database Capabilities	Intersect	H2	1
+Database Capabilities	Common Table Expressions	H2	0
+Database Capabilities	Union	H2	1
+Database Capabilities	Parallel Query	H2	0
+Database Capabilities	Blobs and Clobs	H2	1
+Database Capabilities	Outer Joins	MariaDB	1
+Database Capabilities	Merge Joins	MariaDB	1
+Database Capabilities	Except	MariaDB	0
+Database Capabilities	Inner Joins	MariaDB	1
+Database Capabilities	Inner Selects	MariaDB	1
+Database Capabilities	Windowing Functions	MariaDB	0
+Database Capabilities	Intersect	MariaDB	0
+Database Capabilities	Common Table Expressions	MariaDB	1
+Database Capabilities	Union	MariaDB	1
+Database Capabilities	Parallel Query	MariaDB	1
+Database Capabilities	Blobs and Clobs	MariaDB	1
+Database Capabilities	Outer Joins	Microsoft SQL Server	1
+Database Capabilities	Merge Joins	Microsoft SQL Server	1
+Database Capabilities	Except	Microsoft SQL Server	1
+Database Capabilities	Inner Joins	Microsoft SQL Server	1
+Database Capabilities	Inner Selects	Microsoft SQL Server	1
+Database Capabilities	Windowing Functions	Microsoft SQL Server	1
+Database Capabilities	Intersect	Microsoft SQL Server	1
+Database Capabilities	Common Table Expressions	Microsoft SQL Server	1
+Database Capabilities	Union	Microsoft SQL Server	1
+Database Capabilities	Parallel Query	Microsoft SQL Server	1
+Database Capabilities	Blobs and Clobs	Microsoft SQL Server	1
+Database Capabilities	Outer Joins	MySQL	1
+Database Capabilities	Merge Joins	MySQL	1
+Database Capabilities	Except	MySQL	0
+Database Capabilities	Inner Joins	MySQL	1
+Database Capabilities	Inner Selects	MySQL	1
+Database Capabilities	Windowing Functions	MySQL	0
+Database Capabilities	Intersect	MySQL	0
+Database Capabilities	Common Table Expressions	MySQL	0
+Database Capabilities	Union	MySQL	1
+Database Capabilities	Parallel Query	MySQL	0
+Database Capabilities	Blobs and Clobs	MySQL	1
+Database Capabilities	Outer Joins	HP NonStop SQL	1
+Database Capabilities	Merge Joins	HP NonStop SQL	0
+Database Capabilities	Except	HP NonStop SQL	0
+Database Capabilities	Inner Joins	HP NonStop SQL	1
+Database Capabilities	Inner Selects	HP NonStop SQL	0
+Database Capabilities	Windowing Functions	HP NonStop SQL	0
+Database Capabilities	Intersect	HP NonStop SQL	0
+Database Capabilities	Common Table Expressions	HP NonStop SQL	0
+Database Capabilities	Union	HP NonStop SQL	1
+Database Capabilities	Parallel Query	HP NonStop SQL	1
+Database Capabilities	Blobs and Clobs	HP NonStop SQL	0
+Database Capabilities	Outer Joins	Oracle	1
+Database Capabilities	Merge Joins	Oracle	1
+Database Capabilities	Except	Oracle	1
+Database Capabilities	Inner Joins	Oracle	1
+Database Capabilities	Inner Selects	Oracle	1
+Database Capabilities	Windowing Functions	Oracle	1
+Database Capabilities	Intersect	Oracle	1
+Database Capabilities	Common Table Expressions	Oracle	1
+Database Capabilities	Union	Oracle	1
+Database Capabilities	Parallel Query	Oracle	1
+Database Capabilities	Blobs and Clobs	Oracle	1
+Database Capabilities	Outer Joins	PostgreSQL	1
+Database Capabilities	Merge Joins	PostgreSQL	1
+Database Capabilities	Except	PostgreSQL	1
+Database Capabilities	Inner Joins	PostgreSQL	1
+Database Capabilities	Inner Selects	PostgreSQL	1
+Database Capabilities	Windowing Functions	PostgreSQL	1
+Database Capabilities	Intersect	PostgreSQL	1
+Database Capabilities	Common Table Expressions	PostgreSQL	1
+Database Capabilities	Union	PostgreSQL	1
+Database Capabilities	Parallel Query	PostgreSQL	1
+Database Capabilities	Blobs and Clobs	PostgreSQL	1
+Tables and Views	Temporary Table	4D (4th Dimension)	1
+Tables and Views	Materialized Views	4D (4th Dimension)	1
+Tables and Views	Temporary Table	Firebird	1
+Tables and Views	Materialized Views	Firebird	0
+Tables and Views	Temporary Table	HSQLDB	1
+Tables and Views	Materialized Views	HSQLDB	0
+Tables and Views	Temporary Table	H2	1
+Tables and Views	Materialized Views	H2	0
+Tables and Views	Temporary Table	MariaDB	1
+Tables and Views	Materialized Views	MariaDB	0
+Tables and Views	Temporary Table	Microsoft SQL Server	1
+Tables and Views	Materialized Views	Microsoft SQL Server	1
+Tables and Views	Temporary Table	MySQL	1
+Tables and Views	Materialized Views	MySQL	0
+Tables and Views	Temporary Table	HP NonStop SQL	1
+Tables and Views	Materialized Views	HP NonStop SQL	0
+Tables and Views	Temporary Table	Oracle	1
+Tables and Views	Materialized Views	Oracle	1
+Tables and Views	Temporary Table	PostgreSQL	1
+Tables and Views	Materialized Views	PostgreSQL	1
+Features	XML Format Support	Advantage Database Server (ADS)	0
+Features	Templates	Advantage Database Server (ADS)	0
+Features	Network Protocols Supported	Advantage Database Server (ADS)	0
+Features	Kiosk Maker	Advantage Database Server (ADS)	0
+Features	Transactions	Advantage Database Server (ADS)	1
+Features	Parallel Processing	Advantage Database Server (ADS)	0
+Features	Integrated Storage Manager	Advantage Database Server (ADS)	0
+Features	Script Debugger	Advantage Database Server (ADS)	0
+Features	Highly Scalable	Advantage Database Server (ADS)	1
+Features	High Availability	Advantage Database Server (ADS)	0
+Features	SQL Interpreter	Advantage Database Server (ADS)	0
+Features	Referential Integrity	Advantage Database Server (ADS)	1
+Features	Multi-Core Support	Advantage Database Server (ADS)	0
+Features	Open Source	Advantage Database Server (ADS)	0
+Features	Java Support	Advantage Database Server (ADS)	0
+Features	Drag and Drop	Advantage Database Server (ADS)	0
+Features	Compression of Data	Advantage Database Server (ADS)	0
+Features	Backup	Advantage Database Server (ADS)	0
+Features	Unicode	Advantage Database Server (ADS)	1
+Features	Very small and Fast	Advantage Database Server (ADS)	0
+Features	Multiple Threads	Advantage Database Server (ADS)	0
+Features	Import Data	Advantage Database Server (ADS)	0
+Features	Encryption of Data	Advantage Database Server (ADS)	1
+Features	Export Data	Advantage Database Server (ADS)	0
+Features	ACID	Advantage Database Server (ADS)	1
+Features	Real Time Access to Database	Advantage Database Server (ADS)	0
+Features	Internet Protocol Support	Advantage Database Server (ADS)	0
+Features	Database Imports	Advantage Database Server (ADS)	0
+Features	Custom Functions	Advantage Database Server (ADS)	0
+Features	XML Format Support	CUBRID	0
+Features	Templates	CUBRID	0
+Features	Network Protocols Supported	CUBRID	0
+Features	Kiosk Maker	CUBRID	0
+Features	Transactions	CUBRID	1
+Features	Parallel Processing	CUBRID	0
+Features	Integrated Storage Manager	CUBRID	0
+Features	Script Debugger	CUBRID	0
+Features	Highly Scalable	CUBRID	1
+Features	High Availability	CUBRID	1
+Features	SQL Interpreter	CUBRID	1
+Features	Referential Integrity	CUBRID	1
+Features	Multi-Core Support	CUBRID	1
+Features	Open Source	CUBRID	1
+Features	Java Support	CUBRID	1
+Features	Drag and Drop	CUBRID	0
+Features	Compression of Data	CUBRID	0
+Features	Backup	CUBRID	1
+Features	Unicode	CUBRID	1
+Features	Very small and Fast	CUBRID	0
+Features	Multiple Threads	CUBRID	0
+Features	Import Data	CUBRID	1
+Features	Encryption of Data	CUBRID	0
+Features	Export Data	CUBRID	1
+Features	ACID	CUBRID	1
+Features	Real Time Access to Database	CUBRID	1
+Features	Internet Protocol Support	CUBRID	0
+Features	Database Imports	CUBRID	1
+Features	Custom Functions	CUBRID	0
+Features	XML Format Support	DB2	1
+Features	Templates	DB2	0
+Features	Network Protocols Supported	DB2	0
+Features	Kiosk Maker	DB2	0
+Features	Transactions	DB2	1
+Features	Parallel Processing	DB2	0
+Features	Integrated Storage Manager	DB2	0
+Features	Script Debugger	DB2	0
+Features	Highly Scalable	DB2	1
+Features	High Availability	DB2	1
+Features	SQL Interpreter	DB2	0
+Features	Referential Integrity	DB2	1
+Features	Multi-Core Support	DB2	0
+Features	Open Source	DB2	0
+Features	Java Support	DB2	1
+Features	Drag and Drop	DB2	0
+Features	Compression of Data	DB2	1
+Features	Backup	DB2	1
+Features	Unicode	DB2	1
+Features	Very small and Fast	DB2	0
+Features	Multiple Threads	DB2	0
+Features	Import Data	DB2	0
+Features	Encryption of Data	DB2	1
+Features	Export Data	DB2	0
+Features	ACID	DB2	1
+Features	Real Time Access to Database	DB2	0
+Features	Internet Protocol Support	DB2	0
+Features	Database Imports	DB2	0
+Features	Custom Functions	DB2	0
+Features	XML Format Support	FileMaker	1
+Features	Templates	FileMaker	0
+Features	Network Protocols Supported	FileMaker	1
+Features	Kiosk Maker	FileMaker	1
+Features	Transactions	FileMaker	0
+Features	Parallel Processing	FileMaker	0
+Features	Integrated Storage Manager	FileMaker	0
+Features	Script Debugger	FileMaker	1
+Features	Highly Scalable	FileMaker	1
+Features	High Availability	FileMaker	0
+Features	SQL Interpreter	FileMaker	1
+Features	Referential Integrity	FileMaker	0
+Features	Multi-Core Support	FileMaker	1
+Features	Open Source	FileMaker	0
+Features	Java Support	FileMaker	0
+Features	Drag and Drop	FileMaker	1
+Features	Compression of Data	FileMaker	0
+Features	Backup	FileMaker	1
+Features	Unicode	FileMaker	1
+Features	Very small and Fast	FileMaker	0
+Features	Multiple Threads	FileMaker	1
+Features	Import Data	FileMaker	1
+Features	Encryption of Data	FileMaker	1
+Features	Export Data	FileMaker	0
+Features	ACID	FileMaker	0
+Features	Real Time Access to Database	FileMaker	0
+Features	Internet Protocol Support	FileMaker	1
+Features	Database Imports	FileMaker	0
+Features	Custom Functions	FileMaker	1
+Features	XML Format Support	InterBase	1
+Features	Templates	InterBase	0
+Features	Network Protocols Supported	InterBase	0
+Features	Kiosk Maker	InterBase	0
+Features	Transactions	InterBase	1
+Features	Parallel Processing	InterBase	1
+Features	Integrated Storage Manager	InterBase	1
+Features	Script Debugger	InterBase	0
+Features	Highly Scalable	InterBase	0
+Features	High Availability	InterBase	0
+Features	SQL Interpreter	InterBase	0
+Features	Referential Integrity	InterBase	1
+Features	Multi-Core Support	InterBase	1
+Features	Open Source	InterBase	0
+Features	Java Support	InterBase	0
+Features	Drag and Drop	InterBase	0
+Features	Compression of Data	InterBase	0
+Features	Backup	InterBase	1
+Features	Unicode	InterBase	1
+Features	Very small and Fast	InterBase	1
+Features	Multiple Threads	InterBase	1
+Features	Import Data	InterBase	1
+Features	Encryption of Data	InterBase	1
+Features	Export Data	InterBase	1
+Features	ACID	InterBase	1
+Features	Real Time Access to Database	InterBase	0
+Features	Internet Protocol Support	InterBase	0
+Features	Database Imports	InterBase	0
+Features	Custom Functions	InterBase	0
+Features	XML Format Support	Microsoft Access	0
+Features	Templates	Microsoft Access	0
+Features	Network Protocols Supported	Microsoft Access	0
+Features	Kiosk Maker	Microsoft Access	0
+Features	Transactions	Microsoft Access	1
+Features	Parallel Processing	Microsoft Access	0
+Features	Integrated Storage Manager	Microsoft Access	1
+Features	Script Debugger	Microsoft Access	0
+Features	Highly Scalable	Microsoft Access	0
+Features	High Availability	Microsoft Access	0
+Features	SQL Interpreter	Microsoft Access	0
+Features	Referential Integrity	Microsoft Access	1
+Features	Multi-Core Support	Microsoft Access	0
+Features	Open Source	Microsoft Access	0
+Features	Java Support	Microsoft Access	0
+Features	Drag and Drop	Microsoft Access	0
+Features	Compression of Data	Microsoft Access	1
+Features	Backup	Microsoft Access	0
+Features	Unicode	Microsoft Access	1
+Features	Very small and Fast	Microsoft Access	0
+Features	Multiple Threads	Microsoft Access	0
+Features	Import Data	Microsoft Access	0
+Features	Encryption of Data	Microsoft Access	0
+Features	Export Data	Microsoft Access	0
+Features	ACID	Microsoft Access	1
+Features	Real Time Access to Database	Microsoft Access	0
+Features	Internet Protocol Support	Microsoft Access	0
+Features	Database Imports	Microsoft Access	0
+Features	Custom Functions	Microsoft Access	1
+Features	XML Format Support	Omnis Studio	0
+Features	Templates	Omnis Studio	1
+Features	Network Protocols Supported	Omnis Studio	0
+Features	Kiosk Maker	Omnis Studio	0
+Features	Transactions	Omnis Studio	1
+Features	Parallel Processing	Omnis Studio	0
+Features	Integrated Storage Manager	Omnis Studio	0
+Features	Script Debugger	Omnis Studio	0
+Features	Highly Scalable	Omnis Studio	0
+Features	High Availability	Omnis Studio	0
+Features	SQL Interpreter	Omnis Studio	0
+Features	Referential Integrity	Omnis Studio	0
+Features	Multi-Core Support	Omnis Studio	0
+Features	Open Source	Omnis Studio	0
+Features	Java Support	Omnis Studio	1
+Features	Drag and Drop	Omnis Studio	0
+Features	Compression of Data	Omnis Studio	0
+Features	Backup	Omnis Studio	0
+Features	Unicode	Omnis Studio	1
+Features	Very small and Fast	Omnis Studio	0
+Features	Multiple Threads	Omnis Studio	0
+Features	Import Data	Omnis Studio	1
+Features	Encryption of Data	Omnis Studio	1
+Features	Export Data	Omnis Studio	1
+Features	ACID	Omnis Studio	0
+Features	Real Time Access to Database	Omnis Studio	0
+Features	Internet Protocol Support	Omnis Studio	0
+Features	Database Imports	Omnis Studio	0
+Features	Custom Functions	Omnis Studio	0
+Features	XML Format Support	SQLite	0
+Features	Templates	SQLite	0
+Features	Network Protocols Supported	SQLite	0
+Features	Kiosk Maker	SQLite	0
+Features	Transactions	SQLite	1
+Features	Parallel Processing	SQLite	0
+Features	Integrated Storage Manager	SQLite	0
+Features	Script Debugger	SQLite	0
+Features	Highly Scalable	SQLite	0
+Features	High Availability	SQLite	0
+Features	SQL Interpreter	SQLite	1
+Features	Referential Integrity	SQLite	1
+Features	Multi-Core Support	SQLite	1
+Features	Open Source	SQLite	0
+Features	Java Support	SQLite	0
+Features	Drag and Drop	SQLite	0
+Features	Compression of Data	SQLite	1
+Features	Backup	SQLite	0
+Features	Unicode	SQLite	1
+Features	Very small and Fast	SQLite	1
+Features	Multiple Threads	SQLite	0
+Features	Import Data	SQLite	1
+Features	Encryption of Data	SQLite	0
+Features	Export Data	SQLite	0
+Features	ACID	SQLite	1
+Features	Real Time Access to Database	SQLite	0
+Features	Internet Protocol Support	SQLite	0
+Features	Database Imports	SQLite	0
+Features	Custom Functions	SQLite	0
+Features	XML Format Support	Teradata	0
+Features	Templates	Teradata	0
+Features	Network Protocols Supported	Teradata	0
+Features	Kiosk Maker	Teradata	0
+Features	Transactions	Teradata	1
+Features	Parallel Processing	Teradata	0
+Features	Integrated Storage Manager	Teradata	0
+Features	Script Debugger	Teradata	0
+Features	Highly Scalable	Teradata	1
+Features	High Availability	Teradata	0
+Features	SQL Interpreter	Teradata	0
+Features	Referential Integrity	Teradata	1
+Features	Multi-Core Support	Teradata	0
+Features	Open Source	Teradata	0
+Features	Java Support	Teradata	0
+Features	Drag and Drop	Teradata	0
+Features	Compression of Data	Teradata	0
+Features	Backup	Teradata	0
+Features	Unicode	Teradata	1
+Features	Very small and Fast	Teradata	0
+Features	Multiple Threads	Teradata	0
+Features	Import Data	Teradata	0
+Features	Encryption of Data	Teradata	0
+Features	Export Data	Teradata	0
+Features	ACID	Teradata	1
+Features	Real Time Access to Database	Teradata	0
+Features	Internet Protocol Support	Teradata	0
+Features	Database Imports	Teradata	0
+Features	Custom Functions	Teradata	0
+Features	XML Format Support	UniVerse	1
+Features	Templates	UniVerse	0
+Features	Network Protocols Supported	UniVerse	0
+Features	Kiosk Maker	UniVerse	0
+Features	Transactions	UniVerse	1
+Features	Parallel Processing	UniVerse	0
+Features	Integrated Storage Manager	UniVerse	0
+Features	Script Debugger	UniVerse	0
+Features	Highly Scalable	UniVerse	1
+Features	High Availability	UniVerse	0
+Features	SQL Interpreter	UniVerse	1
+Features	Referential Integrity	UniVerse	1
+Features	Multi-Core Support	UniVerse	0
+Features	Open Source	UniVerse	0
+Features	Java Support	UniVerse	1
+Features	Drag and Drop	UniVerse	0
+Features	Compression of Data	UniVerse	0
+Features	Backup	UniVerse	0
+Features	Unicode	UniVerse	1
+Features	Very small and Fast	UniVerse	0
+Features	Multiple Threads	UniVerse	0
+Features	Import Data	UniVerse	0
+Features	Encryption of Data	UniVerse	1
+Features	Export Data	UniVerse	0
+Features	ACID	UniVerse	1
+Features	Real Time Access to Database	UniVerse	0
+Features	Internet Protocol Support	UniVerse	0
+Features	Database Imports	UniVerse	0
+Features	Custom Functions	UniVerse	0
+Indexes	Spatial	Advantage Database Server (ADS)	0
+Indexes	Bitmap	Advantage Database Server (ADS)	1
+Indexes	R-/R+ Tree	Advantage Database Server (ADS)	0
+Indexes	Hash	Advantage Database Server (ADS)	0
+Indexes	Partial	Advantage Database Server (ADS)	0
+Indexes	Unknown	Advantage Database Server (ADS)	0
+Indexes	Full-text	Advantage Database Server (ADS)	0
+Indexes	Reverse	Advantage Database Server (ADS)	1
+Indexes	None	Advantage Database Server (ADS)	0
+Indexes	Expression	Advantage Database Server (ADS)	1
+Indexes	Spatial	CUBRID	0
+Indexes	Bitmap	CUBRID	0
+Indexes	R-/R+ Tree	CUBRID	0
+Indexes	Hash	CUBRID	0
+Indexes	Partial	CUBRID	1
+Indexes	Unknown	CUBRID	0
+Indexes	Full-text	CUBRID	0
+Indexes	Reverse	CUBRID	1
+Indexes	None	CUBRID	0
+Indexes	Expression	CUBRID	1
+Indexes	Spatial	DB2	0
+Indexes	Bitmap	DB2	1
+Indexes	R-/R+ Tree	DB2	0
+Indexes	Hash	DB2	0
+Indexes	Partial	DB2	0
+Indexes	Unknown	DB2	0
+Indexes	Full-text	DB2	1
+Indexes	Reverse	DB2	1
+Indexes	None	DB2	0
+Indexes	Expression	DB2	1
+Indexes	Spatial	FileMaker	0
+Indexes	Bitmap	FileMaker	0
+Indexes	R-/R+ Tree	FileMaker	0
+Indexes	Hash	FileMaker	0
+Indexes	Partial	FileMaker	1
+Indexes	Unknown	FileMaker	0
+Indexes	Full-text	FileMaker	1
+Indexes	Reverse	FileMaker	0
+Indexes	None	FileMaker	0
+Indexes	Expression	FileMaker	0
+Indexes	Spatial	InterBase	0
+Indexes	Bitmap	InterBase	0
+Indexes	R-/R+ Tree	InterBase	0
+Indexes	Hash	InterBase	0
+Indexes	Partial	InterBase	1
+Indexes	Unknown	InterBase	0
+Indexes	Full-text	InterBase	0
+Indexes	Reverse	InterBase	0
+Indexes	None	InterBase	1
+Indexes	Expression	InterBase	0
+Indexes	Spatial	Microsoft Access	0
+Indexes	Bitmap	Microsoft Access	0
+Indexes	R-/R+ Tree	Microsoft Access	0
+Indexes	Hash	Microsoft Access	0
+Indexes	Partial	Microsoft Access	0
+Indexes	Unknown	Microsoft Access	1
+Indexes	Full-text	Microsoft Access	0
+Indexes	Reverse	Microsoft Access	0
+Indexes	None	Microsoft Access	0
+Indexes	Expression	Microsoft Access	0
+Indexes	Spatial	Omnis Studio	0
+Indexes	Bitmap	Omnis Studio	0
+Indexes	R-/R+ Tree	Omnis Studio	0
+Indexes	Hash	Omnis Studio	0
+Indexes	Partial	Omnis Studio	0
+Indexes	Unknown	Omnis Studio	1
+Indexes	Full-text	Omnis Studio	0
+Indexes	Reverse	Omnis Studio	0
+Indexes	None	Omnis Studio	0
+Indexes	Expression	Omnis Studio	0
+Indexes	Spatial	SQLite	1
+Indexes	Bitmap	SQLite	0
+Indexes	R-/R+ Tree	SQLite	1
+Indexes	Hash	SQLite	0
+Indexes	Partial	SQLite	1
+Indexes	Unknown	SQLite	0
+Indexes	Full-text	SQLite	1
+Indexes	Reverse	SQLite	0
+Indexes	None	SQLite	0
+Indexes	Expression	SQLite	1
+Indexes	Spatial	Teradata	1
+Indexes	Bitmap	Teradata	1
+Indexes	R-/R+ Tree	Teradata	0
+Indexes	Hash	Teradata	1
+Indexes	Partial	Teradata	1
+Indexes	Unknown	Teradata	0
+Indexes	Full-text	Teradata	0
+Indexes	Reverse	Teradata	0
+Indexes	None	Teradata	0
+Indexes	Expression	Teradata	1
+Indexes	Spatial	UniVerse	1
+Indexes	Bitmap	UniVerse	0
+Indexes	R-/R+ Tree	UniVerse	1
+Indexes	Hash	UniVerse	1
+Indexes	Partial	UniVerse	1
+Indexes	Unknown	UniVerse	0
+Indexes	Full-text	UniVerse	0
+Indexes	Reverse	UniVerse	1
+Indexes	None	UniVerse	0
+Indexes	Expression	UniVerse	1
+Other Objects	Data Domain	Advantage Database Server (ADS)	1
+Other Objects	Trigger	Advantage Database Server (ADS)	1
+Other Objects	Procedure	Advantage Database Server (ADS)	1
+Other Objects	Function	Advantage Database Server (ADS)	1
+Other Objects	Cursor	Advantage Database Server (ADS)	1
+Other Objects	External Routine	Advantage Database Server (ADS)	1
+Other Objects	Unknown	Advantage Database Server (ADS)	0
+Other Objects	Data Domain	CUBRID	1
+Other Objects	Trigger	CUBRID	1
+Other Objects	Procedure	CUBRID	1
+Other Objects	Function	CUBRID	1
+Other Objects	Cursor	CUBRID	1
+Other Objects	External Routine	CUBRID	1
+Other Objects	Unknown	CUBRID	0
+Other Objects	Data Domain	DB2	1
+Other Objects	Trigger	DB2	1
+Other Objects	Procedure	DB2	1
+Other Objects	Function	DB2	1
+Other Objects	Cursor	DB2	1
+Other Objects	External Routine	DB2	1
+Other Objects	Unknown	DB2	0
+Other Objects	Data Domain	FileMaker	0
+Other Objects	Trigger	FileMaker	0
+Other Objects	Procedure	FileMaker	0
+Other Objects	Function	FileMaker	0
+Other Objects	Cursor	FileMaker	0
+Other Objects	External Routine	FileMaker	0
+Other Objects	Unknown	FileMaker	1
+Other Objects	Data Domain	InterBase	1
+Other Objects	Trigger	InterBase	1
+Other Objects	Procedure	InterBase	1
+Other Objects	Function	InterBase	1
+Other Objects	Cursor	InterBase	1
+Other Objects	External Routine	InterBase	1
+Other Objects	Unknown	InterBase	0
+Other Objects	Data Domain	Microsoft Access	1
+Other Objects	Trigger	Microsoft Access	0
+Other Objects	Procedure	Microsoft Access	1
+Other Objects	Function	Microsoft Access	0
+Other Objects	Cursor	Microsoft Access	0
+Other Objects	External Routine	Microsoft Access	1
+Other Objects	Unknown	Microsoft Access	0
+Other Objects	Data Domain	Omnis Studio	0
+Other Objects	Trigger	Omnis Studio	0
+Other Objects	Procedure	Omnis Studio	0
+Other Objects	Function	Omnis Studio	1
+Other Objects	Cursor	Omnis Studio	0
+Other Objects	External Routine	Omnis Studio	0
+Other Objects	Unknown	Omnis Studio	0
+Other Objects	Data Domain	SQLite	0
+Other Objects	Trigger	SQLite	1
+Other Objects	Procedure	SQLite	0
+Other Objects	Function	SQLite	0
+Other Objects	Cursor	SQLite	0
+Other Objects	External Routine	SQLite	1
+Other Objects	Unknown	SQLite	0
+Other Objects	Data Domain	Teradata	0
+Other Objects	Trigger	Teradata	1
+Other Objects	Procedure	Teradata	1
+Other Objects	Function	Teradata	1
+Other Objects	Cursor	Teradata	1
+Other Objects	External Routine	Teradata	1
+Other Objects	Unknown	Teradata	0
+Other Objects	Data Domain	UniVerse	1
+Other Objects	Trigger	UniVerse	1
+Other Objects	Procedure	UniVerse	1
+Other Objects	Function	UniVerse	1
+Other Objects	Cursor	UniVerse	1
+Other Objects	External Routine	UniVerse	1
+Other Objects	Unknown	UniVerse	0
+Partitioning	Composite (Range + Hash)	Advantage Database Server (ADS)	0
+Partitioning	Native Replication API	Advantage Database Server (ADS)	0
+Partitioning	Hash	Advantage Database Server (ADS)	0
+Partitioning	Range	Advantage Database Server (ADS)	0
+Partitioning	List	Advantage Database Server (ADS)	0
+Partitioning	Unknown	Advantage Database Server (ADS)	0
+Partitioning	Shadow	Advantage Database Server (ADS)	0
+Partitioning	None	Advantage Database Server (ADS)	0
+Partitioning	Composite (Range + Hash)	CUBRID	0
+Partitioning	Native Replication API	CUBRID	0
+Partitioning	Hash	CUBRID	1
+Partitioning	Range	CUBRID	1
+Partitioning	List	CUBRID	1
+Partitioning	Unknown	CUBRID	0
+Partitioning	Shadow	CUBRID	0
+Partitioning	None	CUBRID	0
+Partitioning	Composite (Range + Hash)	DB2	1
+Partitioning	Native Replication API	DB2	1
+Partitioning	Hash	DB2	1
+Partitioning	Range	DB2	1
+Partitioning	List	DB2	0
+Partitioning	Unknown	DB2	0
+Partitioning	Shadow	DB2	0
+Partitioning	None	DB2	0
+Partitioning	Composite (Range + Hash)	FileMaker	0
+Partitioning	Native Replication API	FileMaker	0
+Partitioning	Hash	FileMaker	0
+Partitioning	Range	FileMaker	0
+Partitioning	List	FileMaker	0
+Partitioning	Unknown	FileMaker	1
+Partitioning	Shadow	FileMaker	0
+Partitioning	None	FileMaker	0
+Partitioning	Composite (Range + Hash)	InterBase	0
+Partitioning	Native Replication API	InterBase	1
+Partitioning	Hash	InterBase	0
+Partitioning	Range	InterBase	0
+Partitioning	List	InterBase	0
+Partitioning	Unknown	InterBase	0
+Partitioning	Shadow	InterBase	1
+Partitioning	None	InterBase	0
+Partitioning	Composite (Range + Hash)	Microsoft Access	0
+Partitioning	Native Replication API	Microsoft Access	0
+Partitioning	Hash	Microsoft Access	0
+Partitioning	Range	Microsoft Access	0
+Partitioning	List	Microsoft Access	0
+Partitioning	Unknown	Microsoft Access	0
+Partitioning	Shadow	Microsoft Access	0
+Partitioning	None	Microsoft Access	1
+Partitioning	Composite (Range + Hash)	Omnis Studio	0
+Partitioning	Native Replication API	Omnis Studio	0
+Partitioning	Hash	Omnis Studio	0
+Partitioning	Range	Omnis Studio	0
+Partitioning	List	Omnis Studio	0
+Partitioning	Unknown	Omnis Studio	1
+Partitioning	Shadow	Omnis Studio	0
+Partitioning	None	Omnis Studio	0
+Partitioning	Composite (Range + Hash)	SQLite	0
+Partitioning	Native Replication API	SQLite	0
+Partitioning	Hash	SQLite	0
+Partitioning	Range	SQLite	0
+Partitioning	List	SQLite	0
+Partitioning	Unknown	SQLite	0
+Partitioning	Shadow	SQLite	0
+Partitioning	None	SQLite	1
+Partitioning	Composite (Range + Hash)	Teradata	1
+Partitioning	Native Replication API	Teradata	0
+Partitioning	Hash	Teradata	1
+Partitioning	Range	Teradata	1
+Partitioning	List	Teradata	1
+Partitioning	Unknown	Teradata	0
+Partitioning	Shadow	Teradata	0
+Partitioning	None	Teradata	0
+Partitioning	Composite (Range + Hash)	UniVerse	1
+Partitioning	Native Replication API	UniVerse	1
+Partitioning	Hash	UniVerse	1
+Partitioning	Range	UniVerse	1
+Partitioning	List	UniVerse	1
+Partitioning	Unknown	UniVerse	0
+Partitioning	Shadow	UniVerse	0
+Partitioning	None	UniVerse	0
+Access Control	Password Complexity Rules	Advantage Database Server (ADS)	0
+Access Control	Run Unprivileged	Advantage Database Server (ADS)	1
+Access Control	Enterprise Directory Compatibility	Advantage Database Server (ADS)	0
+Access Control	Brute-force Protection	Advantage Database Server (ADS)	0
+Access Control	Audit	Advantage Database Server (ADS)	0
+Access Control	Security Certification	Advantage Database Server (ADS)	0
+Access Control	Unknown	Advantage Database Server (ADS)	0
+Access Control	Native Network Encryption	Advantage Database Server (ADS)	1
+Access Control	Separation of Duties	Advantage Database Server (ADS)	1
+Access Control	Resource Limit	Advantage Database Server (ADS)	0
+Access Control	Patch Access	Advantage Database Server (ADS)	1
+Access Control	Password Complexity Rules	CUBRID	0
+Access Control	Run Unprivileged	CUBRID	0
+Access Control	Enterprise Directory Compatibility	CUBRID	0
+Access Control	Brute-force Protection	CUBRID	0
+Access Control	Audit	CUBRID	0
+Access Control	Security Certification	CUBRID	0
+Access Control	Unknown	CUBRID	0
+Access Control	Native Network Encryption	CUBRID	0
+Access Control	Separation of Duties	CUBRID	0
+Access Control	Resource Limit	CUBRID	0
+Access Control	Patch Access	CUBRID	0
+Access Control	Password Complexity Rules	DB2	1
+Access Control	Run Unprivileged	DB2	1
+Access Control	Enterprise Directory Compatibility	DB2	1
+Access Control	Brute-force Protection	DB2	0
+Access Control	Audit	DB2	1
+Access Control	Security Certification	DB2	1
+Access Control	Unknown	DB2	0
+Access Control	Native Network Encryption	DB2	1
+Access Control	Separation of Duties	DB2	1
+Access Control	Resource Limit	DB2	1
+Access Control	Patch Access	DB2	0
+Access Control	Password Complexity Rules	FileMaker	1
+Access Control	Run Unprivileged	FileMaker	0
+Access Control	Enterprise Directory Compatibility	FileMaker	1
+Access Control	Brute-force Protection	FileMaker	0
+Access Control	Audit	FileMaker	0
+Access Control	Security Certification	FileMaker	0
+Access Control	Unknown	FileMaker	0
+Access Control	Native Network Encryption	FileMaker	0
+Access Control	Separation of Duties	FileMaker	0
+Access Control	Resource Limit	FileMaker	0
+Access Control	Patch Access	FileMaker	0
+Access Control	Password Complexity Rules	InterBase	0
+Access Control	Run Unprivileged	InterBase	0
+Access Control	Enterprise Directory Compatibility	InterBase	0
+Access Control	Brute-force Protection	InterBase	1
+Access Control	Audit	InterBase	0
+Access Control	Security Certification	InterBase	0
+Access Control	Unknown	InterBase	0
+Access Control	Native Network Encryption	InterBase	1
+Access Control	Separation of Duties	InterBase	1
+Access Control	Resource Limit	InterBase	0
+Access Control	Patch Access	InterBase	0
+Access Control	Password Complexity Rules	Microsoft Access	0
+Access Control	Run Unprivileged	Microsoft Access	0
+Access Control	Enterprise Directory Compatibility	Microsoft Access	0
+Access Control	Brute-force Protection	Microsoft Access	0
+Access Control	Audit	Microsoft Access	0
+Access Control	Security Certification	Microsoft Access	0
+Access Control	Unknown	Microsoft Access	1
+Access Control	Native Network Encryption	Microsoft Access	0
+Access Control	Separation of Duties	Microsoft Access	0
+Access Control	Resource Limit	Microsoft Access	0
+Access Control	Patch Access	Microsoft Access	0
+Access Control	Password Complexity Rules	Omnis Studio	0
+Access Control	Run Unprivileged	Omnis Studio	0
+Access Control	Enterprise Directory Compatibility	Omnis Studio	0
+Access Control	Brute-force Protection	Omnis Studio	0
+Access Control	Audit	Omnis Studio	0
+Access Control	Security Certification	Omnis Studio	0
+Access Control	Unknown	Omnis Studio	1
+Access Control	Native Network Encryption	Omnis Studio	0
+Access Control	Separation of Duties	Omnis Studio	0
+Access Control	Resource Limit	Omnis Studio	0
+Access Control	Patch Access	Omnis Studio	0
+Access Control	Password Complexity Rules	SQLite	0
+Access Control	Run Unprivileged	SQLite	1
+Access Control	Enterprise Directory Compatibility	SQLite	0
+Access Control	Brute-force Protection	SQLite	0
+Access Control	Audit	SQLite	1
+Access Control	Security Certification	SQLite	0
+Access Control	Unknown	SQLite	0
+Access Control	Native Network Encryption	SQLite	0
+Access Control	Separation of Duties	SQLite	0
+Access Control	Resource Limit	SQLite	1
+Access Control	Patch Access	SQLite	1
+Access Control	Password Complexity Rules	Teradata	1
+Access Control	Run Unprivileged	Teradata	1
+Access Control	Enterprise Directory Compatibility	Teradata	1
+Access Control	Brute-force Protection	Teradata	0
+Access Control	Audit	Teradata	1
+Access Control	Security Certification	Teradata	1
+Access Control	Unknown	Teradata	0
+Access Control	Native Network Encryption	Teradata	1
+Access Control	Separation of Duties	Teradata	1
+Access Control	Resource Limit	Teradata	1
+Access Control	Patch Access	Teradata	0
+Access Control	Password Complexity Rules	UniVerse	0
+Access Control	Run Unprivileged	UniVerse	0
+Access Control	Enterprise Directory Compatibility	UniVerse	0
+Access Control	Brute-force Protection	UniVerse	0
+Access Control	Audit	UniVerse	1
+Access Control	Security Certification	UniVerse	0
+Access Control	Unknown	UniVerse	0
+Access Control	Native Network Encryption	UniVerse	0
+Access Control	Separation of Duties	UniVerse	0
+Access Control	Resource Limit	UniVerse	0
+Access Control	Patch Access	UniVerse	0
+Database Capabilities	Outer Joins	Advantage Database Server (ADS)	1
+Database Capabilities	Merge Joins	Advantage Database Server (ADS)	1
+Database Capabilities	Except	Advantage Database Server (ADS)	0
+Database Capabilities	Inner Selects	Advantage Database Server (ADS)	1
+Database Capabilities	Inner Joins	Advantage Database Server (ADS)	1
+Database Capabilities	Windowing Functions	Advantage Database Server (ADS)	0
+Database Capabilities	Intersect	Advantage Database Server (ADS)	1
+Database Capabilities	Common Table Expressions	Advantage Database Server (ADS)	0
+Database Capabilities	Union	Advantage Database Server (ADS)	1
+Database Capabilities	Parallel Query	Advantage Database Server (ADS)	0
+Database Capabilities	Blobs and Clobs	Advantage Database Server (ADS)	1
+Database Capabilities	Outer Joins	CUBRID	1
+Database Capabilities	Merge Joins	CUBRID	1
+Database Capabilities	Except	CUBRID	1
+Database Capabilities	Inner Selects	CUBRID	1
+Database Capabilities	Inner Joins	CUBRID	1
+Database Capabilities	Windowing Functions	CUBRID	1
+Database Capabilities	Intersect	CUBRID	1
+Database Capabilities	Common Table Expressions	CUBRID	0
+Database Capabilities	Union	CUBRID	1
+Database Capabilities	Parallel Query	CUBRID	0
+Database Capabilities	Blobs and Clobs	CUBRID	1
+Database Capabilities	Outer Joins	DB2	1
+Database Capabilities	Merge Joins	DB2	1
+Database Capabilities	Except	DB2	1
+Database Capabilities	Inner Selects	DB2	1
+Database Capabilities	Inner Joins	DB2	1
+Database Capabilities	Windowing Functions	DB2	1
+Database Capabilities	Intersect	DB2	1
+Database Capabilities	Common Table Expressions	DB2	1
+Database Capabilities	Union	DB2	1
+Database Capabilities	Parallel Query	DB2	1
+Database Capabilities	Blobs and Clobs	DB2	1
+Database Capabilities	Outer Joins	FileMaker	0
+Database Capabilities	Merge Joins	FileMaker	0
+Database Capabilities	Except	FileMaker	0
+Database Capabilities	Inner Selects	FileMaker	0
+Database Capabilities	Inner Joins	FileMaker	1
+Database Capabilities	Windowing Functions	FileMaker	0
+Database Capabilities	Intersect	FileMaker	0
+Database Capabilities	Common Table Expressions	FileMaker	0
+Database Capabilities	Union	FileMaker	0
+Database Capabilities	Parallel Query	FileMaker	0
+Database Capabilities	Blobs and Clobs	FileMaker	1
+Database Capabilities	Outer Joins	InterBase	1
+Database Capabilities	Merge Joins	InterBase	1
+Database Capabilities	Except	InterBase	0
+Database Capabilities	Inner Selects	InterBase	1
+Database Capabilities	Inner Joins	InterBase	1
+Database Capabilities	Windowing Functions	InterBase	0
+Database Capabilities	Intersect	InterBase	0
+Database Capabilities	Common Table Expressions	InterBase	0
+Database Capabilities	Union	InterBase	1
+Database Capabilities	Parallel Query	InterBase	0
+Database Capabilities	Blobs and Clobs	InterBase	1
+Database Capabilities	Outer Joins	Microsoft Access	1
+Database Capabilities	Merge Joins	Microsoft Access	0
+Database Capabilities	Except	Microsoft Access	0
+Database Capabilities	Inner Selects	Microsoft Access	1
+Database Capabilities	Inner Joins	Microsoft Access	1
+Database Capabilities	Windowing Functions	Microsoft Access	0
+Database Capabilities	Intersect	Microsoft Access	0
+Database Capabilities	Common Table Expressions	Microsoft Access	0
+Database Capabilities	Union	Microsoft Access	1
+Database Capabilities	Parallel Query	Microsoft Access	0
+Database Capabilities	Blobs and Clobs	Microsoft Access	1
+Database Capabilities	Outer Joins	Omnis Studio	0
+Database Capabilities	Merge Joins	Omnis Studio	0
+Database Capabilities	Except	Omnis Studio	0
+Database Capabilities	Inner Selects	Omnis Studio	0
+Database Capabilities	Inner Joins	Omnis Studio	0
+Database Capabilities	Windowing Functions	Omnis Studio	0
+Database Capabilities	Intersect	Omnis Studio	0
+Database Capabilities	Common Table Expressions	Omnis Studio	0
+Database Capabilities	Union	Omnis Studio	0
+Database Capabilities	Parallel Query	Omnis Studio	0
+Database Capabilities	Blobs and Clobs	Omnis Studio	0
+Database Capabilities	Outer Joins	SQLite	1
+Database Capabilities	Merge Joins	SQLite	0
+Database Capabilities	Except	SQLite	1
+Database Capabilities	Inner Selects	SQLite	1
+Database Capabilities	Inner Joins	SQLite	1
+Database Capabilities	Windowing Functions	SQLite	0
+Database Capabilities	Intersect	SQLite	1
+Database Capabilities	Common Table Expressions	SQLite	1
+Database Capabilities	Union	SQLite	1
+Database Capabilities	Parallel Query	SQLite	0
+Database Capabilities	Blobs and Clobs	SQLite	1
+Database Capabilities	Outer Joins	Teradata	1
+Database Capabilities	Merge Joins	Teradata	1
+Database Capabilities	Except	Teradata	1
+Database Capabilities	Inner Selects	Teradata	1
+Database Capabilities	Inner Joins	Teradata	1
+Database Capabilities	Windowing Functions	Teradata	1
+Database Capabilities	Intersect	Teradata	1
+Database Capabilities	Common Table Expressions	Teradata	1
+Database Capabilities	Union	Teradata	1
+Database Capabilities	Parallel Query	Teradata	1
+Database Capabilities	Blobs and Clobs	Teradata	1
+Database Capabilities	Outer Joins	UniVerse	1
+Database Capabilities	Merge Joins	UniVerse	1
+Database Capabilities	Except	UniVerse	1
+Database Capabilities	Inner Selects	UniVerse	1
+Database Capabilities	Inner Joins	UniVerse	1
+Database Capabilities	Windowing Functions	UniVerse	0
+Database Capabilities	Intersect	UniVerse	1
+Database Capabilities	Common Table Expressions	UniVerse	0
+Database Capabilities	Union	UniVerse	1
+Database Capabilities	Parallel Query	UniVerse	0
+Database Capabilities	Blobs and Clobs	UniVerse	0
+Tables and Views	Temporary Table	Advantage Database Server (ADS)	1
+Tables and Views	Materialized Views	Advantage Database Server (ADS)	0
+Tables and Views	Unknown	Advantage Database Server (ADS)	0
+Tables and Views	None	Advantage Database Server (ADS)	0
+Tables and Views	Temporary Table	CUBRID	0
+Tables and Views	Materialized Views	CUBRID	0
+Tables and Views	Unknown	CUBRID	0
+Tables and Views	None	CUBRID	1
+Tables and Views	Temporary Table	DB2	1
+Tables and Views	Materialized Views	DB2	1
+Tables and Views	Unknown	DB2	0
+Tables and Views	None	DB2	0
+Tables and Views	Temporary Table	FileMaker	1
+Tables and Views	Materialized Views	FileMaker	0
+Tables and Views	Unknown	FileMaker	0
+Tables and Views	None	FileMaker	0
+Tables and Views	Temporary Table	InterBase	1
+Tables and Views	Materialized Views	InterBase	0
+Tables and Views	Unknown	InterBase	0
+Tables and Views	None	InterBase	0
+Tables and Views	Temporary Table	Microsoft Access	1
+Tables and Views	Materialized Views	Microsoft Access	0
+Tables and Views	Unknown	Microsoft Access	0
+Tables and Views	None	Microsoft Access	0
+Tables and Views	Temporary Table	Omnis Studio	0
+Tables and Views	Materialized Views	Omnis Studio	0
+Tables and Views	Unknown	Omnis Studio	1
+Tables and Views	None	Omnis Studio	0
+Tables and Views	Temporary Table	SQLite	1
+Tables and Views	Materialized Views	SQLite	0
+Tables and Views	Unknown	SQLite	0
+Tables and Views	None	SQLite	0
+Tables and Views	Temporary Table	Teradata	1
+Tables and Views	Materialized Views	Teradata	1
+Tables and Views	Unknown	Teradata	0
+Tables and Views	None	Teradata	0
+Tables and Views	Temporary Table	UniVerse	1
+Tables and Views	Materialized Views	UniVerse	0
+Tables and Views	Unknown	UniVerse	0
+Tables and Views	None	UniVerse	0
+Features	XML Format Support	ADABAS	0
+Features	Templates	ADABAS	0
+Features	Network Protocols Supported	ADABAS	0
+Features	Transactions	ADABAS	1
+Features	Parallel Processing	ADABAS	0
+Features	Integrated Storage Manager	ADABAS	0
+Features	Multiple Data Access Command Sets	ADABAS	0
+Features	Highly Scalable	ADABAS	0
+Features	High Availability	ADABAS	0
+Features	SQL Interpreter	ADABAS	0
+Features	Referential Integrity	ADABAS	0
+Features	Multi-Core Support	ADABAS	0
+Features	Java Support	ADABAS	0
+Features	Compression of Data	ADABAS	0
+Features	Backup	ADABAS	1
+Features	Unicode	ADABAS	1
+Features	Multiple Threads	ADABAS	0
+Features	Import Data	ADABAS	0
+Features	Extensibility	ADABAS	0
+Features	Encryption of Data	ADABAS	0
+Features	Export Data	ADABAS	0
+Features	ACID	ADABAS	1
+Features	Real Time Access to Database	ADABAS	0
+Features	Internet Protocol Support	ADABAS	0
+Features	Database Imports	ADABAS	0
+Features	Custom Functions	ADABAS	1
+Features	XML Format Support	Apache Derby	0
+Features	Templates	Apache Derby	0
+Features	Network Protocols Supported	Apache Derby	0
+Features	Transactions	Apache Derby	1
+Features	Parallel Processing	Apache Derby	0
+Features	Integrated Storage Manager	Apache Derby	0
+Features	Multiple Data Access Command Sets	Apache Derby	0
+Features	Highly Scalable	Apache Derby	0
+Features	High Availability	Apache Derby	0
+Features	SQL Interpreter	Apache Derby	0
+Features	Referential Integrity	Apache Derby	1
+Features	Multi-Core Support	Apache Derby	0
+Features	Java Support	Apache Derby	0
+Features	Compression of Data	Apache Derby	0
+Features	Backup	Apache Derby	0
+Features	Unicode	Apache Derby	1
+Features	Multiple Threads	Apache Derby	0
+Features	Import Data	Apache Derby	0
+Features	Extensibility	Apache Derby	0
+Features	Encryption of Data	Apache Derby	0
+Features	Export Data	Apache Derby	0
+Features	ACID	Apache Derby	1
+Features	Real Time Access to Database	Apache Derby	0
+Features	Internet Protocol Support	Apache Derby	0
+Features	Database Imports	Apache Derby	1
+Features	Custom Functions	Apache Derby	0
+Features	XML Format Support	Datacom	0
+Features	Templates	Datacom	0
+Features	Network Protocols Supported	Datacom	0
+Features	Transactions	Datacom	1
+Features	Parallel Processing	Datacom	0
+Features	Integrated Storage Manager	Datacom	0
+Features	Multiple Data Access Command Sets	Datacom	1
+Features	Highly Scalable	Datacom	1
+Features	High Availability	Datacom	0
+Features	SQL Interpreter	Datacom	0
+Features	Referential Integrity	Datacom	0
+Features	Multi-Core Support	Datacom	0
+Features	Java Support	Datacom	0
+Features	Compression of Data	Datacom	0
+Features	Backup	Datacom	0
+Features	Unicode	Datacom	0
+Features	Multiple Threads	Datacom	0
+Features	Import Data	Datacom	0
+Features	Extensibility	Datacom	0
+Features	Encryption of Data	Datacom	0
+Features	Export Data	Datacom	0
+Features	ACID	Datacom	0
+Features	Real Time Access to Database	Datacom	1
+Features	Internet Protocol Support	Datacom	0
+Features	Database Imports	Datacom	0
+Features	Custom Functions	Datacom	0
+Features	XML Format Support	Informix Dynamic Server	0
+Features	Templates	Informix Dynamic Server	0
+Features	Network Protocols Supported	Informix Dynamic Server	0
+Features	Transactions	Informix Dynamic Server	1
+Features	Parallel Processing	Informix Dynamic Server	1
+Features	Integrated Storage Manager	Informix Dynamic Server	1
+Features	Multiple Data Access Command Sets	Informix Dynamic Server	0
+Features	Highly Scalable	Informix Dynamic Server	1
+Features	High Availability	Informix Dynamic Server	1
+Features	SQL Interpreter	Informix Dynamic Server	0
+Features	Referential Integrity	Informix Dynamic Server	1
+Features	Multi-Core Support	Informix Dynamic Server	1
+Features	Java Support	Informix Dynamic Server	1
+Features	Compression of Data	Informix Dynamic Server	1
+Features	Backup	Informix Dynamic Server	1
+Features	Unicode	Informix Dynamic Server	1
+Features	Multiple Threads	Informix Dynamic Server	1
+Features	Import Data	Informix Dynamic Server	0
+Features	Extensibility	Informix Dynamic Server	1
+Features	Encryption of Data	Informix Dynamic Server	1
+Features	Export Data	Informix Dynamic Server	1
+Features	ACID	Informix Dynamic Server	1
+Features	Real Time Access to Database	Informix Dynamic Server	0
+Features	Internet Protocol Support	Informix Dynamic Server	1
+Features	Database Imports	Informix Dynamic Server	1
+Features	Custom Functions	Informix Dynamic Server	0
+Features	XML Format Support	Ingres	0
+Features	Templates	Ingres	0
+Features	Network Protocols Supported	Ingres	0
+Features	Transactions	Ingres	1
+Features	Parallel Processing	Ingres	0
+Features	Integrated Storage Manager	Ingres	0
+Features	Multiple Data Access Command Sets	Ingres	0
+Features	Highly Scalable	Ingres	0
+Features	High Availability	Ingres	0
+Features	SQL Interpreter	Ingres	0
+Features	Referential Integrity	Ingres	1
+Features	Multi-Core Support	Ingres	0
+Features	Java Support	Ingres	1
+Features	Compression of Data	Ingres	0
+Features	Backup	Ingres	0
+Features	Unicode	Ingres	1
+Features	Multiple Threads	Ingres	0
+Features	Import Data	Ingres	0
+Features	Extensibility	Ingres	1
+Features	Encryption of Data	Ingres	0
+Features	Export Data	Ingres	0
+Features	ACID	Ingres	1
+Features	Real Time Access to Database	Ingres	0
+Features	Internet Protocol Support	Ingres	0
+Features	Database Imports	Ingres	0
+Features	Custom Functions	Ingres	0
+Features	XML Format Support	Linter	0
+Features	Templates	Linter	0
+Features	Network Protocols Supported	Linter	0
+Features	Transactions	Linter	1
+Features	Parallel Processing	Linter	0
+Features	Integrated Storage Manager	Linter	1
+Features	Multiple Data Access Command Sets	Linter	0
+Features	Highly Scalable	Linter	0
+Features	High Availability	Linter	0
+Features	SQL Interpreter	Linter	0
+Features	Referential Integrity	Linter	1
+Features	Multi-Core Support	Linter	0
+Features	Java Support	Linter	0
+Features	Compression of Data	Linter	0
+Features	Backup	Linter	0
+Features	Unicode	Linter	1
+Features	Multiple Threads	Linter	0
+Features	Import Data	Linter	0
+Features	Extensibility	Linter	1
+Features	Encryption of Data	Linter	0
+Features	Export Data	Linter	1
+Features	ACID	Linter	1
+Features	Real Time Access to Database	Linter	0
+Features	Internet Protocol Support	Linter	0
+Features	Database Imports	Linter	0
+Features	Custom Functions	Linter	1
+Features	XML Format Support	Microsoft SQL Server Compact	0
+Features	Templates	Microsoft SQL Server Compact	0
+Features	Network Protocols Supported	Microsoft SQL Server Compact	0
+Features	Transactions	Microsoft SQL Server Compact	1
+Features	Parallel Processing	Microsoft SQL Server Compact	0
+Features	Integrated Storage Manager	Microsoft SQL Server Compact	1
+Features	Multiple Data Access Command Sets	Microsoft SQL Server Compact	0
+Features	Highly Scalable	Microsoft SQL Server Compact	0
+Features	High Availability	Microsoft SQL Server Compact	0
+Features	SQL Interpreter	Microsoft SQL Server Compact	1
+Features	Referential Integrity	Microsoft SQL Server Compact	1
+Features	Multi-Core Support	Microsoft SQL Server Compact	0
+Features	Java Support	Microsoft SQL Server Compact	0
+Features	Compression of Data	Microsoft SQL Server Compact	0
+Features	Backup	Microsoft SQL Server Compact	0
+Features	Unicode	Microsoft SQL Server Compact	1
+Features	Multiple Threads	Microsoft SQL Server Compact	0
+Features	Import Data	Microsoft SQL Server Compact	0
+Features	Extensibility	Microsoft SQL Server Compact	0
+Features	Encryption of Data	Microsoft SQL Server Compact	0
+Features	Export Data	Microsoft SQL Server Compact	0
+Features	ACID	Microsoft SQL Server Compact	1
+Features	Real Time Access to Database	Microsoft SQL Server Compact	0
+Features	Internet Protocol Support	Microsoft SQL Server Compact	0
+Features	Database Imports	Microsoft SQL Server Compact	0
+Features	Custom Functions	Microsoft SQL Server Compact	0
+Features	XML Format Support	OpenEdge	0
+Features	Templates	OpenEdge	0
+Features	Network Protocols Supported	OpenEdge	1
+Features	Transactions	OpenEdge	1
+Features	Parallel Processing	OpenEdge	0
+Features	Integrated Storage Manager	OpenEdge	0
+Features	Multiple Data Access Command Sets	OpenEdge	0
+Features	Highly Scalable	OpenEdge	0
+Features	High Availability	OpenEdge	1
+Features	SQL Interpreter	OpenEdge	0
+Features	Referential Integrity	OpenEdge	1
+Features	Multi-Core Support	OpenEdge	1
+Features	Java Support	OpenEdge	0
+Features	Compression of Data	OpenEdge	0
+Features	Backup	OpenEdge	1
+Features	Unicode	OpenEdge	1
+Features	Multiple Threads	OpenEdge	0
+Features	Import Data	OpenEdge	0
+Features	Extensibility	OpenEdge	0
+Features	Encryption of Data	OpenEdge	1
+Features	Export Data	OpenEdge	0
+Features	ACID	OpenEdge	1
+Features	Real Time Access to Database	OpenEdge	0
+Features	Internet Protocol Support	OpenEdge	1
+Features	Database Imports	OpenEdge	0
+Features	Custom Functions	OpenEdge	0
+Features	XML Format Support	Postgres Advanced Server	1
+Features	Templates	Postgres Advanced Server	0
+Features	Network Protocols Supported	Postgres Advanced Server	0
+Features	Transactions	Postgres Advanced Server	1
+Features	Parallel Processing	Postgres Advanced Server	0
+Features	Integrated Storage Manager	Postgres Advanced Server	0
+Features	Multiple Data Access Command Sets	Postgres Advanced Server	0
+Features	Highly Scalable	Postgres Advanced Server	0
+Features	High Availability	Postgres Advanced Server	0
+Features	SQL Interpreter	Postgres Advanced Server	0
+Features	Referential Integrity	Postgres Advanced Server	1
+Features	Multi-Core Support	Postgres Advanced Server	0
+Features	Java Support	Postgres Advanced Server	0
+Features	Compression of Data	Postgres Advanced Server	1
+Features	Backup	Postgres Advanced Server	1
+Features	Unicode	Postgres Advanced Server	1
+Features	Multiple Threads	Postgres Advanced Server	0
+Features	Import Data	Postgres Advanced Server	0
+Features	Extensibility	Postgres Advanced Server	0
+Features	Encryption of Data	Postgres Advanced Server	0
+Features	Export Data	Postgres Advanced Server	0
+Features	ACID	Postgres Advanced Server	1
+Features	Real Time Access to Database	Postgres Advanced Server	0
+Features	Internet Protocol Support	Postgres Advanced Server	0
+Features	Database Imports	Postgres Advanced Server	0
+Features	Custom Functions	Postgres Advanced Server	0
+Features	XML Format Support	MyDatabase	0
+Features	Templates	MyDatabase	1
+Features	Network Protocols Supported	MyDatabase	0
+Features	Transactions	MyDatabase	0
+Features	Parallel Processing	MyDatabase	0
+Features	Integrated Storage Manager	MyDatabase	0
+Features	Multiple Data Access Command Sets	MyDatabase	0
+Features	Highly Scalable	MyDatabase	0
+Features	High Availability	MyDatabase	0
+Features	SQL Interpreter	MyDatabase	0
+Features	Referential Integrity	MyDatabase	0
+Features	Multi-Core Support	MyDatabase	0
+Features	Java Support	MyDatabase	0
+Features	Compression of Data	MyDatabase	0
+Features	Backup	MyDatabase	1
+Features	Unicode	MyDatabase	0
+Features	Multiple Threads	MyDatabase	0
+Features	Import Data	MyDatabase	1
+Features	Extensibility	MyDatabase	0
+Features	Encryption of Data	MyDatabase	0
+Features	Export Data	MyDatabase	0
+Features	ACID	MyDatabase	0
+Features	Real Time Access to Database	MyDatabase	0
+Features	Internet Protocol Support	MyDatabase	0
+Features	Database Imports	MyDatabase	1
+Features	Custom Functions	MyDatabase	1
+Indexes	Spatial	ADABAS	0
+Indexes	Bitmap	ADABAS	0
+Indexes	R-/R+ Tree	ADABAS	0
+Indexes	GiST	ADABAS	0
+Indexes	Hash	ADABAS	1
+Indexes	Partial	ADABAS	0
+Indexes	Defragmentation	ADABAS	0
+Indexes	Unknown	ADABAS	0
+Indexes	GIN	ADABAS	0
+Indexes	Full-text	ADABAS	0
+Indexes	Reverse	ADABAS	0
+Indexes	None	ADABAS	0
+Indexes	Expression	ADABAS	0
+Indexes	Spatial	Apache Derby	0
+Indexes	Bitmap	Apache Derby	0
+Indexes	R-/R+ Tree	Apache Derby	0
+Indexes	GiST	Apache Derby	0
+Indexes	Hash	Apache Derby	0
+Indexes	Partial	Apache Derby	0
+Indexes	Defragmentation	Apache Derby	0
+Indexes	Unknown	Apache Derby	0
+Indexes	GIN	Apache Derby	0
+Indexes	Full-text	Apache Derby	0
+Indexes	Reverse	Apache Derby	0
+Indexes	None	Apache Derby	1
+Indexes	Expression	Apache Derby	0
+Indexes	Spatial	Datacom	0
+Indexes	Bitmap	Datacom	0
+Indexes	R-/R+ Tree	Datacom	0
+Indexes	GiST	Datacom	0
+Indexes	Hash	Datacom	0
+Indexes	Partial	Datacom	0
+Indexes	Defragmentation	Datacom	1
+Indexes	Unknown	Datacom	0
+Indexes	GIN	Datacom	0
+Indexes	Full-text	Datacom	0
+Indexes	Reverse	Datacom	0
+Indexes	None	Datacom	0
+Indexes	Expression	Datacom	0
+Indexes	Spatial	Informix Dynamic Server	1
+Indexes	Bitmap	Informix Dynamic Server	1
+Indexes	R-/R+ Tree	Informix Dynamic Server	1
+Indexes	GiST	Informix Dynamic Server	1
+Indexes	Hash	Informix Dynamic Server	1
+Indexes	Partial	Informix Dynamic Server	1
+Indexes	Defragmentation	Informix Dynamic Server	0
+Indexes	Unknown	Informix Dynamic Server	0
+Indexes	GIN	Informix Dynamic Server	1
+Indexes	Full-text	Informix Dynamic Server	1
+Indexes	Reverse	Informix Dynamic Server	1
+Indexes	None	Informix Dynamic Server	0
+Indexes	Expression	Informix Dynamic Server	1
+Indexes	Spatial	Ingres	0
+Indexes	Bitmap	Ingres	1
+Indexes	R-/R+ Tree	Ingres	1
+Indexes	GiST	Ingres	0
+Indexes	Hash	Ingres	1
+Indexes	Partial	Ingres	0
+Indexes	Defragmentation	Ingres	0
+Indexes	Unknown	Ingres	0
+Indexes	GIN	Ingres	0
+Indexes	Full-text	Ingres	0
+Indexes	Reverse	Ingres	0
+Indexes	None	Ingres	0
+Indexes	Expression	Ingres	1
+Indexes	Spatial	Linter	0
+Indexes	Bitmap	Linter	0
+Indexes	R-/R+ Tree	Linter	0
+Indexes	GiST	Linter	0
+Indexes	Hash	Linter	1
+Indexes	Partial	Linter	0
+Indexes	Defragmentation	Linter	0
+Indexes	Unknown	Linter	0
+Indexes	GIN	Linter	0
+Indexes	Full-text	Linter	1
+Indexes	Reverse	Linter	0
+Indexes	None	Linter	0
+Indexes	Expression	Linter	1
+Indexes	Spatial	Microsoft SQL Server Compact	0
+Indexes	Bitmap	Microsoft SQL Server Compact	0
+Indexes	R-/R+ Tree	Microsoft SQL Server Compact	0
+Indexes	GiST	Microsoft SQL Server Compact	0
+Indexes	Hash	Microsoft SQL Server Compact	0
+Indexes	Partial	Microsoft SQL Server Compact	0
+Indexes	Defragmentation	Microsoft SQL Server Compact	0
+Indexes	Unknown	Microsoft SQL Server Compact	1
+Indexes	GIN	Microsoft SQL Server Compact	0
+Indexes	Full-text	Microsoft SQL Server Compact	0
+Indexes	Reverse	Microsoft SQL Server Compact	0
+Indexes	None	Microsoft SQL Server Compact	0
+Indexes	Expression	Microsoft SQL Server Compact	0
+Indexes	Spatial	OpenEdge	0
+Indexes	Bitmap	OpenEdge	0
+Indexes	R-/R+ Tree	OpenEdge	0
+Indexes	GiST	OpenEdge	0
+Indexes	Hash	OpenEdge	0
+Indexes	Partial	OpenEdge	1
+Indexes	Defragmentation	OpenEdge	1
+Indexes	Unknown	OpenEdge	0
+Indexes	GIN	OpenEdge	0
+Indexes	Full-text	OpenEdge	1
+Indexes	Reverse	OpenEdge	0
+Indexes	None	OpenEdge	0
+Indexes	Expression	OpenEdge	0
+Indexes	Spatial	Postgres Advanced Server	0
+Indexes	Bitmap	Postgres Advanced Server	1
+Indexes	R-/R+ Tree	Postgres Advanced Server	1
+Indexes	GiST	Postgres Advanced Server	0
+Indexes	Hash	Postgres Advanced Server	1
+Indexes	Partial	Postgres Advanced Server	1
+Indexes	Defragmentation	Postgres Advanced Server	0
+Indexes	Unknown	Postgres Advanced Server	0
+Indexes	GIN	Postgres Advanced Server	1
+Indexes	Full-text	Postgres Advanced Server	1
+Indexes	Reverse	Postgres Advanced Server	1
+Indexes	None	Postgres Advanced Server	0
+Indexes	Expression	Postgres Advanced Server	1
+Indexes	Spatial	MyDatabase	0
+Indexes	Bitmap	MyDatabase	0
+Indexes	R-/R+ Tree	MyDatabase	0
+Indexes	GiST	MyDatabase	0
+Indexes	Hash	MyDatabase	0
+Indexes	Partial	MyDatabase	0
+Indexes	Defragmentation	MyDatabase	0
+Indexes	Unknown	MyDatabase	0
+Indexes	GIN	MyDatabase	0
+Indexes	Full-text	MyDatabase	0
+Indexes	Reverse	MyDatabase	0
+Indexes	None	MyDatabase	0
+Indexes	Expression	MyDatabase	0
+Other Objects	Data Domain	ADABAS	0
+Other Objects	Trigger	ADABAS	0
+Other Objects	Procedure	ADABAS	1
+Other Objects	Function	ADABAS	1
+Other Objects	Cursor	ADABAS	1
+Other Objects	External Routine	ADABAS	1
+Other Objects	Data Domain	Apache Derby	0
+Other Objects	Trigger	Apache Derby	1
+Other Objects	Procedure	Apache Derby	1
+Other Objects	Function	Apache Derby	1
+Other Objects	Cursor	Apache Derby	1
+Other Objects	External Routine	Apache Derby	1
+Other Objects	Data Domain	Datacom	0
+Other Objects	Trigger	Datacom	0
+Other Objects	Procedure	Datacom	0
+Other Objects	Function	Datacom	0
+Other Objects	Cursor	Datacom	0
+Other Objects	External Routine	Datacom	0
+Other Objects	Data Domain	Informix Dynamic Server	1
+Other Objects	Trigger	Informix Dynamic Server	1
+Other Objects	Procedure	Informix Dynamic Server	1
+Other Objects	Function	Informix Dynamic Server	1
+Other Objects	Cursor	Informix Dynamic Server	1
+Other Objects	External Routine	Informix Dynamic Server	1
+Other Objects	Data Domain	Ingres	1
+Other Objects	Trigger	Ingres	1
+Other Objects	Procedure	Ingres	1
+Other Objects	Function	Ingres	1
+Other Objects	Cursor	Ingres	1
+Other Objects	External Routine	Ingres	1
+Other Objects	Data Domain	Linter	0
+Other Objects	Trigger	Linter	1
+Other Objects	Procedure	Linter	1
+Other Objects	Function	Linter	1
+Other Objects	Cursor	Linter	1
+Other Objects	External Routine	Linter	0
+Other Objects	Data Domain	Microsoft SQL Server Compact	0
+Other Objects	Trigger	Microsoft SQL Server Compact	0
+Other Objects	Procedure	Microsoft SQL Server Compact	0
+Other Objects	Function	Microsoft SQL Server Compact	0
+Other Objects	Cursor	Microsoft SQL Server Compact	1
+Other Objects	External Routine	Microsoft SQL Server Compact	0
+Other Objects	Data Domain	OpenEdge	0
+Other Objects	Trigger	OpenEdge	1
+Other Objects	Procedure	OpenEdge	0
+Other Objects	Function	OpenEdge	0
+Other Objects	Cursor	OpenEdge	0
+Other Objects	External Routine	OpenEdge	0
+Other Objects	Data Domain	Postgres Advanced Server	1
+Other Objects	Trigger	Postgres Advanced Server	1
+Other Objects	Procedure	Postgres Advanced Server	1
+Other Objects	Function	Postgres Advanced Server	1
+Other Objects	Cursor	Postgres Advanced Server	1
+Other Objects	External Routine	Postgres Advanced Server	1
+Other Objects	Data Domain	MyDatabase	0
+Other Objects	Trigger	MyDatabase	0
+Other Objects	Procedure	MyDatabase	0
+Other Objects	Function	MyDatabase	0
+Other Objects	Cursor	MyDatabase	0
+Other Objects	External Routine	MyDatabase	0
+Partitioning	Composite (Range + Hash)	ADABAS	0
+Partitioning	Native Replication API	ADABAS	0
+Partitioning	Hash	ADABAS	0
+Partitioning	Range	ADABAS	0
+Partitioning	List	ADABAS	0
+Partitioning	Unknown	ADABAS	1
+Partitioning	None	ADABAS	0
+Partitioning	Composite (Range + Hash)	Apache Derby	0
+Partitioning	Native Replication API	Apache Derby	0
+Partitioning	Hash	Apache Derby	0
+Partitioning	Range	Apache Derby	0
+Partitioning	List	Apache Derby	0
+Partitioning	Unknown	Apache Derby	0
+Partitioning	None	Apache Derby	1
+Partitioning	Composite (Range + Hash)	Datacom	0
+Partitioning	Native Replication API	Datacom	0
+Partitioning	Hash	Datacom	0
+Partitioning	Range	Datacom	0
+Partitioning	List	Datacom	0
+Partitioning	Unknown	Datacom	0
+Partitioning	None	Datacom	0
+Partitioning	Composite (Range + Hash)	Informix Dynamic Server	1
+Partitioning	Native Replication API	Informix Dynamic Server	1
+Partitioning	Hash	Informix Dynamic Server	1
+Partitioning	Range	Informix Dynamic Server	1
+Partitioning	List	Informix Dynamic Server	1
+Partitioning	Unknown	Informix Dynamic Server	0
+Partitioning	None	Informix Dynamic Server	0
+Partitioning	Composite (Range + Hash)	Ingres	1
+Partitioning	Native Replication API	Ingres	0
+Partitioning	Hash	Ingres	1
+Partitioning	Range	Ingres	1
+Partitioning	List	Ingres	1
+Partitioning	Unknown	Ingres	0
+Partitioning	None	Ingres	0
+Partitioning	Composite (Range + Hash)	Linter	0
+Partitioning	Native Replication API	Linter	0
+Partitioning	Hash	Linter	0
+Partitioning	Range	Linter	0
+Partitioning	List	Linter	0
+Partitioning	Unknown	Linter	0
+Partitioning	None	Linter	1
+Partitioning	Composite (Range + Hash)	Microsoft SQL Server Compact	0
+Partitioning	Native Replication API	Microsoft SQL Server Compact	0
+Partitioning	Hash	Microsoft SQL Server Compact	0
+Partitioning	Range	Microsoft SQL Server Compact	0
+Partitioning	List	Microsoft SQL Server Compact	0
+Partitioning	Unknown	Microsoft SQL Server Compact	0
+Partitioning	None	Microsoft SQL Server Compact	1
+Partitioning	Composite (Range + Hash)	OpenEdge	1
+Partitioning	Native Replication API	OpenEdge	0
+Partitioning	Hash	OpenEdge	0
+Partitioning	Range	OpenEdge	1
+Partitioning	List	OpenEdge	1
+Partitioning	Unknown	OpenEdge	0
+Partitioning	None	OpenEdge	0
+Partitioning	Composite (Range + Hash)	Postgres Advanced Server	0
+Partitioning	Native Replication API	Postgres Advanced Server	0
+Partitioning	Hash	Postgres Advanced Server	1
+Partitioning	Range	Postgres Advanced Server	0
+Partitioning	List	Postgres Advanced Server	0
+Partitioning	Unknown	Postgres Advanced Server	0
+Partitioning	None	Postgres Advanced Server	0
+Partitioning	Composite (Range + Hash)	MyDatabase	0
+Partitioning	Native Replication API	MyDatabase	0
+Partitioning	Hash	MyDatabase	0
+Partitioning	Range	MyDatabase	0
+Partitioning	List	MyDatabase	0
+Partitioning	Unknown	MyDatabase	0
+Partitioning	None	MyDatabase	0
+Access Control	Password Complexity Rules	ADABAS	0
+Access Control	Run Unprivileged	ADABAS	0
+Access Control	Enterprise Directory Compatibility	ADABAS	0
+Access Control	Brute-force Protection	ADABAS	0
+Access Control	Audit	ADABAS	0
+Access Control	Security Certification	ADABAS	0
+Access Control	Unknown	ADABAS	1
+Access Control	Native Network Encryption	ADABAS	0
+Access Control	Separation of Duties	ADABAS	0
+Access Control	Resource Limit	ADABAS	0
+Access Control	Patch Access	ADABAS	0
+Access Control	Password Complexity Rules	Apache Derby	0
+Access Control	Run Unprivileged	Apache Derby	0
+Access Control	Enterprise Directory Compatibility	Apache Derby	0
+Access Control	Brute-force Protection	Apache Derby	0
+Access Control	Audit	Apache Derby	0
+Access Control	Security Certification	Apache Derby	0
+Access Control	Unknown	Apache Derby	1
+Access Control	Native Network Encryption	Apache Derby	0
+Access Control	Separation of Duties	Apache Derby	0
+Access Control	Resource Limit	Apache Derby	0
+Access Control	Patch Access	Apache Derby	0
+Access Control	Password Complexity Rules	Datacom	0
+Access Control	Run Unprivileged	Datacom	0
+Access Control	Enterprise Directory Compatibility	Datacom	0
+Access Control	Brute-force Protection	Datacom	0
+Access Control	Audit	Datacom	0
+Access Control	Security Certification	Datacom	0
+Access Control	Unknown	Datacom	0
+Access Control	Native Network Encryption	Datacom	0
+Access Control	Separation of Duties	Datacom	0
+Access Control	Resource Limit	Datacom	0
+Access Control	Patch Access	Datacom	0
+Access Control	Password Complexity Rules	Informix Dynamic Server	0
+Access Control	Run Unprivileged	Informix Dynamic Server	1
+Access Control	Enterprise Directory Compatibility	Informix Dynamic Server	1
+Access Control	Brute-force Protection	Informix Dynamic Server	0
+Access Control	Audit	Informix Dynamic Server	1
+Access Control	Security Certification	Informix Dynamic Server	0
+Access Control	Unknown	Informix Dynamic Server	0
+Access Control	Native Network Encryption	Informix Dynamic Server	1
+Access Control	Separation of Duties	Informix Dynamic Server	1
+Access Control	Resource Limit	Informix Dynamic Server	1
+Access Control	Patch Access	Informix Dynamic Server	1
+Access Control	Password Complexity Rules	Ingres	0
+Access Control	Run Unprivileged	Ingres	0
+Access Control	Enterprise Directory Compatibility	Ingres	0
+Access Control	Brute-force Protection	Ingres	0
+Access Control	Audit	Ingres	0
+Access Control	Security Certification	Ingres	0
+Access Control	Unknown	Ingres	0
+Access Control	Native Network Encryption	Ingres	0
+Access Control	Separation of Duties	Ingres	0
+Access Control	Resource Limit	Ingres	0
+Access Control	Patch Access	Ingres	0
+Access Control	Password Complexity Rules	Linter	1
+Access Control	Run Unprivileged	Linter	1
+Access Control	Enterprise Directory Compatibility	Linter	1
+Access Control	Brute-force Protection	Linter	1
+Access Control	Audit	Linter	1
+Access Control	Security Certification	Linter	1
+Access Control	Unknown	Linter	0
+Access Control	Native Network Encryption	Linter	1
+Access Control	Separation of Duties	Linter	1
+Access Control	Resource Limit	Linter	1
+Access Control	Patch Access	Linter	0
+Access Control	Password Complexity Rules	Microsoft SQL Server Compact	0
+Access Control	Run Unprivileged	Microsoft SQL Server Compact	1
+Access Control	Enterprise Directory Compatibility	Microsoft SQL Server Compact	0
+Access Control	Brute-force Protection	Microsoft SQL Server Compact	0
+Access Control	Audit	Microsoft SQL Server Compact	1
+Access Control	Security Certification	Microsoft SQL Server Compact	0
+Access Control	Unknown	Microsoft SQL Server Compact	0
+Access Control	Native Network Encryption	Microsoft SQL Server Compact	0
+Access Control	Separation of Duties	Microsoft SQL Server Compact	0
+Access Control	Resource Limit	Microsoft SQL Server Compact	1
+Access Control	Patch Access	Microsoft SQL Server Compact	1
+Access Control	Password Complexity Rules	OpenEdge	0
+Access Control	Run Unprivileged	OpenEdge	0
+Access Control	Enterprise Directory Compatibility	OpenEdge	0
+Access Control	Brute-force Protection	OpenEdge	0
+Access Control	Audit	OpenEdge	0
+Access Control	Security Certification	OpenEdge	0
+Access Control	Unknown	OpenEdge	1
+Access Control	Native Network Encryption	OpenEdge	0
+Access Control	Separation of Duties	OpenEdge	0
+Access Control	Resource Limit	OpenEdge	0
+Access Control	Patch Access	OpenEdge	0
+Access Control	Password Complexity Rules	Postgres Advanced Server	0
+Access Control	Run Unprivileged	Postgres Advanced Server	0
+Access Control	Enterprise Directory Compatibility	Postgres Advanced Server	0
+Access Control	Brute-force Protection	Postgres Advanced Server	0
+Access Control	Audit	Postgres Advanced Server	0
+Access Control	Security Certification	Postgres Advanced Server	0
+Access Control	Unknown	Postgres Advanced Server	1
+Access Control	Native Network Encryption	Postgres Advanced Server	0
+Access Control	Separation of Duties	Postgres Advanced Server	0
+Access Control	Resource Limit	Postgres Advanced Server	0
+Access Control	Patch Access	Postgres Advanced Server	0
+Access Control	Password Complexity Rules	MyDatabase	0
+Access Control	Run Unprivileged	MyDatabase	0
+Access Control	Enterprise Directory Compatibility	MyDatabase	0
+Access Control	Brute-force Protection	MyDatabase	0
+Access Control	Audit	MyDatabase	0
+Access Control	Security Certification	MyDatabase	0
+Access Control	Unknown	MyDatabase	0
+Access Control	Native Network Encryption	MyDatabase	0
+Access Control	Separation of Duties	MyDatabase	0
+Access Control	Resource Limit	MyDatabase	0
+Access Control	Patch Access	MyDatabase	0
+Database Capabilities	Outer Joins	ADABAS	0
+Database Capabilities	Merge Joins	ADABAS	0
+Database Capabilities	Except	ADABAS	0
+Database Capabilities	Inner Selects	ADABAS	0
+Database Capabilities	Inner Joins	ADABAS	0
+Database Capabilities	Windowing Functions	ADABAS	0
+Database Capabilities	Intersect	ADABAS	0
+Database Capabilities	Common Table Expressions	ADABAS	0
+Database Capabilities	Union	ADABAS	1
+Database Capabilities	Parallel Query	ADABAS	1
+Database Capabilities	Blobs and Clobs	ADABAS	0
+Database Capabilities	Outer Joins	Apache Derby	1
+Database Capabilities	Merge Joins	Apache Derby	0
+Database Capabilities	Except	Apache Derby	1
+Database Capabilities	Inner Selects	Apache Derby	1
+Database Capabilities	Inner Joins	Apache Derby	1
+Database Capabilities	Windowing Functions	Apache Derby	0
+Database Capabilities	Intersect	Apache Derby	1
+Database Capabilities	Common Table Expressions	Apache Derby	0
+Database Capabilities	Union	Apache Derby	1
+Database Capabilities	Parallel Query	Apache Derby	0
+Database Capabilities	Blobs and Clobs	Apache Derby	1
+Database Capabilities	Outer Joins	Datacom	0
+Database Capabilities	Merge Joins	Datacom	0
+Database Capabilities	Except	Datacom	0
+Database Capabilities	Inner Selects	Datacom	0
+Database Capabilities	Inner Joins	Datacom	0
+Database Capabilities	Windowing Functions	Datacom	0
+Database Capabilities	Intersect	Datacom	0
+Database Capabilities	Common Table Expressions	Datacom	0
+Database Capabilities	Union	Datacom	0
+Database Capabilities	Parallel Query	Datacom	0
+Database Capabilities	Blobs and Clobs	Datacom	0
+Database Capabilities	Outer Joins	Informix Dynamic Server	1
+Database Capabilities	Merge Joins	Informix Dynamic Server	1
+Database Capabilities	Except	Informix Dynamic Server	1
+Database Capabilities	Inner Selects	Informix Dynamic Server	1
+Database Capabilities	Inner Joins	Informix Dynamic Server	1
+Database Capabilities	Windowing Functions	Informix Dynamic Server	1
+Database Capabilities	Intersect	Informix Dynamic Server	1
+Database Capabilities	Common Table Expressions	Informix Dynamic Server	1
+Database Capabilities	Union	Informix Dynamic Server	1
+Database Capabilities	Parallel Query	Informix Dynamic Server	1
+Database Capabilities	Blobs and Clobs	Informix Dynamic Server	1
+Database Capabilities	Outer Joins	Ingres	1
+Database Capabilities	Merge Joins	Ingres	1
+Database Capabilities	Except	Ingres	0
+Database Capabilities	Inner Selects	Ingres	1
+Database Capabilities	Inner Joins	Ingres	1
+Database Capabilities	Windowing Functions	Ingres	0
+Database Capabilities	Intersect	Ingres	0
+Database Capabilities	Common Table Expressions	Ingres	0
+Database Capabilities	Union	Ingres	1
+Database Capabilities	Parallel Query	Ingres	0
+Database Capabilities	Blobs and Clobs	Ingres	1
+Database Capabilities	Outer Joins	Linter	1
+Database Capabilities	Merge Joins	Linter	1
+Database Capabilities	Except	Linter	1
+Database Capabilities	Inner Selects	Linter	1
+Database Capabilities	Inner Joins	Linter	1
+Database Capabilities	Windowing Functions	Linter	1
+Database Capabilities	Intersect	Linter	1
+Database Capabilities	Common Table Expressions	Linter	1
+Database Capabilities	Union	Linter	1
+Database Capabilities	Parallel Query	Linter	0
+Database Capabilities	Blobs and Clobs	Linter	1
+Database Capabilities	Outer Joins	Microsoft SQL Server Compact	1
+Database Capabilities	Merge Joins	Microsoft SQL Server Compact	0
+Database Capabilities	Except	Microsoft SQL Server Compact	0
+Database Capabilities	Inner Selects	Microsoft SQL Server Compact	0
+Database Capabilities	Inner Joins	Microsoft SQL Server Compact	1
+Database Capabilities	Windowing Functions	Microsoft SQL Server Compact	0
+Database Capabilities	Intersect	Microsoft SQL Server Compact	0
+Database Capabilities	Common Table Expressions	Microsoft SQL Server Compact	0
+Database Capabilities	Union	Microsoft SQL Server Compact	1
+Database Capabilities	Parallel Query	Microsoft SQL Server Compact	0
+Database Capabilities	Blobs and Clobs	Microsoft SQL Server Compact	1
+Database Capabilities	Outer Joins	OpenEdge	0
+Database Capabilities	Merge Joins	OpenEdge	0
+Database Capabilities	Except	OpenEdge	0
+Database Capabilities	Inner Selects	OpenEdge	0
+Database Capabilities	Inner Joins	OpenEdge	0
+Database Capabilities	Windowing Functions	OpenEdge	0
+Database Capabilities	Intersect	OpenEdge	0
+Database Capabilities	Common Table Expressions	OpenEdge	0
+Database Capabilities	Union	OpenEdge	0
+Database Capabilities	Parallel Query	OpenEdge	0
+Database Capabilities	Blobs and Clobs	OpenEdge	1
+Database Capabilities	Outer Joins	Postgres Advanced Server	1
+Database Capabilities	Merge Joins	Postgres Advanced Server	1
+Database Capabilities	Except	Postgres Advanced Server	1
+Database Capabilities	Inner Selects	Postgres Advanced Server	1
+Database Capabilities	Inner Joins	Postgres Advanced Server	1
+Database Capabilities	Windowing Functions	Postgres Advanced Server	1
+Database Capabilities	Intersect	Postgres Advanced Server	1
+Database Capabilities	Common Table Expressions	Postgres Advanced Server	1
+Database Capabilities	Union	Postgres Advanced Server	1
+Database Capabilities	Parallel Query	Postgres Advanced Server	0
+Database Capabilities	Blobs and Clobs	Postgres Advanced Server	1
+Database Capabilities	Outer Joins	MyDatabase	0
+Database Capabilities	Merge Joins	MyDatabase	0
+Database Capabilities	Except	MyDatabase	0
+Database Capabilities	Inner Selects	MyDatabase	0
+Database Capabilities	Inner Joins	MyDatabase	0
+Database Capabilities	Windowing Functions	MyDatabase	0
+Database Capabilities	Intersect	MyDatabase	0
+Database Capabilities	Common Table Expressions	MyDatabase	0
+Database Capabilities	Union	MyDatabase	0
+Database Capabilities	Parallel Query	MyDatabase	0
+Database Capabilities	Blobs and Clobs	MyDatabase	0
+Tables and Views	Temporary Table	ADABAS	0
+Tables and Views	Materialized Views	ADABAS	0
+Tables and Views	Unknown	ADABAS	1
+Tables and Views	Temporary Table	Apache Derby	1
+Tables and Views	Materialized Views	Apache Derby	0
+Tables and Views	Unknown	Apache Derby	0
+Tables and Views	Temporary Table	Datacom	0
+Tables and Views	Materialized Views	Datacom	0
+Tables and Views	Unknown	Datacom	0
+Tables and Views	Temporary Table	Informix Dynamic Server	1
+Tables and Views	Materialized Views	Informix Dynamic Server	0
+Tables and Views	Unknown	Informix Dynamic Server	0
+Tables and Views	Temporary Table	Ingres	1
+Tables and Views	Materialized Views	Ingres	0
+Tables and Views	Unknown	Ingres	0
+Tables and Views	Temporary Table	Linter	1
+Tables and Views	Materialized Views	Linter	1
+Tables and Views	Unknown	Linter	0
+Tables and Views	Temporary Table	Microsoft SQL Server Compact	1
+Tables and Views	Materialized Views	Microsoft SQL Server Compact	0
+Tables and Views	Unknown	Microsoft SQL Server Compact	0
+Tables and Views	Temporary Table	OpenEdge	1
+Tables and Views	Materialized Views	OpenEdge	0
+Tables and Views	Unknown	OpenEdge	0
+Tables and Views	Temporary Table	Postgres Advanced Server	1
+Tables and Views	Materialized Views	Postgres Advanced Server	1
+Tables and Views	Unknown	Postgres Advanced Server	0
+Tables and Views	Temporary Table	MyDatabase	0
+Tables and Views	Materialized Views	MyDatabase	0
+Tables and Views	Unknown	MyDatabase	0
+Features	XML Format Support	Adaptive Server Enterprise	0
+Features	Templates	Adaptive Server Enterprise	0
+Features	Network Protocols Supported	Adaptive Server Enterprise	0
+Features	Transactions	Adaptive Server Enterprise	1
+Features	Parallel Processing	Adaptive Server Enterprise	0
+Features	Integrated Storage Manager	Adaptive Server Enterprise	0
+Features	Script Debugger	Adaptive Server Enterprise	0
+Features	Multiple Data Access Command Sets	Adaptive Server Enterprise	0
+Features	Highly Scalable	Adaptive Server Enterprise	0
+Features	High Availability	Adaptive Server Enterprise	1
+Features	Convert from Old Relational Databases	Adaptive Server Enterprise	0
+Features	SQL Interpreter	Adaptive Server Enterprise	0
+Features	Referential Integrity	Adaptive Server Enterprise	1
+Features	Multi-Core Support	Adaptive Server Enterprise	0
+Features	Open Source	Adaptive Server Enterprise	0
+Features	Java Support	Adaptive Server Enterprise	0
+Features	Drag and Drop	Adaptive Server Enterprise	0
+Features	Compression of Data	Adaptive Server Enterprise	0
+Features	Backup	Adaptive Server Enterprise	0
+Features	Very small and Fast	Adaptive Server Enterprise	0
+Features	Unicode	Adaptive Server Enterprise	1
+Features	Multiple Threads	Adaptive Server Enterprise	0
+Features	Import Data	Adaptive Server Enterprise	0
+Features	Extensibility	Adaptive Server Enterprise	0
+Features	Encryption of Data	Adaptive Server Enterprise	1
+Features	Export Data	Adaptive Server Enterprise	0
+Features	ACID	Adaptive Server Enterprise	1
+Features	Real Time Access to Database	Adaptive Server Enterprise	0
+Features	Internet Protocol Support	Adaptive Server Enterprise	0
+Features	Database Imports	Adaptive Server Enterprise	0
+Features	Custom Functions	Adaptive Server Enterprise	0
+Features	XML Format Support	ALTIBASE HDB	0
+Features	Templates	ALTIBASE HDB	0
+Features	Network Protocols Supported	ALTIBASE HDB	0
+Features	Transactions	ALTIBASE HDB	1
+Features	Parallel Processing	ALTIBASE HDB	0
+Features	Integrated Storage Manager	ALTIBASE HDB	0
+Features	Script Debugger	ALTIBASE HDB	0
+Features	Multiple Data Access Command Sets	ALTIBASE HDB	0
+Features	Highly Scalable	ALTIBASE HDB	1
+Features	High Availability	ALTIBASE HDB	1
+Features	Convert from Old Relational Databases	ALTIBASE HDB	0
+Features	SQL Interpreter	ALTIBASE HDB	1
+Features	Referential Integrity	ALTIBASE HDB	1
+Features	Multi-Core Support	ALTIBASE HDB	0
+Features	Open Source	ALTIBASE HDB	0
+Features	Java Support	ALTIBASE HDB	1
+Features	Drag and Drop	ALTIBASE HDB	0
+Features	Compression of Data	ALTIBASE HDB	0
+Features	Backup	ALTIBASE HDB	1
+Features	Very small and Fast	ALTIBASE HDB	0
+Features	Unicode	ALTIBASE HDB	1
+Features	Multiple Threads	ALTIBASE HDB	1
+Features	Import Data	ALTIBASE HDB	1
+Features	Extensibility	ALTIBASE HDB	0
+Features	Encryption of Data	ALTIBASE HDB	1
+Features	Export Data	ALTIBASE HDB	1
+Features	ACID	ALTIBASE HDB	1
+Features	Real Time Access to Database	ALTIBASE HDB	1
+Features	Internet Protocol Support	ALTIBASE HDB	0
+Features	Database Imports	ALTIBASE HDB	1
+Features	Custom Functions	ALTIBASE HDB	0
+Features	XML Format Support	Empress	0
+Features	Templates	Empress	0
+Features	Network Protocols Supported	Empress	0
+Features	Transactions	Empress	1
+Features	Parallel Processing	Empress	0
+Features	Integrated Storage Manager	Empress	0
+Features	Script Debugger	Empress	0
+Features	Multiple Data Access Command Sets	Empress	0
+Features	Highly Scalable	Empress	0
+Features	High Availability	Empress	0
+Features	Convert from Old Relational Databases	Empress	0
+Features	SQL Interpreter	Empress	0
+Features	Referential Integrity	Empress	1
+Features	Multi-Core Support	Empress	0
+Features	Open Source	Empress	0
+Features	Java Support	Empress	0
+Features	Drag and Drop	Empress	0
+Features	Compression of Data	Empress	0
+Features	Backup	Empress	0
+Features	Very small and Fast	Empress	0
+Features	Unicode	Empress	1
+Features	Multiple Threads	Empress	0
+Features	Import Data	Empress	0
+Features	Extensibility	Empress	0
+Features	Encryption of Data	Empress	0
+Features	Export Data	Empress	0
+Features	ACID	Empress	1
+Features	Real Time Access to Database	Empress	0
+Features	Internet Protocol Support	Empress	0
+Features	Database Imports	Empress	0
+Features	Custom Functions	Empress	0
+Features	XML Format Support	Nexusdb	0
+Features	Templates	Nexusdb	0
+Features	Network Protocols Supported	Nexusdb	1
+Features	Transactions	Nexusdb	1
+Features	Parallel Processing	Nexusdb	0
+Features	Integrated Storage Manager	Nexusdb	1
+Features	Script Debugger	Nexusdb	0
+Features	Multiple Data Access Command Sets	Nexusdb	1
+Features	Highly Scalable	Nexusdb	1
+Features	High Availability	Nexusdb	0
+Features	Convert from Old Relational Databases	Nexusdb	1
+Features	SQL Interpreter	Nexusdb	1
+Features	Referential Integrity	Nexusdb	1
+Features	Multi-Core Support	Nexusdb	1
+Features	Open Source	Nexusdb	0
+Features	Java Support	Nexusdb	0
+Features	Drag and Drop	Nexusdb	0
+Features	Compression of Data	Nexusdb	1
+Features	Backup	Nexusdb	1
+Features	Very small and Fast	Nexusdb	1
+Features	Unicode	Nexusdb	1
+Features	Multiple Threads	Nexusdb	1
+Features	Import Data	Nexusdb	1
+Features	Extensibility	Nexusdb	1
+Features	Encryption of Data	Nexusdb	1
+Features	Export Data	Nexusdb	1
+Features	ACID	Nexusdb	1
+Features	Real Time Access to Database	Nexusdb	0
+Features	Internet Protocol Support	Nexusdb	0
+Features	Database Imports	Nexusdb	1
+Features	Custom Functions	Nexusdb	1
+Features	XML Format Support	OpenLink Virtuoso	1
+Features	Templates	OpenLink Virtuoso	0
+Features	Network Protocols Supported	OpenLink Virtuoso	0
+Features	Transactions	OpenLink Virtuoso	1
+Features	Parallel Processing	OpenLink Virtuoso	0
+Features	Integrated Storage Manager	OpenLink Virtuoso	0
+Features	Script Debugger	OpenLink Virtuoso	0
+Features	Multiple Data Access Command Sets	OpenLink Virtuoso	1
+Features	Highly Scalable	OpenLink Virtuoso	1
+Features	High Availability	OpenLink Virtuoso	1
+Features	Convert from Old Relational Databases	OpenLink Virtuoso	0
+Features	SQL Interpreter	OpenLink Virtuoso	1
+Features	Referential Integrity	OpenLink Virtuoso	1
+Features	Multi-Core Support	OpenLink Virtuoso	1
+Features	Open Source	OpenLink Virtuoso	0
+Features	Java Support	OpenLink Virtuoso	0
+Features	Drag and Drop	OpenLink Virtuoso	1
+Features	Compression of Data	OpenLink Virtuoso	1
+Features	Backup	OpenLink Virtuoso	1
+Features	Very small and Fast	OpenLink Virtuoso	0
+Features	Unicode	OpenLink Virtuoso	1
+Features	Multiple Threads	OpenLink Virtuoso	1
+Features	Import Data	OpenLink Virtuoso	1
+Features	Extensibility	OpenLink Virtuoso	0
+Features	Encryption of Data	OpenLink Virtuoso	1
+Features	Export Data	OpenLink Virtuoso	0
+Features	ACID	OpenLink Virtuoso	1
+Features	Real Time Access to Database	OpenLink Virtuoso	1
+Features	Internet Protocol Support	OpenLink Virtuoso	1
+Features	Database Imports	OpenLink Virtuoso	1
+Features	Custom Functions	OpenLink Virtuoso	1
+Features	XML Format Support	Polyhedra	0
+Features	Templates	Polyhedra	0
+Features	Network Protocols Supported	Polyhedra	0
+Features	Transactions	Polyhedra	1
+Features	Parallel Processing	Polyhedra	0
+Features	Integrated Storage Manager	Polyhedra	0
+Features	Script Debugger	Polyhedra	0
+Features	Multiple Data Access Command Sets	Polyhedra	0
+Features	Highly Scalable	Polyhedra	0
+Features	High Availability	Polyhedra	0
+Features	Convert from Old Relational Databases	Polyhedra	0
+Features	SQL Interpreter	Polyhedra	0
+Features	Referential Integrity	Polyhedra	1
+Features	Multi-Core Support	Polyhedra	0
+Features	Open Source	Polyhedra	0
+Features	Java Support	Polyhedra	0
+Features	Drag and Drop	Polyhedra	0
+Features	Compression of Data	Polyhedra	0
+Features	Backup	Polyhedra	0
+Features	Very small and Fast	Polyhedra	0
+Features	Unicode	Polyhedra	1
+Features	Multiple Threads	Polyhedra	0
+Features	Import Data	Polyhedra	0
+Features	Extensibility	Polyhedra	0
+Features	Encryption of Data	Polyhedra	0
+Features	Export Data	Polyhedra	0
+Features	ACID	Polyhedra	1
+Features	Real Time Access to Database	Polyhedra	0
+Features	Internet Protocol Support	Polyhedra	0
+Features	Database Imports	Polyhedra	0
+Features	Custom Functions	Polyhedra	0
+Features	XML Format Support	SmallSQL	0
+Features	Templates	SmallSQL	0
+Features	Network Protocols Supported	SmallSQL	0
+Features	Transactions	SmallSQL	0
+Features	Parallel Processing	SmallSQL	0
+Features	Integrated Storage Manager	SmallSQL	0
+Features	Script Debugger	SmallSQL	0
+Features	Multiple Data Access Command Sets	SmallSQL	0
+Features	Highly Scalable	SmallSQL	0
+Features	High Availability	SmallSQL	0
+Features	Convert from Old Relational Databases	SmallSQL	0
+Features	SQL Interpreter	SmallSQL	0
+Features	Referential Integrity	SmallSQL	0
+Features	Multi-Core Support	SmallSQL	0
+Features	Open Source	SmallSQL	1
+Features	Java Support	SmallSQL	1
+Features	Drag and Drop	SmallSQL	0
+Features	Compression of Data	SmallSQL	0
+Features	Backup	SmallSQL	0
+Features	Very small and Fast	SmallSQL	0
+Features	Unicode	SmallSQL	0
+Features	Multiple Threads	SmallSQL	0
+Features	Import Data	SmallSQL	0
+Features	Extensibility	SmallSQL	0
+Features	Encryption of Data	SmallSQL	0
+Features	Export Data	SmallSQL	0
+Features	ACID	SmallSQL	0
+Features	Real Time Access to Database	SmallSQL	1
+Features	Internet Protocol Support	SmallSQL	0
+Features	Database Imports	SmallSQL	0
+Features	Custom Functions	SmallSQL	0
+Features	XML Format Support	Valentina	1
+Features	Templates	Valentina	0
+Features	Network Protocols Supported	Valentina	0
+Features	Transactions	Valentina	0
+Features	Parallel Processing	Valentina	0
+Features	Integrated Storage Manager	Valentina	0
+Features	Script Debugger	Valentina	0
+Features	Multiple Data Access Command Sets	Valentina	0
+Features	Highly Scalable	Valentina	0
+Features	High Availability	Valentina	0
+Features	Convert from Old Relational Databases	Valentina	1
+Features	SQL Interpreter	Valentina	0
+Features	Referential Integrity	Valentina	1
+Features	Multi-Core Support	Valentina	1
+Features	Open Source	Valentina	0
+Features	Java Support	Valentina	1
+Features	Drag and Drop	Valentina	0
+Features	Compression of Data	Valentina	1
+Features	Backup	Valentina	1
+Features	Very small and Fast	Valentina	1
+Features	Unicode	Valentina	1
+Features	Multiple Threads	Valentina	1
+Features	Import Data	Valentina	1
+Features	Extensibility	Valentina	0
+Features	Encryption of Data	Valentina	1
+Features	Export Data	Valentina	1
+Features	ACID	Valentina	0
+Features	Real Time Access to Database	Valentina	0
+Features	Internet Protocol Support	Valentina	0
+Features	Database Imports	Valentina	1
+Features	Custom Functions	Valentina	1
+Features	XML Format Support	VelocityDB	0
+Features	Templates	VelocityDB	0
+Features	Network Protocols Supported	VelocityDB	0
+Features	Transactions	VelocityDB	1
+Features	Parallel Processing	VelocityDB	1
+Features	Integrated Storage Manager	VelocityDB	0
+Features	Script Debugger	VelocityDB	0
+Features	Multiple Data Access Command Sets	VelocityDB	0
+Features	Highly Scalable	VelocityDB	1
+Features	High Availability	VelocityDB	1
+Features	Convert from Old Relational Databases	VelocityDB	0
+Features	SQL Interpreter	VelocityDB	0
+Features	Referential Integrity	VelocityDB	0
+Features	Multi-Core Support	VelocityDB	1
+Features	Open Source	VelocityDB	0
+Features	Java Support	VelocityDB	0
+Features	Drag and Drop	VelocityDB	0
+Features	Compression of Data	VelocityDB	1
+Features	Backup	VelocityDB	1
+Features	Very small and Fast	VelocityDB	1
+Features	Unicode	VelocityDB	1
+Features	Multiple Threads	VelocityDB	1
+Features	Import Data	VelocityDB	1
+Features	Extensibility	VelocityDB	0
+Features	Encryption of Data	VelocityDB	1
+Features	Export Data	VelocityDB	1
+Features	ACID	VelocityDB	1
+Features	Real Time Access to Database	VelocityDB	0
+Features	Internet Protocol Support	VelocityDB	0
+Features	Database Imports	VelocityDB	1
+Features	Custom Functions	VelocityDB	0
+Features	XML Format Support	NuoDB	0
+Features	Templates	NuoDB	1
+Features	Network Protocols Supported	NuoDB	0
+Features	Transactions	NuoDB	1
+Features	Parallel Processing	NuoDB	1
+Features	Integrated Storage Manager	NuoDB	1
+Features	Script Debugger	NuoDB	1
+Features	Multiple Data Access Command Sets	NuoDB	0
+Features	Highly Scalable	NuoDB	1
+Features	High Availability	NuoDB	1
+Features	Convert from Old Relational Databases	NuoDB	1
+Features	SQL Interpreter	NuoDB	1
+Features	Referential Integrity	NuoDB	1
+Features	Multi-Core Support	NuoDB	1
+Features	Open Source	NuoDB	0
+Features	Java Support	NuoDB	1
+Features	Drag and Drop	NuoDB	0
+Features	Compression of Data	NuoDB	0
+Features	Backup	NuoDB	1
+Features	Very small and Fast	NuoDB	1
+Features	Unicode	NuoDB	1
+Features	Multiple Threads	NuoDB	1
+Features	Import Data	NuoDB	1
+Features	Extensibility	NuoDB	0
+Features	Encryption of Data	NuoDB	1
+Features	Export Data	NuoDB	1
+Features	ACID	NuoDB	1
+Features	Real Time Access to Database	NuoDB	1
+Features	Internet Protocol Support	NuoDB	1
+Features	Database Imports	NuoDB	1
+Features	Custom Functions	NuoDB	1
+Indexes	Spatial	Adaptive Server Enterprise	0
+Indexes	Bitmap	Adaptive Server Enterprise	0
+Indexes	R-/R+ Tree	Adaptive Server Enterprise	0
+Indexes	Hash	Adaptive Server Enterprise	0
+Indexes	Partial	Adaptive Server Enterprise	0
+Indexes	Defragmentation	Adaptive Server Enterprise	0
+Indexes	Unknown	Adaptive Server Enterprise	0
+Indexes	Full-text	Adaptive Server Enterprise	1
+Indexes	Reverse	Adaptive Server Enterprise	1
+Indexes	Expression	Adaptive Server Enterprise	1
+Indexes	Spatial	ALTIBASE HDB	0
+Indexes	Bitmap	ALTIBASE HDB	0
+Indexes	R-/R+ Tree	ALTIBASE HDB	1
+Indexes	Hash	ALTIBASE HDB	0
+Indexes	Partial	ALTIBASE HDB	0
+Indexes	Defragmentation	ALTIBASE HDB	0
+Indexes	Unknown	ALTIBASE HDB	0
+Indexes	Full-text	ALTIBASE HDB	0
+Indexes	Reverse	ALTIBASE HDB	0
+Indexes	Expression	ALTIBASE HDB	0
+Indexes	Spatial	Empress	0
+Indexes	Bitmap	Empress	1
+Indexes	R-/R+ Tree	Empress	1
+Indexes	Hash	Empress	0
+Indexes	Partial	Empress	1
+Indexes	Defragmentation	Empress	0
+Indexes	Unknown	Empress	0
+Indexes	Full-text	Empress	0
+Indexes	Reverse	Empress	0
+Indexes	Expression	Empress	0
+Indexes	Spatial	Nexusdb	0
+Indexes	Bitmap	Nexusdb	1
+Indexes	R-/R+ Tree	Nexusdb	1
+Indexes	Hash	Nexusdb	0
+Indexes	Partial	Nexusdb	0
+Indexes	Defragmentation	Nexusdb	0
+Indexes	Unknown	Nexusdb	0
+Indexes	Full-text	Nexusdb	1
+Indexes	Reverse	Nexusdb	0
+Indexes	Expression	Nexusdb	1
+Indexes	Spatial	OpenLink Virtuoso	1
+Indexes	Bitmap	OpenLink Virtuoso	1
+Indexes	R-/R+ Tree	OpenLink Virtuoso	1
+Indexes	Hash	OpenLink Virtuoso	1
+Indexes	Partial	OpenLink Virtuoso	1
+Indexes	Defragmentation	OpenLink Virtuoso	0
+Indexes	Unknown	OpenLink Virtuoso	0
+Indexes	Full-text	OpenLink Virtuoso	1
+Indexes	Reverse	OpenLink Virtuoso	0
+Indexes	Expression	OpenLink Virtuoso	1
+Indexes	Spatial	Polyhedra	0
+Indexes	Bitmap	Polyhedra	0
+Indexes	R-/R+ Tree	Polyhedra	0
+Indexes	Hash	Polyhedra	1
+Indexes	Partial	Polyhedra	0
+Indexes	Defragmentation	Polyhedra	0
+Indexes	Unknown	Polyhedra	0
+Indexes	Full-text	Polyhedra	0
+Indexes	Reverse	Polyhedra	0
+Indexes	Expression	Polyhedra	0
+Indexes	Spatial	SmallSQL	0
+Indexes	Bitmap	SmallSQL	0
+Indexes	R-/R+ Tree	SmallSQL	0
+Indexes	Hash	SmallSQL	0
+Indexes	Partial	SmallSQL	0
+Indexes	Defragmentation	SmallSQL	0
+Indexes	Unknown	SmallSQL	0
+Indexes	Full-text	SmallSQL	0
+Indexes	Reverse	SmallSQL	0
+Indexes	Expression	SmallSQL	0
+Indexes	Spatial	Valentina	0
+Indexes	Bitmap	Valentina	1
+Indexes	R-/R+ Tree	Valentina	0
+Indexes	Hash	Valentina	1
+Indexes	Partial	Valentina	1
+Indexes	Defragmentation	Valentina	1
+Indexes	Unknown	Valentina	0
+Indexes	Full-text	Valentina	1
+Indexes	Reverse	Valentina	1
+Indexes	Expression	Valentina	1
+Indexes	Spatial	VelocityDB	1
+Indexes	Bitmap	VelocityDB	0
+Indexes	R-/R+ Tree	VelocityDB	1
+Indexes	Hash	VelocityDB	1
+Indexes	Partial	VelocityDB	0
+Indexes	Defragmentation	VelocityDB	0
+Indexes	Unknown	VelocityDB	0
+Indexes	Full-text	VelocityDB	0
+Indexes	Reverse	VelocityDB	0
+Indexes	Expression	VelocityDB	0
+Indexes	Spatial	NuoDB	0
+Indexes	Bitmap	NuoDB	0
+Indexes	R-/R+ Tree	NuoDB	0
+Indexes	Hash	NuoDB	0
+Indexes	Partial	NuoDB	0
+Indexes	Defragmentation	NuoDB	0
+Indexes	Unknown	NuoDB	1
+Indexes	Full-text	NuoDB	0
+Indexes	Reverse	NuoDB	0
+Indexes	Expression	NuoDB	0
+Other Objects	Data Domain	Adaptive Server Enterprise	1
+Other Objects	Trigger	Adaptive Server Enterprise	1
+Other Objects	Procedure	Adaptive Server Enterprise	1
+Other Objects	Function	Adaptive Server Enterprise	1
+Other Objects	Cursor	Adaptive Server Enterprise	1
+Other Objects	External Routine	Adaptive Server Enterprise	1
+Other Objects	Data Domain	ALTIBASE HDB	0
+Other Objects	Trigger	ALTIBASE HDB	1
+Other Objects	Procedure	ALTIBASE HDB	1
+Other Objects	Function	ALTIBASE HDB	1
+Other Objects	Cursor	ALTIBASE HDB	1
+Other Objects	External Routine	ALTIBASE HDB	1
+Other Objects	Data Domain	Empress	1
+Other Objects	Trigger	Empress	1
+Other Objects	Procedure	Empress	1
+Other Objects	Function	Empress	1
+Other Objects	Cursor	Empress	1
+Other Objects	External Routine	Empress	1
+Other Objects	Data Domain	Nexusdb	0
+Other Objects	Trigger	Nexusdb	1
+Other Objects	Procedure	Nexusdb	1
+Other Objects	Function	Nexusdb	1
+Other Objects	Cursor	Nexusdb	1
+Other Objects	External Routine	Nexusdb	1
+Other Objects	Data Domain	OpenLink Virtuoso	1
+Other Objects	Trigger	OpenLink Virtuoso	1
+Other Objects	Procedure	OpenLink Virtuoso	1
+Other Objects	Function	OpenLink Virtuoso	1
+Other Objects	Cursor	OpenLink Virtuoso	1
+Other Objects	External Routine	OpenLink Virtuoso	1
+Other Objects	Data Domain	Polyhedra	0
+Other Objects	Trigger	Polyhedra	1
+Other Objects	Procedure	Polyhedra	1
+Other Objects	Function	Polyhedra	1
+Other Objects	Cursor	Polyhedra	0
+Other Objects	External Routine	Polyhedra	1
+Other Objects	Data Domain	SmallSQL	0
+Other Objects	Trigger	SmallSQL	0
+Other Objects	Procedure	SmallSQL	0
+Other Objects	Function	SmallSQL	0
+Other Objects	Cursor	SmallSQL	0
+Other Objects	External Routine	SmallSQL	0
+Other Objects	Data Domain	Valentina	0
+Other Objects	Trigger	Valentina	1
+Other Objects	Procedure	Valentina	1
+Other Objects	Function	Valentina	1
+Other Objects	Cursor	Valentina	1
+Other Objects	External Routine	Valentina	0
+Other Objects	Data Domain	VelocityDB	0
+Other Objects	Trigger	VelocityDB	1
+Other Objects	Procedure	VelocityDB	0
+Other Objects	Function	VelocityDB	0
+Other Objects	Cursor	VelocityDB	0
+Other Objects	External Routine	VelocityDB	0
+Other Objects	Data Domain	NuoDB	1
+Other Objects	Trigger	NuoDB	1
+Other Objects	Procedure	NuoDB	1
+Other Objects	Function	NuoDB	1
+Other Objects	Cursor	NuoDB	0
+Other Objects	External Routine	NuoDB	0
+Partitioning	Composite (Range + Hash)	Adaptive Server Enterprise	0
+Partitioning	Native Replication API	Adaptive Server Enterprise	0
+Partitioning	Hash	Adaptive Server Enterprise	1
+Partitioning	Range	Adaptive Server Enterprise	1
+Partitioning	List	Adaptive Server Enterprise	1
+Partitioning	Unknown	Adaptive Server Enterprise	0
+Partitioning	Shadow	Adaptive Server Enterprise	0
+Partitioning	None	Adaptive Server Enterprise	0
+Partitioning	Composite (Range + Hash)	ALTIBASE HDB	0
+Partitioning	Native Replication API	ALTIBASE HDB	0
+Partitioning	Hash	ALTIBASE HDB	1
+Partitioning	Range	ALTIBASE HDB	1
+Partitioning	List	ALTIBASE HDB	1
+Partitioning	Unknown	ALTIBASE HDB	0
+Partitioning	Shadow	ALTIBASE HDB	0
+Partitioning	None	ALTIBASE HDB	0
+Partitioning	Composite (Range + Hash)	Empress	0
+Partitioning	Native Replication API	Empress	1
+Partitioning	Hash	Empress	0
+Partitioning	Range	Empress	0
+Partitioning	List	Empress	0
+Partitioning	Unknown	Empress	0
+Partitioning	Shadow	Empress	0
+Partitioning	None	Empress	0
+Partitioning	Composite (Range + Hash)	Nexusdb	0
+Partitioning	Native Replication API	Nexusdb	0
+Partitioning	Hash	Nexusdb	0
+Partitioning	Range	Nexusdb	0
+Partitioning	List	Nexusdb	0
+Partitioning	Unknown	Nexusdb	0
+Partitioning	Shadow	Nexusdb	0
+Partitioning	None	Nexusdb	0
+Partitioning	Composite (Range + Hash)	OpenLink Virtuoso	1
+Partitioning	Native Replication API	OpenLink Virtuoso	1
+Partitioning	Hash	OpenLink Virtuoso	1
+Partitioning	Range	OpenLink Virtuoso	1
+Partitioning	List	OpenLink Virtuoso	0
+Partitioning	Unknown	OpenLink Virtuoso	0
+Partitioning	Shadow	OpenLink Virtuoso	1
+Partitioning	None	OpenLink Virtuoso	0
+Partitioning	Composite (Range + Hash)	Polyhedra	0
+Partitioning	Native Replication API	Polyhedra	0
+Partitioning	Hash	Polyhedra	0
+Partitioning	Range	Polyhedra	0
+Partitioning	List	Polyhedra	0
+Partitioning	Unknown	Polyhedra	0
+Partitioning	Shadow	Polyhedra	0
+Partitioning	None	Polyhedra	1
+Partitioning	Composite (Range + Hash)	SmallSQL	0
+Partitioning	Native Replication API	SmallSQL	0
+Partitioning	Hash	SmallSQL	0
+Partitioning	Range	SmallSQL	0
+Partitioning	List	SmallSQL	0
+Partitioning	Unknown	SmallSQL	0
+Partitioning	Shadow	SmallSQL	0
+Partitioning	None	SmallSQL	0
+Partitioning	Composite (Range + Hash)	Valentina	0
+Partitioning	Native Replication API	Valentina	0
+Partitioning	Hash	Valentina	0
+Partitioning	Range	Valentina	0
+Partitioning	List	Valentina	0
+Partitioning	Unknown	Valentina	0
+Partitioning	Shadow	Valentina	0
+Partitioning	None	Valentina	1
+Partitioning	Composite (Range + Hash)	VelocityDB	0
+Partitioning	Native Replication API	VelocityDB	0
+Partitioning	Hash	VelocityDB	0
+Partitioning	Range	VelocityDB	0
+Partitioning	List	VelocityDB	0
+Partitioning	Unknown	VelocityDB	0
+Partitioning	Shadow	VelocityDB	0
+Partitioning	None	VelocityDB	0
+Partitioning	Composite (Range + Hash)	NuoDB	0
+Partitioning	Native Replication API	NuoDB	0
+Partitioning	Hash	NuoDB	0
+Partitioning	Range	NuoDB	0
+Partitioning	List	NuoDB	0
+Partitioning	Unknown	NuoDB	1
+Partitioning	Shadow	NuoDB	0
+Partitioning	None	NuoDB	0
+Access Control	Password Complexity Rules	Adaptive Server Enterprise	1
+Access Control	Run Unprivileged	Adaptive Server Enterprise	1
+Access Control	Enterprise Directory Compatibility	Adaptive Server Enterprise	1
+Access Control	Brute-force Protection	Adaptive Server Enterprise	1
+Access Control	Audit	Adaptive Server Enterprise	1
+Access Control	Security Certification	Adaptive Server Enterprise	1
+Access Control	Unknown	Adaptive Server Enterprise	0
+Access Control	Native Network Encryption	Adaptive Server Enterprise	1
+Access Control	Separation of Duties	Adaptive Server Enterprise	1
+Access Control	Resource Limit	Adaptive Server Enterprise	1
+Access Control	Patch Access	Adaptive Server Enterprise	1
+Access Control	Password Complexity Rules	ALTIBASE HDB	0
+Access Control	Run Unprivileged	ALTIBASE HDB	0
+Access Control	Enterprise Directory Compatibility	ALTIBASE HDB	0
+Access Control	Brute-force Protection	ALTIBASE HDB	0
+Access Control	Audit	ALTIBASE HDB	0
+Access Control	Security Certification	ALTIBASE HDB	0
+Access Control	Unknown	ALTIBASE HDB	1
+Access Control	Native Network Encryption	ALTIBASE HDB	0
+Access Control	Separation of Duties	ALTIBASE HDB	0
+Access Control	Resource Limit	ALTIBASE HDB	0
+Access Control	Patch Access	ALTIBASE HDB	0
+Access Control	Password Complexity Rules	Empress	0
+Access Control	Run Unprivileged	Empress	1
+Access Control	Enterprise Directory Compatibility	Empress	0
+Access Control	Brute-force Protection	Empress	0
+Access Control	Audit	Empress	1
+Access Control	Security Certification	Empress	0
+Access Control	Unknown	Empress	0
+Access Control	Native Network Encryption	Empress	0
+Access Control	Separation of Duties	Empress	1
+Access Control	Resource Limit	Empress	0
+Access Control	Patch Access	Empress	1
+Access Control	Password Complexity Rules	Nexusdb	0
+Access Control	Run Unprivileged	Nexusdb	0
+Access Control	Enterprise Directory Compatibility	Nexusdb	0
+Access Control	Brute-force Protection	Nexusdb	0
+Access Control	Audit	Nexusdb	0
+Access Control	Security Certification	Nexusdb	0
+Access Control	Unknown	Nexusdb	0
+Access Control	Native Network Encryption	Nexusdb	0
+Access Control	Separation of Duties	Nexusdb	0
+Access Control	Resource Limit	Nexusdb	0
+Access Control	Patch Access	Nexusdb	0
+Access Control	Password Complexity Rules	OpenLink Virtuoso	1
+Access Control	Run Unprivileged	OpenLink Virtuoso	0
+Access Control	Enterprise Directory Compatibility	OpenLink Virtuoso	1
+Access Control	Brute-force Protection	OpenLink Virtuoso	1
+Access Control	Audit	OpenLink Virtuoso	1
+Access Control	Security Certification	OpenLink Virtuoso	0
+Access Control	Unknown	OpenLink Virtuoso	0
+Access Control	Native Network Encryption	OpenLink Virtuoso	1
+Access Control	Separation of Duties	OpenLink Virtuoso	1
+Access Control	Resource Limit	OpenLink Virtuoso	1
+Access Control	Patch Access	OpenLink Virtuoso	0
+Access Control	Password Complexity Rules	Polyhedra	0
+Access Control	Run Unprivileged	Polyhedra	1
+Access Control	Enterprise Directory Compatibility	Polyhedra	0
+Access Control	Brute-force Protection	Polyhedra	0
+Access Control	Audit	Polyhedra	1
+Access Control	Security Certification	Polyhedra	0
+Access Control	Unknown	Polyhedra	0
+Access Control	Native Network Encryption	Polyhedra	1
+Access Control	Separation of Duties	Polyhedra	1
+Access Control	Resource Limit	Polyhedra	1
+Access Control	Patch Access	Polyhedra	0
+Access Control	Password Complexity Rules	SmallSQL	0
+Access Control	Run Unprivileged	SmallSQL	0
+Access Control	Enterprise Directory Compatibility	SmallSQL	0
+Access Control	Brute-force Protection	SmallSQL	0
+Access Control	Audit	SmallSQL	0
+Access Control	Security Certification	SmallSQL	0
+Access Control	Unknown	SmallSQL	0
+Access Control	Native Network Encryption	SmallSQL	0
+Access Control	Separation of Duties	SmallSQL	0
+Access Control	Resource Limit	SmallSQL	0
+Access Control	Patch Access	SmallSQL	0
+Access Control	Password Complexity Rules	Valentina	0
+Access Control	Run Unprivileged	Valentina	0
+Access Control	Enterprise Directory Compatibility	Valentina	0
+Access Control	Brute-force Protection	Valentina	0
+Access Control	Audit	Valentina	0
+Access Control	Security Certification	Valentina	0
+Access Control	Unknown	Valentina	0
+Access Control	Native Network Encryption	Valentina	0
+Access Control	Separation of Duties	Valentina	0
+Access Control	Resource Limit	Valentina	0
+Access Control	Patch Access	Valentina	0
+Access Control	Password Complexity Rules	VelocityDB	0
+Access Control	Run Unprivileged	VelocityDB	0
+Access Control	Enterprise Directory Compatibility	VelocityDB	0
+Access Control	Brute-force Protection	VelocityDB	0
+Access Control	Audit	VelocityDB	0
+Access Control	Security Certification	VelocityDB	0
+Access Control	Unknown	VelocityDB	1
+Access Control	Native Network Encryption	VelocityDB	0
+Access Control	Separation of Duties	VelocityDB	0
+Access Control	Resource Limit	VelocityDB	0
+Access Control	Patch Access	VelocityDB	0
+Access Control	Password Complexity Rules	NuoDB	0
+Access Control	Run Unprivileged	NuoDB	0
+Access Control	Enterprise Directory Compatibility	NuoDB	0
+Access Control	Brute-force Protection	NuoDB	0
+Access Control	Audit	NuoDB	0
+Access Control	Security Certification	NuoDB	0
+Access Control	Unknown	NuoDB	1
+Access Control	Native Network Encryption	NuoDB	0
+Access Control	Separation of Duties	NuoDB	0
+Access Control	Resource Limit	NuoDB	0
+Access Control	Patch Access	NuoDB	0
+Database Capabilities	Outer Joins	Adaptive Server Enterprise	1
+Database Capabilities	Merge Joins	Adaptive Server Enterprise	1
+Database Capabilities	Except	Adaptive Server Enterprise	0
+Database Capabilities	Inner Selects	Adaptive Server Enterprise	1
+Database Capabilities	Inner Joins	Adaptive Server Enterprise	1
+Database Capabilities	Unknown	Adaptive Server Enterprise	0
+Database Capabilities	Intersect	Adaptive Server Enterprise	0
+Database Capabilities	Common Table Expressions	Adaptive Server Enterprise	0
+Database Capabilities	Union	Adaptive Server Enterprise	1
+Database Capabilities	Parallel Query	Adaptive Server Enterprise	0
+Database Capabilities	Blobs and Clobs	Adaptive Server Enterprise	1
+Database Capabilities	Outer Joins	ALTIBASE HDB	1
+Database Capabilities	Merge Joins	ALTIBASE HDB	1
+Database Capabilities	Except	ALTIBASE HDB	0
+Database Capabilities	Inner Selects	ALTIBASE HDB	1
+Database Capabilities	Inner Joins	ALTIBASE HDB	1
+Database Capabilities	Unknown	ALTIBASE HDB	0
+Database Capabilities	Intersect	ALTIBASE HDB	0
+Database Capabilities	Common Table Expressions	ALTIBASE HDB	0
+Database Capabilities	Union	ALTIBASE HDB	1
+Database Capabilities	Parallel Query	ALTIBASE HDB	0
+Database Capabilities	Blobs and Clobs	ALTIBASE HDB	1
+Database Capabilities	Outer Joins	Empress	1
+Database Capabilities	Merge Joins	Empress	1
+Database Capabilities	Except	Empress	1
+Database Capabilities	Inner Selects	Empress	1
+Database Capabilities	Inner Joins	Empress	1
+Database Capabilities	Unknown	Empress	0
+Database Capabilities	Intersect	Empress	1
+Database Capabilities	Common Table Expressions	Empress	0
+Database Capabilities	Union	Empress	1
+Database Capabilities	Parallel Query	Empress	0
+Database Capabilities	Blobs and Clobs	Empress	1
+Database Capabilities	Outer Joins	Nexusdb	1
+Database Capabilities	Merge Joins	Nexusdb	1
+Database Capabilities	Except	Nexusdb	0
+Database Capabilities	Inner Selects	Nexusdb	1
+Database Capabilities	Inner Joins	Nexusdb	1
+Database Capabilities	Unknown	Nexusdb	0
+Database Capabilities	Intersect	Nexusdb	1
+Database Capabilities	Common Table Expressions	Nexusdb	0
+Database Capabilities	Union	Nexusdb	1
+Database Capabilities	Parallel Query	Nexusdb	1
+Database Capabilities	Blobs and Clobs	Nexusdb	1
+Database Capabilities	Outer Joins	OpenLink Virtuoso	1
+Database Capabilities	Merge Joins	OpenLink Virtuoso	0
+Database Capabilities	Except	OpenLink Virtuoso	0
+Database Capabilities	Inner Selects	OpenLink Virtuoso	1
+Database Capabilities	Inner Joins	OpenLink Virtuoso	1
+Database Capabilities	Unknown	OpenLink Virtuoso	0
+Database Capabilities	Intersect	OpenLink Virtuoso	0
+Database Capabilities	Common Table Expressions	OpenLink Virtuoso	0
+Database Capabilities	Union	OpenLink Virtuoso	1
+Database Capabilities	Parallel Query	OpenLink Virtuoso	0
+Database Capabilities	Blobs and Clobs	OpenLink Virtuoso	1
+Database Capabilities	Outer Joins	Polyhedra	1
+Database Capabilities	Merge Joins	Polyhedra	0
+Database Capabilities	Except	Polyhedra	1
+Database Capabilities	Inner Selects	Polyhedra	0
+Database Capabilities	Inner Joins	Polyhedra	1
+Database Capabilities	Unknown	Polyhedra	0
+Database Capabilities	Intersect	Polyhedra	1
+Database Capabilities	Common Table Expressions	Polyhedra	0
+Database Capabilities	Union	Polyhedra	1
+Database Capabilities	Parallel Query	Polyhedra	0
+Database Capabilities	Blobs and Clobs	Polyhedra	1
+Database Capabilities	Outer Joins	SmallSQL	0
+Database Capabilities	Merge Joins	SmallSQL	0
+Database Capabilities	Except	SmallSQL	0
+Database Capabilities	Inner Selects	SmallSQL	0
+Database Capabilities	Inner Joins	SmallSQL	0
+Database Capabilities	Unknown	SmallSQL	0
+Database Capabilities	Intersect	SmallSQL	0
+Database Capabilities	Common Table Expressions	SmallSQL	0
+Database Capabilities	Union	SmallSQL	0
+Database Capabilities	Parallel Query	SmallSQL	0
+Database Capabilities	Blobs and Clobs	SmallSQL	0
+Database Capabilities	Outer Joins	Valentina	1
+Database Capabilities	Merge Joins	Valentina	0
+Database Capabilities	Except	Valentina	1
+Database Capabilities	Inner Selects	Valentina	1
+Database Capabilities	Inner Joins	Valentina	1
+Database Capabilities	Unknown	Valentina	0
+Database Capabilities	Intersect	Valentina	1
+Database Capabilities	Common Table Expressions	Valentina	1
+Database Capabilities	Union	Valentina	1
+Database Capabilities	Parallel Query	Valentina	0
+Database Capabilities	Blobs and Clobs	Valentina	1
+Database Capabilities	Outer Joins	VelocityDB	0
+Database Capabilities	Merge Joins	VelocityDB	0
+Database Capabilities	Except	VelocityDB	0
+Database Capabilities	Inner Selects	VelocityDB	0
+Database Capabilities	Inner Joins	VelocityDB	0
+Database Capabilities	Unknown	VelocityDB	0
+Database Capabilities	Intersect	VelocityDB	0
+Database Capabilities	Common Table Expressions	VelocityDB	0
+Database Capabilities	Union	VelocityDB	0
+Database Capabilities	Parallel Query	VelocityDB	0
+Database Capabilities	Blobs and Clobs	VelocityDB	0
+Database Capabilities	Outer Joins	NuoDB	0
+Database Capabilities	Merge Joins	NuoDB	0
+Database Capabilities	Except	NuoDB	0
+Database Capabilities	Inner Selects	NuoDB	0
+Database Capabilities	Inner Joins	NuoDB	0
+Database Capabilities	Unknown	NuoDB	1
+Database Capabilities	Intersect	NuoDB	0
+Database Capabilities	Common Table Expressions	NuoDB	0
+Database Capabilities	Union	NuoDB	0
+Database Capabilities	Parallel Query	NuoDB	0
+Database Capabilities	Blobs and Clobs	NuoDB	0
+Tables and Views	Temporary Table	Adaptive Server Enterprise	1
+Tables and Views	Materialized Views	Adaptive Server Enterprise	1
+Tables and Views	Unknown	Adaptive Server Enterprise	0
+Tables and Views	None	Adaptive Server Enterprise	0
+Tables and Views	Temporary Table	ALTIBASE HDB	1
+Tables and Views	Materialized Views	ALTIBASE HDB	1
+Tables and Views	Unknown	ALTIBASE HDB	0
+Tables and Views	None	ALTIBASE HDB	0
+Tables and Views	Temporary Table	Empress	1
+Tables and Views	Materialized Views	Empress	1
+Tables and Views	Unknown	Empress	0
+Tables and Views	None	Empress	0
+Tables and Views	Temporary Table	Nexusdb	1
+Tables and Views	Materialized Views	Nexusdb	0
+Tables and Views	Unknown	Nexusdb	0
+Tables and Views	None	Nexusdb	0
+Tables and Views	Temporary Table	OpenLink Virtuoso	1
+Tables and Views	Materialized Views	OpenLink Virtuoso	1
+Tables and Views	Unknown	OpenLink Virtuoso	0
+Tables and Views	None	OpenLink Virtuoso	0
+Tables and Views	Temporary Table	Polyhedra	0
+Tables and Views	Materialized Views	Polyhedra	0
+Tables and Views	Unknown	Polyhedra	0
+Tables and Views	None	Polyhedra	1
+Tables and Views	Temporary Table	SmallSQL	0
+Tables and Views	Materialized Views	SmallSQL	0
+Tables and Views	Unknown	SmallSQL	0
+Tables and Views	None	SmallSQL	0
+Tables and Views	Temporary Table	Valentina	1
+Tables and Views	Materialized Views	Valentina	0
+Tables and Views	Unknown	Valentina	0
+Tables and Views	None	Valentina	0
+Tables and Views	Temporary Table	VelocityDB	0
+Tables and Views	Materialized Views	VelocityDB	0
+Tables and Views	Unknown	VelocityDB	1
+Tables and Views	None	VelocityDB	0
+Tables and Views	Temporary Table	NuoDB	1
+Tables and Views	Materialized Views	NuoDB	1
+Tables and Views	Unknown	NuoDB	0
+Tables and Views	None	NuoDB	0
+Features	XML Format Support	MaxDB	0
+Features	Templates	MaxDB	0
+Features	Network Protocols Supported	MaxDB	0
+Features	Transactions	MaxDB	1
+Features	Parallel Processing	MaxDB	0
+Features	Integrated Storage Manager	MaxDB	1
+Features	Multiple Data Access Command Sets	MaxDB	0
+Features	Highly Scalable	MaxDB	0
+Features	High Availability	MaxDB	0
+Features	SQL Interpreter	MaxDB	1
+Features	Referential Integrity	MaxDB	1
+Features	Multi-Core Support	MaxDB	0
+Features	Java Support	MaxDB	0
+Features	Drag and Drop	MaxDB	0
+Features	Compression of Data	MaxDB	1
+Features	Backup	MaxDB	0
+Features	Very small and Fast	MaxDB	0
+Features	Unicode	MaxDB	1
+Features	Multiple Threads	MaxDB	0
+Features	Import Data	MaxDB	0
+Features	Extensibility	MaxDB	0
+Features	Encryption of Data	MaxDB	0
+Features	Export Data	MaxDB	0
+Features	ACID	MaxDB	1
+Features	Real Time Access to Database	MaxDB	0
+Features	Internet Protocol Support	MaxDB	0
+Features	Database Imports	MaxDB	0
+Features	Custom Functions	MaxDB	0
+Features	XML Format Support	OpenBase SQL	0
+Features	Templates	OpenBase SQL	1
+Features	Network Protocols Supported	OpenBase SQL	0
+Features	Transactions	OpenBase SQL	1
+Features	Parallel Processing	OpenBase SQL	0
+Features	Integrated Storage Manager	OpenBase SQL	0
+Features	Multiple Data Access Command Sets	OpenBase SQL	0
+Features	Highly Scalable	OpenBase SQL	1
+Features	High Availability	OpenBase SQL	0
+Features	SQL Interpreter	OpenBase SQL	0
+Features	Referential Integrity	OpenBase SQL	1
+Features	Multi-Core Support	OpenBase SQL	0
+Features	Java Support	OpenBase SQL	0
+Features	Drag and Drop	OpenBase SQL	0
+Features	Compression of Data	OpenBase SQL	0
+Features	Backup	OpenBase SQL	1
+Features	Very small and Fast	OpenBase SQL	0
+Features	Unicode	OpenBase SQL	1
+Features	Multiple Threads	OpenBase SQL	0
+Features	Import Data	OpenBase SQL	1
+Features	Extensibility	OpenBase SQL	0
+Features	Encryption of Data	OpenBase SQL	1
+Features	Export Data	OpenBase SQL	1
+Features	ACID	OpenBase SQL	1
+Features	Real Time Access to Database	OpenBase SQL	0
+Features	Internet Protocol Support	OpenBase SQL	0
+Features	Database Imports	OpenBase SQL	0
+Features	Custom Functions	OpenBase SQL	0
+Features	XML Format Support	Postgres Standard Edition 	1
+Features	Templates	Postgres Standard Edition 	0
+Features	Network Protocols Supported	Postgres Standard Edition 	0
+Features	Transactions	Postgres Standard Edition 	1
+Features	Parallel Processing	Postgres Standard Edition 	0
+Features	Integrated Storage Manager	Postgres Standard Edition 	0
+Features	Multiple Data Access Command Sets	Postgres Standard Edition 	0
+Features	Highly Scalable	Postgres Standard Edition 	0
+Features	High Availability	Postgres Standard Edition 	0
+Features	SQL Interpreter	Postgres Standard Edition 	0
+Features	Referential Integrity	Postgres Standard Edition 	1
+Features	Multi-Core Support	Postgres Standard Edition 	0
+Features	Java Support	Postgres Standard Edition 	0
+Features	Drag and Drop	Postgres Standard Edition 	0
+Features	Compression of Data	Postgres Standard Edition 	1
+Features	Backup	Postgres Standard Edition 	1
+Features	Very small and Fast	Postgres Standard Edition 	0
+Features	Unicode	Postgres Standard Edition 	1
+Features	Multiple Threads	Postgres Standard Edition 	0
+Features	Import Data	Postgres Standard Edition 	0
+Features	Extensibility	Postgres Standard Edition 	0
+Features	Encryption of Data	Postgres Standard Edition 	0
+Features	Export Data	Postgres Standard Edition 	0
+Features	ACID	Postgres Standard Edition 	1
+Features	Real Time Access to Database	Postgres Standard Edition 	0
+Features	Internet Protocol Support	Postgres Standard Edition 	0
+Features	Database Imports	Postgres Standard Edition 	0
+Features	Custom Functions	Postgres Standard Edition 	0
+Features	XML Format Support	R:Base	1
+Features	Templates	R:Base	0
+Features	Network Protocols Supported	R:Base	0
+Features	Transactions	R:Base	0
+Features	Parallel Processing	R:Base	0
+Features	Integrated Storage Manager	R:Base	0
+Features	Multiple Data Access Command Sets	R:Base	0
+Features	Highly Scalable	R:Base	0
+Features	High Availability	R:Base	0
+Features	SQL Interpreter	R:Base	0
+Features	Referential Integrity	R:Base	0
+Features	Multi-Core Support	R:Base	0
+Features	Java Support	R:Base	0
+Features	Drag and Drop	R:Base	0
+Features	Compression of Data	R:Base	1
+Features	Backup	R:Base	1
+Features	Very small and Fast	R:Base	0
+Features	Unicode	R:Base	0
+Features	Multiple Threads	R:Base	0
+Features	Import Data	R:Base	0
+Features	Extensibility	R:Base	0
+Features	Encryption of Data	R:Base	0
+Features	Export Data	R:Base	1
+Features	ACID	R:Base	0
+Features	Real Time Access to Database	R:Base	0
+Features	Internet Protocol Support	R:Base	0
+Features	Database Imports	R:Base	0
+Features	Custom Functions	R:Base	0
+Features	XML Format Support	RDM Server	0
+Features	Templates	RDM Server	0
+Features	Network Protocols Supported	RDM Server	0
+Features	Transactions	RDM Server	1
+Features	Parallel Processing	RDM Server	0
+Features	Integrated Storage Manager	RDM Server	0
+Features	Multiple Data Access Command Sets	RDM Server	0
+Features	Highly Scalable	RDM Server	0
+Features	High Availability	RDM Server	1
+Features	SQL Interpreter	RDM Server	0
+Features	Referential Integrity	RDM Server	1
+Features	Multi-Core Support	RDM Server	0
+Features	Java Support	RDM Server	0
+Features	Drag and Drop	RDM Server	0
+Features	Compression of Data	RDM Server	0
+Features	Backup	RDM Server	1
+Features	Very small and Fast	RDM Server	0
+Features	Unicode	RDM Server	1
+Features	Multiple Threads	RDM Server	0
+Features	Import Data	RDM Server	0
+Features	Extensibility	RDM Server	0
+Features	Encryption of Data	RDM Server	1
+Features	Export Data	RDM Server	0
+Features	ACID	RDM Server	1
+Features	Real Time Access to Database	RDM Server	0
+Features	Internet Protocol Support	RDM Server	0
+Features	Database Imports	RDM Server	0
+Features	Custom Functions	RDM Server	1
+Features	XML Format Support	ScimoreDB	0
+Features	Templates	ScimoreDB	0
+Features	Network Protocols Supported	ScimoreDB	0
+Features	Transactions	ScimoreDB	1
+Features	Parallel Processing	ScimoreDB	1
+Features	Integrated Storage Manager	ScimoreDB	0
+Features	Multiple Data Access Command Sets	ScimoreDB	0
+Features	Highly Scalable	ScimoreDB	1
+Features	High Availability	ScimoreDB	1
+Features	SQL Interpreter	ScimoreDB	0
+Features	Referential Integrity	ScimoreDB	1
+Features	Multi-Core Support	ScimoreDB	0
+Features	Java Support	ScimoreDB	0
+Features	Drag and Drop	ScimoreDB	0
+Features	Compression of Data	ScimoreDB	1
+Features	Backup	ScimoreDB	1
+Features	Very small and Fast	ScimoreDB	0
+Features	Unicode	ScimoreDB	1
+Features	Multiple Threads	ScimoreDB	0
+Features	Import Data	ScimoreDB	0
+Features	Extensibility	ScimoreDB	0
+Features	Encryption of Data	ScimoreDB	0
+Features	Export Data	ScimoreDB	0
+Features	ACID	ScimoreDB	1
+Features	Real Time Access to Database	ScimoreDB	0
+Features	Internet Protocol Support	ScimoreDB	0
+Features	Database Imports	ScimoreDB	1
+Features	Custom Functions	ScimoreDB	0
+Features	XML Format Support	SQLBase	0
+Features	Templates	SQLBase	0
+Features	Network Protocols Supported	SQLBase	0
+Features	Transactions	SQLBase	1
+Features	Parallel Processing	SQLBase	0
+Features	Integrated Storage Manager	SQLBase	0
+Features	Multiple Data Access Command Sets	SQLBase	1
+Features	Highly Scalable	SQLBase	1
+Features	High Availability	SQLBase	0
+Features	SQL Interpreter	SQLBase	1
+Features	Referential Integrity	SQLBase	1
+Features	Multi-Core Support	SQLBase	1
+Features	Java Support	SQLBase	1
+Features	Drag and Drop	SQLBase	1
+Features	Compression of Data	SQLBase	1
+Features	Backup	SQLBase	0
+Features	Very small and Fast	SQLBase	1
+Features	Unicode	SQLBase	1
+Features	Multiple Threads	SQLBase	0
+Features	Import Data	SQLBase	0
+Features	Extensibility	SQLBase	0
+Features	Encryption of Data	SQLBase	1
+Features	Export Data	SQLBase	0
+Features	ACID	SQLBase	1
+Features	Real Time Access to Database	SQLBase	1
+Features	Internet Protocol Support	SQLBase	0
+Features	Database Imports	SQLBase	1
+Features	Custom Functions	SQLBase	0
+Features	XML Format Support	MarkLogic 	1
+Features	Templates	MarkLogic 	1
+Features	Network Protocols Supported	MarkLogic 	0
+Features	Transactions	MarkLogic 	1
+Features	Parallel Processing	MarkLogic 	0
+Features	Integrated Storage Manager	MarkLogic 	0
+Features	Multiple Data Access Command Sets	MarkLogic 	0
+Features	Highly Scalable	MarkLogic 	1
+Features	High Availability	MarkLogic 	1
+Features	SQL Interpreter	MarkLogic 	0
+Features	Referential Integrity	MarkLogic 	0
+Features	Multi-Core Support	MarkLogic 	0
+Features	Java Support	MarkLogic 	1
+Features	Drag and Drop	MarkLogic 	0
+Features	Compression of Data	MarkLogic 	0
+Features	Backup	MarkLogic 	1
+Features	Very small and Fast	MarkLogic 	0
+Features	Unicode	MarkLogic 	1
+Features	Multiple Threads	MarkLogic 	1
+Features	Import Data	MarkLogic 	1
+Features	Extensibility	MarkLogic 	1
+Features	Encryption of Data	MarkLogic 	0
+Features	Export Data	MarkLogic 	1
+Features	ACID	MarkLogic 	1
+Features	Real Time Access to Database	MarkLogic 	0
+Features	Internet Protocol Support	MarkLogic 	0
+Features	Database Imports	MarkLogic 	1
+Features	Custom Functions	MarkLogic 	1
+Features	XML Format Support	XtraBuild Designer	0
+Features	Templates	XtraBuild Designer	0
+Features	Network Protocols Supported	XtraBuild Designer	0
+Features	Transactions	XtraBuild Designer	1
+Features	Parallel Processing	XtraBuild Designer	0
+Features	Integrated Storage Manager	XtraBuild Designer	0
+Features	Multiple Data Access Command Sets	XtraBuild Designer	0
+Features	Highly Scalable	XtraBuild Designer	1
+Features	High Availability	XtraBuild Designer	0
+Features	SQL Interpreter	XtraBuild Designer	0
+Features	Referential Integrity	XtraBuild Designer	1
+Features	Multi-Core Support	XtraBuild Designer	0
+Features	Java Support	XtraBuild Designer	0
+Features	Drag and Drop	XtraBuild Designer	1
+Features	Compression of Data	XtraBuild Designer	0
+Features	Backup	XtraBuild Designer	0
+Features	Very small and Fast	XtraBuild Designer	1
+Features	Unicode	XtraBuild Designer	1
+Features	Multiple Threads	XtraBuild Designer	0
+Features	Import Data	XtraBuild Designer	0
+Features	Extensibility	XtraBuild Designer	0
+Features	Encryption of Data	XtraBuild Designer	1
+Features	Export Data	XtraBuild Designer	1
+Features	ACID	XtraBuild Designer	1
+Features	Real Time Access to Database	XtraBuild Designer	1
+Features	Internet Protocol Support	XtraBuild Designer	0
+Features	Database Imports	XtraBuild Designer	0
+Features	Custom Functions	XtraBuild Designer	1
+Features	XML Format Support	ITTIA DB SQL	0
+Features	Templates	ITTIA DB SQL	0
+Features	Network Protocols Supported	ITTIA DB SQL	1
+Features	Transactions	ITTIA DB SQL	1
+Features	Parallel Processing	ITTIA DB SQL	0
+Features	Integrated Storage Manager	ITTIA DB SQL	0
+Features	Multiple Data Access Command Sets	ITTIA DB SQL	0
+Features	Highly Scalable	ITTIA DB SQL	1
+Features	High Availability	ITTIA DB SQL	1
+Features	SQL Interpreter	ITTIA DB SQL	0
+Features	Referential Integrity	ITTIA DB SQL	1
+Features	Multi-Core Support	ITTIA DB SQL	1
+Features	Java Support	ITTIA DB SQL	1
+Features	Drag and Drop	ITTIA DB SQL	0
+Features	Compression of Data	ITTIA DB SQL	0
+Features	Backup	ITTIA DB SQL	1
+Features	Very small and Fast	ITTIA DB SQL	1
+Features	Unicode	ITTIA DB SQL	1
+Features	Multiple Threads	ITTIA DB SQL	1
+Features	Import Data	ITTIA DB SQL	0
+Features	Extensibility	ITTIA DB SQL	1
+Features	Encryption of Data	ITTIA DB SQL	1
+Features	Export Data	ITTIA DB SQL	0
+Features	ACID	ITTIA DB SQL	1
+Features	Real Time Access to Database	ITTIA DB SQL	0
+Features	Internet Protocol Support	ITTIA DB SQL	1
+Features	Database Imports	ITTIA DB SQL	0
+Features	Custom Functions	ITTIA DB SQL	0
+Indexes	Spatial	MaxDB	0
+Indexes	Bitmap	MaxDB	0
+Indexes	R-/R+ Tree	MaxDB	0
+Indexes	Hash	MaxDB	0
+Indexes	Partial	MaxDB	0
+Indexes	Unknown	MaxDB	0
+Indexes	GIN	MaxDB	0
+Indexes	Full-text	MaxDB	0
+Indexes	Reverse	MaxDB	0
+Indexes	None	MaxDB	1
+Indexes	Expression	MaxDB	0
+Indexes	Spatial	OpenBase SQL	0
+Indexes	Bitmap	OpenBase SQL	0
+Indexes	R-/R+ Tree	OpenBase SQL	0
+Indexes	Hash	OpenBase SQL	0
+Indexes	Partial	OpenBase SQL	0
+Indexes	Unknown	OpenBase SQL	1
+Indexes	GIN	OpenBase SQL	0
+Indexes	Full-text	OpenBase SQL	0
+Indexes	Reverse	OpenBase SQL	0
+Indexes	None	OpenBase SQL	0
+Indexes	Expression	OpenBase SQL	0
+Indexes	Spatial	Postgres Standard Edition 	0
+Indexes	Bitmap	Postgres Standard Edition 	1
+Indexes	R-/R+ Tree	Postgres Standard Edition 	1
+Indexes	Hash	Postgres Standard Edition 	1
+Indexes	Partial	Postgres Standard Edition 	1
+Indexes	Unknown	Postgres Standard Edition 	0
+Indexes	GIN	Postgres Standard Edition 	1
+Indexes	Full-text	Postgres Standard Edition 	1
+Indexes	Reverse	Postgres Standard Edition 	1
+Indexes	None	Postgres Standard Edition 	0
+Indexes	Expression	Postgres Standard Edition 	1
+Indexes	Spatial	R:Base	0
+Indexes	Bitmap	R:Base	0
+Indexes	R-/R+ Tree	R:Base	0
+Indexes	Hash	R:Base	0
+Indexes	Partial	R:Base	0
+Indexes	Unknown	R:Base	0
+Indexes	GIN	R:Base	0
+Indexes	Full-text	R:Base	0
+Indexes	Reverse	R:Base	0
+Indexes	None	R:Base	0
+Indexes	Expression	R:Base	0
+Indexes	Spatial	RDM Server	0
+Indexes	Bitmap	RDM Server	0
+Indexes	R-/R+ Tree	RDM Server	0
+Indexes	Hash	RDM Server	0
+Indexes	Partial	RDM Server	1
+Indexes	Unknown	RDM Server	0
+Indexes	GIN	RDM Server	0
+Indexes	Full-text	RDM Server	0
+Indexes	Reverse	RDM Server	1
+Indexes	None	RDM Server	0
+Indexes	Expression	RDM Server	0
+Indexes	Spatial	ScimoreDB	0
+Indexes	Bitmap	ScimoreDB	0
+Indexes	R-/R+ Tree	ScimoreDB	0
+Indexes	Hash	ScimoreDB	0
+Indexes	Partial	ScimoreDB	0
+Indexes	Unknown	ScimoreDB	0
+Indexes	GIN	ScimoreDB	0
+Indexes	Full-text	ScimoreDB	1
+Indexes	Reverse	ScimoreDB	0
+Indexes	None	ScimoreDB	0
+Indexes	Expression	ScimoreDB	0
+Indexes	Spatial	SQLBase	0
+Indexes	Bitmap	SQLBase	0
+Indexes	R-/R+ Tree	SQLBase	0
+Indexes	Hash	SQLBase	0
+Indexes	Partial	SQLBase	0
+Indexes	Unknown	SQLBase	0
+Indexes	GIN	SQLBase	0
+Indexes	Full-text	SQLBase	0
+Indexes	Reverse	SQLBase	0
+Indexes	None	SQLBase	0
+Indexes	Expression	SQLBase	0
+Indexes	Spatial	MarkLogic 	1
+Indexes	Bitmap	MarkLogic 	0
+Indexes	R-/R+ Tree	MarkLogic 	0
+Indexes	Hash	MarkLogic 	0
+Indexes	Partial	MarkLogic 	0
+Indexes	Unknown	MarkLogic 	0
+Indexes	GIN	MarkLogic 	0
+Indexes	Full-text	MarkLogic 	1
+Indexes	Reverse	MarkLogic 	1
+Indexes	None	MarkLogic 	0
+Indexes	Expression	MarkLogic 	0
+Indexes	Spatial	XtraBuild Designer	0
+Indexes	Bitmap	XtraBuild Designer	0
+Indexes	R-/R+ Tree	XtraBuild Designer	0
+Indexes	Hash	XtraBuild Designer	0
+Indexes	Partial	XtraBuild Designer	0
+Indexes	Unknown	XtraBuild Designer	0
+Indexes	GIN	XtraBuild Designer	0
+Indexes	Full-text	XtraBuild Designer	0
+Indexes	Reverse	XtraBuild Designer	0
+Indexes	None	XtraBuild Designer	1
+Indexes	Expression	XtraBuild Designer	0
+Indexes	Spatial	ITTIA DB SQL	0
+Indexes	Bitmap	ITTIA DB SQL	0
+Indexes	R-/R+ Tree	ITTIA DB SQL	1
+Indexes	Hash	ITTIA DB SQL	0
+Indexes	Partial	ITTIA DB SQL	0
+Indexes	Unknown	ITTIA DB SQL	0
+Indexes	GIN	ITTIA DB SQL	0
+Indexes	Full-text	ITTIA DB SQL	0
+Indexes	Reverse	ITTIA DB SQL	0
+Indexes	None	ITTIA DB SQL	0
+Indexes	Expression	ITTIA DB SQL	0
+Other Objects	Data Domain	MaxDB	1
+Other Objects	Trigger	MaxDB	1
+Other Objects	Procedure	MaxDB	1
+Other Objects	Function	MaxDB	1
+Other Objects	N/A	MaxDB	0
+Other Objects	Cursor	MaxDB	1
+Other Objects	External Routine	MaxDB	0
+Other Objects	Data Domain	OpenBase SQL	1
+Other Objects	Trigger	OpenBase SQL	1
+Other Objects	Procedure	OpenBase SQL	1
+Other Objects	Function	OpenBase SQL	1
+Other Objects	N/A	OpenBase SQL	0
+Other Objects	Cursor	OpenBase SQL	1
+Other Objects	External Routine	OpenBase SQL	1
+Other Objects	Data Domain	Postgres Standard Edition 	1
+Other Objects	Trigger	Postgres Standard Edition 	1
+Other Objects	Procedure	Postgres Standard Edition 	1
+Other Objects	Function	Postgres Standard Edition 	1
+Other Objects	N/A	Postgres Standard Edition 	0
+Other Objects	Cursor	Postgres Standard Edition 	1
+Other Objects	External Routine	Postgres Standard Edition 	1
+Other Objects	Data Domain	R:Base	0
+Other Objects	Trigger	R:Base	0
+Other Objects	Procedure	R:Base	0
+Other Objects	Function	R:Base	0
+Other Objects	N/A	R:Base	0
+Other Objects	Cursor	R:Base	0
+Other Objects	External Routine	R:Base	0
+Other Objects	Data Domain	RDM Server	0
+Other Objects	Trigger	RDM Server	1
+Other Objects	Procedure	RDM Server	1
+Other Objects	Function	RDM Server	0
+Other Objects	N/A	RDM Server	0
+Other Objects	Cursor	RDM Server	1
+Other Objects	External Routine	RDM Server	1
+Other Objects	Data Domain	ScimoreDB	0
+Other Objects	Trigger	ScimoreDB	0
+Other Objects	Procedure	ScimoreDB	1
+Other Objects	Function	ScimoreDB	0
+Other Objects	N/A	ScimoreDB	0
+Other Objects	Cursor	ScimoreDB	0
+Other Objects	External Routine	ScimoreDB	1
+Other Objects	Data Domain	SQLBase	0
+Other Objects	Trigger	SQLBase	0
+Other Objects	Procedure	SQLBase	0
+Other Objects	Function	SQLBase	0
+Other Objects	N/A	SQLBase	0
+Other Objects	Cursor	SQLBase	0
+Other Objects	External Routine	SQLBase	0
+Other Objects	Data Domain	MarkLogic 	0
+Other Objects	Trigger	MarkLogic 	1
+Other Objects	Procedure	MarkLogic 	0
+Other Objects	Function	MarkLogic 	1
+Other Objects	N/A	MarkLogic 	0
+Other Objects	Cursor	MarkLogic 	1
+Other Objects	External Routine	MarkLogic 	0
+Other Objects	Data Domain	XtraBuild Designer	0
+Other Objects	Trigger	XtraBuild Designer	0
+Other Objects	Procedure	XtraBuild Designer	0
+Other Objects	Function	XtraBuild Designer	0
+Other Objects	N/A	XtraBuild Designer	1
+Other Objects	Cursor	XtraBuild Designer	0
+Other Objects	External Routine	XtraBuild Designer	0
+Other Objects	Data Domain	ITTIA DB SQL	0
+Other Objects	Trigger	ITTIA DB SQL	0
+Other Objects	Procedure	ITTIA DB SQL	0
+Other Objects	Function	ITTIA DB SQL	0
+Other Objects	N/A	ITTIA DB SQL	1
+Other Objects	Cursor	ITTIA DB SQL	0
+Other Objects	External Routine	ITTIA DB SQL	0
+Partitioning	Native Replication API	MaxDB	0
+Partitioning	Hash	MaxDB	0
+Partitioning	Range	MaxDB	0
+Partitioning	List	MaxDB	0
+Partitioning	Unknown	MaxDB	0
+Partitioning	None	MaxDB	1
+Partitioning	Native Replication API	OpenBase SQL	0
+Partitioning	Hash	OpenBase SQL	0
+Partitioning	Range	OpenBase SQL	0
+Partitioning	List	OpenBase SQL	0
+Partitioning	Unknown	OpenBase SQL	1
+Partitioning	None	OpenBase SQL	0
+Partitioning	Native Replication API	Postgres Standard Edition 	0
+Partitioning	Hash	Postgres Standard Edition 	0
+Partitioning	Range	Postgres Standard Edition 	0
+Partitioning	List	Postgres Standard Edition 	0
+Partitioning	Unknown	Postgres Standard Edition 	0
+Partitioning	None	Postgres Standard Edition 	0
+Partitioning	Native Replication API	R:Base	0
+Partitioning	Hash	R:Base	0
+Partitioning	Range	R:Base	0
+Partitioning	List	R:Base	0
+Partitioning	Unknown	R:Base	0
+Partitioning	None	R:Base	0
+Partitioning	Native Replication API	RDM Server	0
+Partitioning	Hash	RDM Server	0
+Partitioning	Range	RDM Server	0
+Partitioning	List	RDM Server	0
+Partitioning	Unknown	RDM Server	0
+Partitioning	None	RDM Server	1
+Partitioning	Native Replication API	ScimoreDB	0
+Partitioning	Hash	ScimoreDB	1
+Partitioning	Range	ScimoreDB	1
+Partitioning	List	ScimoreDB	0
+Partitioning	Unknown	ScimoreDB	0
+Partitioning	None	ScimoreDB	0
+Partitioning	Native Replication API	SQLBase	0
+Partitioning	Hash	SQLBase	0
+Partitioning	Range	SQLBase	0
+Partitioning	List	SQLBase	1
+Partitioning	Unknown	SQLBase	0
+Partitioning	None	SQLBase	0
+Partitioning	Native Replication API	MarkLogic 	0
+Partitioning	Hash	MarkLogic 	0
+Partitioning	Range	MarkLogic 	1
+Partitioning	List	MarkLogic 	0
+Partitioning	Unknown	MarkLogic 	0
+Partitioning	None	MarkLogic 	0
+Partitioning	Native Replication API	XtraBuild Designer	0
+Partitioning	Hash	XtraBuild Designer	0
+Partitioning	Range	XtraBuild Designer	0
+Partitioning	List	XtraBuild Designer	0
+Partitioning	Unknown	XtraBuild Designer	0
+Partitioning	None	XtraBuild Designer	1
+Partitioning	Native Replication API	ITTIA DB SQL	1
+Partitioning	Hash	ITTIA DB SQL	0
+Partitioning	Range	ITTIA DB SQL	0
+Partitioning	List	ITTIA DB SQL	0
+Partitioning	Unknown	ITTIA DB SQL	0
+Partitioning	None	ITTIA DB SQL	0
+Access Control	Password Complexity Rules	MaxDB	0
+Access Control	Run Unprivileged	MaxDB	0
+Access Control	Enterprise Directory Compatibility	MaxDB	0
+Access Control	Brute-force Protection	MaxDB	0
+Access Control	Audit	MaxDB	0
+Access Control	Security Certification	MaxDB	0
+Access Control	Unknown	MaxDB	1
+Access Control	Native Network Encryption	MaxDB	0
+Access Control	Separation of Duties	MaxDB	0
+Access Control	Resource Limit	MaxDB	0
+Access Control	Password Complexity Rules	OpenBase SQL	0
+Access Control	Run Unprivileged	OpenBase SQL	0
+Access Control	Enterprise Directory Compatibility	OpenBase SQL	1
+Access Control	Brute-force Protection	OpenBase SQL	0
+Access Control	Audit	OpenBase SQL	0
+Access Control	Security Certification	OpenBase SQL	0
+Access Control	Unknown	OpenBase SQL	0
+Access Control	Native Network Encryption	OpenBase SQL	1
+Access Control	Separation of Duties	OpenBase SQL	0
+Access Control	Resource Limit	OpenBase SQL	0
+Access Control	Password Complexity Rules	Postgres Standard Edition 	0
+Access Control	Run Unprivileged	Postgres Standard Edition 	0
+Access Control	Enterprise Directory Compatibility	Postgres Standard Edition 	0
+Access Control	Brute-force Protection	Postgres Standard Edition 	0
+Access Control	Audit	Postgres Standard Edition 	0
+Access Control	Security Certification	Postgres Standard Edition 	0
+Access Control	Unknown	Postgres Standard Edition 	0
+Access Control	Native Network Encryption	Postgres Standard Edition 	0
+Access Control	Separation of Duties	Postgres Standard Edition 	0
+Access Control	Resource Limit	Postgres Standard Edition 	0
+Access Control	Password Complexity Rules	R:Base	0
+Access Control	Run Unprivileged	R:Base	0
+Access Control	Enterprise Directory Compatibility	R:Base	0
+Access Control	Brute-force Protection	R:Base	0
+Access Control	Audit	R:Base	0
+Access Control	Security Certification	R:Base	0
+Access Control	Unknown	R:Base	0
+Access Control	Native Network Encryption	R:Base	0
+Access Control	Separation of Duties	R:Base	0
+Access Control	Resource Limit	R:Base	0
+Access Control	Password Complexity Rules	RDM Server	0
+Access Control	Run Unprivileged	RDM Server	1
+Access Control	Enterprise Directory Compatibility	RDM Server	0
+Access Control	Brute-force Protection	RDM Server	0
+Access Control	Audit	RDM Server	1
+Access Control	Security Certification	RDM Server	0
+Access Control	Unknown	RDM Server	0
+Access Control	Native Network Encryption	RDM Server	1
+Access Control	Separation of Duties	RDM Server	1
+Access Control	Resource Limit	RDM Server	0
+Access Control	Password Complexity Rules	ScimoreDB	0
+Access Control	Run Unprivileged	ScimoreDB	1
+Access Control	Enterprise Directory Compatibility	ScimoreDB	0
+Access Control	Brute-force Protection	ScimoreDB	0
+Access Control	Audit	ScimoreDB	1
+Access Control	Security Certification	ScimoreDB	0
+Access Control	Unknown	ScimoreDB	1
+Access Control	Native Network Encryption	ScimoreDB	0
+Access Control	Separation of Duties	ScimoreDB	1
+Access Control	Resource Limit	ScimoreDB	1
+Access Control	Password Complexity Rules	SQLBase	0
+Access Control	Run Unprivileged	SQLBase	0
+Access Control	Enterprise Directory Compatibility	SQLBase	0
+Access Control	Brute-force Protection	SQLBase	1
+Access Control	Audit	SQLBase	0
+Access Control	Security Certification	SQLBase	0
+Access Control	Unknown	SQLBase	0
+Access Control	Native Network Encryption	SQLBase	0
+Access Control	Separation of Duties	SQLBase	0
+Access Control	Resource Limit	SQLBase	0
+Access Control	Password Complexity Rules	MarkLogic 	1
+Access Control	Run Unprivileged	MarkLogic 	0
+Access Control	Enterprise Directory Compatibility	MarkLogic 	1
+Access Control	Brute-force Protection	MarkLogic 	0
+Access Control	Audit	MarkLogic 	1
+Access Control	Security Certification	MarkLogic 	1
+Access Control	Unknown	MarkLogic 	0
+Access Control	Native Network Encryption	MarkLogic 	0
+Access Control	Separation of Duties	MarkLogic 	0
+Access Control	Resource Limit	MarkLogic 	0
+Access Control	Password Complexity Rules	XtraBuild Designer	1
+Access Control	Run Unprivileged	XtraBuild Designer	0
+Access Control	Enterprise Directory Compatibility	XtraBuild Designer	0
+Access Control	Brute-force Protection	XtraBuild Designer	0
+Access Control	Audit	XtraBuild Designer	0
+Access Control	Security Certification	XtraBuild Designer	0
+Access Control	Unknown	XtraBuild Designer	0
+Access Control	Native Network Encryption	XtraBuild Designer	0
+Access Control	Separation of Duties	XtraBuild Designer	0
+Access Control	Resource Limit	XtraBuild Designer	0
+Access Control	Password Complexity Rules	ITTIA DB SQL	0
+Access Control	Run Unprivileged	ITTIA DB SQL	0
+Access Control	Enterprise Directory Compatibility	ITTIA DB SQL	0
+Access Control	Brute-force Protection	ITTIA DB SQL	0
+Access Control	Audit	ITTIA DB SQL	0
+Access Control	Security Certification	ITTIA DB SQL	0
+Access Control	Unknown	ITTIA DB SQL	0
+Access Control	Native Network Encryption	ITTIA DB SQL	0
+Access Control	Separation of Duties	ITTIA DB SQL	0
+Access Control	Resource Limit	ITTIA DB SQL	1
+Database Capabilities	Outer Joins	MaxDB	1
+Database Capabilities	Merge Joins	MaxDB	0
+Database Capabilities	Except	MaxDB	0
+Database Capabilities	Inner Selects	MaxDB	1
+Database Capabilities	Inner Joins	MaxDB	1
+Database Capabilities	Intersect	MaxDB	0
+Database Capabilities	Common Table Expressions	MaxDB	0
+Database Capabilities	Union	MaxDB	1
+Database Capabilities	Parallel Query	MaxDB	0
+Database Capabilities	Blobs and Clobs	MaxDB	1
+Database Capabilities	Outer Joins	OpenBase SQL	1
+Database Capabilities	Merge Joins	OpenBase SQL	1
+Database Capabilities	Except	OpenBase SQL	0
+Database Capabilities	Inner Selects	OpenBase SQL	1
+Database Capabilities	Inner Joins	OpenBase SQL	1
+Database Capabilities	Intersect	OpenBase SQL	0
+Database Capabilities	Common Table Expressions	OpenBase SQL	0
+Database Capabilities	Union	OpenBase SQL	0
+Database Capabilities	Parallel Query	OpenBase SQL	0
+Database Capabilities	Blobs and Clobs	OpenBase SQL	1
+Database Capabilities	Outer Joins	Postgres Standard Edition 	1
+Database Capabilities	Merge Joins	Postgres Standard Edition 	1
+Database Capabilities	Except	Postgres Standard Edition 	1
+Database Capabilities	Inner Selects	Postgres Standard Edition 	1
+Database Capabilities	Inner Joins	Postgres Standard Edition 	1
+Database Capabilities	Intersect	Postgres Standard Edition 	1
+Database Capabilities	Common Table Expressions	Postgres Standard Edition 	1
+Database Capabilities	Union	Postgres Standard Edition 	1
+Database Capabilities	Parallel Query	Postgres Standard Edition 	0
+Database Capabilities	Blobs and Clobs	Postgres Standard Edition 	1
+Database Capabilities	Outer Joins	R:Base	0
+Database Capabilities	Merge Joins	R:Base	0
+Database Capabilities	Except	R:Base	0
+Database Capabilities	Inner Selects	R:Base	0
+Database Capabilities	Inner Joins	R:Base	1
+Database Capabilities	Intersect	R:Base	0
+Database Capabilities	Common Table Expressions	R:Base	0
+Database Capabilities	Union	R:Base	0
+Database Capabilities	Parallel Query	R:Base	0
+Database Capabilities	Blobs and Clobs	R:Base	0
+Database Capabilities	Outer Joins	RDM Server	1
+Database Capabilities	Merge Joins	RDM Server	0
+Database Capabilities	Except	RDM Server	0
+Database Capabilities	Inner Selects	RDM Server	1
+Database Capabilities	Inner Joins	RDM Server	1
+Database Capabilities	Intersect	RDM Server	0
+Database Capabilities	Common Table Expressions	RDM Server	0
+Database Capabilities	Union	RDM Server	1
+Database Capabilities	Parallel Query	RDM Server	0
+Database Capabilities	Blobs and Clobs	RDM Server	1
+Database Capabilities	Outer Joins	ScimoreDB	1
+Database Capabilities	Merge Joins	ScimoreDB	1
+Database Capabilities	Except	ScimoreDB	0
+Database Capabilities	Inner Selects	ScimoreDB	1
+Database Capabilities	Inner Joins	ScimoreDB	1
+Database Capabilities	Intersect	ScimoreDB	0
+Database Capabilities	Common Table Expressions	ScimoreDB	0
+Database Capabilities	Union	ScimoreDB	1
+Database Capabilities	Parallel Query	ScimoreDB	0
+Database Capabilities	Blobs and Clobs	ScimoreDB	1
+Database Capabilities	Outer Joins	SQLBase	0
+Database Capabilities	Merge Joins	SQLBase	0
+Database Capabilities	Except	SQLBase	0
+Database Capabilities	Inner Selects	SQLBase	0
+Database Capabilities	Inner Joins	SQLBase	0
+Database Capabilities	Intersect	SQLBase	0
+Database Capabilities	Common Table Expressions	SQLBase	0
+Database Capabilities	Union	SQLBase	0
+Database Capabilities	Parallel Query	SQLBase	0
+Database Capabilities	Blobs and Clobs	SQLBase	0
+Database Capabilities	Outer Joins	MarkLogic 	0
+Database Capabilities	Merge Joins	MarkLogic 	0
+Database Capabilities	Except	MarkLogic 	0
+Database Capabilities	Inner Selects	MarkLogic 	0
+Database Capabilities	Inner Joins	MarkLogic 	1
+Database Capabilities	Intersect	MarkLogic 	1
+Database Capabilities	Common Table Expressions	MarkLogic 	0
+Database Capabilities	Union	MarkLogic 	0
+Database Capabilities	Parallel Query	MarkLogic 	1
+Database Capabilities	Blobs and Clobs	MarkLogic 	0
+Database Capabilities	Outer Joins	XtraBuild Designer	0
+Database Capabilities	Merge Joins	XtraBuild Designer	0
+Database Capabilities	Except	XtraBuild Designer	0
+Database Capabilities	Inner Selects	XtraBuild Designer	0
+Database Capabilities	Inner Joins	XtraBuild Designer	0
+Database Capabilities	Intersect	XtraBuild Designer	0
+Database Capabilities	Common Table Expressions	XtraBuild Designer	0
+Database Capabilities	Union	XtraBuild Designer	0
+Database Capabilities	Parallel Query	XtraBuild Designer	0
+Database Capabilities	Blobs and Clobs	XtraBuild Designer	0
+Database Capabilities	Outer Joins	ITTIA DB SQL	1
+Database Capabilities	Merge Joins	ITTIA DB SQL	0
+Database Capabilities	Except	ITTIA DB SQL	1
+Database Capabilities	Inner Selects	ITTIA DB SQL	0
+Database Capabilities	Inner Joins	ITTIA DB SQL	1
+Database Capabilities	Intersect	ITTIA DB SQL	1
+Database Capabilities	Common Table Expressions	ITTIA DB SQL	0
+Database Capabilities	Union	ITTIA DB SQL	1
+Database Capabilities	Parallel Query	ITTIA DB SQL	0
+Database Capabilities	Blobs and Clobs	ITTIA DB SQL	1
+Tables and Views	Temporary Table	MaxDB	1
+Tables and Views	Materialized Views	MaxDB	0
+Tables and Views	Unknown	MaxDB	0
+Tables and Views	None	MaxDB	0
+Tables and Views	Temporary Table	OpenBase SQL	1
+Tables and Views	Materialized Views	OpenBase SQL	1
+Tables and Views	Unknown	OpenBase SQL	0
+Tables and Views	None	OpenBase SQL	0
+Tables and Views	Temporary Table	Postgres Standard Edition 	1
+Tables and Views	Materialized Views	Postgres Standard Edition 	0
+Tables and Views	Unknown	Postgres Standard Edition 	0
+Tables and Views	None	Postgres Standard Edition 	0
+Tables and Views	Temporary Table	R:Base	1
+Tables and Views	Materialized Views	R:Base	0
+Tables and Views	Unknown	R:Base	0
+Tables and Views	None	R:Base	0
+Tables and Views	Temporary Table	RDM Server	1
+Tables and Views	Materialized Views	RDM Server	0
+Tables and Views	Unknown	RDM Server	0
+Tables and Views	None	RDM Server	0
+Tables and Views	Temporary Table	ScimoreDB	0
+Tables and Views	Materialized Views	ScimoreDB	0
+Tables and Views	Unknown	ScimoreDB	0
+Tables and Views	None	ScimoreDB	1
+Tables and Views	Temporary Table	SQLBase	0
+Tables and Views	Materialized Views	SQLBase	0
+Tables and Views	Unknown	SQLBase	0
+Tables and Views	None	SQLBase	0
+Tables and Views	Temporary Table	MarkLogic 	0
+Tables and Views	Materialized Views	MarkLogic 	0
+Tables and Views	Unknown	MarkLogic 	1
+Tables and Views	None	MarkLogic 	0
+Tables and Views	Temporary Table	XtraBuild Designer	0
+Tables and Views	Materialized Views	XtraBuild Designer	1
+Tables and Views	Unknown	XtraBuild Designer	1
+Tables and Views	None	XtraBuild Designer	0
+Tables and Views	Temporary Table	ITTIA DB SQL	0
+Tables and Views	Materialized Views	ITTIA DB SQL	0
+Tables and Views	Unknown	ITTIA DB SQL	0
+Tables and Views	None	ITTIA DB SQL	1
+Features	XML Format Support	Drizzle	0
+Features	Templates	Drizzle	0
+Features	Network Protocols Supported	Drizzle	0
+Features	Archive Storage Engines	Drizzle	0
+Features	Transactions	Drizzle	1
+Features	Parallel Processing	Drizzle	0
+Features	Integrated Storage Manager	Drizzle	0
+Features	Multiple Data Access Command Sets	Drizzle	0
+Features	Highly Scalable	Drizzle	1
+Features	High Availability	Drizzle	0
+Features	Convert from Old Relational Databases	Drizzle	0
+Features	SQL Interpreter	Drizzle	0
+Features	Referential Integrity	Drizzle	1
+Features	Multi-Core Support	Drizzle	1
+Features	Java Support	Drizzle	0
+Features	Compression of Data	Drizzle	0
+Features	Backup	Drizzle	0
+Features	Unicode	Drizzle	1
+Features	Multiple Threads	Drizzle	0
+Features	Import Data	Drizzle	0
+Features	Extensibility	Drizzle	0
+Features	Encryption of Data	Drizzle	0
+Features	Export Data	Drizzle	0
+Features	ACID	Drizzle	1
+Features	Real Time Access to Database	Drizzle	0
+Features	Internet Protocol Support	Drizzle	0
+Features	Database Imports	Drizzle	0
+Features	Custom Functions	Drizzle	0
+Features	XML Format Support	FrontBase	0
+Features	Templates	FrontBase	0
+Features	Network Protocols Supported	FrontBase	0
+Features	Archive Storage Engines	FrontBase	0
+Features	Transactions	FrontBase	1
+Features	Parallel Processing	FrontBase	0
+Features	Integrated Storage Manager	FrontBase	0
+Features	Multiple Data Access Command Sets	FrontBase	0
+Features	Highly Scalable	FrontBase	1
+Features	High Availability	FrontBase	0
+Features	Convert from Old Relational Databases	FrontBase	0
+Features	SQL Interpreter	FrontBase	0
+Features	Referential Integrity	FrontBase	0
+Features	Multi-Core Support	FrontBase	0
+Features	Java Support	FrontBase	0
+Features	Compression of Data	FrontBase	0
+Features	Backup	FrontBase	1
+Features	Unicode	FrontBase	1
+Features	Multiple Threads	FrontBase	0
+Features	Import Data	FrontBase	1
+Features	Extensibility	FrontBase	0
+Features	Encryption of Data	FrontBase	1
+Features	Export Data	FrontBase	0
+Features	ACID	FrontBase	0
+Features	Real Time Access to Database	FrontBase	0
+Features	Internet Protocol Support	FrontBase	0
+Features	Database Imports	FrontBase	0
+Features	Custom Functions	FrontBase	0
+Features	XML Format Support	MonetDB	1
+Features	Templates	MonetDB	0
+Features	Network Protocols Supported	MonetDB	0
+Features	Archive Storage Engines	MonetDB	0
+Features	Transactions	MonetDB	1
+Features	Parallel Processing	MonetDB	0
+Features	Integrated Storage Manager	MonetDB	1
+Features	Multiple Data Access Command Sets	MonetDB	0
+Features	Highly Scalable	MonetDB	0
+Features	High Availability	MonetDB	0
+Features	Convert from Old Relational Databases	MonetDB	0
+Features	SQL Interpreter	MonetDB	1
+Features	Referential Integrity	MonetDB	1
+Features	Multi-Core Support	MonetDB	0
+Features	Java Support	MonetDB	1
+Features	Compression of Data	MonetDB	0
+Features	Backup	MonetDB	0
+Features	Unicode	MonetDB	1
+Features	Multiple Threads	MonetDB	0
+Features	Import Data	MonetDB	0
+Features	Extensibility	MonetDB	0
+Features	Encryption of Data	MonetDB	0
+Features	Export Data	MonetDB	0
+Features	ACID	MonetDB	1
+Features	Real Time Access to Database	MonetDB	0
+Features	Internet Protocol Support	MonetDB	0
+Features	Database Imports	MonetDB	0
+Features	Custom Functions	MonetDB	0
+Features	XML Format Support	mSQL	0
+Features	Templates	mSQL	0
+Features	Network Protocols Supported	mSQL	0
+Features	Archive Storage Engines	mSQL	1
+Features	Transactions	mSQL	1
+Features	Parallel Processing	mSQL	0
+Features	Integrated Storage Manager	mSQL	0
+Features	Multiple Data Access Command Sets	mSQL	1
+Features	Highly Scalable	mSQL	0
+Features	High Availability	mSQL	0
+Features	Convert from Old Relational Databases	mSQL	0
+Features	SQL Interpreter	mSQL	0
+Features	Referential Integrity	mSQL	1
+Features	Multi-Core Support	mSQL	1
+Features	Java Support	mSQL	0
+Features	Compression of Data	mSQL	0
+Features	Backup	mSQL	0
+Features	Unicode	mSQL	1
+Features	Multiple Threads	mSQL	0
+Features	Import Data	mSQL	1
+Features	Extensibility	mSQL	0
+Features	Encryption of Data	mSQL	0
+Features	Export Data	mSQL	1
+Features	ACID	mSQL	0
+Features	Real Time Access to Database	mSQL	0
+Features	Internet Protocol Support	mSQL	0
+Features	Database Imports	mSQL	0
+Features	Custom Functions	mSQL	0
+Features	XML Format Support	RDM Embedded	1
+Features	Templates	RDM Embedded	0
+Features	Network Protocols Supported	RDM Embedded	0
+Features	Archive Storage Engines	RDM Embedded	0
+Features	Transactions	RDM Embedded	1
+Features	Parallel Processing	RDM Embedded	0
+Features	Integrated Storage Manager	RDM Embedded	0
+Features	Multiple Data Access Command Sets	RDM Embedded	0
+Features	Highly Scalable	RDM Embedded	0
+Features	High Availability	RDM Embedded	0
+Features	Convert from Old Relational Databases	RDM Embedded	0
+Features	SQL Interpreter	RDM Embedded	0
+Features	Referential Integrity	RDM Embedded	1
+Features	Multi-Core Support	RDM Embedded	1
+Features	Java Support	RDM Embedded	0
+Features	Compression of Data	RDM Embedded	0
+Features	Backup	RDM Embedded	1
+Features	Unicode	RDM Embedded	1
+Features	Multiple Threads	RDM Embedded	0
+Features	Import Data	RDM Embedded	0
+Features	Extensibility	RDM Embedded	0
+Features	Encryption of Data	RDM Embedded	0
+Features	Export Data	RDM Embedded	0
+Features	ACID	RDM Embedded	1
+Features	Real Time Access to Database	RDM Embedded	0
+Features	Internet Protocol Support	RDM Embedded	0
+Features	Database Imports	RDM Embedded	0
+Features	Custom Functions	RDM Embedded	0
+Features	XML Format Support	AllegroGraph	1
+Features	Templates	AllegroGraph	1
+Features	Network Protocols Supported	AllegroGraph	1
+Features	Archive Storage Engines	AllegroGraph	0
+Features	Transactions	AllegroGraph	1
+Features	Parallel Processing	AllegroGraph	1
+Features	Integrated Storage Manager	AllegroGraph	0
+Features	Multiple Data Access Command Sets	AllegroGraph	0
+Features	Highly Scalable	AllegroGraph	1
+Features	High Availability	AllegroGraph	1
+Features	Convert from Old Relational Databases	AllegroGraph	1
+Features	SQL Interpreter	AllegroGraph	0
+Features	Referential Integrity	AllegroGraph	0
+Features	Multi-Core Support	AllegroGraph	1
+Features	Java Support	AllegroGraph	1
+Features	Compression of Data	AllegroGraph	1
+Features	Backup	AllegroGraph	1
+Features	Unicode	AllegroGraph	1
+Features	Multiple Threads	AllegroGraph	1
+Features	Import Data	AllegroGraph	1
+Features	Extensibility	AllegroGraph	1
+Features	Encryption of Data	AllegroGraph	0
+Features	Export Data	AllegroGraph	1
+Features	ACID	AllegroGraph	1
+Features	Real Time Access to Database	AllegroGraph	1
+Features	Internet Protocol Support	AllegroGraph	1
+Features	Database Imports	AllegroGraph	1
+Features	Custom Functions	AllegroGraph	1
+Features	XML Format Support	dbForge Studio for Oracle	1
+Features	Templates	dbForge Studio for Oracle	0
+Features	Network Protocols Supported	dbForge Studio for Oracle	0
+Features	Archive Storage Engines	dbForge Studio for Oracle	1
+Features	Transactions	dbForge Studio for Oracle	0
+Features	Parallel Processing	dbForge Studio for Oracle	0
+Features	Integrated Storage Manager	dbForge Studio for Oracle	0
+Features	Multiple Data Access Command Sets	dbForge Studio for Oracle	0
+Features	Highly Scalable	dbForge Studio for Oracle	0
+Features	High Availability	dbForge Studio for Oracle	0
+Features	Convert from Old Relational Databases	dbForge Studio for Oracle	0
+Features	SQL Interpreter	dbForge Studio for Oracle	0
+Features	Referential Integrity	dbForge Studio for Oracle	0
+Features	Multi-Core Support	dbForge Studio for Oracle	0
+Features	Java Support	dbForge Studio for Oracle	0
+Features	Compression of Data	dbForge Studio for Oracle	0
+Features	Backup	dbForge Studio for Oracle	0
+Features	Unicode	dbForge Studio for Oracle	1
+Features	Multiple Threads	dbForge Studio for Oracle	0
+Features	Import Data	dbForge Studio for Oracle	1
+Features	Extensibility	dbForge Studio for Oracle	0
+Features	Encryption of Data	dbForge Studio for Oracle	0
+Features	Export Data	dbForge Studio for Oracle	1
+Features	ACID	dbForge Studio for Oracle	1
+Features	Real Time Access to Database	dbForge Studio for Oracle	0
+Features	Internet Protocol Support	dbForge Studio for Oracle	0
+Features	Database Imports	dbForge Studio for Oracle	1
+Features	Custom Functions	dbForge Studio for Oracle	0
+Features	XML Format Support	Invantive Query Tool	1
+Features	Templates	Invantive Query Tool	1
+Features	Network Protocols Supported	Invantive Query Tool	0
+Features	Archive Storage Engines	Invantive Query Tool	0
+Features	Transactions	Invantive Query Tool	0
+Features	Parallel Processing	Invantive Query Tool	0
+Features	Integrated Storage Manager	Invantive Query Tool	0
+Features	Multiple Data Access Command Sets	Invantive Query Tool	0
+Features	Highly Scalable	Invantive Query Tool	0
+Features	High Availability	Invantive Query Tool	0
+Features	Convert from Old Relational Databases	Invantive Query Tool	0
+Features	SQL Interpreter	Invantive Query Tool	0
+Features	Referential Integrity	Invantive Query Tool	0
+Features	Multi-Core Support	Invantive Query Tool	0
+Features	Java Support	Invantive Query Tool	0
+Features	Compression of Data	Invantive Query Tool	0
+Features	Backup	Invantive Query Tool	0
+Features	Unicode	Invantive Query Tool	0
+Features	Multiple Threads	Invantive Query Tool	0
+Features	Import Data	Invantive Query Tool	1
+Features	Extensibility	Invantive Query Tool	0
+Features	Encryption of Data	Invantive Query Tool	0
+Features	Export Data	Invantive Query Tool	1
+Features	ACID	Invantive Query Tool	0
+Features	Real Time Access to Database	Invantive Query Tool	1
+Features	Internet Protocol Support	Invantive Query Tool	0
+Features	Database Imports	Invantive Query Tool	0
+Features	Custom Functions	Invantive Query Tool	0
+Features	XML Format Support	Full Convert	0
+Features	Templates	Full Convert	0
+Features	Network Protocols Supported	Full Convert	0
+Features	Archive Storage Engines	Full Convert	0
+Features	Transactions	Full Convert	0
+Features	Parallel Processing	Full Convert	0
+Features	Integrated Storage Manager	Full Convert	0
+Features	Multiple Data Access Command Sets	Full Convert	0
+Features	Highly Scalable	Full Convert	0
+Features	High Availability	Full Convert	0
+Features	Convert from Old Relational Databases	Full Convert	0
+Features	SQL Interpreter	Full Convert	0
+Features	Referential Integrity	Full Convert	0
+Features	Multi-Core Support	Full Convert	0
+Features	Java Support	Full Convert	0
+Features	Compression of Data	Full Convert	0
+Features	Backup	Full Convert	0
+Features	Unicode	Full Convert	0
+Features	Multiple Threads	Full Convert	0
+Features	Import Data	Full Convert	0
+Features	Extensibility	Full Convert	0
+Features	Encryption of Data	Full Convert	0
+Features	Export Data	Full Convert	0
+Features	ACID	Full Convert	0
+Features	Real Time Access to Database	Full Convert	0
+Features	Internet Protocol Support	Full Convert	0
+Features	Database Imports	Full Convert	0
+Features	Custom Functions	Full Convert	0
+Indexes	Spatial	Drizzle	0
+Indexes	Bitmap	Drizzle	0
+Indexes	Hash	Drizzle	0
+Indexes	Partial	Drizzle	0
+Indexes	Unknown	Drizzle	0
+Indexes	Full-text	Drizzle	1
+Indexes	Reverse	Drizzle	0
+Indexes	Expression	Drizzle	0
+Indexes	Spatial	FrontBase	0
+Indexes	Bitmap	FrontBase	0
+Indexes	Hash	FrontBase	0
+Indexes	Partial	FrontBase	0
+Indexes	Unknown	FrontBase	0
+Indexes	Full-text	FrontBase	1
+Indexes	Reverse	FrontBase	0
+Indexes	Expression	FrontBase	1
+Indexes	Spatial	MonetDB	0
+Indexes	Bitmap	MonetDB	1
+Indexes	Hash	MonetDB	1
+Indexes	Partial	MonetDB	0
+Indexes	Unknown	MonetDB	0
+Indexes	Full-text	MonetDB	0
+Indexes	Reverse	MonetDB	0
+Indexes	Expression	MonetDB	0
+Indexes	Spatial	mSQL	0
+Indexes	Bitmap	mSQL	0
+Indexes	Hash	mSQL	0
+Indexes	Partial	mSQL	0
+Indexes	Unknown	mSQL	0
+Indexes	Full-text	mSQL	1
+Indexes	Reverse	mSQL	0
+Indexes	Expression	mSQL	1
+Indexes	Spatial	RDM Embedded	0
+Indexes	Bitmap	RDM Embedded	0
+Indexes	Hash	RDM Embedded	1
+Indexes	Partial	RDM Embedded	1
+Indexes	Unknown	RDM Embedded	0
+Indexes	Full-text	RDM Embedded	0
+Indexes	Reverse	RDM Embedded	1
+Indexes	Expression	RDM Embedded	0
+Indexes	Spatial	AllegroGraph	1
+Indexes	Bitmap	AllegroGraph	0
+Indexes	Hash	AllegroGraph	0
+Indexes	Partial	AllegroGraph	0
+Indexes	Unknown	AllegroGraph	0
+Indexes	Full-text	AllegroGraph	1
+Indexes	Reverse	AllegroGraph	0
+Indexes	Expression	AllegroGraph	0
+Indexes	Spatial	dbForge Studio for Oracle	0
+Indexes	Bitmap	dbForge Studio for Oracle	0
+Indexes	Hash	dbForge Studio for Oracle	0
+Indexes	Partial	dbForge Studio for Oracle	0
+Indexes	Unknown	dbForge Studio for Oracle	0
+Indexes	Full-text	dbForge Studio for Oracle	1
+Indexes	Reverse	dbForge Studio for Oracle	0
+Indexes	Expression	dbForge Studio for Oracle	0
+Indexes	Spatial	Invantive Query Tool	0
+Indexes	Bitmap	Invantive Query Tool	0
+Indexes	Hash	Invantive Query Tool	0
+Indexes	Partial	Invantive Query Tool	0
+Indexes	Unknown	Invantive Query Tool	1
+Indexes	Full-text	Invantive Query Tool	0
+Indexes	Reverse	Invantive Query Tool	0
+Indexes	Expression	Invantive Query Tool	0
+Indexes	Spatial	Full Convert	0
+Indexes	Bitmap	Full Convert	0
+Indexes	Hash	Full Convert	0
+Indexes	Partial	Full Convert	0
+Indexes	Unknown	Full Convert	0
+Indexes	Full-text	Full Convert	0
+Indexes	Reverse	Full Convert	0
+Indexes	Expression	Full Convert	0
+Other Objects	Data Domain	Drizzle	1
+Other Objects	Trigger	Drizzle	1
+Other Objects	Procedure	Drizzle	1
+Other Objects	Function	Drizzle	1
+Other Objects	Cursor	Drizzle	1
+Other Objects	External Routine	Drizzle	1
+Other Objects	Unknown	Drizzle	0
+Other Objects	Data Domain	FrontBase	0
+Other Objects	Trigger	FrontBase	0
+Other Objects	Procedure	FrontBase	1
+Other Objects	Function	FrontBase	1
+Other Objects	Cursor	FrontBase	0
+Other Objects	External Routine	FrontBase	0
+Other Objects	Unknown	FrontBase	0
+Other Objects	Data Domain	MonetDB	0
+Other Objects	Trigger	MonetDB	1
+Other Objects	Procedure	MonetDB	1
+Other Objects	Function	MonetDB	1
+Other Objects	Cursor	MonetDB	0
+Other Objects	External Routine	MonetDB	1
+Other Objects	Unknown	MonetDB	0
+Other Objects	Data Domain	mSQL	0
+Other Objects	Trigger	mSQL	0
+Other Objects	Procedure	mSQL	0
+Other Objects	Function	mSQL	1
+Other Objects	Cursor	mSQL	1
+Other Objects	External Routine	mSQL	0
+Other Objects	Unknown	mSQL	0
+Other Objects	Data Domain	RDM Embedded	0
+Other Objects	Trigger	RDM Embedded	0
+Other Objects	Procedure	RDM Embedded	1
+Other Objects	Function	RDM Embedded	0
+Other Objects	Cursor	RDM Embedded	1
+Other Objects	External Routine	RDM Embedded	1
+Other Objects	Unknown	RDM Embedded	0
+Other Objects	Data Domain	AllegroGraph	0
+Other Objects	Trigger	AllegroGraph	1
+Other Objects	Procedure	AllegroGraph	1
+Other Objects	Function	AllegroGraph	1
+Other Objects	Cursor	AllegroGraph	1
+Other Objects	External Routine	AllegroGraph	1
+Other Objects	Unknown	AllegroGraph	0
+Other Objects	Data Domain	dbForge Studio for Oracle	0
+Other Objects	Trigger	dbForge Studio for Oracle	1
+Other Objects	Procedure	dbForge Studio for Oracle	1
+Other Objects	Function	dbForge Studio for Oracle	1
+Other Objects	Cursor	dbForge Studio for Oracle	0
+Other Objects	External Routine	dbForge Studio for Oracle	0
+Other Objects	Unknown	dbForge Studio for Oracle	0
+Other Objects	Data Domain	Invantive Query Tool	0
+Other Objects	Trigger	Invantive Query Tool	0
+Other Objects	Procedure	Invantive Query Tool	0
+Other Objects	Function	Invantive Query Tool	0
+Other Objects	Cursor	Invantive Query Tool	0
+Other Objects	External Routine	Invantive Query Tool	0
+Other Objects	Unknown	Invantive Query Tool	1
+Other Objects	Data Domain	Full Convert	0
+Other Objects	Trigger	Full Convert	0
+Other Objects	Procedure	Full Convert	0
+Other Objects	Function	Full Convert	0
+Other Objects	Cursor	Full Convert	0
+Other Objects	External Routine	Full Convert	0
+Other Objects	Unknown	Full Convert	0
+Partitioning	Composite (Range + Hash)	Drizzle	0
+Partitioning	Hash	Drizzle	0
+Partitioning	Range	Drizzle	0
+Partitioning	Unknown	Drizzle	1
+Partitioning	Composite (Range + Hash)	FrontBase	0
+Partitioning	Hash	FrontBase	0
+Partitioning	Range	FrontBase	0
+Partitioning	Unknown	FrontBase	1
+Partitioning	Composite (Range + Hash)	MonetDB	0
+Partitioning	Hash	MonetDB	0
+Partitioning	Range	MonetDB	0
+Partitioning	Unknown	MonetDB	0
+Partitioning	Composite (Range + Hash)	mSQL	0
+Partitioning	Hash	mSQL	0
+Partitioning	Range	mSQL	1
+Partitioning	Unknown	mSQL	0
+Partitioning	Composite (Range + Hash)	RDM Embedded	1
+Partitioning	Hash	RDM Embedded	1
+Partitioning	Range	RDM Embedded	1
+Partitioning	Unknown	RDM Embedded	0
+Partitioning	Composite (Range + Hash)	AllegroGraph	0
+Partitioning	Hash	AllegroGraph	0
+Partitioning	Range	AllegroGraph	1
+Partitioning	Unknown	AllegroGraph	0
+Partitioning	Composite (Range + Hash)	dbForge Studio for Oracle	0
+Partitioning	Hash	dbForge Studio for Oracle	0
+Partitioning	Range	dbForge Studio for Oracle	0
+Partitioning	Unknown	dbForge Studio for Oracle	1
+Partitioning	Composite (Range + Hash)	Invantive Query Tool	0
+Partitioning	Hash	Invantive Query Tool	0
+Partitioning	Range	Invantive Query Tool	0
+Partitioning	Unknown	Invantive Query Tool	1
+Partitioning	Composite (Range + Hash)	Full Convert	0
+Partitioning	Hash	Full Convert	0
+Partitioning	Range	Full Convert	0
+Partitioning	Unknown	Full Convert	0
+Access Control	Password Complexity Rules	Drizzle	0
+Access Control	Run Unprivileged	Drizzle	0
+Access Control	Brute-force Protection	Drizzle	0
+Access Control	Audit	Drizzle	0
+Access Control	Security Certification	Drizzle	0
+Access Control	Unknown	Drizzle	0
+Access Control	Native Network Encryption	Drizzle	1
+Access Control	Resource Limit	Drizzle	0
+Access Control	Password Complexity Rules	FrontBase	0
+Access Control	Run Unprivileged	FrontBase	0
+Access Control	Brute-force Protection	FrontBase	0
+Access Control	Audit	FrontBase	0
+Access Control	Security Certification	FrontBase	0
+Access Control	Unknown	FrontBase	0
+Access Control	Native Network Encryption	FrontBase	0
+Access Control	Resource Limit	FrontBase	1
+Access Control	Password Complexity Rules	MonetDB	0
+Access Control	Run Unprivileged	MonetDB	0
+Access Control	Brute-force Protection	MonetDB	0
+Access Control	Audit	MonetDB	0
+Access Control	Security Certification	MonetDB	0
+Access Control	Unknown	MonetDB	0
+Access Control	Native Network Encryption	MonetDB	0
+Access Control	Resource Limit	MonetDB	0
+Access Control	Password Complexity Rules	mSQL	0
+Access Control	Run Unprivileged	mSQL	0
+Access Control	Brute-force Protection	mSQL	0
+Access Control	Audit	mSQL	1
+Access Control	Security Certification	mSQL	0
+Access Control	Unknown	mSQL	0
+Access Control	Native Network Encryption	mSQL	0
+Access Control	Resource Limit	mSQL	0
+Access Control	Password Complexity Rules	RDM Embedded	0
+Access Control	Run Unprivileged	RDM Embedded	1
+Access Control	Brute-force Protection	RDM Embedded	0
+Access Control	Audit	RDM Embedded	0
+Access Control	Security Certification	RDM Embedded	0
+Access Control	Unknown	RDM Embedded	0
+Access Control	Native Network Encryption	RDM Embedded	0
+Access Control	Resource Limit	RDM Embedded	0
+Access Control	Password Complexity Rules	AllegroGraph	1
+Access Control	Run Unprivileged	AllegroGraph	0
+Access Control	Brute-force Protection	AllegroGraph	1
+Access Control	Audit	AllegroGraph	0
+Access Control	Security Certification	AllegroGraph	1
+Access Control	Unknown	AllegroGraph	0
+Access Control	Native Network Encryption	AllegroGraph	1
+Access Control	Resource Limit	AllegroGraph	0
+Access Control	Password Complexity Rules	dbForge Studio for Oracle	0
+Access Control	Run Unprivileged	dbForge Studio for Oracle	0
+Access Control	Brute-force Protection	dbForge Studio for Oracle	0
+Access Control	Audit	dbForge Studio for Oracle	0
+Access Control	Security Certification	dbForge Studio for Oracle	0
+Access Control	Unknown	dbForge Studio for Oracle	0
+Access Control	Native Network Encryption	dbForge Studio for Oracle	1
+Access Control	Resource Limit	dbForge Studio for Oracle	0
+Access Control	Password Complexity Rules	Invantive Query Tool	0
+Access Control	Run Unprivileged	Invantive Query Tool	0
+Access Control	Brute-force Protection	Invantive Query Tool	0
+Access Control	Audit	Invantive Query Tool	0
+Access Control	Security Certification	Invantive Query Tool	0
+Access Control	Unknown	Invantive Query Tool	1
+Access Control	Native Network Encryption	Invantive Query Tool	0
+Access Control	Resource Limit	Invantive Query Tool	0
+Access Control	Password Complexity Rules	Full Convert	0
+Access Control	Run Unprivileged	Full Convert	0
+Access Control	Brute-force Protection	Full Convert	0
+Access Control	Audit	Full Convert	0
+Access Control	Security Certification	Full Convert	0
+Access Control	Unknown	Full Convert	0
+Access Control	Native Network Encryption	Full Convert	0
+Access Control	Resource Limit	Full Convert	0
+Database Capabilities	Outer Joins	Drizzle	1
+Database Capabilities	Merge Joins	Drizzle	0
+Database Capabilities	Except	Drizzle	0
+Database Capabilities	Inner Selects	Drizzle	1
+Database Capabilities	Inner Joins	Drizzle	1
+Database Capabilities	Windowing Functions	Drizzle	0
+Database Capabilities	Unknown	Drizzle	0
+Database Capabilities	Intersect	Drizzle	0
+Database Capabilities	Common Table Expressions	Drizzle	0
+Database Capabilities	Union	Drizzle	1
+Database Capabilities	Parallel Query	Drizzle	0
+Database Capabilities	Blobs and Clobs	Drizzle	1
+Database Capabilities	Outer Joins	FrontBase	1
+Database Capabilities	Merge Joins	FrontBase	0
+Database Capabilities	Except	FrontBase	0
+Database Capabilities	Inner Selects	FrontBase	0
+Database Capabilities	Inner Joins	FrontBase	1
+Database Capabilities	Windowing Functions	FrontBase	0
+Database Capabilities	Unknown	FrontBase	0
+Database Capabilities	Intersect	FrontBase	0
+Database Capabilities	Common Table Expressions	FrontBase	0
+Database Capabilities	Union	FrontBase	1
+Database Capabilities	Parallel Query	FrontBase	0
+Database Capabilities	Blobs and Clobs	FrontBase	1
+Database Capabilities	Outer Joins	MonetDB	1
+Database Capabilities	Merge Joins	MonetDB	1
+Database Capabilities	Except	MonetDB	1
+Database Capabilities	Inner Selects	MonetDB	1
+Database Capabilities	Inner Joins	MonetDB	1
+Database Capabilities	Windowing Functions	MonetDB	1
+Database Capabilities	Unknown	MonetDB	1
+Database Capabilities	Intersect	MonetDB	1
+Database Capabilities	Common Table Expressions	MonetDB	1
+Database Capabilities	Union	MonetDB	1
+Database Capabilities	Parallel Query	MonetDB	1
+Database Capabilities	Blobs and Clobs	MonetDB	1
+Database Capabilities	Outer Joins	mSQL	1
+Database Capabilities	Merge Joins	mSQL	1
+Database Capabilities	Except	mSQL	0
+Database Capabilities	Inner Selects	mSQL	0
+Database Capabilities	Inner Joins	mSQL	1
+Database Capabilities	Windowing Functions	mSQL	0
+Database Capabilities	Unknown	mSQL	0
+Database Capabilities	Intersect	mSQL	0
+Database Capabilities	Common Table Expressions	mSQL	0
+Database Capabilities	Union	mSQL	0
+Database Capabilities	Parallel Query	mSQL	0
+Database Capabilities	Blobs and Clobs	mSQL	0
+Database Capabilities	Outer Joins	RDM Embedded	1
+Database Capabilities	Merge Joins	RDM Embedded	0
+Database Capabilities	Except	RDM Embedded	0
+Database Capabilities	Inner Selects	RDM Embedded	0
+Database Capabilities	Inner Joins	RDM Embedded	1
+Database Capabilities	Windowing Functions	RDM Embedded	0
+Database Capabilities	Unknown	RDM Embedded	0
+Database Capabilities	Intersect	RDM Embedded	0
+Database Capabilities	Common Table Expressions	RDM Embedded	0
+Database Capabilities	Union	RDM Embedded	0
+Database Capabilities	Parallel Query	RDM Embedded	0
+Database Capabilities	Blobs and Clobs	RDM Embedded	1
+Database Capabilities	Outer Joins	AllegroGraph	1
+Database Capabilities	Merge Joins	AllegroGraph	1
+Database Capabilities	Except	AllegroGraph	0
+Database Capabilities	Inner Selects	AllegroGraph	1
+Database Capabilities	Inner Joins	AllegroGraph	1
+Database Capabilities	Windowing Functions	AllegroGraph	0
+Database Capabilities	Unknown	AllegroGraph	0
+Database Capabilities	Intersect	AllegroGraph	1
+Database Capabilities	Common Table Expressions	AllegroGraph	0
+Database Capabilities	Union	AllegroGraph	1
+Database Capabilities	Parallel Query	AllegroGraph	1
+Database Capabilities	Blobs and Clobs	AllegroGraph	1
+Database Capabilities	Outer Joins	dbForge Studio for Oracle	1
+Database Capabilities	Merge Joins	dbForge Studio for Oracle	0
+Database Capabilities	Except	dbForge Studio for Oracle	0
+Database Capabilities	Inner Selects	dbForge Studio for Oracle	0
+Database Capabilities	Inner Joins	dbForge Studio for Oracle	1
+Database Capabilities	Windowing Functions	dbForge Studio for Oracle	0
+Database Capabilities	Unknown	dbForge Studio for Oracle	0
+Database Capabilities	Intersect	dbForge Studio for Oracle	0
+Database Capabilities	Common Table Expressions	dbForge Studio for Oracle	0
+Database Capabilities	Union	dbForge Studio for Oracle	0
+Database Capabilities	Parallel Query	dbForge Studio for Oracle	0
+Database Capabilities	Blobs and Clobs	dbForge Studio for Oracle	0
+Database Capabilities	Outer Joins	Invantive Query Tool	0
+Database Capabilities	Merge Joins	Invantive Query Tool	0
+Database Capabilities	Except	Invantive Query Tool	0
+Database Capabilities	Inner Selects	Invantive Query Tool	0
+Database Capabilities	Inner Joins	Invantive Query Tool	0
+Database Capabilities	Windowing Functions	Invantive Query Tool	0
+Database Capabilities	Unknown	Invantive Query Tool	0
+Database Capabilities	Intersect	Invantive Query Tool	0
+Database Capabilities	Common Table Expressions	Invantive Query Tool	0
+Database Capabilities	Union	Invantive Query Tool	0
+Database Capabilities	Parallel Query	Invantive Query Tool	0
+Database Capabilities	Blobs and Clobs	Invantive Query Tool	0
+Database Capabilities	Outer Joins	Full Convert	0
+Database Capabilities	Merge Joins	Full Convert	0
+Database Capabilities	Except	Full Convert	0
+Database Capabilities	Inner Selects	Full Convert	0
+Database Capabilities	Inner Joins	Full Convert	0
+Database Capabilities	Windowing Functions	Full Convert	0
+Database Capabilities	Unknown	Full Convert	0
+Database Capabilities	Intersect	Full Convert	0
+Database Capabilities	Common Table Expressions	Full Convert	0
+Database Capabilities	Union	Full Convert	0
+Database Capabilities	Parallel Query	Full Convert	0
+Database Capabilities	Blobs and Clobs	Full Convert	0
+Tables and Views	Temporary Table	Drizzle	1
+Tables and Views	Unknown	Drizzle	0
+Tables and Views	Temporary Table	FrontBase	0
+Tables and Views	Unknown	FrontBase	1
+Tables and Views	Temporary Table	MonetDB	1
+Tables and Views	Unknown	MonetDB	0
+Tables and Views	Temporary Table	mSQL	1
+Tables and Views	Unknown	mSQL	0
+Tables and Views	Temporary Table	RDM Embedded	1
+Tables and Views	Unknown	RDM Embedded	0
+Tables and Views	Temporary Table	AllegroGraph	0
+Tables and Views	Unknown	AllegroGraph	1
+Tables and Views	Temporary Table	dbForge Studio for Oracle	0
+Tables and Views	Unknown	dbForge Studio for Oracle	1
+Tables and Views	Temporary Table	Invantive Query Tool	0
+Tables and Views	Unknown	Invantive Query Tool	0
+Tables and Views	Temporary Table	Full Convert	0
+Tables and Views	Unknown	Full Convert	0
